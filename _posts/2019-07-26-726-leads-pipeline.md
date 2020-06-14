@@ -1,0 +1,10 @@
+---
+title: 7月26日-leads pipeline
+image: http://localhost:4000/assets/images/romans.jpg
+layout: post
+categories: 外贸业务拓展
+tags: 外贸业务
+---
+
+外贸怎样拓展业务？怎样形成稳定的客户流量，可以参考如下流程：
+![]({{ site.baseurl }}/assets/images/pipeline.png)
