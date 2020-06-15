@@ -833,4 +833,8 @@ div.a2a_full_footer {display:none;}
 .has-menu-child:hover .sub-item {
   display: block;
 }
+@media screen and (max-width: 600px) {
+  .has-menu-child:hover .sub-item {position: relative;}
+  }
+}
  
