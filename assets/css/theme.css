@@ -834,8 +834,15 @@ div.a2a_full_footer {display:none;}
   display: block;
 }
 @media screen and (max-width: 600px) {
-  .has-menu-child:hover .sub-item {position: relative;}
-  }
+	.has-menu-child {
+    float: center;
+    overflow: hidden;
+    width: 100%;
+}
+  .has-menu-child:hover .sub-item {
+	  position: relative;
+	}
+  
   .sub-item a {
   float: none;
   color: black;
