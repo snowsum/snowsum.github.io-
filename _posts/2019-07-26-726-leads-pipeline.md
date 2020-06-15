@@ -1,6 +1,6 @@
 ---
 title: 7月26日-leads pipeline
-image: /assets/images/romans.jpg
+image: assets/images/romans.jpg
 layout: post
 categories: 外贸业务拓展
 tags: 外贸业务
