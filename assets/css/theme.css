@@ -803,4 +803,34 @@ div.a2a_full_footer {display:none;}
 		 height:280px !Important;
 	 }
  }
+
+/*custom*/
+.has-menu-child
+ {
+  float: left;
+  overflow: hidden;
+}
+.sub-item
+{
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+.sub-item a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+.sub-item a:hover {
+  background-color: #ddd;
+}
+.has-menu-child:hover .sub-item {
+  display: block;
+}
  
