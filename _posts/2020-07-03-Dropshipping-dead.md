@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Dropshipping dead in 2020: Challenge and Opturnities-(What others won't tell you)"
-author: Ray
-categories: [ Jekyll, tutorial ]
+categories: [ dropshipping, shopify ]
 image: assets/images/home.jpg
 tags: [sticky]
 ---
