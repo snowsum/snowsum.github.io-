@@ -21,20 +21,20 @@ plugins:
   
 authors:
     sal:
-      name:           Sal
-      site:           https://www.wowthemes.net
+      name:           Ray
+      site:           https://nichepik.com
       avatar:         assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      bio:            "Hi, I am Ray,From Nichepik and will help you scale your business safe and stable"
+      email:          info@promaxsourcing.com
+      twitter:        #
 
     jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
+      name:           Merry
+      site:           https://nichepik.com
       avatar:         assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      bio:            "Expert on global supply chain management, Grow your business world wide"
+      email:          info@promaxsourcing.com
+      twitter:        #
  
 # Defaults
 defaults:
@@ -44,9 +44,9 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
+      author: Ray
       avatar: assets/images/avatar1.jpg
-      categories: ""
+      categories: "Dropshipping"
       tags: ""
       
   # all pages
