@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  "Dropshipping dead in 2020: Challenge and Opturnities-(What others won't tell you)"
-categories: [ dropshipping, shopify ]
+categories: [ shopify ]
 image: assets/images/home.jpg
 tags: [sticky]
 ---
-# Dropshipping dead in 2020: Challenge and Opturnities-(What others won't tell you)
 Dropshipping is being pitched in the last 5 years as this amazing way to build a business that is perfect for newbies and that it's easy to get it off the ground and develop into this side hustle thing or a full-blown business in a span of a few months that generates substantial income (also with no or very little investment).
 
 Here's what kind of expenses you can expect, what possible profit margins are, some things that you need to do right in order to avoid common pitfalls, where a lot of people fail etc.
