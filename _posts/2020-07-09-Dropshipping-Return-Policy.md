@@ -252,9 +252,10 @@ For more information on how to redeem your online store credit, please go to Cus
 | Payment method used to make your Sephora.com purchase | If Sephora receives your new or gently used item within 30 days of purchase, the purchase price will be refunded to: | If Sephora receives your new or gently used item within 31 to 60 days of purchase, the purchase price will be refunded to: |
 |--|--|--|
 | Credit or debit card | Your credit or debit card used to make the purchase. | A Sephora store credit that can be used at Sephora stores but is not valid for use on Sephora.com.|
-|PayPal|Your PayPal account.|An online credit that can be used at Sephora.com but is not valid for use in Sephora stores.|
-|Klarna|Your Klarna account.|An online credit that can be used at Sephora.com but is not valid for use in Sephora stores.|
-|Sephora gift card, Sephora online store credit or JCPenney card*|An online store credit that can be used at Sephora.com but is not valid for use in Sephora stores.|An online store credit that can be used at Sephora.com but is not valid for use in Sephora stores.|
+|PayPal|A Sephora gift card.|A Sephora store credit that can be used at Sephora stores but is not valid for use on Sephora.com.|
+|Klarna|A Sephora gift card.|A Sephora store credit that can be used at Sephora stores but is not valid for use on Sephora.com.|
+|Sephora gift card|An online store credit that can be used at Sephora.com but is not valid for use in Sephora stores.|A Sephora store credit that can be used at Sephora stores but is not valid for use on Sephora.com.|
+|Sephora gift card, Sephora online store credit or JCPenney card*|An online store credit that can be used at Sephora.com but is not valid for use in Sephora stores.|A Sephora store credit that can be used at Sephora stores but is not valid for use on Sephora.com.|
 
 ### Return policy template 1
 
@@ -311,7 +312,7 @@ If you have any further question regarding your refund, please, don’t hesitate
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY2OTYyMTk0LC00NTY2Mjc0OTcsLTE3Mj
-I1MjE1OCwtMTE5NzczMjI4NSwtNTA5NDMxMzI5LC0xMDczMzE5
-MTQwLDIwNDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbOTEzNjIxNzgsLTQ1NjYyNzQ5NywtMTcyMj
+UyMTU4LC0xMTk3NzMyMjg1LC01MDk0MzEzMjksLTEwNzMzMTkx
+NDAsMjA0MDI5NzYyMl19
 -->
