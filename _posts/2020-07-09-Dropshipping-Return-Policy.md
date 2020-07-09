@@ -238,6 +238,10 @@ THIS POLICY IS EFFECTIVE FOR ALL PURCHASES MADE ON AND AFTER APRIL 9, 2020.
 Sephora.com purchases can be easily returned for FREE (no return shipping or handling fees) to any of our  [Sephora locations](https://www.sephora.com/happening/stores/sephora-near-me)  for fast processing or by mail if you use our pre-paid return shipping label (follow the return procedures described below). We regret that we are unable to refund your original shipping charges, if applicable, unless the return was a result of our error. Please allow three weeks for your return to be processed if sent by mail. You will receive an email confirmation once your return has been processed. Your financial institution may take longer to reflect the transaction.
 
 ♦ When you return your purchase to Sephora.com by mail, if your new or gently used product is received by Sephora within 60 days of purchase, you will receive the following refund:
+| Payment method used to make your Sephora.com purchase | If Sephora receives your new or gently used item within 30 days of purchase, the purchase price will be refunded to: | If Sephora receives your new or gently used item within 31 to 60 days of purchase, the purchase price will be refunded to: |
+|--|--|--|
+|  |  | |
+
 
 
 ### Return policy template 1
@@ -295,7 +299,7 @@ If you have any further question regarding your refund, please, don’t hesitate
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NTQ3Njc3NywtNDU2NjI3NDk3LC0xNz
-IyNTIxNTgsLTExOTc3MzIyODUsLTUwOTQzMTMyOSwtMTA3MzMx
-OTE0MCwyMDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbOTg4ODc5NTY1LC00NTY2Mjc0OTcsLTE3Mj
+I1MjE1OCwtMTE5NzczMjI4NSwtNTA5NDMxMzI5LC0xMDczMzE5
+MTQwLDIwNDAyOTc2MjJdfQ==
 -->
