@@ -199,6 +199,28 @@ Writing a clear return policy that feeds into a well-thought-out return and exch
 
 Below are some basic templates for a return policy that can be adapted to fit your business. Just replace the bolded text with your own policy and use the lists as a guide to ensure you don’t forget to include any important information:
 
+### Case 1-
+### RETURNS & EXCHANGES
+
+Last Updated: April 9, 2020
+
+>  [Temporary Extended Returns Policy Due to COVID-19](https://www.sephora.com/returns-exchanges#covid19)  
+>  [Returns Policy](https://www.sephora.com/returns-exchanges#Returns)  
+>  [Sephora.com Purchases](https://www.sephora.com/returns-exchanges#SephoraPurchases)  
+>  [Sephora.com Returns by Mail](https://www.sephora.com/returns-exchanges#ByMail)  
+>  [Sephora.com Returns to a Store Location](https://www.sephora.com/returns-exchanges#ByLocation)  
+>  [Gift Returns](https://www.sephora.com/returns-exchanges#gift)  
+>  [Sephora In-store Purchases](https://www.sephora.com/returns-exchanges#InstoreandJCP)  
+>  [Canadian and International Returns](https://www.sephora.com/returns-exchanges#canada)
+
+### Temporary Extended Returns Policy Due to COVID-19
+
+For product purchases made in-store on or after February 15, 2020, we will accept in-store returns, with receipt, within 30 days of re-opening. In-store purchases made on or after January 15, 2020 through February 14, 2020, with receipt, will be given 30 days of stores re-opening to return for store credit. To ease returns for online orders, we have adjusted our current 30-day return policy and increased it to 60 days to be returned to the original method of payment. Sephora reserves the right to revoke or revise the Policy at its sole discretion.
+
+♦ Sephora in-store purchases may be returned if the product is in new or gently used condition within 30 days following the store re-opening with a receipt or gift receipt at a store location for a refund in the same form of payment as your purchase was made. If a gift receipt is presented, you will receive a store credit in the form of a Sephora merchandise credit.
+
+♦ When you return your purchase to Sephora.com by mail, if your new or gently used product is received by Sephora within 60 days of purchase, you will receive the following refund:
+
 
 ### Return policy template 1
 
@@ -255,7 +277,7 @@ If you have any further question regarding your refund, please, don’t hesitate
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NjYyNzQ5NywtMTcyMjUyMTU4LC0xMT
-k3NzMyMjg1LC01MDk0MzEzMjksLTEwNzMzMTkxNDAsMjA0MDI5
-NzYyMl19
+eyJoaXN0b3J5IjpbNzcxMTQ3MDM5LC00NTY2Mjc0OTcsLTE3Mj
+I1MjE1OCwtMTE5NzczMjI4NSwtNTA5NDMxMzI5LC0xMDczMzE5
+MTQwLDIwNDAyOTc2MjJdfQ==
 -->
