@@ -468,10 +468,11 @@ Checks will no longer be accepted as payment for merchandise. However, checks wi
 #### How do you process my return if I paid with PayPal (U.S.)?
 If the full amount of your purchase was made with PayPal, your refund will be credited to the same PayPal account. If your PayPal purchase included a Nordstrom Note or Nordstrom Gift Card, your refund will be credited to your PayPal account in separate amounts. If your return is made in store, you'll receive your refund in the form of a Nordstrom Gift Card.
 
+## Case 3 - Asos
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEzMDQ0MjUsLTEyNDUxMzAyNjcsOTc4OT
-cxMTA5LC0xMzczMzQ0MzM5LC00NTY2Mjc0OTcsLTE3MjI1MjE1
-OCwtMTE5NzczMjI4NSwtNTA5NDMxMzI5LC0xMDczMzE5MTQwLD
-IwNDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbLTE5NTA3NTMzNTksLTEyNDUxMzAyNjcsOT
+c4OTcxMTA5LC0xMzczMzQ0MzM5LC00NTY2Mjc0OTcsLTE3MjI1
+MjE1OCwtMTE5NzczMjI4NSwtNTA5NDMxMzI5LC0xMDczMzE5MT
+QwLDIwNDAyOTc2MjJdfQ==
 -->
