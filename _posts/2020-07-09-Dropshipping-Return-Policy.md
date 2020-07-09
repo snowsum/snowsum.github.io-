@@ -469,15 +469,15 @@ Checks will no longer be accepted as payment for merchandise. However, checks wi
 If the full amount of your purchase was made with PayPal, your refund will be credited to the same PayPal account. If your PayPal purchase included a Nordstrom Note or Nordstrom Gift Card, your refund will be credited to your PayPal account in separate amounts. If your return is made in store, you'll receive your refund in the form of a Nordstrom Gift Card.
 
 ## Case 3 - Asos
-RETURNS & REFUNDS
+### RETURNS & REFUNDS
 
-# What is your Returns Policy?
+#### What is your Returns Policy?
 
 We want to make sure returns are as easy as possible to do, but if you need more information on our Returns Policy, how to returns or the process then scroll down.
 
-**Contents**
+#### Contents
 
--   [Returning an unwanted item?](https://www.asos.com/us/customer-care/returns-refunds/what-is-your-returns-policy/#1##1)
+-   [Returning an unwanted item?](1)
 -   [After that?](https://www.asos.com/us/customer-care/returns-refunds/what-is-your-returns-policy/#2##2)
 -   [What happens to my return if I ordered using Klarna?](https://www.asos.com/us/customer-care/returns-refunds/what-is-your-returns-policy/#3##3)
 -   [Original condition](https://www.asos.com/us/customer-care/returns-refunds/what-is-your-returns-policy/#4##4)
@@ -488,7 +488,7 @@ We want to make sure returns are as easy as possible to do, but if you need more
 -   [Returning a faulty or incorrect item?](https://www.asos.com/us/customer-care/returns-refunds/what-is-your-returns-policy/#9##9)
 -   [Returns have gone online!](https://www.asos.com/us/customer-care/returns-refunds/what-is-your-returns-policy/#10)
 
-[**Returning an unwanted item?**](https://www.asos.com/us/customer-care/returns-refunds/what-is-your-returns-policy/#1##1)
+#### Returning an unwanted item?
 
 We get it, sometimes something just doesn't work for you and you want your money back. As long as an item is still in its original condition, we accept returns for free, subject to the rules below, which includes rules around fair use. None of these rules affect your statutory rights.
 
@@ -551,8 +551,8 @@ If so, please contact the seller directly for return address and instructions.
 
 Haven't you heard? ASOS is going paperless! You'll no longer receive a paper returns slip with your order- instead, you can create your return through your ASOS account. At the moment you'll need to print a returns label if you want to return, but we're working on ways around this so watch this space! Click here for  [more information on how to return](https://www.asos.com/us/customer-care/returns-refunds/how-do-i-return-something-to-you-from-the-us/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMDc3MjQ4MywtMTk1MDc1MzM1OSwtMT
-I0NTEzMDI2Nyw5Nzg5NzExMDksLTEzNzMzNDQzMzksLTQ1NjYy
-NzQ5NywtMTcyMjUyMTU4LC0xMTk3NzMyMjg1LC01MDk0MzEzMj
-ksLTEwNzMzMTkxNDAsMjA0MDI5NzYyMl19
+eyJoaXN0b3J5IjpbLTExMzg4MzYyNDMsLTE5NTA3NTMzNTksLT
+EyNDUxMzAyNjcsOTc4OTcxMTA5LC0xMzczMzQ0MzM5LC00NTY2
+Mjc0OTcsLTE3MjI1MjE1OCwtMTE5NzczMjI4NSwtNTA5NDMxMz
+I5LC0xMDczMzE5MTQwLDIwNDAyOTc2MjJdfQ==
 -->
