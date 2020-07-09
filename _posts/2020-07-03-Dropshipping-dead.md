@@ -2,7 +2,7 @@
 layout: post
 title:  "Dropshipping dead in 2020: Challenge and Opturnities-(What others won't tell you)"
 categories: [ shopify ]
-image: assets/images/home.jpg
+image: https://i.imgur.com/lLt4ZZ2.png
 tags: [sticky]
 ---
 Dropshipping is being pitched in the last 5 years as this amazing way to build a business that is perfect for newbies and that it's easy to get it off the ground and develop into this side hustle thing or a full-blown business in a span of a few months that generates substantial income (also with no or very little investment).
@@ -390,5 +390,5 @@ Bootstrapping it and freaking out when you spend $250 on ads with no returns sho
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzMyOTg5OTNdfQ==
+eyJoaXN0b3J5IjpbNzYyNTEwMTUxLC0xMTczMjk4OTkzXX0=
 -->
