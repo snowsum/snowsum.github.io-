@@ -242,9 +242,13 @@ Sephora.com purchases can be easily returned for FREE (no return shipping or han
 |--|--|--|
 | Credit or debit card | Your credit or debit card used to make the purchase. | An online store credit that can be used at Sephora.com but is not valid for use in Sephora stores.|
 |PayPal|Your PayPal account.|An online credit that can be used at Sephora.com but is not valid for use in Sephora stores.|
-|Klarna|||
-|Sephora gift card, Sephora online store credit or JCPenney card*|||
+|Klarna|Your Klarna account.|An online credit that can be used at Sephora.com but is not valid for use in Sephora stores.|
+|Sephora gift card, Sephora online store credit or JCPenney card*|An online store credit that can be used at Sephora.com but is not valid for use in Sephora stores.|An online store credit that can be used at Sephora.com but is not valid for use in Sephora stores.|
+*Please return your item(s) to a Sephora Inside JCPenney store in order to receive a full refund on your JCPenney card.
 
+For more information on how to redeem your online store credit, please go to Customer Service on Sephora.com and click on  [Payment Methods](https://www.sephora.com/payment-methods).
+
+♦ For Sephora.com products returned in one of our free standing stores, rather than by mail, if Sephora receives your new or gently used product within 60 days of purchase, you will receive the following refund:
 
 ### Return policy template 1
 
@@ -301,7 +305,7 @@ If you have any further question regarding your refund, please, don’t hesitate
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NTgyNjI4NCwtNDU2NjI3NDk3LC0xNz
+eyJoaXN0b3J5IjpbMTM3MTE3Mjk1MiwtNDU2NjI3NDk3LC0xNz
 IyNTIxNTgsLTExOTc3MzIyODUsLTUwOTQzMTMyOSwtMTA3MzMx
 OTE0MCwyMDQwMjk3NjIyXX0=
 -->
