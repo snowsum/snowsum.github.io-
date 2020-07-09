@@ -1,10 +1,7 @@
-Returns, refunds, and exchanges are all a part of doing business.
 
-Customers might be unsatisfied with their order for a number of reasons—it arrived damaged, they ordered the wrong size, or it simply didn't meet their expectations. So they ask for a replacement or their money back.
+Selling your product to a customer and receiving payment might not be the end of the sales process. You need to be prepared for situations where customers return products or are unhappy with your service.
 
-But without a system for handling these requests, they can eat up a lot of time, energy, and money with hours  [spent on customer service emails](https://www.shopify.com/blog/customer-service), and spikes in shipping expenses for replacement products, especially after the holidays.
-
-The good news is that it’s never too late to address the problem. With a clearly communicated return policy and the right system in place, returns and exchanges can be transformed from a dreaded aspect of ecommerce into an opportunity that actually generates new profits for your business and increases customer loyalty.
+To prevent confusion, frustration, and the potential loss of customers, it’s imperative that you have a clear return policy for your retail store. Having a return policy that is set in stone is important for your business as it allows you to standardize your process to better keep track of goods being returned. It can even help you to discover any unusual return patterns or issues with a particular batch of goods..
 
 But before we dive into how to write a return policy for your store and implement a system to handle requests, let's talk about why it's so important to get returns and exchanges right.
 
@@ -233,5 +230,6 @@ Writing a clear return policy that feeds into a well-thought-out return and exch
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzMzMTkxNDAsMjA0MDI5NzYyMl19
+eyJoaXN0b3J5IjpbLTUwOTQzMTMyOSwtMTA3MzMxOTE0MCwyMD
+QwMjk3NjIyXX0=
 -->
