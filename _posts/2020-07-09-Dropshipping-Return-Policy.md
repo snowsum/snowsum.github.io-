@@ -546,9 +546,12 @@ If so, please contact the seller directly for return address and instructions.
 #### New online returns policy?
 
 Haven't you heard? ASOS is going paperless! You'll no longer receive a paper returns slip with your order- instead, you can create your return through your ASOS account. At the moment you'll need to print a returns label if you want to return, but we're working on ways around this so watch this space! Click here for  [more information on how to return](https://www.asos.com/us/customer-care/returns-refunds/how-do-i-return-something-to-you-from-the-us/).
+![enter image description here](https://i.imgur.com/83OYpWZ.png)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkzMjM2NTAyLC0xOTUwNzUzMzU5LC0xMj
-Q1MTMwMjY3LDk3ODk3MTEwOSwtMTM3MzM0NDMzOSwtNDU2NjI3
-NDk3LC0xNzIyNTIxNTgsLTExOTc3MzIyODUsLTUwOTQzMTMyOS
-wtMTA3MzMxOTE0MCwyMDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbLTEzNjc0ODE1OTAsLTE5NTA3NTMzNTksLT
+EyNDUxMzAyNjcsOTc4OTcxMTA5LC0xMzczMzQ0MzM5LC00NTY2
+Mjc0OTcsLTE3MjI1MjE1OCwtMTE5NzczMjI4NSwtNTA5NDMxMz
+I5LC0xMDczMzE5MTQwLDIwNDAyOTc2MjJdfQ==
 -->
