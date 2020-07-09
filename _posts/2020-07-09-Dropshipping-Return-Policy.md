@@ -528,28 +528,27 @@ If your account has been deactivated and you need to make a valid return, contac
 
 Please note, we reserve the right to take legal action against you if the items you return don't match what you ordered.
 
-[**Final Sale**](https://www.asos.com/us/customer-care/returns-refunds/what-is-your-returns-policy/#7##7)
-
+#### Final Sale
 Please note, products marked as Final Sale are not eligible for return or refund.
 
-[**Want to exchange an item?**](https://www.asos.com/us/customer-care/returns-refunds/what-is-your-returns-policy/#8##8)
+#### Want to exchange an item?
 
 We don't offer exchanges on orders- if you would like a different size or colour, please return your unwanted item and place a new order.
 
-[**Returning a faulty or incorrect item?**](https://www.asos.com/us/customer-care/returns-refunds/what-is-your-returns-policy/#9##9)
+#### Returning a faulty or incorrect item?
 
 If you've received an item which isn't quite right click here for  [more information on faulty products](https://www.asos.com/us/customer-care/order-issues/what-do-i-do-if-i-receive-a-faulty-item-in-my-order/). Or click here for  [more information on incorrect items](https://www.asos.com/us/customer-care/order-issues/ive-received-an-incorrect-item-what-do-i-do/).
 
-**Did you order from ASOS Marketplace?**
+#### Did you order from ASOS Marketplace?
 
 If so, please contact the seller directly for return address and instructions.
 
-**[New online returns policy?](https://www.asos.com/us/customer-care/returns-refunds/what-is-your-returns-policy/#10)**
+#### New online returns policy?
 
 Haven't you heard? ASOS is going paperless! You'll no longer receive a paper returns slip with your order- instead, you can create your return through your ASOS account. At the moment you'll need to print a returns label if you want to return, but we're working on ways around this so watch this space! Click here for  [more information on how to return](https://www.asos.com/us/customer-care/returns-refunds/how-do-i-return-something-to-you-from-the-us/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDgzMzM1MDEsLTE5NTA3NTMzNTksLT
-EyNDUxMzAyNjcsOTc4OTcxMTA5LC0xMzczMzQ0MzM5LC00NTY2
-Mjc0OTcsLTE3MjI1MjE1OCwtMTE5NzczMjI4NSwtNTA5NDMxMz
-I5LC0xMDczMzE5MTQwLDIwNDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbNzkzMjM2NTAyLC0xOTUwNzUzMzU5LC0xMj
+Q1MTMwMjY3LDk3ODk3MTEwOSwtMTM3MzM0NDMzOSwtNDU2NjI3
+NDk3LC0xNzIyNTIxNTgsLTExOTc3MzIyODUsLTUwOTQzMTMyOS
+wtMTA3MzMxOTE0MCwyMDQwMjk3NjIyXX0=
 -->
