@@ -63,7 +63,7 @@ With  [around 30 percent of goods purchased online being returned](https://get4t
 
 
 
-## How to write a return policy (Plus 36 template)
+## How to write a return policy
 
 The first step to setting up a system to handle returns and exchanges is formalizing your policy so you can communicate it clearly to your customers. A written return policy allows you to treat all requests the same, and avoid the tendency to handle things on a case-by-case basis, which is often less productive and more expensive.
 
@@ -252,6 +252,7 @@ Writing a clear return policy that feeds into a well-thought-out return and exch
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjI1MjE1OCwtMTE5NzczMjI4NSwtNT
-A5NDMxMzI5LC0xMDczMzE5MTQwLDIwNDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbMTI3ODU4NzczMiwtMTcyMjUyMTU4LC0xMT
+k3NzMyMjg1LC01MDk0MzEzMjksLTEwNzMzMTkxNDAsMjA0MDI5
+NzYyMl19
 -->
