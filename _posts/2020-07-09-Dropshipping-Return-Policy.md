@@ -477,7 +477,7 @@ We want to make sure returns are as easy as possible to do, but if you need more
 
 #### Contents
 
--   [Returning an unwanted item?](1)
+-   [Returning an unwanted item?](#returning-an-unwanted-item)
 -   [After that?](https://www.asos.com/us/customer-care/returns-refunds/what-is-your-returns-policy/#2##2)
 -   [What happens to my return if I ordered using Klarna?](https://www.asos.com/us/customer-care/returns-refunds/what-is-your-returns-policy/#3##3)
 -   [Original condition](https://www.asos.com/us/customer-care/returns-refunds/what-is-your-returns-policy/#4##4)
@@ -494,18 +494,17 @@ We get it, sometimes something just doesn't work for you and you want your money
 
 If you return an item within 28 days of the item being delivered to you or available for collection, we'll give you a full refund by way of the original payment method. If you return an item within 29 and 45 days of the item being delivered to you or available for collection, we'll give you an ASOS gift voucher for the amount equivalent to the price you paid for the item. To find out more about  [returning items between 29 and 45 days](https://www.asos.com/us/customer-care/returns-refunds/what-happens-to-my-refund-if-i-return-between-29-and-45-days/), click here. We aim to refund you within 14 days of receiving the returned item. If you request a refund for an item during the above time frames but you can't return it to us for some reason, please get in touch - but any refund will be at our discretion.
 
-[**After that?**](https://www.asos.com/us/customer-care/returns-refunds/what-is-your-returns-policy/#2##2)
+#### After that?
 
 We don't accept returns for unwanted items after the relevant returns period above. If you try to make a return, we may have to send it back to your default delivery address and ask you to cover the delivery costs.
 
-[**What happens to my return if I ordered using Klarna?**](https://www.asos.com/us/customer-care/returns-refunds/what-is-your-returns-policy/#3##3)
+#### What happens to my return if I ordered using Klarna?
 
 If you've placed an order with Pay in 4 Payments with Klarna, you’ll be paying for your order in regular instalments. If you return an item within 28 days of receiving it, we'll give you a full refund.
 
 If you decide to return something within 29 to 45 days of it being received, an ASOS gift voucher will be issued to you instead, and any Klarna instalments will still apply. ASOS has no liability to you for these instalments or any additional charges incurred, so make sure to pay them off in full! To  [find out more about returns with Klarna](https://www.asos.com/us/customer-care/returns-refunds/ive-paid-with-pay-in-4-payments-with-klarna-how-do-returns-work/) click here.
 
-[**Original condition**](https://www.asos.com/us/customer-care/returns-refunds/what-is-your-returns-policy/#4##4)
-
+#### Original condition
 Hygiene and our customers’ safety is super important, so certain items can’t be returned for refunds including:
 
 -   Face + Body products if opened, used or protective seal is not intact
@@ -517,14 +516,12 @@ None of this affects your statutory rights.
 
 Of course, it's fine to try an item on like you would in a shop, but please don't actually wear it. If an item is returned to us damaged, worn or in an unsuitable condition, we won't be able to give you a refund and we may have to send it back to you (and ask you to cover the delivery costs). All items are inspected on return. All returned items should be sent in their original condition and packaging where possible, including tags (e.g., shoes should be returned with the original shoe box).
 
-[**Responsibility**](https://www.asos.com/us/customer-care/returns-refunds/what-is-your-returns-policy/#5##5)
-
+#### Responsibility
 Returned items are your responsibility until they reach us, so make sure they're packed up properly and can't get damaged on the way!
 
 As the parcel remains your responsibility until it arrives back with us, ensure that you get proof of postage in case you need to contact us about your return. We're not responsible for any items that are returned to us by mistake (it happens!). If we're able to locate the items (it's not always possible) and you'd like these returned to you, we may ask you to cover the delivery cost.
 
-[**Fair use**](https://www.asos.com/us/customer-care/returns-refunds/what-is-your-returns-policy/#6##6)
-
+#### Fair use
 If we notice an unusual pattern of returns activity that doesn't sit right: e.g. we suspect someone is actually wearing their purchases and then returning them, ordering and returning loads - way, waaay more than even the most loyal ASOS customer would order, or the items returned don't match what you ordered - then we might have to deactivate the account and any associated accounts. If this happens to you and you think we've made a mistake, please get in touch with Customer Care and we'll be happy to discuss it with you.
 
 If your account has been deactivated and you need to make a valid return, contact Customer Care. They'll give you a returns label although you'll be responsible for the cost of returning the goods to us.
@@ -551,7 +548,7 @@ If so, please contact the seller directly for return address and instructions.
 
 Haven't you heard? ASOS is going paperless! You'll no longer receive a paper returns slip with your order- instead, you can create your return through your ASOS account. At the moment you'll need to print a returns label if you want to return, but we're working on ways around this so watch this space! Click here for  [more information on how to return](https://www.asos.com/us/customer-care/returns-refunds/how-do-i-return-something-to-you-from-the-us/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzg4MzYyNDMsLTE5NTA3NTMzNTksLT
+eyJoaXN0b3J5IjpbLTE1NDgzMzM1MDEsLTE5NTA3NTMzNTksLT
 EyNDUxMzAyNjcsOTc4OTcxMTA5LC0xMzczMzQ0MzM5LC00NTY2
 Mjc0OTcsLTE3MjI1MjE1OCwtMTE5NzczMjI4NSwtNTA5NDMxMz
 I5LC0xMDczMzE5MTQwLDIwNDAyOTc2MjJdfQ==
