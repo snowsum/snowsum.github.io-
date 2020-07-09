@@ -1,4 +1,3 @@
-
 Selling your product to a customer and receiving payment might not be the end of the sales process. You need to be prepared for situations where customers return products or are unhappy with your service.
 
 To prevent confusion, frustration, and the potential loss of customers, it’s imperative that you have a clear return policy for your retail store. Having a return policy that is set in stone is important for your business as it allows you to standardize your process to better keep track of goods being returned. It can even help you to discover any unusual return patterns or issues with a particular batch of goods..
@@ -476,7 +475,7 @@ If the full amount of your purchase was made with PayPal, your refund will be cr
 
 [Back to Top](https://shop.nordstrom.com/c/return-policy# "Back to Top")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzg3ODA1NjgsLTEyNDUxMzAyNjcsOT
+eyJoaXN0b3J5IjpbLTE2OTkyMTQwMjIsLTEyNDUxMzAyNjcsOT
 c4OTcxMTA5LC0xMzczMzQ0MzM5LC00NTY2Mjc0OTcsLTE3MjI1
 MjE1OCwtMTE5NzczMjI4NSwtNTA5NDMxMzI5LC0xMDczMzE5MT
 QwLDIwNDAyOTc2MjJdfQ==
