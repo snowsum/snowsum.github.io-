@@ -394,7 +394,7 @@ We do not accept returns of Nordstrom, Nordstrom.com or Nordstrom.ca merchandise
 [Do you take checks?](https://www.nordstrom.com/c/return-policy#anchor-link-checks "Do you take checks?")  
 [How do you process my return if I paid with PayPal (U.S.)?](https://www.nordstrom.com/c/return-policy#anchor-link-paypal "How do you process my return if I paid with PayPal (U.S.)?")
 
-#### How do I exchange an item?
+#### How do I exchange an item
 For the best service and selection, please order your replacement items online or in the U.S., call 1.888.282.6060, or in Canada, call 1.877.794.5304 for assistance.
 
 Please call customer service in the U.S. at 1.888.282.6060 for assistance returning oversized items, perishable goods or other unusual merchandise.
@@ -476,8 +476,8 @@ If the full amount of your purchase was made with PayPal, your refund will be cr
 
 [Back to Top](https://shop.nordstrom.com/c/return-policy# "Back to Top")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDUxMzAyNjcsOTc4OTcxMTA5LC0xMz
-czMzQ0MzM5LC00NTY2Mjc0OTcsLTE3MjI1MjE1OCwtMTE5Nzcz
-MjI4NSwtNTA5NDMxMzI5LC0xMDczMzE5MTQwLDIwNDAyOTc2Mj
-JdfQ==
+eyJoaXN0b3J5IjpbLTExMzg3ODA1NjgsLTEyNDUxMzAyNjcsOT
+c4OTcxMTA5LC0xMzczMzQ0MzM5LC00NTY2Mjc0OTcsLTE3MjI1
+MjE1OCwtMTE5NzczMjI4NSwtNTA5NDMxMzI5LC0xMDczMzE5MT
+QwLDIwNDAyOTc2MjJdfQ==
 -->
