@@ -405,31 +405,30 @@ All refunds will be credited to your original form of payment or a Nordstrom Gif
 -   Items Returned by Mail: If you ordered by credit card, we'll credit your account within 14 business days. This will show on your next statement, depending on the issuing bank and/or billing cycle. If you have requested an exchange, your account will be charged for the new item and credited for the return. If you paid with a Gift Card or Nordstrom Notes, we'll email you an electronic Nordstrom Gift Card. If a credit card was used in combination with a Gift Card or Nordstrom Notes, the merchandise amount charged to the Gift Card or Nordstrom Note may be refunded via an electronic Nordstrom Gift Card.
 -   Shipping Charges: Unfortunately, we cannot refund shipping charges.
 
-#### GIFT CARDS**  
+#### GIFT CARDS
 Gift Cards can't be returned.
 
-**WESTIN HEAVENLY® BED**  
+#### WESTIN HEAVENLY® BED
 Please call 1.800.285.7344 for inquiries and assistance.
 
-**FINE JEWELRY**  
+#### FINE JEWELRY
 Please follow the instructions included in your shipment and fill out the return section of the packing slip when returning fine jewelry by mail. Return your package via the carrier of your choice, with return signature required. For your protection, you must insure the package for the value of the item enclosed. Fine jewelry can also be returned to Nordstrom stores that have a Fine Jewelry department. Simply bring the packing slip and/or credit card used when you placed the order.
 
-**GREEN SHIPPING**  
+#### GREEN SHIPPING
 In our continued effort to minimize waste and lessen our impact on the environment, please note that your order may arrive in a slightly used shipping box.
 
-**NORDSTROM RACK RETURN POLICY**  
+#### NORDSTROM RACK RETURN POLICY 
 Please visit the  [Nordstrom Rack](https://www.nordstromrack.com/ "Nordstrom Rack")  and  [HauteLook](https://www.hautelook.com/ "Haute Look")  sites for information about their return policies.
 
 Questions? In the U.S., call 1.888.282.6060 or  [chat with us](https://nordstrom.custhelp.com/app/chat/chat_launch/incidents.c$sent_queueid/1?jid=j011676-12408&cm_sp=merch-_-services_12408_j011676-_-freelayout_corp_p05_details "chat with us"). In Canada, call 1.877.794.5304 or  [chat with us](https://nordstrom.custhelp.com/app/chat/chat_launch/incidents.c$sent_queueid/2?jid=j011676-12408&cm_sp=merch-_-services_12408_j011676-_-freelayout_corp_p05_details "chat with us").
 
-[Back to Top](https://www.nordstrom.com/c/return-policy# "Back to Top")
 
-**How do I make an international return outside of the U.S. and Canada?  
-**International Nordstrom.com orders made with Borderfree have a different return process and do not qualify for free returns or merchandise exchanges. For a refund that includes duties, taxes and tariffs, please contact Nordstrom  [customer service](https://nordstrom.custhelp.com/app/ask/incidents.c$sent_queueid/12?jid=j011676-12408&cm_sp=merch-_-services_12408_j011676-_-freelayout_corp_p06_details "customer service")  and ask them to send you a Return Merchandise Authorization form on behalf of Borderfree. Then mail the completed form with your item(s) to Borderfree. If you choose to return an international order directly to Nordstrom, you will receive a refund for the merchandise from Borderfree but not duties, taxes or tariffs. Learn more about  [international returns](https://www.nordstrom.com/c/international-orders#anchor-link-returns-exchanges "international returns").
+#### How do I make an international return outside of the U.S. and Canada?  
+International Nordstrom.com orders made with Borderfree have a different return process and do not qualify for free returns or merchandise exchanges. For a refund that includes duties, taxes and tariffs, please contact Nordstrom  [customer service](https://nordstrom.custhelp.com/app/ask/incidents.c$sent_queueid/12?jid=j011676-12408&cm_sp=merch-_-services_12408_j011676-_-freelayout_corp_p06_details "customer service")  and ask them to send you a Return Merchandise Authorization form on behalf of Borderfree. Then mail the completed form with your item(s) to Borderfree. If you choose to return an international order directly to Nordstrom, you will receive a refund for the merchandise from Borderfree but not duties, taxes or tariffs. Learn more about  [international returns](https://www.nordstrom.com/c/international-orders#anchor-link-returns-exchanges "international returns").
 
-[Back to Top](https://www.nordstrom.com/c/return-policy# "Back to Top")
 
-**What about returns for purchases at Nordstrom.com?**  
+
+#### What about returns for purchases at Nordstrom.com?  
 Simply  [send your item back](https://secure.nordstrom.com/my-account/blank-return?jid=j011740-12988&cid=00000&cm_sp=merch-_-services_12988_j011740-_-freelayout_corp_p99_info "send your item back")  or bring it to a store near you and we'll do our best to take care of you.
 
 [Back to Top](https://shop.nordstrom.com/c/return-policy# "Back to Top")
@@ -474,8 +473,8 @@ If the full amount of your purchase was made with PayPal, your refund will be cr
 
 [Back to Top](https://shop.nordstrom.com/c/return-policy# "Back to Top")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ1ODQzNjAxLC0xMjQ1MTMwMjY3LDk3OD
-k3MTEwOSwtMTM3MzM0NDMzOSwtNDU2NjI3NDk3LC0xNzIyNTIx
-NTgsLTExOTc3MzIyODUsLTUwOTQzMTMyOSwtMTA3MzMxOTE0MC
-wyMDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbMjEyMzMyMjY3MywtMTI0NTEzMDI2Nyw5Nz
+g5NzExMDksLTEzNzMzNDQzMzksLTQ1NjYyNzQ5NywtMTcyMjUy
+MTU4LC0xMTk3NzMyMjg1LC01MDk0MzEzMjksLTEwNzMzMTkxND
+AsMjA0MDI5NzYyMl19
 -->
