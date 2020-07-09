@@ -62,6 +62,43 @@ If a customer wants a  **return**, they are communicating that the product did n
 
 It is important to distinguish early on in your system which of the two categories the customer falls into, so you know how to process their request. Whether a product is eligible to be returned or exchanged, or both, should be considered before it is sold and clearly stated on your website in your return policy page.
 
+## An Effective Online Return Policy
+
+Many customers prefer to be aware of a store’s return policy before they make their purchase. If an item isn’t the right size or they feel that it’s slightly different from the photos on your website, they want to know their options. Having a return policy that isn’t customer friendly can significantly impact your business and may result in potential customers being turned away by word-of-mouth.
+
+**The following checklist can help you to address all the points that your online returns and refunds policy should include:**
+
+-   Are you prepared to offer a return on all purchases made on your eCommerce store, with a 100 percent refund, if the customer isn’t satisfied? If so, whose responsibility is it to refund the shipping cost?
+-   What are your deadlines for accepting returns? Will you have different deadlines depending on the item, or will you use the same criteria for all of your stock?
+-   What is the procedure for returns?
+-   What is the address for returns; is it the same as your retail store?
+-   Are gifts able to be returned or exchanged without a receipt? As mentioned earlier, this is potentially risky due to people trying to turn a profit through fraudulent refunds.
+-   Do you have policies in place to prevent the return or refund “on-sale” items?
+-   Do items need to be in their original condition and/or in the original packaging? This is an important thing to consider, as items that are not able to be sold as new might cause losses for your business.
+
+With  [around 30 percent of goods purchased online being returned](https://get4tell.com/brick-mortar-retail-black-friday/), it’s important to have a clear and concise return policy so that your business and its goods are protected.
+
+### eCommerce Retail Return Policy Template
+
+This short template should provide you with the perfect starting point for a return and refund policy to display on your eCommerce store. Keeping your return policies as short and as simple as possible is often the best thing to do as it prevents confusion and saves customers and staff time.
+
+Thank you for shopping at business name.  
+If you’re not happy with your purchase, we’re more than happy to help you.
+
+**Returns**  
+You have X number of days to return an item from the date that you purchase it.  
+To be eligible for a return here at business name, the product that you purchased must be unused, still in its original packaging, and in the same condition as when you purchased it.  
+We require the original receipt or proof of purchase to be eligible for a return.
+
+**Refunds**  
+Once we have received your item, we will let you know that we’ve received it and that we are in the process of evaluating if it’s in the same condition as when it was delivered to you. We will let you know the status of your refund as soon as we have finished inspecting your item.  
+If we approve your refund, we will refund it to the original method of payment. Depending on your card issuer’s policies, you will receive the refund in a number of days.
+
+**Shipping**  
+You will be responsible for paying the costs of shipping your item back to us. The costs of shipping are non-refundable and non-negotiable. If you are issued a refund, the cost of shipping will be deducted from it.
+
+If you have any further question regarding your refund, please, don’t hesitate to contact us to find out more.
+
 ## How to write a return policy (Plus a template)
 
 The first step to setting up a system to handle returns and exchanges is formalizing your policy so you can communicate it clearly to your customers. A written return policy allows you to treat all requests the same, and avoid the tendency to handle things on a case-by-case basis, which is often less productive and more expensive.
@@ -230,6 +267,6 @@ Writing a clear return policy that feeds into a well-thought-out return and exch
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwOTQzMTMyOSwtMTA3MzMxOTE0MCwyMD
-QwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbLTExOTc3MzIyODUsLTUwOTQzMTMyOSwtMT
+A3MzMxOTE0MCwyMDQwMjk3NjIyXX0=
 -->
