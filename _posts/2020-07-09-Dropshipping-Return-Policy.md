@@ -8,7 +8,7 @@ The good news is that it’s never too late to address the problem. With a clear
 
 But before we dive into how to write a return policy for your store and implement a system to handle requests, let's talk about why it's so important to get returns and exchanges right.
 
-1.  [How customer returns impact your business](https://www.shopify.com/blog/return-policy#why)
+1.  [How customer returns impact your business](#how-returns and exchanges impact your business)
 2.  [Setting up a system](https://www.shopify.com/blog/return-policy#system)
 3.  [How to write a return policy](https://www.shopify.com/blog/return-policy#policy)
 4.  [Return policy template](https://www.shopify.com/blog/return-policy#template)
@@ -233,5 +233,5 @@ Writing a clear return policy that feeds into a well-thought-out return and exch
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzkzNTU1OSwyMDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbNTExNDU4NDM1LDIwNDAyOTc2MjJdfQ==
 -->
