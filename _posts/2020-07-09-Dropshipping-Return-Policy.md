@@ -379,9 +379,9 @@ We do not accept returns of Nordstrom, Nordstrom.com or Nordstrom.ca merchandise
 
 ![""](https://n.nordstrommedia.com/id/d083ea04-f018-4ffe-856a-beb4c27d2767.png?h=2&w=1332)
 
-#### Frequently Asked Questions
+### Frequently Asked Questions
 
-[How do I exchange an item?](#how-do-I-exchange-an-item-?)  
+[How do I exchange an item?](#how-do-I-exchange-an-item)  
 [How are my refunds credited?](#how-are-my-refunds-credited?)  
 [How do I make an international return outside of the U.S. and Canada?](https://www.nordstrom.com/c/return-policy#anchor-link-international-returns "How do I make an international return outside of the U.S. and Canada?")  
 [What about returns for purchases at Nordstrom.com?](https://www.nordstrom.com/c/return-policy#anchor-link-nordstrom-com "What about returns for purchases at Nordstrom.com?")  
@@ -394,7 +394,7 @@ We do not accept returns of Nordstrom, Nordstrom.com or Nordstrom.ca merchandise
 [Do you take checks?](https://www.nordstrom.com/c/return-policy#anchor-link-checks "Do you take checks?")  
 [How do you process my return if I paid with PayPal (U.S.)?](https://www.nordstrom.com/c/return-policy#anchor-link-paypal "How do you process my return if I paid with PayPal (U.S.)?")
 
-# How do I exchange an item?
+#### How do I exchange an item?
 For the best service and selection, please order your replacement items online or in the U.S., call 1.888.282.6060, or in Canada, call 1.877.794.5304 for assistance.
 
 Please call customer service in the U.S. at 1.888.282.6060 for assistance returning oversized items, perishable goods or other unusual merchandise.
@@ -476,8 +476,8 @@ If the full amount of your purchase was made with PayPal, your refund will be cr
 
 [Back to Top](https://shop.nordstrom.com/c/return-policy# "Back to Top")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNzI0MjQ3Myw5Nzg5NzExMDksLTEzNz
-MzNDQzMzksLTQ1NjYyNzQ5NywtMTcyMjUyMTU4LC0xMTk3NzMy
-Mjg1LC01MDk0MzEzMjksLTEwNzMzMTkxNDAsMjA0MDI5NzYyMl
-19
+eyJoaXN0b3J5IjpbLTEyNDUxMzAyNjcsOTc4OTcxMTA5LC0xMz
+czMzQ0MzM5LC00NTY2Mjc0OTcsLTE3MjI1MjE1OCwtMTE5Nzcz
+MjI4NSwtNTA5NDMxMzI5LC0xMDczMzE5MTQwLDIwNDAyOTc2Mj
+JdfQ==
 -->
