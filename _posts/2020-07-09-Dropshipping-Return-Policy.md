@@ -365,11 +365,11 @@ If you have any further question regarding your refund, please, don’t hesitate
 **To our Nordstrom customers,**
 
 Due to increased volume and the impact of COVID-19,  **we're experiencing delays in returns processing and your order may take longer than usual to arrive**.
-
+![enter image description here](https://i.imgur.com/aYjzt87.jpg)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMzU2NDg2LC0xMzczMzQ0MzM5LC00NT
+eyJoaXN0b3J5IjpbOTc4OTcxMTA5LC0xMzczMzQ0MzM5LC00NT
 Y2Mjc0OTcsLTE3MjI1MjE1OCwtMTE5NzczMjI4NSwtNTA5NDMx
 MzI5LC0xMDczMzE5MTQwLDIwNDAyOTc2MjJdfQ==
 -->
