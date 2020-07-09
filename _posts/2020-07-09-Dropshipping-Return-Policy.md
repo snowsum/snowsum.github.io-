@@ -6,7 +6,7 @@ To prevent confusion, frustration, and the potential loss of customers, it’s i
 But before we dive into how to write a return policy for your store and implement a system to handle requests, let's talk about why it's so important to get returns and exchanges right.
 
 1.  [How customer returns impact your business](#how-returns-and-exchanges-impact-your-business)
-2.  [Setting up a system](https://www.shopify.com/blog/return-policy#system)
+2.  [An Effective Online Return Police](#setting-up-a-system-for-returns-and-exchanges)
 3.  [How to write a return policy](https://www.shopify.com/blog/return-policy#policy)
 4.  [Return policy template](https://www.shopify.com/blog/return-policy#template)
 5.  [Where to surface your policy](https://www.shopify.com/blog/return-policy#places)
@@ -30,12 +30,6 @@ Processing every return manually and dealing with customers on a case-by-case ba
 
 > At some point, most businesses will need to figure out a solution for returns and exchanges that benefits themselves and their customers.
 
-### Free Guide: Shipping and Fulfillment 101
-
-From deciding what to charge your customers, to figuring out insurance and tracking, this comprehensive guide will walk you step-by-step through the entire process
-
-Get the free reading list
-
 ### The advantages of a customer-centric return policy
 
 Many innovative businesses have recognized that a customer-centric return policy is a powerful marketing tool.
@@ -48,19 +42,7 @@ Although a return or exchange may not make a business profitable on first purcha
 
 Lastly, your reputation will benefit most from offering easy returns and exchanges to customers. According to Nielson’s  [Global Trust in Advertising Report](https://www.nielsen.com/content/dam/nielsenglobal/apac/docs/reports/2015/nielsen-global-trust-in-advertising-report-september-2015.pdf), 66% of people surveyed trust consumer opinions posted online. These positive customer reviews and word-of-mouth recommendations about the buying experience will pay off as free marketing for your business that will allow it to thrive in the long-term.
 
-## Setting up a system for returns and exchanges
 
-Having a system can take the pain out of returns and exchanges for both the business and its customers. Whether you’re receiving your first return request, or are trying to repair a flawed process, creating a system can immediately help cut down the customer service hours spent on returns and exchanges.
-
-### Returns vs. exchanges
-
-In traditional brick-and-mortar retail the distinction between returns and exchanges is less defined. With physical stores, a customer doesn’t need to decide whether they want to return or exchange an item until they are in a store speaking to a sales rep.
-
-With ecommerce, the customer usually decides independently if they want a return (which signifies a refund) or an exchange (usually for a gift card or a replacement product of equal value).
-
-If a customer wants a  **return**, they are communicating that the product did not meet their expectations for one reason or another and want a refund. An  **exchange** on the other hand, means that they were satisfied with the quality of the product and the buying experience, but chose the wrong item.
-
-It is important to distinguish early on in your system which of the two categories the customer falls into, so you know how to process their request. Whether a product is eligible to be returned or exchanged, or both, should be considered before it is sold and clearly stated on your website in your return policy page.
 
 ## An Effective Online Return Policy
 
@@ -78,28 +60,10 @@ Many customers prefer to be aware of a store’s return policy before they make 
 
 With  [around 30 percent of goods purchased online being returned](https://get4tell.com/brick-mortar-retail-black-friday/), it’s important to have a clear and concise return policy so that your business and its goods are protected.
 
-### eCommerce Retail Return Policy Template
 
-This short template should provide you with the perfect starting point for a return and refund policy to display on your eCommerce store. Keeping your return policies as short and as simple as possible is often the best thing to do as it prevents confusion and saves customers and staff time.
 
-Thank you for shopping at business name.  
-If you’re not happy with your purchase, we’re more than happy to help you.
 
-**Returns**  
-You have X number of days to return an item from the date that you purchase it.  
-To be eligible for a return here at business name, the product that you purchased must be unused, still in its original packaging, and in the same condition as when you purchased it.  
-We require the original receipt or proof of purchase to be eligible for a return.
-
-**Refunds**  
-Once we have received your item, we will let you know that we’ve received it and that we are in the process of evaluating if it’s in the same condition as when it was delivered to you. We will let you know the status of your refund as soon as we have finished inspecting your item.  
-If we approve your refund, we will refund it to the original method of payment. Depending on your card issuer’s policies, you will receive the refund in a number of days.
-
-**Shipping**  
-You will be responsible for paying the costs of shipping your item back to us. The costs of shipping are non-refundable and non-negotiable. If you are issued a refund, the cost of shipping will be deducted from it.
-
-If you have any further question regarding your refund, please, don’t hesitate to contact us to find out more.
-
-## How to write a return policy (Plus a template)
+## How to write a return policy (Plus 36 template)
 
 The first step to setting up a system to handle returns and exchanges is formalizing your policy so you can communicate it clearly to your customers. A written return policy allows you to treat all requests the same, and avoid the tendency to handle things on a case-by-case basis, which is often less productive and more expensive.
 
@@ -113,7 +77,7 @@ Policies will vary depending on the logistics of your business and the products 
 -   What products can be returned for (store credit, refund, a product of equal value, etc.)
 -   How to initiate a return or exchange (e.g. an email address to contact or a web page to visit)
 
-### Return policy template
+### Return policy template 1
 
 Below is a basic template for a return policy that can be adapted to fit your business. Just replace the bolded text with your own policy and use the lists as a guide to ensure you don’t forget to include any important information:
 
@@ -145,6 +109,27 @@ _The following are add-ons with more information that you may want to include._
 -   Any return restocking fees the customer will need to pay
 -   How you handle lost or damaged returns
 -   Contact information for your business if the customer has more questions
+
+### Return Policy Template 2
+
+This short template should provide you with the perfect starting point for a return and refund policy to display on your eCommerce store. Keeping your return policies as short and as simple as possible is often the best thing to do as it prevents confusion and saves customers and staff time.
+
+Thank you for shopping at business name.  
+If you’re not happy with your purchase, we’re more than happy to help you.
+
+**Returns**  
+You have X number of days to return an item from the date that you purchase it.  
+To be eligible for a return here at business name, the product that you purchased must be unused, still in its original packaging, and in the same condition as when you purchased it.  
+We require the original receipt or proof of purchase to be eligible for a return.
+
+**Refunds**  
+Once we have received your item, we will let you know that we’ve received it and that we are in the process of evaluating if it’s in the same condition as when it was delivered to you. We will let you know the status of your refund as soon as we have finished inspecting your item.  
+If we approve your refund, we will refund it to the original method of payment. Depending on your card issuer’s policies, you will receive the refund in a number of days.
+
+**Shipping**  
+You will be responsible for paying the costs of shipping your item back to us. The costs of shipping are non-refundable and non-negotiable. If you are issued a refund, the cost of shipping will be deducted from it.
+
+If you have any further question regarding your refund, please, don’t hesitate to contact us to find out more.
 
 ## Where to surface your return policy
 
@@ -267,6 +252,6 @@ Writing a clear return policy that feeds into a well-thought-out return and exch
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTc3MzIyODUsLTUwOTQzMTMyOSwtMT
-A3MzMxOTE0MCwyMDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbLTE3MjI1MjE1OCwtMTE5NzczMjI4NSwtNT
+A5NDMxMzI5LC0xMDczMzE5MTQwLDIwNDAyOTc2MjJdfQ==
 -->
