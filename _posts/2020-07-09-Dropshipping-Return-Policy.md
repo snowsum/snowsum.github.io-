@@ -223,8 +223,8 @@ For product purchases made in-store on or after February 15, 2020, we will accep
 | Payment method used to make your Sephora.com purchase | If Sephora receives your new or gently used item within 60 days of purchase, the purchase price will be refunded to: |
 |--|--|
 | Credit or debit card |  Your credit or debit card used to make the purchase.|
-
-
+| PayPal | Your PayPal account.|
+| Klarna |  Your Klarna account.|
 
 ### Return policy template 1
 
@@ -281,7 +281,7 @@ If you have any further question regarding your refund, please, don’t hesitate
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk0NzU4NTQzLC00NTY2Mjc0OTcsLTE3Mj
+eyJoaXN0b3J5IjpbMTYzODEwMDQ5LC00NTY2Mjc0OTcsLTE3Mj
 I1MjE1OCwtMTE5NzczMjI4NSwtNTA5NDMxMzI5LC0xMDczMzE5
 MTQwLDIwNDAyOTc2MjJdfQ==
 -->
