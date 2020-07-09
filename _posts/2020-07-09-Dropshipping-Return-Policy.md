@@ -240,8 +240,10 @@ Sephora.com purchases can be easily returned for FREE (no return shipping or han
 ♦ When you return your purchase to Sephora.com by mail, if your new or gently used product is received by Sephora within 60 days of purchase, you will receive the following refund:
 | Payment method used to make your Sephora.com purchase | If Sephora receives your new or gently used item within 30 days of purchase, the purchase price will be refunded to: | If Sephora receives your new or gently used item within 31 to 60 days of purchase, the purchase price will be refunded to: |
 |--|--|--|
-|  |  | |
-
+| Credit or debit card | Your credit or debit card used to make the purchase. | An online store credit that can be used at Sephora.com but is not valid for use in Sephora stores.|
+|PayPal|Your PayPal account.|An online credit that can be used at Sephora.com but is not valid for use in Sephora stores.|
+|Klarna|||
+|Sephora gift card, Sephora online store credit or JCPenney card*|||
 
 
 ### Return policy template 1
@@ -299,7 +301,7 @@ If you have any further question regarding your refund, please, don’t hesitate
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg4ODc5NTY1LC00NTY2Mjc0OTcsLTE3Mj
-I1MjE1OCwtMTE5NzczMjI4NSwtNTA5NDMxMzI5LC0xMDczMzE5
-MTQwLDIwNDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbMTk3NTgyNjI4NCwtNDU2NjI3NDk3LC0xNz
+IyNTIxNTgsLTExOTc3MzIyODUsLTUwOTQzMTMyOSwtMTA3MzMx
+OTE0MCwyMDQwMjk3NjIyXX0=
 -->
