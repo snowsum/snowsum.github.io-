@@ -359,12 +359,17 @@ If we approve your refund, we will refund it to the original method of payment. 
 You will be responsible for paying the costs of shipping your item back to us. The costs of shipping are non-refundable and non-negotiable. If you are issued a refund, the cost of shipping will be deducted from it.
 
 If you have any further question regarding your refund, please, don’t hesitate to contact us to find out more.
-## Case 2 - Sephora.com
+## Case 2 - Nordstrom
+### Returns & Exchanges
+
+**To our Nordstrom customers,**
+
+Due to increased volume and the impact of COVID-19,  **we're experiencing delays in returns processing and your order may take longer than usual to arrive**.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA0NjM1ODAzLC0xMzczMzQ0MzM5LC00NT
+eyJoaXN0b3J5IjpbMTEyMzU2NDg2LC0xMzczMzQ0MzM5LC00NT
 Y2Mjc0OTcsLTE3MjI1MjE1OCwtMTE5NzczMjI4NSwtNTA5NDMx
 MzI5LC0xMDczMzE5MTQwLDIwNDAyOTc2MjJdfQ==
 -->
