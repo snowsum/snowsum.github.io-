@@ -360,10 +360,183 @@ You will be responsible for paying the costs of shipping your item back to us. T
 
 If you have any further question regarding your refund, please, don’t hesitate to contact us to find out more.
 ## Case 2 - Sephora.com
+# Returns & Exchanges
+
+#### 
+
+**To our Nordstrom customers,**
+
+Due to increased volume and the impact of COVID-19,  **we're experiencing delays in returns processing and your order may take longer than usual to arrive**.
+
+![Make a return. Request a price adjustment.](https://n.nordstrommedia.com/id/5b37c773-8b04-44aa-a56f-33ab8743086a.jpeg?h=406&w=888)
+
+#### 
+
+**Need Help?**
+
+Check out our self-service tools to get help fast.
+
+#### 
+
+**Make a Return**
+
+-   [Get Started](https://www.nordstrom.com/my-account/blank-return?jid=j011725-12891&cid=00000&cm_sp=merch-_-services_12891_j011725-_-freelayout_corp_p00_info "Get Started")
+
+#### 
+
+**Request a Price Adjustment**
+
+-   [Get Started](https://www.nordstrom.com/my-account/price-adjustment?jid=j011725-12891&cid=00000&cm_sp=merch-_-services_12891_j011725-_-freelayout_corp_p00_info "Get Started")
+
+For more information, visit our COVID-19 FAQs:  
+[Shipping & Pickup](https://www.nordstrom.com/c/nordstrom-covid-19-hub?jid=j011777-13201&cid=00000&cm_sp=merch-_-services_13201_j011777-_-freelayout_corp_p00_guide&#anchor-link-shipping "Shipping & Pickup")  |  [Returns](https://www.nordstrom.com/c/nordstrom-covid-19-hub?jid=j011777-13201&cid=00000&cm_sp=merch-_-services_13201_j011777-_-freelayout_corp_p00_guide&#anchor-link-returns "Returns")  |  [Curbside Services](https://www.nordstrom.com/c/nordstrom-covid-19-hub?jid=j011777-13201&cid=00000&cm_sp=merch-_-services_13201_j011777-_-freelayout_corp_p00_guide&#anchor-link-shipping "Curbside Services")  |  [Alterations, Price Policy & More](https://www.nordstrom.com/c/nordstrom-covid-19-hub?jid=j011777-13201&cid=00000&cm_sp=merch-_-services_13201_j011777-_-freelayout_corp_p00_guide&#anchor-link-additional-questions "Alterations, Price Policy & More")
+
+[](https://www.nordstrom.com/my-account/blank-return?jid=j011725-12891&cid=00000&cm_sp=merch-_-services_12891_j011725-_-freelayout_corp_p00_info "Get Started")[](https://www.nordstrom.com/my-account/blank-return?jid=j011725-12891&cid=00000&cm_sp=merch-_-services_12891_j011725-_-freelayout_corp_p00_info "Get Started")[](https://www.nordstrom.com/my-account/price-adjustment?jid=j011725-12891&cid=00000&cm_sp=merch-_-services_12891_j011725-_-freelayout_corp_p00_info "Get Started")[](https://www.nordstrom.com/my-account/price-adjustment?jid=j011725-12891&cid=00000&cm_sp=merch-_-services_12891_j011725-_-freelayout_corp_p00_info "Get Started")
+
+![""](https://n.nordstrommedia.com/id/d083ea04-f018-4ffe-856a-beb4c27d2767.png?h=2&w=1332)
+
+#### 
+
+Returning Your Purchase—by Mail, at Curbside or in Stores
+
+Use one of our convenient options to return an item purchased at a Nordstrom store or at Nordstrom.com.
+
+![](https://n.nordstrommedia.com/id/b3b285a4-546f-4fb4-9669-3524d71e1060.png?w=1109&h=1)
+
+**RETURN BY MAIL**
+
+-   Send your item using a prepaid return label.
+-   Returns are usually processed within 10-14 business days.
+-   For online orders, you can also send your item using the prepaid shipping label included in your package.
+
+-   [Start Your Return](https://www.nordstrom.com/my-account/blank-return?jid=j011737-12976&cid=00000&cm_sp=merch-_-services_12976_j011737-_-freelayout_corp_p01_info "Start Your Return")
+
+**CURBSIDE RETURNS**
+
+-   Bring your item to a store offering safe, Contactless Curbside Returns.
+-   At the store, follow the instructions on the orange signs.
+
+-   [Find a Store with Curbside Returns](https://www.nordstrom.com/stores?jid=j011737-12976&cid=00000&cm_sp=merch-_-services_12976_j011737-_-freelayout_corp_p01_info "Find a Store with Curbside Returns")
+
+**RETURN IN STORE**
+
+-   Bring your item to an open Nordstrom store.
+-   Any salesperson can assist you with your return.
+
+-   [Find an Open Store](https://www.nordstrom.com/stores?jid=j011737-12976&cid=00000&cm_sp=merch-_-services_12976_j011737-_-freelayout_corp_p01_info "Find an Open Store")
+
+![""](https://n.nordstrommedia.com/id/d083ea04-f018-4ffe-856a-beb4c27d2767.png?h=2&w=1332)
+
+#### 
+
+Our Return Policy
+
+We handle returns on a case-by-case basis with the ultimate goal of making our customers happy. We stand behind our goods and services, and want customers to be satisfied with them. We'll always do our best to take care of customers—our philosophy is to deal with them fairly and reasonably. We have long believed that when we treat our customers fairly, they in turn are fair with us. We apply refunds to the tender with which returned items were purchased. If we choose to provide a refund and no record of sale is available, we'll ask for personal identification and a refund will be provided at the current price on a Nordstrom Gift Card.  
+  
+We do not accept returns of Nordstrom, Nordstrom.com or Nordstrom.ca merchandise at Nordstrom Rack locations. Boutique returns must be processed at the store in which they were purchased.
+
+![""](https://n.nordstrommedia.com/id/d083ea04-f018-4ffe-856a-beb4c27d2767.png?h=2&w=1332)
+
+#### Frequently Asked Questions
+
+[How do I exchange an item?](https://www.nordstrom.com/c/return-policy#anchor-link-exchanges "How do I exchange an item?")  
+[How are my refunds credited?](https://www.nordstrom.com/c/return-policy#anchor-link-refunds-credited "How are my refunds credited?")  
+[How do I make an international return outside of the U.S. and Canada?](https://www.nordstrom.com/c/return-policy#anchor-link-international-returns "How do I make an international return outside of the U.S. and Canada?")  
+[What about returns for purchases at Nordstrom.com?](https://www.nordstrom.com/c/return-policy#anchor-link-nordstrom-com "What about returns for purchases at Nordstrom.com?")  
+[Do I need a receipt from my purchase?](https://www.nordstrom.com/c/return-policy#anchor-link-receipt "Do I need a receipt from my purchase?")  
+[Do you take everything back?](https://www.nordstrom.com/c/return-policy#anchor-link-all "Do you take everything back?")  
+[Is there a time limit? What if the item is worn?](https://www.nordstrom.com/c/return-policy#anchor-link-time-limit "Is there a time limit? What if the item is worn?")  
+[Why do special-occasion dresses and some designer items have tags that say if the tag is removed the garment cannot be returned?](https://www.nordstrom.com/c/return-policy#anchor-link-special-occasion "Why do special-occasion dresses and some designer items have tags that say if the tag is removed the garment cannot be returned?")  
+[Are there restocking fees?](https://www.nordstrom.com/c/return-policy#anchor-link-restocking-fee "Are there restocking fees?")  
+[Why does Nordstrom request my personal identification for a return without a record of sale?](https://www.nordstrom.com/c/return-policy#anchor-link-personal-identification "Why does Nordstrom request my personal identification for a return without a record of sale?")  
+[Do you take checks?](https://www.nordstrom.com/c/return-policy#anchor-link-checks "Do you take checks?")  
+[How do you process my return if I paid with PayPal (U.S.)?](https://www.nordstrom.com/c/return-policy#anchor-link-paypal "How do you process my return if I paid with PayPal (U.S.)?")
+
+**How do I exchange an item?**  
+For the best service and selection, please order your replacement items online or in the U.S., call 1.888.282.6060, or in Canada, call 1.877.794.5304 for assistance.
+
+Please call customer service in the U.S. at 1.888.282.6060 for assistance returning oversized items, perishable goods or other unusual merchandise.
+
+[Back to Top](https://www.nordstrom.com/c/return-policy# "Back to Top")
+
+**How are my refunds credited?**  
+All refunds will be credited to your original form of payment or a Nordstrom Gift Card. We offer gift receipts to customers when purchasing gifts. When returning a gift, you'll receive your refund only on a Nordstrom Gift Card. If we choose to provide a refund and no record of sale is available, we will ask for personal identification and a return will be provided at current price on a Nordstrom Gift Card. (Gift Cards cannot be redeemed for cash unless required by law.)
+
+-   Items Returned by Mail: If you ordered by credit card, we'll credit your account within 14 business days. This will show on your next statement, depending on the issuing bank and/or billing cycle. If you have requested an exchange, your account will be charged for the new item and credited for the return. If you paid with a Gift Card or Nordstrom Notes, we'll email you an electronic Nordstrom Gift Card. If a credit card was used in combination with a Gift Card or Nordstrom Notes, the merchandise amount charged to the Gift Card or Nordstrom Note may be refunded via an electronic Nordstrom Gift Card.
+-   Shipping Charges: Unfortunately, we cannot refund shipping charges.
+
+**GIFT CARDS**  
+Gift Cards can't be returned.
+
+**WESTIN HEAVENLY® BED**  
+Please call 1.800.285.7344 for inquiries and assistance.
+
+**FINE JEWELRY**  
+Please follow the instructions included in your shipment and fill out the return section of the packing slip when returning fine jewelry by mail. Return your package via the carrier of your choice, with return signature required. For your protection, you must insure the package for the value of the item enclosed. Fine jewelry can also be returned to Nordstrom stores that have a Fine Jewelry department. Simply bring the packing slip and/or credit card used when you placed the order.
+
+**GREEN SHIPPING**  
+In our continued effort to minimize waste and lessen our impact on the environment, please note that your order may arrive in a slightly used shipping box.
+
+**NORDSTROM RACK RETURN POLICY**  
+Please visit the  [Nordstrom Rack](https://www.nordstromrack.com/ "Nordstrom Rack")  and  [HauteLook](https://www.hautelook.com/ "Haute Look")  sites for information about their return policies.
+
+Questions? In the U.S., call 1.888.282.6060 or  [chat with us](https://nordstrom.custhelp.com/app/chat/chat_launch/incidents.c$sent_queueid/1?jid=j011676-12408&cm_sp=merch-_-services_12408_j011676-_-freelayout_corp_p05_details "chat with us"). In Canada, call 1.877.794.5304 or  [chat with us](https://nordstrom.custhelp.com/app/chat/chat_launch/incidents.c$sent_queueid/2?jid=j011676-12408&cm_sp=merch-_-services_12408_j011676-_-freelayout_corp_p05_details "chat with us").
+
+[Back to Top](https://www.nordstrom.com/c/return-policy# "Back to Top")
+
+**How do I make an international return outside of the U.S. and Canada?  
+**International Nordstrom.com orders made with Borderfree have a different return process and do not qualify for free returns or merchandise exchanges. For a refund that includes duties, taxes and tariffs, please contact Nordstrom  [customer service](https://nordstrom.custhelp.com/app/ask/incidents.c$sent_queueid/12?jid=j011676-12408&cm_sp=merch-_-services_12408_j011676-_-freelayout_corp_p06_details "customer service")  and ask them to send you a Return Merchandise Authorization form on behalf of Borderfree. Then mail the completed form with your item(s) to Borderfree. If you choose to return an international order directly to Nordstrom, you will receive a refund for the merchandise from Borderfree but not duties, taxes or tariffs. Learn more about  [international returns](https://www.nordstrom.com/c/international-orders#anchor-link-returns-exchanges "international returns").
+
+[Back to Top](https://www.nordstrom.com/c/return-policy# "Back to Top")
+
+**What about returns for purchases at Nordstrom.com?**  
+Simply  [send your item back](https://secure.nordstrom.com/my-account/blank-return?jid=j011740-12988&cid=00000&cm_sp=merch-_-services_12988_j011740-_-freelayout_corp_p99_info "send your item back")  or bring it to a store near you and we'll do our best to take care of you.
+
+[Back to Top](https://shop.nordstrom.com/c/return-policy# "Back to Top")
+
+**Do I need a receipt from my purchase?**  
+Your receipt or order number helps us locate your purchase the fastest. If you don't have a receipt, we should be able to find the purchase in other ways, but we may ask you for more information so we can better assist with your request. If no record of sale is available and we choose to provide a refund, your personal identification will be required to process the return and the return is provided at current price on a Nordstrom Gift Card.
+
+[Back to Top](https://shop.nordstrom.com/c/return-policy# "Back to Top")
+
+**Do you take everything back?**  
+We'll do our best to take care of you, but from time to time we cannot accommodate a return.
+
+[Back to Top](https://shop.nordstrom.com/c/return-policy# "Back to Top")
+
+**Is there a time limit? What if the item is worn?**  
+We will do our best to take care of customers and deal with them fairly; we ask that our customers treat us fairly as well. From time to time we may not accept a return. There are no time limits for returns or exchanges.
+
+[Back to Top](https://shop.nordstrom.com/c/return-policy# "Back to Top")
+
+**Why do special-occasion dresses and some designer items have tags that say if the tag is removed the garment cannot be returned?**  
+If customers need to return a special-occasion dress or designer item, we ask that the item be in the same condition as when they received it, with all packaging included and tags still attached. Customers have told us that it's important to them that the special-occasion dresses and designer items they're purchasing have not been worn or used prior to their purchase. Over the years, we have also found that we received a disproportionate number of returns that appeared to have been previously worn in these categories, compared to other categories we sell. To meet our customers' expectations, we implemented a tag or card to help ensure these items are returned in original condition.
+
+[Back to Top](https://shop.nordstrom.com/c/return-policy# "Back to Top")
+
+**Are there restocking fees?**  
+No.
+
+[Back to Top](https://shop.nordstrom.com/c/return-policy# "Back to Top")
+
+**Why does Nordstrom request my personal identification for a return without a record of sale?**  
+Because of our liberal return philosophy, we have this internal auditing procedure to give us the ability to monitor and investigate refunds and returns without a record of sale.
+
+[Back to Top](https://shop.nordstrom.com/c/return-policy# "Back to Top")
+
+**Do you take checks?**  
+Checks will no longer be accepted as payment for merchandise. However, checks will continue to be accepted for payment on accounts.
+
+[Back to Top](https://shop.nordstrom.com/c/return-policy# "Back to Top")
+
+**How do you process my return if I paid with PayPal (U.S.)?**  
+If the full amount of your purchase was made with PayPal, your refund will be credited to the same PayPal account. If your PayPal purchase included a Nordstrom Note or Nordstrom Gift Card, your refund will be credited to your PayPal account in separate amounts. If your return is made in store, you'll receive your refund in the form of a Nordstrom Gift Card.
+
+[Back to Top](https://shop.nordstrom.com/c/return-policy# "Back to Top")
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzMzNDQzMzksLTQ1NjYyNzQ5NywtMT
-cyMjUyMTU4LC0xMTk3NzMyMjg1LC01MDk0MzEzMjksLTEwNzMz
-MTkxNDAsMjA0MDI5NzYyMl19
+eyJoaXN0b3J5IjpbNzY4MDgwODc2LC0xMzczMzQ0MzM5LC00NT
+Y2Mjc0OTcsLTE3MjI1MjE1OCwtMTE5NzczMjI4NSwtNTA5NDMx
+MzI5LC0xMDczMzE5MTQwLDIwNDAyOTc2MjJdfQ==
 -->
