@@ -398,15 +398,14 @@ For the best service and selection, please order your replacement items online o
 
 Please call customer service in the U.S. at 1.888.282.6060 for assistance returning oversized items, perishable goods or other unusual merchandise.
 
-[Back to Top](https://www.nordstrom.com/c/return-policy# "Back to Top")
 
-**How are my refunds credited?**  
+#### How are my refunds credited?
 All refunds will be credited to your original form of payment or a Nordstrom Gift Card. We offer gift receipts to customers when purchasing gifts. When returning a gift, you'll receive your refund only on a Nordstrom Gift Card. If we choose to provide a refund and no record of sale is available, we will ask for personal identification and a return will be provided at current price on a Nordstrom Gift Card. (Gift Cards cannot be redeemed for cash unless required by law.)
 
 -   Items Returned by Mail: If you ordered by credit card, we'll credit your account within 14 business days. This will show on your next statement, depending on the issuing bank and/or billing cycle. If you have requested an exchange, your account will be charged for the new item and credited for the return. If you paid with a Gift Card or Nordstrom Notes, we'll email you an electronic Nordstrom Gift Card. If a credit card was used in combination with a Gift Card or Nordstrom Notes, the merchandise amount charged to the Gift Card or Nordstrom Note may be refunded via an electronic Nordstrom Gift Card.
 -   Shipping Charges: Unfortunately, we cannot refund shipping charges.
 
-**GIFT CARDS**  
+#### GIFT CARDS**  
 Gift Cards can't be returned.
 
 **WESTIN HEAVENLY® BED**  
@@ -475,8 +474,8 @@ If the full amount of your purchase was made with PayPal, your refund will be cr
 
 [Back to Top](https://shop.nordstrom.com/c/return-policy# "Back to Top")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTkyMTQwMjIsLTEyNDUxMzAyNjcsOT
-c4OTcxMTA5LC0xMzczMzQ0MzM5LC00NTY2Mjc0OTcsLTE3MjI1
-MjE1OCwtMTE5NzczMjI4NSwtNTA5NDMxMzI5LC0xMDczMzE5MT
-QwLDIwNDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbMjQ1ODQzNjAxLC0xMjQ1MTMwMjY3LDk3OD
+k3MTEwOSwtMTM3MzM0NDMzOSwtNDU2NjI3NDk3LC0xNzIyNTIx
+NTgsLTExOTc3MzIyODUsLTUwOTQzMTMyOSwtMTA3MzMxOTE0MC
+wyMDQwMjk3NjIyXX0=
 -->
