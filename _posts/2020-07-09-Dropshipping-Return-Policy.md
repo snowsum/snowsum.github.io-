@@ -77,60 +77,6 @@ Policies will vary depending on the logistics of your business and the products 
 -   What products can be returned for (store credit, refund, a product of equal value, etc.)
 -   How to initiate a return or exchange (e.g. an email address to contact or a web page to visit)
 
-### Return policy template 1
-
-Below is a basic template for a return policy that can be adapted to fit your business. Just replace the bolded text with your own policy and use the lists as a guide to ensure you don’t forget to include any important information:
-
-If you’re looking to return or exchange your order for whatever reason, we're here to help! We offer  **free returns**  **or exchanges** within  **30 days**  of receiving your order. You can return your product for  **store credit**,  **a** **different product**, or a  **refund**  to the original payment method.
-
-Please note the following exceptions to our return and exchange policy:
-
-_Below are some examples of common exceptions._
-
--   Discounted items are final and cannot be returned or exchanged
--   Returned items must have tags still on and be returned in original packaging
--   Returned items must have no visible signs of wear or use
-
-To initiate a return or exchange, please complete the following steps:
-
-_Your steps should be laid out clearly, linking to relevant pages, such as your online portal._
-
-1.  Login to our online return portal using your email address and order ID
-2.  Choose the products you wish to return or exchange from your order
-3.  Print your prepaid shipping label that you will receive by email
-4.  Send all items back to us using the label provided
-
-Additional Information:
-
-_The following are add-ons with more information that you may want to include._
-
--   How long it takes to receive your refund, replacement product, or store credit
--   Any shipping fees the customer will need to pay
--   Any return restocking fees the customer will need to pay
--   How you handle lost or damaged returns
--   Contact information for your business if the customer has more questions
-
-### Return Policy Template 2
-
-This short template should provide you with the perfect starting point for a return and refund policy to display on your eCommerce store. Keeping your return policies as short and as simple as possible is often the best thing to do as it prevents confusion and saves customers and staff time.
-
-Thank you for shopping at business name.  
-If you’re not happy with your purchase, we’re more than happy to help you.
-
-**Returns**  
-You have X number of days to return an item from the date that you purchase it.  
-To be eligible for a return here at business name, the product that you purchased must be unused, still in its original packaging, and in the same condition as when you purchased it.  
-We require the original receipt or proof of purchase to be eligible for a return.
-
-**Refunds**  
-Once we have received your item, we will let you know that we’ve received it and that we are in the process of evaluating if it’s in the same condition as when it was delivered to you. We will let you know the status of your refund as soon as we have finished inspecting your item.  
-If we approve your refund, we will refund it to the original method of payment. Depending on your card issuer’s policies, you will receive the refund in a number of days.
-
-**Shipping**  
-You will be responsible for paying the costs of shipping your item back to us. The costs of shipping are non-refundable and non-negotiable. If you are issued a refund, the cost of shipping will be deducted from it.
-
-If you have any further question regarding your refund, please, don’t hesitate to contact us to find out more.
-
 ## Where to surface your return policy
 
 It is not enough to have a well-written return and exchange policy—you must also make sure that customers see it before they buy. When talking to a frustrated customer who is trying to return an item marked as final sale, simply telling them it’s their fault for not reading the policy is unlikely to resolve the issue.
@@ -249,10 +195,67 @@ How you decide to deal with these unsatisfied customers is an important factor i
 
 Writing a clear return policy that feeds into a well-thought-out return and exchange system—and regularly optimizing it to make it more efficient—is a powerful way to cut costs and potentially turn a bad customer experience into a net positive outcome for your business.
 
+## 36 return policies templates from top stores
+
+Below are some basic templates for a return policy that can be adapted to fit your business. Just replace the bolded text with your own policy and use the lists as a guide to ensure you don’t forget to include any important information:
+
+
+### Return policy template 1
+
+If you’re looking to return or exchange your order for whatever reason, we're here to help! We offer  **free returns**  **or exchanges** within  **30 days**  of receiving your order. You can return your product for  **store credit**,  **a** **different product**, or a  **refund**  to the original payment method.
+
+Please note the following exceptions to our return and exchange policy:
+
+_Below are some examples of common exceptions._
+
+-   Discounted items are final and cannot be returned or exchanged
+-   Returned items must have tags still on and be returned in original packaging
+-   Returned items must have no visible signs of wear or use
+
+To initiate a return or exchange, please complete the following steps:
+
+_Your steps should be laid out clearly, linking to relevant pages, such as your online portal._
+
+1.  Login to our online return portal using your email address and order ID
+2.  Choose the products you wish to return or exchange from your order
+3.  Print your prepaid shipping label that you will receive by email
+4.  Send all items back to us using the label provided
+
+Additional Information:
+
+_The following are add-ons with more information that you may want to include._
+
+-   How long it takes to receive your refund, replacement product, or store credit
+-   Any shipping fees the customer will need to pay
+-   Any return restocking fees the customer will need to pay
+-   How you handle lost or damaged returns
+-   Contact information for your business if the customer has more questions
+
+### Return Policy Template 2
+
+This short template should provide you with the perfect starting point for a return and refund policy to display on your eCommerce store. Keeping your return policies as short and as simple as possible is often the best thing to do as it prevents confusion and saves customers and staff time.
+
+Thank you for shopping at business name.  
+If you’re not happy with your purchase, we’re more than happy to help you.
+
+**Returns**  
+You have X number of days to return an item from the date that you purchase it.  
+To be eligible for a return here at business name, the product that you purchased must be unused, still in its original packaging, and in the same condition as when you purchased it.  
+We require the original receipt or proof of purchase to be eligible for a return.
+
+**Refunds**  
+Once we have received your item, we will let you know that we’ve received it and that we are in the process of evaluating if it’s in the same condition as when it was delivered to you. We will let you know the status of your refund as soon as we have finished inspecting your item.  
+If we approve your refund, we will refund it to the original method of payment. Depending on your card issuer’s policies, you will receive the refund in a number of days.
+
+**Shipping**  
+You will be responsible for paying the costs of shipping your item back to us. The costs of shipping are non-refundable and non-negotiable. If you are issued a refund, the cost of shipping will be deducted from it.
+
+If you have any further question regarding your refund, please, don’t hesitate to contact us to find out more.
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3ODU4NzczMiwtMTcyMjUyMTU4LC0xMT
+eyJoaXN0b3J5IjpbLTQ1NjYyNzQ5NywtMTcyMjUyMTU4LC0xMT
 k3NzMyMjg1LC01MDk0MzEzMjksLTEwNzMzMTkxNDAsMjA0MDI5
 NzYyMl19
 -->
