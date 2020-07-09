@@ -431,50 +431,47 @@ International Nordstrom.com orders made with Borderfree have a different return 
 #### What about returns for purchases at Nordstrom.com?  
 Simply  [send your item back](https://secure.nordstrom.com/my-account/blank-return?jid=j011740-12988&cid=00000&cm_sp=merch-_-services_12988_j011740-_-freelayout_corp_p99_info "send your item back")  or bring it to a store near you and we'll do our best to take care of you.
 
-[Back to Top](https://shop.nordstrom.com/c/return-policy# "Back to Top")
 
-**Do I need a receipt from my purchase?**  
+
+#### Do I need a receipt from my purchase?  
 Your receipt or order number helps us locate your purchase the fastest. If you don't have a receipt, we should be able to find the purchase in other ways, but we may ask you for more information so we can better assist with your request. If no record of sale is available and we choose to provide a refund, your personal identification will be required to process the return and the return is provided at current price on a Nordstrom Gift Card.
 
-[Back to Top](https://shop.nordstrom.com/c/return-policy# "Back to Top")
 
-**Do you take everything back?**  
+
+#### Do you take everything back? 
 We'll do our best to take care of you, but from time to time we cannot accommodate a return.
 
-[Back to Top](https://shop.nordstrom.com/c/return-policy# "Back to Top")
 
-**Is there a time limit? What if the item is worn?**  
+
+#### Is there a time limit? What if the item is worn?
 We will do our best to take care of customers and deal with them fairly; we ask that our customers treat us fairly as well. From time to time we may not accept a return. There are no time limits for returns or exchanges.
 
-[Back to Top](https://shop.nordstrom.com/c/return-policy# "Back to Top")
 
-**Why do special-occasion dresses and some designer items have tags that say if the tag is removed the garment cannot be returned?**  
+
+#### Why do special-occasion dresses and some designer items have tags that say if the tag is removed the garment cannot be returned?
 If customers need to return a special-occasion dress or designer item, we ask that the item be in the same condition as when they received it, with all packaging included and tags still attached. Customers have told us that it's important to them that the special-occasion dresses and designer items they're purchasing have not been worn or used prior to their purchase. Over the years, we have also found that we received a disproportionate number of returns that appeared to have been previously worn in these categories, compared to other categories we sell. To meet our customers' expectations, we implemented a tag or card to help ensure these items are returned in original condition.
 
-[Back to Top](https://shop.nordstrom.com/c/return-policy# "Back to Top")
 
-**Are there restocking fees?**  
+#### Are there restocking fees?
 No.
 
-[Back to Top](https://shop.nordstrom.com/c/return-policy# "Back to Top")
 
-**Why does Nordstrom request my personal identification for a return without a record of sale?**  
+#### Why does Nordstrom request my personal identification for a return without a record of sale?
 Because of our liberal return philosophy, we have this internal auditing procedure to give us the ability to monitor and investigate refunds and returns without a record of sale.
 
-[Back to Top](https://shop.nordstrom.com/c/return-policy# "Back to Top")
 
-**Do you take checks?**  
+
+#### Do you take checks?
 Checks will no longer be accepted as payment for merchandise. However, checks will continue to be accepted for payment on accounts.
 
-[Back to Top](https://shop.nordstrom.com/c/return-policy# "Back to Top")
 
-**How do you process my return if I paid with PayPal (U.S.)?**  
+#### How do you process my return if I paid with PayPal (U.S.)?
 If the full amount of your purchase was made with PayPal, your refund will be credited to the same PayPal account. If your PayPal purchase included a Nordstrom Note or Nordstrom Gift Card, your refund will be credited to your PayPal account in separate amounts. If your return is made in store, you'll receive your refund in the form of a Nordstrom Gift Card.
 
-[Back to Top](https://shop.nordstrom.com/c/return-policy# "Back to Top")
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMzMyMjY3MywtMTI0NTEzMDI2Nyw5Nz
-g5NzExMDksLTEzNzMzNDQzMzksLTQ1NjYyNzQ5NywtMTcyMjUy
-MTU4LC0xMTk3NzMyMjg1LC01MDk0MzEzMjksLTEwNzMzMTkxND
-AsMjA0MDI5NzYyMl19
+eyJoaXN0b3J5IjpbNTEzMDQ0MjUsLTEyNDUxMzAyNjcsOTc4OT
+cxMTA5LC0xMzczMzQ0MzM5LC00NTY2Mjc0OTcsLTE3MjI1MjE1
+OCwtMTE5NzczMjI4NSwtNTA5NDMxMzI5LC0xMDczMzE5MTQwLD
+IwNDAyOTc2MjJdfQ==
 -->
