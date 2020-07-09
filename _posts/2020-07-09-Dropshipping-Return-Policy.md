@@ -195,16 +195,16 @@ How you decide to deal with these unsatisfied customers is an important factor i
 
 Writing a clear return policy that feeds into a well-thought-out return and exchange system—and regularly optimizing it to make it more efficient—is a powerful way to cut costs and potentially turn a bad customer experience into a net positive outcome for your business.
 
-## 36 return policies templates from top stores
+# 36 return policies templates from top stores
 
 Below are some basic templates for a return policy that can be adapted to fit your business. Just replace the bolded text with your own policy and use the lists as a guide to ensure you don’t forget to include any important information:
 
-### Case 1-
+## Case 1 - Sephora.com
 ### RETURNS & EXCHANGES
 
 Last Updated: April 9, 2020
 
->  [Temporary Extended Returns Policy Due to COVID-19](https://www.sephora.com/returns-exchanges#covid19)  
+ [Temporary Extended Returns Policy Due to COVID-19](https://www.sephora.com/returns-exchanges#covid19)  
 >  [Returns Policy](https://www.sephora.com/returns-exchanges#Returns)  
 >  [Sephora.com Purchases](https://www.sephora.com/returns-exchanges#SephoraPurchases)  
 >  [Sephora.com Returns by Mail](https://www.sephora.com/returns-exchanges#ByMail)  
@@ -277,7 +277,7 @@ If you have any further question regarding your refund, please, don’t hesitate
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcxMTQ3MDM5LC00NTY2Mjc0OTcsLTE3Mj
-I1MjE1OCwtMTE5NzczMjI4NSwtNTA5NDMxMzI5LC0xMDczMzE5
-MTQwLDIwNDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbLTIwOTY0ODc1MjYsLTQ1NjYyNzQ5NywtMT
+cyMjUyMTU4LC0xMTk3NzMyMjg1LC01MDk0MzEzMjksLTEwNzMz
+MTkxNDAsMjA0MDI5NzYyMl19
 -->
