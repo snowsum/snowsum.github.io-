@@ -225,6 +225,20 @@ For product purchases made in-store on or after February 15, 2020, we will accep
 | Credit or debit card |  Your credit or debit card used to make the purchase.|
 | PayPal | Your PayPal account.|
 | Klarna |  Your Klarna account.|
+| Sephora gift card, Sephora online store credit or JCPenney card* |  You will receive an online store credit which may be redeemed at Sephora.com.|
+* Please return your item(s) to a Sephora Inside JCPenney store in order to receive a full refund on your JCPenney card.
+### Returns Policy
+
+If you are not completely satisfied with a Sephora purchase or gift for any reason, please review our return, refund, and exchange policies below for Sephora.com purchases and in-store purchases. Products must be returned in new or gently used condition. Sephora monitors return activity for abuse and reserves the right to limit returns or exchanges at Sephora and Sephora inside JCPenney in all instances. Beauty Insider points and spend associated with all refunds will be removed when the transaction is processed. All returns are subject to validation and approval at Sephora’s discretion.
+
+THIS POLICY IS EFFECTIVE FOR ALL PURCHASES MADE ON AND AFTER APRIL 9, 2020.
+
+### Sephora.com Purchases
+
+Sephora.com purchases can be easily returned for FREE (no return shipping or handling fees) to any of our  [Sephora locations](https://www.sephora.com/happening/stores/sephora-near-me)  for fast processing or by mail if you use our pre-paid return shipping label (follow the return procedures described below). We regret that we are unable to refund your original shipping charges, if applicable, unless the return was a result of our error. Please allow three weeks for your return to be processed if sent by mail. You will receive an email confirmation once your return has been processed. Your financial institution may take longer to reflect the transaction.
+
+♦ When you return your purchase to Sephora.com by mail, if your new or gently used product is received by Sephora within 60 days of purchase, you will receive the following refund:
+
 
 ### Return policy template 1
 
@@ -281,7 +295,7 @@ If you have any further question regarding your refund, please, don’t hesitate
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzODEwMDQ5LC00NTY2Mjc0OTcsLTE3Mj
-I1MjE1OCwtMTE5NzczMjI4NSwtNTA5NDMxMzI5LC0xMDczMzE5
-MTQwLDIwNDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbMTk1NTQ3Njc3NywtNDU2NjI3NDk3LC0xNz
+IyNTIxNTgsLTExOTc3MzIyODUsLTUwOTQzMTMyOSwtMTA3MzMx
+OTE0MCwyMDQwMjk3NjIyXX0=
 -->
