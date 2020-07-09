@@ -254,8 +254,59 @@ For more information on how to redeem your online store credit, please go to Cus
 | Credit or debit card | Your credit or debit card used to make the purchase. | A Sephora store credit that can be used at Sephora stores but is not valid for use on Sephora.com.|
 |PayPal|A Sephora gift card.|A Sephora store credit that can be used at Sephora stores but is not valid for use on Sephora.com.|
 |Klarna|A Sephora gift card.|A Sephora store credit that can be used at Sephora stores but is not valid for use on Sephora.com.|
-|Sephora gift card|An online store credit that can be used at Sephora.com but is not valid for use in Sephora stores.|A Sephora store credit that can be used at Sephora stores but is not valid for use on Sephora.com.|
-|Sephora gift card, Sephora online store credit or JCPenney card*|An online store credit that can be used at Sephora.com but is not valid for use in Sephora stores.|A Sephora store credit that can be used at Sephora stores but is not valid for use on Sephora.com.|
+|Sephora gift card|A Sephora gift card.|A Sephora store credit that can be used at Sephora stores but is not valid for use on Sephora.com.|
+|Sephora online store credit or JCPenney card*|A Sephora store credit that can be used at Sephora stores but is not valid for use on Sephora.com.|A Sephora store credit that can be used at Sephora stores but is not valid for use on Sephora.com.|
+
+*Please return your item(s) to a Sephora Inside JCPenney store in order to receive a full refund on your JCPenney card.
+
+Items purchased on Sephora.com may not be returned by mail or in stores, and will not be refunded, more than 60 days after the purchase date.
+
+Items shipped to Sephora outside of the returns window, not in new or gently used condition, without a Sephora original packing slip, or not purchased at Sephora, may not be credited back or returned to you. We will not offer replacements or refunds for orders or items that are reported missing or damaged that we reasonably believe to have been delivered to a parcel forwarding company.
+
+Sephora.com is unable to offer exchanges by mail; however, we are happy to exchange your new or gently used product in any of our store locations within 60 days of purchase.
+
+If there is a discrepancy between the return policy and procedures printed on the Sephora original packing slip and the information provided above, the information provided above governs the return of your Sephora.com purchase.
+
+### Sephora.com Return Procedures
+
+Here are two easy ways to return your item:
+
+### 1. Sephora.com Returns by Mail
+
+[Click here to start or track a return](https://returns.narvar.com/sephora/returns?locale=en_US)
+
+♦ Include the Sephora original packing slip with your items.  
+♦ Package your return item in the manufacturer's product box and Sephora packaging (if available). Otherwise, pack your return in a well-padded envelope or box to prevent damage in transit.  
+♦ Print the Prepaid Return Label from the link above and mail your return via United States Postal Service.  
+♦ You will receive an email confirmation when your return is processed.
+
+It takes up to three weeks to process returns and credit your account or to issue an online store credit. Please note that your financial institution may take longer to reflect the transaction.
+
+### 2. Sephora.com Returns to Store Location
+
+Visit any free standing  [Sephora store](https://www.sephora.com/stores/sephora-near-me)  to return a new or gently used item purchased from Sephora.com within 60 days of purchase. Please bring your Sephora original packing slip with you, as well as the credit card you used to place your order.
+
+### Gift Returns
+
+If you are returning a Sephora gift that you received by mail and do not want the refund to go to the purchaser, before mailing the return please call 1-877-SEPHORA (1-877-737-4672) to set-up the gift return under your account.
+
+Your refund will be in the form of an online store credit that you can use at any time on Sephora.com. You may also call us at 1-877-SEPHORA (1-877-737-4672) to redeem your online store credit.
+
+### Sephora In-store Purchases
+
+Sephora in-store purchases may be returned if the product is in new or gently used condition within 30 days of purchase with a receipt or gift receipt at a store location for a refund in the same form of payment as your purchase was made. If a gift receipt is presented, you will receive a store credit in the form of a Sephora merchandise credit.
+
+For approved returns made 31 to 60 days after purchase, we offer store credit in the form of a Sephora merchandise credit.
+
+Sephora merchandise credit does not have an expiration date, cannot be redeemed for cash (unless required by law), reloaded, transferred to others, or sold and can only be used at Sephora stores (not at Sephora.com or through Customer Service). Sephora merchandise credit will not be replaced if lost or stolen.
+
+Sephora is also happy to exchange your new or gently used Sephora in-store purchase for another product within 60 days of purchase.
+
+We do not accept mail returns for merchandise originally purchased at a retail location.
+
+### Canadian and International Returns
+
+See the  [Canadian Returns](https://www.sephora.com/returns-exchanges?country_switch=ca)  or  [International Shipments](https://www.sephora.com/international-shipments#InternationalReturns)  sections of Customer Service or call 1-877-SEPHORA (1-877-737-4672) for instructions.
 
 ### Return policy template 1
 
@@ -308,11 +359,11 @@ If we approve your refund, we will refund it to the original method of payment. 
 You will be responsible for paying the costs of shipping your item back to us. The costs of shipping are non-refundable and non-negotiable. If you are issued a refund, the cost of shipping will be deducted from it.
 
 If you have any further question regarding your refund, please, don’t hesitate to contact us to find out more.
-
+## Case 2 - Sephora.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEzNjIxNzgsLTQ1NjYyNzQ5NywtMTcyMj
-UyMTU4LC0xMTk3NzMyMjg1LC01MDk0MzEzMjksLTEwNzMzMTkx
-NDAsMjA0MDI5NzYyMl19
+eyJoaXN0b3J5IjpbLTEzNzMzNDQzMzksLTQ1NjYyNzQ5NywtMT
+cyMjUyMTU4LC0xMTk3NzMyMjg1LC01MDk0MzEzMjksLTEwNzMz
+MTkxNDAsMjA0MDI5NzYyMl19
 -->
