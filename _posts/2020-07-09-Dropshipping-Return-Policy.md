@@ -586,15 +586,49 @@ Please try on over underwear for sanitary reasons. Do not remove protective slip
 Please be careful of makeup or deodorant rubbing off on the garment.
 [](https://www.revolve.com/returnsexchanges#accordion-tracking)
 
-## TRACKING MY RETURN
+#### TRACKING MY RETURN
 
-### DOMESTIC
+##### DOMESTIC
 
 Your return tracking number is stored in your purchase history. When viewing your history, you can click on the respective order number for your return and the return tracking number will be itemized beneath each item that was included in the order. You can trace your return using that tracking number on UPS.com.
+[](https://www.revolve.com/returnsexchanges#accordion-refunds)
+
+#### REFUNDS
+
+##### DOMESTIC
+
+Returns take us 2-3 business days to process upon reaching our facility. Once your return is processed and your refund is issued, you will receive a refund confirmation email. Refunds can take several business days to reflect on your credit card account. This varies depending on your financial institution.
+[](https://www.revolve.com/returnsexchanges#accordion-exceptions)
+
+#### EXCEPTIONS
+
+##### BEAUTY PRODUCTS
+
+We will accept back beauty products within 30 days provided that they are unused and unopened.
+
+##### SHIPPING CHARGES
+
+Shipping charges on expedited orders are not refundable.
+
+##### MODIFIED POLICY
+
+If you return more than $7500 in a 12 month period you may be subject to a modified return policy. We will contact you if you are subject to the modified policy.
+
+##### BRIDAL GOWNS
+
+All bridal gowns may be returned within 30 days for a full refund or store credit. We cannot accept returns on any bridal gowns after 30 days. Bridal gowns must be unworn and unaltered, and all original tags must be attached.
+
+#### BRIDESMAID DRESSES
+
+Special orders of 3 or more dresses in one style will be final sale. If you are interested in a particular style, we encourage you to order an in-stock size in the style, if available, before special ordering.
+
+### HOLIDAY RETURNS
+
+During the Holiday season (Nov. 1st - Dec 25th), we will accept your return after 30 days so long as it is received by January 10th.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MzY1MzM1NSwxMzgwMTE1NDE0LDIzMj
-M5ODUzNywtMTM2NzQ4MTU5MCwtMTk1MDc1MzM1OSwtMTI0NTEz
-MDI2Nyw5Nzg5NzExMDksLTEzNzMzNDQzMzksLTQ1NjYyNzQ5Ny
-wtMTcyMjUyMTU4LC0xMTk3NzMyMjg1LC01MDk0MzEzMjksLTEw
-NzMzMTkxNDAsMjA0MDI5NzYyMl19
+eyJoaXN0b3J5IjpbMjY1OTAyMTQsMTM4MDExNTQxNCwyMzIzOT
+g1MzcsLTEzNjc0ODE1OTAsLTE5NTA3NTMzNTksLTEyNDUxMzAy
+NjcsOTc4OTcxMTA5LC0xMzczMzQ0MzM5LC00NTY2Mjc0OTcsLT
+E3MjI1MjE1OCwtMTE5NzczMjI4NSwtNTA5NDMxMzI5LC0xMDcz
+MzE5MTQwLDIwNDAyOTc2MjJdfQ==
 -->
