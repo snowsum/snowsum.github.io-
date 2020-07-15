@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Dropshipping retrun policy 101-"
+categories: [ shopify,return policy ]
+image: https://i.imgur.com/lLt4ZZ2.png
+tags: [sticky]
+---
 Selling your product to a customer and receiving payment might not be the end of the sales process. You need to be prepared for situations where customers return products or are unhappy with your service.
 
 To prevent confusion, frustration, and the potential loss of customers, it’s imperative that you have a clear return policy for your retail store. Having a return policy that is set in stone is important for your business as it allows you to standardize your process to better keep track of goods being returned. It can even help you to discover any unusual return patterns or issues with a particular batch of goods..
@@ -844,11 +851,11 @@ Just because shipping is free, doesn't mean it should take a long time. Zappos o
 
 #### We look forward to giving you more reasons to fall in love with all that we have to offer!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2Njc3NTE4MiwtMjk2NDY2Nzc0LDExMD
-EwNDY4NDYsLTEyOTczODIyNDQsLTYzNzc3MTA1NiwtMTU1Nzg0
-MzgzMyw4NzQ0NDk2NTgsLTk3MTk5NzMzMCw2NzEwMzE2NjMsMT
-M4MDExNTQxNCwyMzIzOTg1MzcsLTEzNjc0ODE1OTAsLTE5NTA3
-NTMzNTksLTEyNDUxMzAyNjcsOTc4OTcxMTA5LC0xMzczMzQ0Mz
-M5LC00NTY2Mjc0OTcsLTE3MjI1MjE1OCwtMTE5NzczMjI4NSwt
-NTA5NDMxMzI5XX0=
+eyJoaXN0b3J5IjpbLTExNTI4ODY2NTAsLTI5NjQ2Njc3NCwxMT
+AxMDQ2ODQ2LC0xMjk3MzgyMjQ0LC02Mzc3NzEwNTYsLTE1NTc4
+NDM4MzMsODc0NDQ5NjU4LC05NzE5OTczMzAsNjcxMDMxNjYzLD
+EzODAxMTU0MTQsMjMyMzk4NTM3LC0xMzY3NDgxNTkwLC0xOTUw
+NzUzMzU5LC0xMjQ1MTMwMjY3LDk3ODk3MTEwOSwtMTM3MzM0ND
+MzOSwtNDU2NjI3NDk3LC0xNzIyNTIxNTgsLTExOTc3MzIyODUs
+LTUwOTQzMTMyOV19
 -->
