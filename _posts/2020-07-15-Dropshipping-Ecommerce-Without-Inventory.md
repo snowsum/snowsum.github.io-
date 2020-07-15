@@ -2,7 +2,7 @@
 layout: post
 title:  "About Bundler"
 author: sal
-categories: [ Jekyll ]
+categories: [ start-up, ecommerce, shopify ]
 image: 
 ---
 
@@ -2250,5 +2250,5 @@ The entrepreneurs who have been so successful didn’t get to where they are tod
 
 **Wholesaler** – A supplier that sells to retailers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY3ODEyMTMwXX0=
+eyJoaXN0b3J5IjpbLTMyODU4OTQzNV19
 -->
