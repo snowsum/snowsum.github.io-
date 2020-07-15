@@ -791,12 +791,38 @@ At this time we do not offer exchanges. If you would like to exchange a product,
 -   Classes are refundable up to start date of class, in store only.
 -   Michaels reserves the right to limit returns or exchanges.
 
+## Case 7 - 
+### SHIPPING & RETURN POLICY
 
+#### FREE SHIPPING
+
+Zappos always provides FREE standard shipping on ALL orders – no minimums or exclusions! Some customers may qualify for upgraded shipping at no charge – check out our  [mobile app](https://www.zappos.com/c/apps)  or  [Zappos VIP](https://www.zappos.com/c/vip)  for details.
+
+#### FREE 365 DAY RETURNS
+
+Return shipping from anywhere in the United States is always FREE. If you are not 100% satisfied with your purchase from Zappos, you can return your qualifying item(s) for a full refund within 365 days of purchase – no catches or exceptions! Returns must be unworn with the original tags attached (including the security tag, if applicable) and with the original packaging; returned merchandise that does not satisfy these requirements may not qualify for a refund. Click  [here](https://www.zappos.com/returns)  to start your easy self-service return, or  [contact us](https://www.zappos.com/c/contact-us). If you have received defective, damaged or incorrect merchandise, please  [contact us](https://www.zappos.com/c/contact-us)  directly.
+
+Once we receive your qualifying return and approve your refund, Zappos will credit your original method of payment. Depending on your financial institution, please allow an additional 2 – 10 business days for the credit to post to your bank or credit card account.
+
+#### EXCHANGES
+
+You also have the option to exchange an eligible order instead of returning it for a refund. You may be able to process an exchange yourself for certain eligible orders in your Zappos.com account. If an order is eligible, you will see an option in your account to select an item to exchange, and will be provided the instructions and terms that apply to your exchange.
+
+If an exchange option is not available in your Zappos.com account, you can  [contact us](https://www.zappos.com/c/contact-us)  to initiate your exchange. Our exchange process is slightly different than others because we want to get your new order to you faster! The funds from your original order will be immediately transferred to an e-Gift Card when the exchange is initiated. Zappos will then apply the e-Gift Card to your replacement order. We just require the original order be returned within 14 days (Zappos will provide a free return label). If we do not receive the original order back within 14 days, the credit card on file will be charged the full amount of that order. However, if the replacement order is subsequently returned, Zappos will issue the refund back to an e-Gift Card for the full amount (less any shipping charges from the original order) instead of the original method of payment.
+
+#### SHIPPING DESTINATIONS & SPEEDS
+
+Zappos ships anywhere in the United States, and to all US territories and military APO/FPO addresses.
+
+Just because shipping is free, doesn't mean it should take a long time. Zappos offers 3 shipping speeds: 3-5 business days, 2-business days, and 1-business day. You may expedite your shipping at the Checkout page. Please note some items are ineligible for expedited shipping – such as watches containing lithium batteries – these items will be marked as such in the product description. Expedited shipping is not available for shipments outside the continental United States; please allow additional time for your order to arrive to these locations. Orders to P.O. boxes, US territories or military APO/FPO addresses will ship via United States Postal Service (USPS). Delivery dates are subject to order cut-off times or carrier delays.
+
+**Questions?**  [Contact us](https://www.zappos.com/c/contact-us)  – the Zappos Customer Loyalty Team is available 24 hours a day, 365 days a year!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNzc3MTA1NiwtMTU1Nzg0MzgzMyw4Nz
-Q0NDk2NTgsLTk3MTk5NzMzMCw2NzEwMzE2NjMsMTM4MDExNTQx
-NCwyMzIzOTg1MzcsLTEzNjc0ODE1OTAsLTE5NTA3NTMzNTksLT
-EyNDUxMzAyNjcsOTc4OTcxMTA5LC0xMzczMzQ0MzM5LC00NTY2
-Mjc0OTcsLTE3MjI1MjE1OCwtMTE5NzczMjI4NSwtNTA5NDMxMz
-I5LC0xMDczMzE5MTQwLDIwNDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbMTM0NzE2NTk5NiwtNjM3NzcxMDU2LC0xNT
+U3ODQzODMzLDg3NDQ0OTY1OCwtOTcxOTk3MzMwLDY3MTAzMTY2
+MywxMzgwMTE1NDE0LDIzMjM5ODUzNywtMTM2NzQ4MTU5MCwtMT
+k1MDc1MzM1OSwtMTI0NTEzMDI2Nyw5Nzg5NzExMDksLTEzNzMz
+NDQzMzksLTQ1NjYyNzQ5NywtMTcyMjUyMTU4LC0xMTk3NzMyMj
+g1LC01MDk0MzEzMjksLTEwNzMzMTkxNDAsMjA0MDI5NzYyMl19
+
 -->
