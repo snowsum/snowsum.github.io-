@@ -718,18 +718,19 @@ Merchandise certificates can be redeemed in store at Gap, Old Navy, Banana Repub
 
 We offer a larger range of styles, sizes, and colors online than in our stores. Some of these items cannot be returned in stores, and must be returned by mail: these items are marked on your invoice as “Mail only.” As always, returns by mail are free and easy. Instructions for starting a free online return can be found  [here](https://athleta.gap.com/customerService/info.do?cid=79311&cs=items_bought_online).
 
-I am interested in purchasing an item that is marked as "Final Sale" on the website, or I have just purchased an item that is marked as "Final Sale" on the invoice. What does that mean?
+#### I am interested in purchasing an item that is marked as "Final Sale" on the website, or I have just purchased an item that is marked as "Final Sale" on the invoice. What does that mean?
 
 Final Sale items cannot be returned or exchanged by mail or in stores.
 
-I would like to return an item that I bought with rewards earned from a Gap Inc Credit Card / Rewards Program. What happens to my rewards?
+#### I would like to return an item that I bought with rewards earned from a Gap Inc Credit Card / Rewards Program. What happens to my rewards?
 
 If you return merchandise purchased with Reward Points, the dollar value of the reward(s) allocated to item(s) returned will be converted to Reward Points and credited to your Gap, Banana Republic, Old Navy, or Athleta account within the next 2 billing cycles. If you did not use your account, or if your account is closed, the dollar value of the Reward Point(s) allocated to the item(s) returned shall not be refunded or credited. Returns are subject to store location Return/Exchange policies. Additional restrictions may also apply.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNjk3Nzk1Myw4NzQ0NDk2NTgsLTk3MT
-k5NzMzMCw2NzEwMzE2NjMsMTM4MDExNTQxNCwyMzIzOTg1Mzcs
-LTEzNjc0ODE1OTAsLTE5NTA3NTMzNTksLTEyNDUxMzAyNjcsOT
-c4OTcxMTA5LC0xMzczMzQ0MzM5LC00NTY2Mjc0OTcsLTE3MjI1
-MjE1OCwtMTE5NzczMjI4NSwtNTA5NDMxMzI5LC0xMDczMzE5MT
-QwLDIwNDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbLTE1NTc4NDM4MzMsODc0NDQ5NjU4LC05Nz
+E5OTczMzAsNjcxMDMxNjYzLDEzODAxMTU0MTQsMjMyMzk4NTM3
+LC0xMzY3NDgxNTkwLC0xOTUwNzUzMzU5LC0xMjQ1MTMwMjY3LD
+k3ODk3MTEwOSwtMTM3MzM0NDMzOSwtNDU2NjI3NDk3LC0xNzIy
+NTIxNTgsLTExOTc3MzIyODUsLTUwOTQzMTMyOSwtMTA3MzMxOT
+E0MCwyMDQwMjk3NjIyXX0=
 -->
