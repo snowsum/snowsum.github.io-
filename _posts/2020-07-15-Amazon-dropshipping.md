@@ -2,7 +2,7 @@
 layout: post
 title:  "Amazon Dropshipping-(Quick Guide)"
 categories: [ start-up, ecommerce, shopify, amazon ]
-image: https://i.imgur.com/1Or3ja1.jpg
+image: [img]https://i.imgur.com/VvVU0jk.png[/img]
 ---
 
 
@@ -203,5 +203,5 @@ If you have additional questions or comments regarding dropshipping on Amazon, l
 
 Happy selling!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDY4MjI1NTFdfQ==
+eyJoaXN0b3J5IjpbOTQyMzIzNTY1LC0xMjA2ODIyNTUxXX0=
 -->
