@@ -11,7 +11,7 @@ But before we dive into how to write a return policy for your store and implemen
 5.  [Where to surface your policy](#where-to-surface-your-policy)
 6.  [Choosing a service to power your process](#choosing-a-service-to-power-your-process)
 7.  [Strategies for more profitable returns and exchanges](#strategies-for-more-profitable-returns-and-exchanges)
-8.  [Making the most of returns and exchanges](#making-the-most of returns and exchanges)
+8.  [Making the most of returns and exchanges](#making-the-most-of-returns-and-exchanges)
 
 ## How returns and exchanges impact your business
 
@@ -844,7 +844,7 @@ Just because shipping is free, doesn't mean it should take a long time. Zappos o
 
 #### We look forward to giving you more reasons to fall in love with all that we have to offer!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NDE3NzQ4MCwtMjk2NDY2Nzc0LDExMD
+eyJoaXN0b3J5IjpbMjA2Njc3NTE4MiwtMjk2NDY2Nzc0LDExMD
 EwNDY4NDYsLTEyOTczODIyNDQsLTYzNzc3MTA1NiwtMTU1Nzg0
 MzgzMyw4NzQ0NDk2NTgsLTk3MTk5NzMzMCw2NzEwMzE2NjMsMT
 M4MDExNTQxNCwyMzIzOTg1MzcsLTEzNjc0ODE1OTAsLTE5NTA3
