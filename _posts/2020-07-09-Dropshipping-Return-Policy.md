@@ -12,11 +12,10 @@ To prevent confusion, frustration, and the potential loss of customers, it’s i
 But before we dive into how to write a return policy for your store and implement a system to handle requests, let's talk about why it's so important to get returns and exchanges right.
 
 1.  [How customer returns impact your business](#how-returns-and-exchanges-impact-your-business)
-2.  [An Effective Online Return Policy](#an-effective-online-return-policy)
-3.  [How to write a return policy](#how-to-write-a-return-policy)
-4.  [Choosing a service to power your process](#choosing-a-service-to-power-your-process)
+2.  [An Effective Online Return Policye](#an-effective-online-return-policy)
+3.  [How to write a return policy](#how-to-writ-.  [Choosing a service to power your process](#choosing-a-service-to-power-your-p)
 5.  [Strategies for more profitable returns and exchanges](#strategies-for-more-profitable-returns-and-exchanges)
-6.  [Making the most of returns and exchanges](#making-the-most-of-returns-and-exchanges)
+8.  [Making the most of returns and exchanges](#making-the-most-of-returns-and-exchanges)
 7. [6 return policies templates from top stores](#return-policies-templates-from-top-stores)
 
 ## How returns and exchanges impact your business
@@ -209,14 +208,17 @@ Below are some basic templates for a return policy that can be adapted to fit yo
 
 Last Updated: April 9, 2020
 
- [Temporary Extended Returns Policy Due to COVID-19](#temporary-extended-returns-policy-due-to-covid-19)  
+ [Temporary Extended Returns Policy Due to COVID-19](#temporary-extended-returns-policy-due-to-https://www.sephora.com/returns-exchanges#covid-19)  
  [Returns Policy](#returns-policy)  
-   [Sephora.com Purchases](#sephora.com-purchases)  
- [Sephora.com Returns by Mail](#sephora.com-returns-by-mail)  
- [Sephora.com Returns to a Store Location](#sephora.com-returns-to-a-store-location)  
+   [Sephora.com Purchases](#sephora.com-phttps://www.sephora.comreturns-eturns)  
+   [Sephora.com Purchases](https://www.sephora.com/returns-exchanges#SephoraPurchases)  
+ [Sephora.com Returns by Mail](#sephora.com-returns-ail)  
+ [Sephora.com Returns to a Store Location](#sephora.com-/returns-to-a-store-lexchanges#ByLocation)  
    [Gift Returns](#gift-returns)  
   [Sephora In-store Purchases](#sephora-in-store-purchases)  
- [Canadian and International Returns](#canadian-and-international-returns)
+ [Canadian and International Returns](#canadian-and-international-returnshttps://www.sephora.com/returns-exchanges#gift)  
+  [Sephora In-store Purchases](https://www.sephora.com/returns-exchanges#InstoreandJCP)  
+ [Canadian and International Returns](https://www.sephora.com/returns-exchanges#canada)
 
 ### Temporary Extended Returns Policy Due to COVID-19
 
@@ -328,7 +330,7 @@ Due to increased volume and the impact of COVID-19,  **we're experiencing delays
 
 #### Our Return Policy
 
-We handle returns on a case-by-case basis with the ultimate goal of making our customers happy. We stand behind our goods and services, and want customers to be satisfied with them. We'll always do our best to take care of customers—our philosophy is to deal with them fairly and reasonably. We have long believed that when we treat our customers fairly, they in turn are fair with us. We apply refunds to the tender with which returned items were purchased. If we choose to provide a refund and no record of sale is available, we'll ask for personal identification and a refund will be provided at the current price on a Nordstrom Gift Card.  
+We handle returns on a case-by-case basis with the ultimate goal of making our customers happy. We stand behind our goods and services, and want customers to be satisfied with them. We'll always do our best to take care of customers—our philosophy is to deal with them fairly and reasonably. We have long believed that when we treat our customers fairly, they in turn are fair with us. We apply refunds to the tender with which returned items were purchased. If we choose to provide a refund and no recordofsales available, we'll ask for personal identification and a refund will be provided at the current price on a Nordstrom Gift Card.  
   
 We do not accept returns of Nordstrom, Nordstrom.com or Nordstrom.ca merchandise at Nordstrom Rack locations. Boutique returns must be processed at the store in which they were purchased.
 
@@ -338,16 +340,16 @@ We do not accept returns of Nordstrom, Nordstrom.com or Nordstrom.ca merchandise
 
 [How do I exchange an item?](#how-do-i-exchange-an-item)  
 [How are my refunds credited?](#how-are-my-refunds-credited)  
-[How do I make an international return outside of the U.S. and Canada?](#how-do-i-make-an-international-return-outside-of-the-u.s.-and-canada)  
-[What about returns for purchases at Nordstrom.com?](#what-about-returns-for-purchases-at-nordstrom.com)  
-[Do I need a receipt from my purchase?](#do-i-need-a-receipt-from-my-purchase)
-[Do you take everything back?](#do-you-take-everything-back)  
-[Is there a time limit? What if the item is worn?](#is-there-a-time-limit-what-if-the-item-is-worn)  
-[Why do special-occasion dresses and some designer items have tags that say if the tag is removed the garment cannot be returned?](#why-do-special-occasion-dresses-and-some-designer-items-have-tags-that-say-if-the-tag-is-removed-the-garment-cannot-be-returned)  
-[Are there restocking fees?](#are-there-restocking-fees)  
-[Why does Nordstrom request my personal identification for a return without a record of sale?](#why-does-nordstrom-request-my-personal-identification-for-a-return-without-a-record-of-sale)  
-[Do you take checks?](#do-you-take-checks)  
-[How do you process my return if I paid with PayPal (U.S.)?](#how-do-you-process-my-return-if-i-paid-with-paypal-u.s.)
+[How do I make an makeaninternationalreturnoutsideoftheandanada(#how-do-i-https://www.nordstrom.com/c/return-policy#anchor-link-international-returns "How do I make- an- international- return- outside- of- the-u.s.- U.S. and-c Canada?")  
+[Whataboutreturnsforpurchasesatordstrom.com?](#what- about- returns- for- purchases- at-n Nordstrom.com)  
+[Do I needreceiptfrommypurchase?](#do-i-https://www.nordstrom.com/c/return-policy#anchor-link-receipt "Do I need-a- a receipt- from- my- purchase)
+[Do you takeeverything back?](#do-you-https://www.nordstrom.com/c/return-policy#anchor-link-all "Do you take- everything-back)  
+[Is theretimelimithatiftheitemisworn(#is-https://www.nordstrom.com/c/return-policy#anchor-link-time-limit "Is there-a- a time- limit-w? What- if- the- item- is- worn?")  
+[Why ydospecial-occasiondressesandsomedesigneritemshavetagsthatsayifthetagisremovedthegarmentcannotbereturned?](#whttps://www.nordstrom.com/c/return-policy#anchor-link-special-occasion "Why- do- special-occasion- dresses- and- some- designer- items- have- tags- that- say- if- the- tag- is- removed- the- garment- cannot- be- returned)  
+[Are there restocking fees?](#are-https://www.nordstrom.com/c/return-policy#anchor-link-restocking-fee "Are there- restocking-fees)  
+[Why does Nordstrom ordstromrequestmypersonalidentificationforreturnwithoutrecord of sale?](#why-does-nhttps://www.nordstrom.com/c/return-policy#anchor-link-personal-identification "Why does Nordstrom- request- my- personal- identification- for-a- a return- without-a- a record- of- sale?")  
+[Do you take checks?](#do-https://www.nordstrom.com/c/return-policy#anchor-link-checks "Do you-takechecks?  
+[How do doyouprocessmyreturnifpaidwithayal.)?](#how-https://www.nordstrom.com/c/return-policy#anchor-link-paypal "How do- you- process- my- return- if-i- I paid- with-p PaypPal-u.s. (U.S.)?")
 
 #### How do I exchange an item
 For the best service and selection, please order your replacement items online or in the U.S., call 1.888.282.6060, or in Canada, call 1.877.794.5304 for assistance.
@@ -442,7 +444,8 @@ We want to make sure returns are as easy as possible to do, but if you need more
 -   [Final Sale](#final-sale)
 -   [Want to exchange an item?](#want-to-exchange-an-item)
 -   [Returning a faulty or incorrect item?](#returning-a-faulty-or-incorrect-item)
--   [Returns have gone online!](#returns-have-gone-online)
+-   [Returns have gone online!](#returns-have-gone-onlinehttps://www.asos.com/us/customer-care/returns-refunds/what-is-your-returns-policy/#2##2)
+-   [What happens to my return if I ordered using Klarn)
 
 #### Returning an unwanted item?
 
@@ -848,13 +851,13 @@ Just because shipping is free, doesn't mean it should take a long time. Zappos o
 
   
 
-#### We look forward to giving you more reasons to fall in love with all that we have to offer!
+#### We look forward to giving you more reasons to fall in love with all that we have to offer!Asos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5OTEyMjc1Miw4NzM1NDM1MjgsLTI5Nj
-Q2Njc3NCwxMTAxMDQ2ODQ2LC0xMjk3MzgyMjQ0LC02Mzc3NzEw
-NTYsLTE1NTc4NDM4MzMsODc0NDQ5NjU4LC05NzE5OTczMzAsNj
-cxMDMxNjYzLDEzODAxMTU0MTQsMjMyMzk4NTM3LC0xMzY3NDgx
-NTkwLC0xOTUwNzUzMzU5LC0xMjQ1MTMwMjY3LDk3ODk3MTEwOS
-wtMTM3MzM0NDMzOSwtNDU2NjI3NDk3LC0xNzIyNTIxNTgsLTEx
-OTc3MzIyODVdfQ==
+eyJoaXN0b3J5IjpbMTc3NDY4OTcyMCwtOTk5MTIyNzUyLDg3Mz
+U0MzUyOCwtMjk2NDY2Nzc0LDExMDEwNDY4NDYsLTEyOTczODIy
+NDQsLTYzNzc3MTA1NiwtMTU1Nzg0MzgzMyw4NzQ0NDk2NTgsLT
+k3MTk5NzMzMCw2NzEwMzE2NjMsMTM4MDExNTQxNCwyMzIzOTg1
+MzcsLTEzNjc0ODE1OTAsLTE5NTA3NTMzNTksLTEyNDUxMzAyNj
+csOTc4OTcxMTA5LC0xMzczMzQ0MzM5LC00NTY2Mjc0OTcsLTE3
+MjI1MjE1OF19
 -->
