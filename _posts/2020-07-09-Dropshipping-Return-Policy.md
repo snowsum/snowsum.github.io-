@@ -556,9 +556,43 @@ Haven't you heard? ASOS is going paperless! You'll no longer receive a paper ret
 ##### EXCHANGES
 If you would like to exchange your item(s), reserve your exchange item online via your order history or contact customer service prior to returning in person.
 ![enter image description here](https://i.imgur.com/bG1fJgB.jpg)
+[](https://www.revolve.com/returnsexchanges#accordion-policy)
 
+#### POLICY
+
+Because you have enough to worry about right now...  
+  
+REVOLVE is extending our return policy on orders placed in the months of March through June. We will accept returns within 60 days for a full refund and within 90 days for an exchange. Please feel free to reach out to our customer service team should you have any concerns around getting your return product back to us, we will be happy to help.
+
+A small number of heavily discounted items may be marked FINAL SALE, in which case they are not eligible for refund, exchange, or store credit.
+
+For US customers, a prepaid return shipping label will be provided at no charge to return your merchandise (free shipping both ways).
+[](https://www.revolve.com/returnsexchanges#accordion-conditions)
+
+#### CONDITIONS
+
+Items must be returned unworn, unwashed, undamaged, unused, and with all original tags attached. Please see the tips below for keeping your items in returnable condition:
+
+##### SHOES
+
+Shoes scuff very easily on any hard surface. Always try on shoes on carpet. Shoe boxes are an important part of the product presentation and must be returned undamaged, along with the shoes.
+
+##### SWIMWEAR AND LINGERIE
+
+Please try on over underwear for sanitary reasons. Do not remove protective slip.
+
+##### TOPS AND DRESSES
+
+Please be careful of makeup or deodorant rubbing off on the garment.
+[](https://www.revolve.com/returnsexchanges#accordion-tracking)
+
+## TRACKING MY RETURN
+
+### DOMESTIC
+
+Your return tracking number is stored in your purchase history. When viewing your history, you can click on the respective order number for your return and the return tracking number will be itemized beneath each item that was included in the order. You can trace your return using that tracking number on UPS.com.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NTgzOTEzOCwxMzgwMTE1NDE0LDIzMj
+eyJoaXN0b3J5IjpbMTI3MzY1MzM1NSwxMzgwMTE1NDE0LDIzMj
 M5ODUzNywtMTM2NzQ4MTU5MCwtMTk1MDc1MzM1OSwtMTI0NTEz
 MDI2Nyw5Nzg5NzExMDksLTEzNzMzNDQzMzksLTQ1NjYyNzQ5Ny
 wtMTcyMjUyMTU4LC0xMTk3NzMyMjg1LC01MDk0MzEzMjksLTEw
