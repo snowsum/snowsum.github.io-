@@ -645,11 +645,13 @@ After 90 days, we will attempt to assist with repairs, including providing repla
 Here's a quick overview of how our four brands handle returns and exchanges.
 
 For step-by-step instructions on how to return or exchange an item, please see "[Returning or Exchanging Items Bought Online](https://athleta.gap.com/customerService/info.do?cid=79311&cs=items_bought_online)" or select a link at left.
+![enter image description here](https://i.imgur.com/Sj36k3K.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MTk5NzMzMCw2NzEwMzE2NjMsMTM4MD
-ExNTQxNCwyMzIzOTg1MzcsLTEzNjc0ODE1OTAsLTE5NTA3NTMz
-NTksLTEyNDUxMzAyNjcsOTc4OTcxMTA5LC0xMzczMzQ0MzM5LC
-00NTY2Mjc0OTcsLTE3MjI1MjE1OCwtMTE5NzczMjI4NSwtNTA5
-NDMxMzI5LC0xMDczMzE5MTQwLDIwNDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbLTMwMzk0NjMxLC05NzE5OTczMzAsNjcxMD
+MxNjYzLDEzODAxMTU0MTQsMjMyMzk4NTM3LC0xMzY3NDgxNTkw
+LC0xOTUwNzUzMzU5LC0xMjQ1MTMwMjY3LDk3ODk3MTEwOSwtMT
+M3MzM0NDMzOSwtNDU2NjI3NDk3LC0xNzIyNTIxNTgsLTExOTc3
+MzIyODUsLTUwOTQzMTMyOSwtMTA3MzMxOTE0MCwyMDQwMjk3Nj
+IyXX0=
 -->
