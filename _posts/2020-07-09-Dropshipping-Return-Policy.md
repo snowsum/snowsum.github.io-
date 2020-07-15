@@ -428,11 +428,11 @@ We want to make sure returns are as easy as possible to do, but if you need more
 #### Contents
 
 -   [Returning an unwanted item?](#returning-an-unwanted-item)
--   [After that?](https://www.asos.com/us/customer-care/returns-refunds/what-is-your-returns-policy/#2##2)
--   [What happens to my return if I ordered using Klarna?](https://www.asos.com/us/customer-care/returns-refunds/what-is-your-returns-policy/#3##3)
--   [Original condition](https://www.asos.com/us/customer-care/returns-refunds/what-is-your-returns-policy/#4##4)
--   [Responsibility](https://www.asos.com/us/customer-care/returns-refunds/what-is-your-returns-policy/#5##5)
--   [Fair use](https://www.asos.com/us/customer-care/returns-refunds/what-is-your-returns-policy/#6##6)
+-   [After that?](#after-that)
+-   [What happens to my return if I ordered using Klarna?](#what-happens-to-my-return-if-i-ordered-using-klarna)
+-   [Original condition](#original-condition)
+-   [Responsibility](#responsibility)
+-   [Fair use](#Fair use)
 -   [Final Sale](https://www.asos.com/us/customer-care/returns-refunds/what-is-your-returns-policy/#7##7)
 -   [Want to exchange an item?](https://www.asos.com/us/customer-care/returns-refunds/what-is-your-returns-policy/#8##8)
 -   [Returning a faulty or incorrect item?](https://www.asos.com/us/customer-care/returns-refunds/what-is-your-returns-policy/#9##9)
@@ -844,7 +844,7 @@ Just because shipping is free, doesn't mean it should take a long time. Zappos o
 
 #### We look forward to giving you more reasons to fall in love with all that we have to offer!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMjMxOTI1NiwtNjM3NzcxMDU2LC0xNT
+eyJoaXN0b3J5IjpbMTczMjYwMTU2OCwtNjM3NzcxMDU2LC0xNT
 U3ODQzODMzLDg3NDQ0OTY1OCwtOTcxOTk3MzMwLDY3MTAzMTY2
 MywxMzgwMTE1NDE0LDIzMjM5ODUzNywtMTM2NzQ4MTU5MCwtMT
 k1MDc1MzM1OSwtMTI0NTEzMDI2Nyw5Nzg5NzExMDksLTEzNzMz
