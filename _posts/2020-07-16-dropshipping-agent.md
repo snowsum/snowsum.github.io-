@@ -41,7 +41,7 @@ Working with dropshipping agents have many advantages yet, there are certain dis
 
 -   _If you are a new commer to dropshipping business, without stable daily orders,they might not going to support you._
 -   _You’ll be required to buy stock(2-3days) so they can process the orders once they get your orders._
--   _You’ll be competing with lots of dropshippers that use their services._
+-   _Your agent might quota you higher price than aliexpress for they provide express shipping and only those put delivery time at the first place _
 -   _You can only access a small number of manufacturers or suppliers._
 -   _You might pay more with a middleman than negotiating directly with suppliers on AliExpress._
 
@@ -63,6 +63,6 @@ If you’re a serious dropshipper, you will always find ways to beat your compet
 
 If you, however, choose to continue sourcing  **dropshipping products**  from AliExpress, these articles will be useful for you.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MTA3NzYyOCw4Nzg1MTc2ODAsMjEyMz
-Y1NTA3MCwtMTg3NDA2OTkwN119
+eyJoaXN0b3J5IjpbLTE1OTQ0NDQ2OTksODc4NTE3NjgwLDIxMj
+M2NTUwNzAsLTE4NzQwNjk5MDddfQ==
 -->
