@@ -651,9 +651,9 @@ For step-by-step instructions on how to return or exchange an item, please see "
 ![enter image description here](https://i.imgur.com/9clUunx.jpg)
 ![enter image description here](https://i.imgur.com/Ysosiwh.jpg)
 ![enter image description here](https://i.imgur.com/WqdHn8c.jpg)
-Returns & Exchanges of Online Purchases
+### Returns & Exchanges of Online Purchases
 
-Which items are eligible to be returned or exchanged?
+#### Which items are eligible to be returned or exchanged?
 
 For Gap, Banana Republic and Old Navy:
 
@@ -682,7 +682,7 @@ For Hill City:
     Items which are damaged or defective may be returned or exchanged at any time.
     
 
-How do I return items by mail?
+#### How do I return items by mail?
 
 Please see our "To return items by mail" instructions  [here](https://athleta.gap.com/customerService/info.do?cid=79311&cs=items_bought_online&expand=toreturnitemsbymailBody|toreturnitemsbymailBanner).
 
@@ -690,15 +690,15 @@ How do I exchange items by mail?
 
 Please see our "To exchange items by mail" instructions  [here](https://athleta.gap.com/customerService/info.do?cid=79311&cs=items_bought_online&expand=toexchangeitemsbymailBody|toexchangeitemsbymailBanner).
 
-How do I receive my full refund?
+#### How do I receive my full refund?
 
 To receive your full refund in the original form of payment, the items being returned must meet the criteria for returns eligibility (outlined above), and you must have proof of purchase (see below).
 
-What qualifies as proof of purchase?
+#### What qualifies as proof of purchase?
 
 Proof of purchase is the original paper invoice(s) included with your order. For returns or exchanges made in stores, the credit card used to make the online purchase can also be used as proof of purchase.
 
-Can I return or exchange items from one brand in a different brand’s store?
+#### Can I return or exchange items from one brand in a different brand’s store?
 
 If you would like to process a return or exchange at one of our stores, this must be done at a store of the same brand as the items purchased.
 
@@ -706,15 +706,15 @@ If I return a gift purchased online, how will I receive a refund?
 
 Gifts purchased online can be returned in stores or by mail. If you present the gift receipt (or invoice), you will receive your refund as a gift card in the full amount of the purchase price. If you do not have your gift receipt (or invoice), you will receive a merchandise certificate by mail in the amount of the current selling price. Valid ID required.
 
-Can I return a gift purchased online without a gift receipt?
+#### Can I return a gift purchased online without a gift receipt?
 
 You can return gifts without a gift receipt to stores. You will receive a merchandise certificate in the amount of the current selling price of the item(s) returned. Valid ID required.
 
-Where can I use a merchandise certificate?
+#### Where can I use a merchandise certificate?
 
 Merchandise certificates can be redeemed in store at Gap, Old Navy, Banana Republic or Athleta.
 
-My invoice says an item is “Mail only”. What does that mean?
+#### My invoice says an item is “Mail only”. What does that mean?
 
 We offer a larger range of styles, sizes, and colors online than in our stores. Some of these items cannot be returned in stores, and must be returned by mail: these items are marked on your invoice as “Mail only.” As always, returns by mail are free and easy. Instructions for starting a free online return can be found  [here](https://athleta.gap.com/customerService/info.do?cid=79311&cs=items_bought_online).
 
@@ -726,10 +726,10 @@ I would like to return an item that I bought with rewards earned from a Gap Inc 
 
 If you return merchandise purchased with Reward Points, the dollar value of the reward(s) allocated to item(s) returned will be converted to Reward Points and credited to your Gap, Banana Republic, Old Navy, or Athleta account within the next 2 billing cycles. If you did not use your account, or if your account is closed, the dollar value of the Reward Point(s) allocated to the item(s) returned shall not be refunded or credited. Returns are subject to store location Return/Exchange policies. Additional restrictions may also apply.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc0NDQ5NjU4LC05NzE5OTczMzAsNjcxMD
-MxNjYzLDEzODAxMTU0MTQsMjMyMzk4NTM3LC0xMzY3NDgxNTkw
-LC0xOTUwNzUzMzU5LC0xMjQ1MTMwMjY3LDk3ODk3MTEwOSwtMT
-M3MzM0NDMzOSwtNDU2NjI3NDk3LC0xNzIyNTIxNTgsLTExOTc3
-MzIyODUsLTUwOTQzMTMyOSwtMTA3MzMxOTE0MCwyMDQwMjk3Nj
-IyXX0=
+eyJoaXN0b3J5IjpbMTIwNjk3Nzk1Myw4NzQ0NDk2NTgsLTk3MT
+k5NzMzMCw2NzEwMzE2NjMsMTM4MDExNTQxNCwyMzIzOTg1Mzcs
+LTEzNjc0ODE1OTAsLTE5NTA3NTMzNTksLTEyNDUxMzAyNjcsOT
+c4OTcxMTA5LC0xMzczMzQ0MzM5LC00NTY2Mjc0OTcsLTE3MjI1
+MjE1OCwtMTE5NzczMjI4NSwtNTA5NDMxMzI5LC0xMDczMzE5MT
+QwLDIwNDAyOTc2MjJdfQ==
 -->
