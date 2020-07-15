@@ -791,7 +791,7 @@ At this time we do not offer exchanges. If you would like to exchange a product,
 -   Classes are refundable up to start date of class, in store only.
 -   Michaels reserves the right to limit returns or exchanges.
 
-## Case 7 - 
+## Case 7 -  Zappos.com
 ### SHIPPING & RETURN POLICY
 
 #### FREE SHIPPING
@@ -817,8 +817,9 @@ Zappos ships anywhere in the United States, and to all US territories and milita
 Just because shipping is free, doesn't mean it should take a long time. Zappos offers 3 shipping speeds: 3-5 business days, 2-business days, and 1-business day. You may expedite your shipping at the Checkout page. Please note some items are ineligible for expedited shipping – such as watches containing lithium batteries – these items will be marked as such in the product description. Expedited shipping is not available for shipments outside the continental United States; please allow additional time for your order to arrive to these locations. Orders to P.O. boxes, US territories or military APO/FPO addresses will ship via United States Postal Service (USPS). Delivery dates are subject to order cut-off times or carrier delays.
 
 **Questions?**  [Contact us](https://www.zappos.com/c/contact-us)  – the Zappos Customer Loyalty Team is available 24 hours a day, 365 days a year!
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NzE2NTk5NiwtNjM3NzcxMDU2LC0xNT
+eyJoaXN0b3J5IjpbMTA5MDQxMTQzNiwtNjM3NzcxMDU2LC0xNT
 U3ODQzODMzLDg3NDQ0OTY1OCwtOTcxOTk3MzMwLDY3MTAzMTY2
 MywxMzgwMTE1NDE0LDIzMjM5ODUzNywtMTM2NzQ4MTU5MCwtMT
 k1MDc1MzM1OSwtMTI0NTEzMDI2Nyw5Nzg5NzExMDksLTEzNzMz
