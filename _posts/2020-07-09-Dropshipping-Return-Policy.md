@@ -7,11 +7,11 @@ But before we dive into how to write a return policy for your store and implemen
 1.  [How customer returns impact your business](#how-returns-and-exchanges-impact-your-business)
 2.  [An Effective Online Return Police](#an-effective-online-return-police)
 3.  [How to write a return policy](#how-to-write-a-return-policy)
-4.  [Return policy template](#Return policy template)
-5.  [Where to surface your policy](https://www.shopify.com/blog/return-policy#places)
-6.  [Choosing a service to power your process](https://www.shopify.com/blog/return-policy#app)
-7.  [Strategies for more profitable returns and exchanges](https://www.shopify.com/blog/return-policy#strategies)
-8.  [Making the most of returns and exchanges](https://www.shopify.com/blog/return-policy#conclusion)
+4.  [Return policy template](#return-policy-template)
+5.  [Where to surface your policy](#where-to-surface-your-policy)
+6.  [Choosing a service to power your process](#choosing-a-service-to-power-your-process)
+7.  [Strategies for more profitable returns and exchanges](#strategies-for-more-profitable-returns-and-exchanges)
+8.  [Making the most of returns and exchanges](#making-the-most of returns and exchanges)
 
 ## How returns and exchanges impact your business
 
@@ -844,11 +844,11 @@ Just because shipping is free, doesn't mean it should take a long time. Zappos o
 
 #### We look forward to giving you more reasons to fall in love with all that we have to offer!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMxMjg4NzA2LC0yOTY0NjY3NzQsMTEwMT
-A0Njg0NiwtMTI5NzM4MjI0NCwtNjM3NzcxMDU2LC0xNTU3ODQz
-ODMzLDg3NDQ0OTY1OCwtOTcxOTk3MzMwLDY3MTAzMTY2MywxMz
-gwMTE1NDE0LDIzMjM5ODUzNywtMTM2NzQ4MTU5MCwtMTk1MDc1
-MzM1OSwtMTI0NTEzMDI2Nyw5Nzg5NzExMDksLTEzNzMzNDQzMz
-ksLTQ1NjYyNzQ5NywtMTcyMjUyMTU4LC0xMTk3NzMyMjg1LC01
-MDk0MzEzMjldfQ==
+eyJoaXN0b3J5IjpbMTg0NDE3NzQ4MCwtMjk2NDY2Nzc0LDExMD
+EwNDY4NDYsLTEyOTczODIyNDQsLTYzNzc3MTA1NiwtMTU1Nzg0
+MzgzMyw4NzQ0NDk2NTgsLTk3MTk5NzMzMCw2NzEwMzE2NjMsMT
+M4MDExNTQxNCwyMzIzOTg1MzcsLTEzNjc0ODE1OTAsLTE5NTA3
+NTMzNTksLTEyNDUxMzAyNjcsOTc4OTcxMTA5LC0xMzczMzQ0Mz
+M5LC00NTY2Mjc0OTcsLTE3MjI1MjE1OCwtMTE5NzczMjI4NSwt
+NTA5NDMxMzI5XX0=
 -->
