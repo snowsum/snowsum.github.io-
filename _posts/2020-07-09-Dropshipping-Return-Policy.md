@@ -549,10 +549,16 @@ Haven't you heard? ASOS is going paperless! You'll no longer receive a paper ret
 ![enter image description here](https://i.imgur.com/83OYpWZ.png)
 
 ## Case 4 - Land's End
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMyMzk4NTM3LC0xMzY3NDgxNTkwLC0xOT
-UwNzUzMzU5LC0xMjQ1MTMwMjY3LDk3ODk3MTEwOSwtMTM3MzM0
-NDMzOSwtNDU2NjI3NDk3LC0xNzIyNTIxNTgsLTExOTc3MzIyOD
-UsLTUwOTQzMTMyOSwtMTA3MzMxOTE0MCwyMDQwMjk3NjIyXX0=
 
+
+#### HOW TO SEND IN YOUR RETURN/EXCHANGE
+** EXCHANGES**
+
+If you would like to exchange your item(s), reserve your exchange item online via your order history or contact customer service prior to returning in person.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTM4MDExNTQxNCwyMzIzOTg1MzcsLTEzNj
+c0ODE1OTAsLTE5NTA3NTMzNTksLTEyNDUxMzAyNjcsOTc4OTcx
+MTA5LC0xMzczMzQ0MzM5LC00NTY2Mjc0OTcsLTE3MjI1MjE1OC
+wtMTE5NzczMjI4NSwtNTA5NDMxMzI5LC0xMDczMzE5MTQwLDIw
+NDAyOTc2MjJdfQ==
 -->
