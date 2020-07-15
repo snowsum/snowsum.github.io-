@@ -5,13 +5,12 @@ categories: [ start-up, ecommerce, shopify ]
 image: https://i.imgur.com/1Or3ja1.jpg
 ---
 
-## Introduction
 
 ![Introduction to dropshipping](https://wp-en.oberlo.com/wp-content/uploads/2018/05/drop1-1024x659.jpg)
 
 For decades, starting a business was a costly and complicated affair. You had to raise sufficient funds all by yourself (or get investors), rent out a brick-and-mortar storefront, and get people in the door. Even today, running a traditional startup takes lots of money, time, and energy.
 
-If you have dreams of [starting a business](https://www.shopify.com/content/5-questions-to-ask-yourself-before-starting-a-business?prev_msid=51732ef6-E0BF-4978-DD31-7A79E83E1382), it’s easy to quickly become discouraged. The upfront cost, time to launch, and legion of details make it seem as if your business will never become established, let alone successful.
+If you have dreams of starting a business, it’s easy to quickly become discouraged. The upfront cost, time to launch, and legion of details make it seem as if your business will never become established, let alone successful.
 
 Have you felt this way before? Have you gotten your hopes up only to have them crushed?
 
@@ -21,13 +20,13 @@ Dropshipping places all the power into the hands of the entrepreneur. It provide
 
 If you feel like running your own business is out of the question, this guide is for you. I know what it’s like to be in your shoes, doubtful that you’ll ever make it, but I’m here to tell you that starting your own dropshipping business is completely realistic.
 
-In my opinion, dropshipping is one of the best ways to start a business today. It’s incredibly easy to start, and you can begin with just a computer and a [little bit of money.](https://www.youtube.com/watch?v=w2vq3QmKWqE)
+In my opinion, dropshipping is one of the best ways to start a business today. It’s incredibly easy to start, and you can begin with just a computer and a little bit of money.
 
 Dropshipping is also an extremely flexible career path, so you can do it as a side hustle or grow it into a full-time job. It’s completely possible to make a living from dropshipping alone, and there are countless entrepreneurs who have proven that.
 
 And while dropshipping won’t make you a millionaire overnight, it can provide a stream of revenue that you can grow. With the right strategies, you might even be able to say goodbye to your day job and make dropshipping your main hustle.
 
-[Stay-at-home parents](https://www.oberlo.com/ebooks/make-money-from-home), college students, office workers, and even retirees can all take advantage of dropshipping. It doesn’t matter how old you are, where you live, or what experience you have.
+Stay-at-home parents, college students, office workers, and even retirees can all take advantage of dropshipping. It doesn’t matter how old you are, where you live, or what experience you have.
 
 However, there’s a lot about dropshipping that is still shrouded in mystery. The good information is scattered all around the Internet, and it’s hard to tell what works and what doesn’t. If that’s not problematic enough, a good chunk of that information is outdated.
 
@@ -41,7 +40,7 @@ I’ve taken everything you need to know about dropshipping and packed it all in
 
 From choosing a niche to creating a digital marketing strategy, I’ve covered it all. You’ll find information on how to incorporate your company, set up a website, and research your competitors.
 
-Finally, I’ll also address some of the problems that you may face. Not sure if that supplier is a scammer? I can help. Don’t know where to get a high quality [logo designed](https://www.oberlo.com/tools/logo-maker)? I’ll help with that too.
+Finally, I’ll also address some of the problems that you may face. Not sure if that supplier is a scammer? I can help. Don’t know where to get a high quality logo designed? I’ll help with that too.
 
 If you’ve ever wanted to know all the ins and outs of setting up a dropshipping business, this guide is for you. I’ll break everything down step by step and show you exactly what to do.
 ## What Is Dropshipping?
@@ -58,7 +57,7 @@ For the store, this is a mostly hands-off process. The merchant doesn’t have t
 
 Dropshipping is great for entrepreneurs because it doesn’t demand as much as the traditional retail model. You don’t have to open a brick-and-mortar store, pay overhead, and stock products. Instead, you open an online storefront and buy wholesale from suppliers who already have products and warehouse space.
 
-[The merchant is mainly responsible for gaining customers](https://www.shopify.com/guides/dropshipping/understanding-dropshipping?prev_msid=5176e1ff-48A2-467C-B115-D1C77587476D) and processing orders in dropshipping, meaning you’ll effectively be a middleman. Despite this, you’ll reap the lion’s share of the profit by marking up the items you sell. It’s a simple business model and one that can be very rewarding.
+The merchant is mainly responsible for gaining customers and processing orders in dropshipping, meaning you’ll effectively be a middleman. Despite this, you’ll reap the lion’s share of the profit by marking up the items you sell. It’s a simple business model and one that can be very rewarding.
 
 Millions of entrepreneurs flock to dropshipping because it requires less hassle and money to get started. That’s probably why you’re interested! And the best news of all? With dropshipping, you can build a business that’s sustainable in the long term right from your laptop.
 
@@ -70,7 +69,7 @@ Of course, there are many drawbacks and advantages, and it’s important that we
 
 **Dropshipping is easy to start.** You don’t need to be a business guru to get started. In fact, you don’t even need any prior business experience! If you take some time to learn the basics, you can get started quickly and learn the rest as you go along.
 
-Dropshipping is so easy because it requires very little from you. You [don’t need a warehouse to store products](https://www.oberlo.com/ecommerce-wiki/warehousing) or a team to help you out. You don’t have to worry about stocking or shipping either. You don’t even have to spend a certain amount of time every day on your store. It’s surprisingly hands-off, especially once you get going.
+Dropshipping is so easy because it requires very little from you. You don’t need a warehouse to store products or a team to help you out. You don’t have to worry about stocking or shipping either. You don’t even have to spend a certain amount of time every day on your store. It’s surprisingly hands-off, especially once you get going.
 
 All of this means that you can start your business _today_. You can start getting everything up and running within a matter of hours.
 
@@ -2249,5 +2248,6 @@ The entrepreneurs who have been so successful didn’t get to where they are tod
 
 **Wholesaler** – A supplier that sells to retailers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3OTE3MjY0OSwxMDc2MjczNDMxXX0=
+eyJoaXN0b3J5IjpbLTIxMDgwNjI4MjUsMTE3OTE3MjY0OSwxMD
+c2MjczNDMxXX0=
 -->
