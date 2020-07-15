@@ -552,13 +552,13 @@ Haven't you heard? ASOS is going paperless! You'll no longer receive a paper ret
 
 
 #### HOW TO SEND IN YOUR RETURN/EXCHANGE
-** EXCHANGES**
+EXCHANGES
 
 If you would like to exchange your item(s), reserve your exchange item online via your order history or contact customer service prior to returning in person.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MDExNTQxNCwyMzIzOTg1MzcsLTEzNj
-c0ODE1OTAsLTE5NTA3NTMzNTksLTEyNDUxMzAyNjcsOTc4OTcx
-MTA5LC0xMzczMzQ0MzM5LC00NTY2Mjc0OTcsLTE3MjI1MjE1OC
-wtMTE5NzczMjI4NSwtNTA5NDMxMzI5LC0xMDczMzE5MTQwLDIw
-NDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbLTEyNTI1MjYxNzQsMTM4MDExNTQxNCwyMz
+IzOTg1MzcsLTEzNjc0ODE1OTAsLTE5NTA3NTMzNTksLTEyNDUx
+MzAyNjcsOTc4OTcxMTA5LC0xMzczMzQ0MzM5LC00NTY2Mjc0OT
+csLTE3MjI1MjE1OCwtMTE5NzczMjI4NSwtNTA5NDMxMzI5LC0x
+MDczMzE5MTQwLDIwNDAyOTc2MjJdfQ==
 -->
