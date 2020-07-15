@@ -435,8 +435,8 @@ We want to make sure returns are as easy as possible to do, but if you need more
 -   [Fair use](#fair-use)
 -   [Final Sale](#final-sale)
 -   [Want to exchange an item?](#want-to-exchange-an-item)
--   [Returning a faulty or incorrect item?](https://www.asos.com/us/customer-care/returns-refunds/what-is-your-returns-policy/#9##9)
--   [Returns have gone online!](https://www.asos.com/us/customer-care/returns-refunds/what-is-your-returns-policy/#10)
+-   [Returning a faulty or incorrect item?](#returning-a-faulty-or-incorrect-item)
+-   [Returns have gone online!](#returns-have-gone-online)
 
 #### Returning an unwanted item?
 
@@ -844,7 +844,7 @@ Just because shipping is free, doesn't mean it should take a long time. Zappos o
 
 #### We look forward to giving you more reasons to fall in love with all that we have to offer!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NzE0NDA0MywxMTAxMDQ2ODQ2LC0xMj
+eyJoaXN0b3J5IjpbLTI5NjQ2Njc3NCwxMTAxMDQ2ODQ2LC0xMj
 k3MzgyMjQ0LC02Mzc3NzEwNTYsLTE1NTc4NDM4MzMsODc0NDQ5
 NjU4LC05NzE5OTczMzAsNjcxMDMxNjYzLDEzODAxMTU0MTQsMj
 MyMzk4NTM3LC0xMzY3NDgxNTkwLC0xOTUwNzUzMzU5LC0xMjQ1
