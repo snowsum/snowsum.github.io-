@@ -22,6 +22,7 @@ Some dropshippers hire dropshipping agents based in China to do the things that 
 -   _Picking products without manufacturer’s or brand’s logo._
 -   _Taking photos and videos of the dropshipping products they want to sell._
 
+
 ![](https://www.productmafia.com/wp-content/uploads/2019/11/agent-china-300x200.jpg)
 
 A legit dropshipping agent performs as the middleman and has a real warehouse in China. Most dropshipping agents provide a one-stop service which may include the following:
@@ -61,5 +62,6 @@ If you’re a serious dropshipper, you will always find ways to beat your compet
 
 If you, however, choose to continue sourcing  **dropshipping products**  from AliExpress, these articles will be useful for you.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMzY1NTA3MCwtMTg3NDA2OTkwN119
+eyJoaXN0b3J5IjpbODc4NTE3NjgwLDIxMjM2NTUwNzAsLTE4Nz
+QwNjk5MDddfQ==
 -->
