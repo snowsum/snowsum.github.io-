@@ -548,7 +548,7 @@ If so, please contact the seller directly for return address and instructions.
 Haven't you heard? ASOS is going paperless! You'll no longer receive a paper returns slip with your order- instead, you can create your return through your ASOS account. At the moment you'll need to print a returns label if you want to return, but we're working on ways around this so watch this space! Click here for  [more information on how to return](https://www.asos.com/us/customer-care/returns-refunds/how-do-i-return-something-to-you-from-the-us/).
 ![enter image description here](https://i.imgur.com/83OYpWZ.png)
 
-## Case 4 - Land's End
+## Case 4 - Revolve
 
 
 #### HOW TO SEND IN YOUR RETURN/EXCHANGE
@@ -639,8 +639,9 @@ REVOLVE only carries merchandise that is authentic, first-run, and purchased dir
 Many products, particularly those with distressed styling, do wear out or develop holes with regular wear-and-tear over time. REVOLVE warranties all products to be free of such problems for the first 90 days from the time of purchase, and will replace or refund your purchase in the event such a problem occurs.
 
 After 90 days, we will attempt to assist with repairs, including providing replacement hardware such as lost buttons or broken snaps to the extent these items or repair services are available from the designer, but we will not provide a complete replacement or refund for an unrepairable product after 90 days unless the designer is willing to replace or reimburse the product at this time.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM5OTYwMjg4LDEzODAxMTU0MTQsMjMyMz
+eyJoaXN0b3J5IjpbNjcxMDMxNjYzLDEzODAxMTU0MTQsMjMyMz
 k4NTM3LC0xMzY3NDgxNTkwLC0xOTUwNzUzMzU5LC0xMjQ1MTMw
 MjY3LDk3ODk3MTEwOSwtMTM3MzM0NDMzOSwtNDU2NjI3NDk3LC
 0xNzIyNTIxNTgsLTExOTc3MzIyODUsLTUwOTQzMTMyOSwtMTA3
