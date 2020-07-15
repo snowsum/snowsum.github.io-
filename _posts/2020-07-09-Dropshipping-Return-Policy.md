@@ -330,9 +330,9 @@ We do not accept returns of Nordstrom, Nordstrom.com or Nordstrom.ca merchandise
 
 ### Frequently Asked Questions
 
-[How do I exchange an item?](#how-do-I-exchange-an-item)  
-[How are my refunds credited?](#how-are-my-refunds-credited?)  
-[How do I make an international return outside of the U.S. and Canada?](https://www.nordstrom.com/c/return-policy#anchor-link-international-returns "How do I make an international return outside of the U.S. and Canada?")  
+[How do I exchange an item?](#how-do-i-exchange-an-item)  
+[How are my refunds credited?](#how-are-my-refunds-credited)  
+[How do I make an international return outside of the U.S. and Canada?](#how-do-I make an international return outside of the U.S. and Canada)  
 [What about returns for purchases at Nordstrom.com?](https://www.nordstrom.com/c/return-policy#anchor-link-nordstrom-com "What about returns for purchases at Nordstrom.com?")  
 [Do I need a receipt from my purchase?](https://www.nordstrom.com/c/return-policy#anchor-link-receipt "Do I need a receipt from my purchase?")  
 [Do you take everything back?](https://www.nordstrom.com/c/return-policy#anchor-link-all "Do you take everything back?")  
@@ -844,7 +844,7 @@ Just because shipping is free, doesn't mean it should take a long time. Zappos o
 
 #### We look forward to giving you more reasons to fall in love with all that we have to offer!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNDY4MzA4MiwtNjM3NzcxMDU2LC0xNT
+eyJoaXN0b3J5IjpbLTc3MjM5NTM0MiwtNjM3NzcxMDU2LC0xNT
 U3ODQzODMzLDg3NDQ0OTY1OCwtOTcxOTk3MzMwLDY3MTAzMTY2
 MywxMzgwMTE1NDE0LDIzMjM5ODUzNywtMTM2NzQ4MTU5MCwtMT
 k1MDc1MzM1OSwtMTI0NTEzMDI2Nyw5Nzg5NzExMDksLTEzNzMz
