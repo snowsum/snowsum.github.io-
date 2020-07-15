@@ -47,7 +47,7 @@ If you believe that exploring the option of hiring dropshipping agents will be m
 
 ### How to find dropshipping agents?
 
-Nichepik, CJDropShipping, and Shipmentify.com (Formerly AliExpress Agent) are just some of the dropshipping agents you can find online. To look for dropshipping agents, you can do a Google search, post a question in dropshipping communities or forums, or join dropshipping Facebook groups. However, to find out if they are the right people to work with, here are some things you could do:
+Nichepik.com, CJDropShipping, and Shipmentify.com (Formerly AliExpress Agent) are just some of the dropshipping agents you can find online. To look for dropshipping agents, you can do a Google search, post a question in dropshipping communities or forums, or join dropshipping Facebook groups. However, to find out if they are the right people to work with, here are some things you could do:
 
 -   _Read third-party reviews to get an unbiased opinion and real experiences._
 -   _Ask other dropshippers who used their services through forums and Facebook groups._
@@ -61,6 +61,5 @@ If you’re a serious dropshipper, you will always find ways to beat your compet
 
 If you, however, choose to continue sourcing  **dropshipping products**  from AliExpress, these articles will be useful for you.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzE4Mzg1MDQsLTE4NzQwNjk5MDddfQ
-==
+eyJoaXN0b3J5IjpbODQ1MTc0NDQzLC0xODc0MDY5OTA3XX0=
 -->
