@@ -849,17 +849,17 @@ Just because shipping is free, doesn't mean it should take a long time. Zappos o
 -   Final Sale Policy: all sale items purchased at an extra 50% off are final sale and cannot be returned or exchanged.  
     
 
-##### Please note the exceptions listed below:
+#### Please note the exceptions listed below:
 
-#### Specialty Items
+### Specialty Items
 
-##### Furniture & Select Décor
+#### Furniture & Select Décor
 
 -   Unlimited Furniture Delivery items in saleable condition may be returned or exchanged within 30 days of the delivery date.
 -   Unlimited Furniture Delivery items must be shipped back via our delivery service and cannot be returned to a store.
 -   Learn more about returning furniture  [here](https://www.anthropologie.com/help/furniture-returns).
 
-##### BHLDN
+#### BHLDN
 
 -   BHLDN merchandise may not be returned to stores unless originally purchased at a store location. Merchandise must be shipped back to our warehouse within 30 days of the delivery date for a full refund to your original method of payment. If returned after 30 days, a merchandise credit will be issued.
 -   Please note: orders placed before 6/26/20 can be returned within 60 days of delivery for a full refund to your original method of payment. If returned after 60 days, a merchandise credit will be issued.
@@ -867,25 +867,23 @@ Just because shipping is free, doesn't mean it should take a long time. Zappos o
 -   BHLDN gowns may be subject to a restocking fee.
 -   Find more information about returning online orders  [here](https://www.anthropologie.com/help/online-returns).
 
-##### Shoes, Bedding, Curtains, & Swimwear
+#### Shoes, Bedding, Curtains, & Swimwear
 
 -   Returns are free for shoes, bedding, curtains, and swimwear.  [Find your order](https://www.anthropologie.com/#order-inquiry)  and print your free return label for any US order. We'll gladly accept unworn or unaltered merchandise for return or exchange in the original packaging.
--   Shoes, bedding, curtains, and swimwear styles may be returned to our warehouse within 60 days for a refund to the original form of payment at the original selling price. If returned after 60 days, a merchandise credit will be issued at the original selling price. Please note, the products listed above may not be returned to stores unless originally purchased at a store location.
-
-##### Reusable & protective face masks
+-   Shoes, bedding, curtains, and swimwear styles may be returned to our warehouse within 60 days for a refund to the original form of payment at the original selling price. If returned after 60 days, a merchandise credit will be issued at the original selling price. Please note, the products listed above may not be returned to stores unless o Reusable & protective face masks
 
 -   Purchases of reusable masks are final sale and cannot be returned or exchanged.
 
-##### APlus by Anthropologie
+#### APlus by Anthropologie
 
 -   APlus by Anthropologie returns are free! We'll gladly accept unworn, unwashed, and unaltered merchandise purchased online in the original packaging for return or exchange.  [Find your order here](https://www.anthropologie.com/help/returns-exchanges/#order-inquiry)  and print your free return label.
 -   APlus by Anthropologie merchandise may be returned to our warehouse within 60 days for a refund to the original form of payment at the original selling price. If returned after 60 days, a merchandise credit will be issued at the original selling price. APlus by Anthropologie merchandise may not be returned to a store unless originally purchased at a store location.
 
-##### FP Movement
+#### FP Movement
 
 -   FP Movement merchandise may be returned to our warehouse within 60 days for a refund to the original form of payment at the original selling price. If returned after 60 days, a merchandise credit will be issued at the original selling price. FP Movement styles may not be returned to stores unless originally purchased at a store location.
 
-##### Curated By Anthropologie
+#### Curated By Anthropologie
 
 -   Merchandise must be returned to the selling partner. Seller return policies may vary and can be found on the product page under Shipping & Returns and in your  [Order History](https://www.anthropologie.com/login?url=/orders)  after an order is placed.
 -   Merchandise cannot be returned or exchanged in store or mailed back to Anthropologie.
@@ -894,13 +892,13 @@ Just because shipping is free, doesn't mean it should take a long time. Zappos o
 
   
 
-##### We look forward to giving you more reasons to fall in love with all that we have to offer!
+#### We look forward to giving you more reasons to fall in love with all that we have to offer!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzkyNjgyLC02Mzc3NzEwNTYsLTE1NT
-c4NDM4MzMsODc0NDQ5NjU4LC05NzE5OTczMzAsNjcxMDMxNjYz
-LDEzODAxMTU0MTQsMjMyMzk4NTM3LC0xMzY3NDgxNTkwLC0xOT
-UwNzUzMzU5LC0xMjQ1MTMwMjY3LDk3ODk3MTEwOSwtMTM3MzM0
-NDMzOSwtNDU2NjI3NDk3LC0xNzIyNTIxNTgsLTExOTc3MzIyOD
-UsLTUwOTQzMTMyOSwtMTA3MzMxOTE0MCwyMDQwMjk3NjIyXX0=
-
+eyJoaXN0b3J5IjpbLTE3MzcwODY5MzQsLTYzNzc3MTA1NiwtMT
+U1Nzg0MzgzMyw4NzQ0NDk2NTgsLTk3MTk5NzMzMCw2NzEwMzE2
+NjMsMTM4MDExNTQxNCwyMzIzOTg1MzcsLTEzNjc0ODE1OTAsLT
+E5NTA3NTMzNTksLTEyNDUxMzAyNjcsOTc4OTcxMTA5LC0xMzcz
+MzQ0MzM5LC00NTY2Mjc0OTcsLTE3MjI1MjE1OCwtMTE5NzczMj
+I4NSwtNTA5NDMxMzI5LC0xMDczMzE5MTQwLDIwNDAyOTc2MjJd
+fQ==
 -->
