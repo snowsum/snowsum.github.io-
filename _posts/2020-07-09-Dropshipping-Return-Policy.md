@@ -725,12 +725,76 @@ Final Sale items cannot be returned or exchanged by mail or in stores.
 #### I would like to return an item that I bought with rewards earned from a Gap Inc Credit Card / Rewards Program. What happens to my rewards?
 
 If you return merchandise purchased with Reward Points, the dollar value of the reward(s) allocated to item(s) returned will be converted to Reward Points and credited to your Gap, Banana Republic, Old Navy, or Athleta account within the next 2 billing cycles. If you did not use your account, or if your account is closed, the dollar value of the Reward Point(s) allocated to the item(s) returned shall not be refunded or credited. Returns are subject to store location Return/Exchange policies. Additional restrictions may also apply.
+## Case 6 - Michaels
+### Michaels Return Policy
 
+#### Michaels.com Purchases
+
+#### With a Receipt (In Stores or Via Mail):
+
+If your Michaels.com purchase does not meet your satisfaction, you may return it within six months (180 days) of purchase. To return an item (excluding sample products), the item must be new, unused and in its original packaging. You may return the item to a Michaels store or by mail. If you want to return an item by mail, follow steps below:
+
+1.  Call Customer Care at 1-800-MICHAELS (1-800-642-4235).
+2.  Our agent will prepare and provide a return shipping label via email.
+3.  Print the return label and adhere it to your package.
+4.  Drop-off the package at your nearest UPS location.
+
+#### Without a Receipt (In Stores):
+
+If you would like to return an item (excluding sample products) but do not have the receipt (packing slip or confirmation email), you will be required to present a valid photo ID (Acceptable forms of ID include U.S., Canada or Mexico Driver's License, U.S. state-issued ID, Canadian Provincial ID, Passport or U.S. Military ID). Michaels will make every attempt to assist in locating a receipt by offering receipt look-up for online or in-store purchases made with your Michaels Rewards number. For receipts located, returns will follow the Return with Receipt method. The item value will be verified and retained by the Michaels team member.
+
+#### Refunds:
+
+The appropriate tax amount by item will be included with your refund. Original shipping and handling fees (if applicable) may be deducted from the value of your refund unless the return is a result of our error. Refunds will be issued in the same form as payment originally used for purchase except as specified below:
+
+-   Purchases made with a debit card will be refunded as cash.
+-   A Store Return Card will be issued for all purchases made using a gift card or gift receipt/purchases.
+
+#### Exchanges:
+
+At this time we do not offer exchanges. If you would like to exchange a product, please return it using our returns process and then place a new order.
+
+**See exceptions below.
+
+### Michaels Store Purchases
+
+#### With a Receipt:
+
+If your Michaels purchase does not meet your satisfaction, it may be returned or exchanged at any Michaels location for full purchase amount.
+
+Refunds will be offered in the original method of payment for six months (180 days), except:
+
+-   Purchases made with a debit card will be refunded as cash.
+-   A Store Return Card will be issued for all purchases made using a gift card or gift receipt.
+-   Returns purchased with a check require a 10 day waiting period. Check purchases within 10 days may be refunded on Return Card.
+-   Online purchases made using PayPal will be refunded in cash.
+-   After six months, refunds will be issued on a Store Return Card for full purchase amount.
+-   All returns and exchanges must be new, unused and in original packaging, with exceptions for defective merchandise or products.
+-   Our policy also covers your online purchases that can be returned to any Michaels location or by following the online return instructions on the packing slip, some restrictions apply. In store purchases may not be returned online.
+
+#### Return without Receipt:
+
+Michaels will make every attempt to assist in locating a receipt by offering receipt look-up for purchases made with a credit, debit card, or rewards number. For receipts located, returns will follow the Return with Receipt method.
+
+-   For returns in which the receipt cannot be located, a valid photo ID (U.S., Canada or Mexico Driver's License, U.S. state-issued ID, Canadian Provincial ID, Passport or U.S. Military ID.) must be presented by customer and will be recorded at the time of the return.
+-   Information from a customer ID will be retained in a secure database solely for purposes of refund authorization and fraud prevention.
+-   Refunds will be given at the item's lowest price sold within the previous 90 days.
+-   Refunds will be in the form of a Store Return Card and/or merchandise exchange.
+
+At this time we do not offer exchanges. If you would like to exchange a product, please return it using our returns process and then place a new order.
+
+#### Exceptions to General Return Policy:
+
+-   Cricut®  Products are returnable or exchangeable only if the packaging is unopened and a receipt is provided. Items damaged or deemed defective during the manufacturer's warranty period must be returned directly to the manufacturer, except returns as required by law.
+-   Gift Cards and Prepaid Cards are not returnable or exchangeable, except where required by law. See Terms and Conditions for more information.
+-   Custom Framing orders may be reworked at the same store location within 14 days of pickup.
+-   Classes are refundable up to start date of class, in store only.
+-   Michaels reserves the right to limit returns or exchanges.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTc4NDM4MzMsODc0NDQ5NjU4LC05Nz
-E5OTczMzAsNjcxMDMxNjYzLDEzODAxMTU0MTQsMjMyMzk4NTM3
-LC0xMzY3NDgxNTkwLC0xOTUwNzUzMzU5LC0xMjQ1MTMwMjY3LD
-k3ODk3MTEwOSwtMTM3MzM0NDMzOSwtNDU2NjI3NDk3LC0xNzIy
-NTIxNTgsLTExOTc3MzIyODUsLTUwOTQzMTMyOSwtMTA3MzMxOT
-E0MCwyMDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbLTE4ODMzNjAyNjgsLTE1NTc4NDM4MzMsOD
+c0NDQ5NjU4LC05NzE5OTczMzAsNjcxMDMxNjYzLDEzODAxMTU0
+MTQsMjMyMzk4NTM3LC0xMzY3NDgxNTkwLC0xOTUwNzUzMzU5LC
+0xMjQ1MTMwMjY3LDk3ODk3MTEwOSwtMTM3MzM0NDMzOSwtNDU2
+NjI3NDk3LC0xNzIyNTIxNTgsLTExOTc3MzIyODUsLTUwOTQzMT
+MyOSwtMTA3MzMxOTE0MCwyMDQwMjk3NjIyXX0=
 -->
