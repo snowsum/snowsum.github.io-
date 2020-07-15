@@ -31,6 +31,7 @@ There are two types of code elements which can be inserted in Markdown, the firs
     text-decoration: underline;
 }
 ```
+
 If you want to get really fancy, you can even add syntax highlighting using Rouge.
 
 
@@ -48,5 +49,5 @@ Perhaps the best part of Markdown is that you're never limited to just Markdown.
 
 <p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MDAxMjU5OF19
+eyJoaXN0b3J5IjpbMjEzMjI2MTkyNCwxNzkwMDEyNTk4XX0=
 -->
