@@ -36,12 +36,12 @@ A legit dropshipping agent performs as the middleman and has a real warehouse in
 4.  _Stocking products in their warehouses._
 5.  _Labeling and packaging products before shipping to customers._
 6.  _Shipping using faster carriers than China EMS and ePacket._
-
+7. _Can ship 
 Working with dropshipping agents have many advantages yet, there are certain disadvantages to consider too.
 
 -   _If you are a new commer to dropshipping business, without stable daily orders,they might not going to support you._
 -   _You’ll be required to buy stock(2-3days) so they can process the orders once they get your orders._
--   _Your agent might quota you higher price than Aliexpress for they provide express shipping and only those who can understand the value of fast delivery._
+-   _Your agent might quota you higher price than Aliexpress for they provide express shipping and you must have a good understanding of the value of fast delivery._
 -   _You can only access a small number of manufacturers or suppliers._
 -   _You might pay more with a middleman than negotiating directly with suppliers on AliExpress._
 
@@ -63,6 +63,6 @@ If you’re a serious dropshipper, you will always find ways to beat your compet
 
 If you, however, choose to continue sourcing  **dropshipping products**  from AliExpress, these articles will be useful for you.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTQyNDQ5NzksODc4NTE3NjgwLDIxMj
-M2NTUwNzAsLTE4NzQwNjk5MDddfQ==
+eyJoaXN0b3J5IjpbLTU4NzAxOTgzNyw4Nzg1MTc2ODAsMjEyMz
+Y1NTA3MCwtMTg3NDA2OTkwN119
 -->
