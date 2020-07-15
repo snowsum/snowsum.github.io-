@@ -6,7 +6,7 @@ image: https://i.imgur.com/1Or3ja1.jpg
 ---
 
 
-![Introduction to dropshipping](https://wp-en.oberlo.com/wp-content/uploads/2018/05/drop1-1024x659.jpg)
+
 
 For decades, starting a business was a costly and complicated affair. You had to raise sufficient funds all by yourself (or get investors), rent out a brick-and-mortar storefront, and get people in the door. Even today, running a traditional startup takes lots of money, time, and energy.
 
@@ -2248,6 +2248,6 @@ The entrepreneurs who have been so successful didn’t get to where they are tod
 
 **Wholesaler** – A supplier that sells to retailers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDgwNjI4MjUsMTE3OTE3MjY0OSwxMD
-c2MjczNDMxXX0=
+eyJoaXN0b3J5IjpbLTEwNjUxNTI0MjIsLTIxMDgwNjI4MjUsMT
+E3OTE3MjY0OSwxMDc2MjczNDMxXX0=
 -->
