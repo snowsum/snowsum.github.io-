@@ -36,20 +36,19 @@ A legit dropshipping agent performs as the middleman and has a real warehouse in
 4.  _Stocking products in their warehouses._
 5.  _Labeling and packaging products before shipping to customers._
 6.  _Shipping using faster carriers than China EMS and ePacket._
-7. _Can ship out tons of parcels in very short time, good for those gurus who are scalling their business ,work with influencer
+7. _Can ship out tons of parcels in very short time, good for those gurus who are scalling their business ,working with influencer or campaining._
+
 Working with dropshipping agents have many advantages yet, there are certain disadvantages to consider too.
 
 -   _If you are a new commer to dropshipping business, without stable daily orders,they might not going to support you._
 -   _You’ll be required to buy stock(2-3days) so they can process the orders once they get your orders._
 -   _Your agent might quota you higher price than Aliexpress for they provide express shipping and you must have a good understanding of the value of fast delivery._
--   _You can only access a small number of manufacturers or suppliers._
--   _You might pay more with a middleman than negotiating directly with suppliers on AliExpress._
 
 If you believe that exploring the option of hiring dropshipping agents will be more beneficial for you then go for it. You’ll never know if it is truly advantageous for your dropshipping business unless you try it.
 
 ### How to find dropshipping agents?
 
-[Nichepik](https://www.nichepik.com), CJDropShipping, and Wiio are just some of the dropshipping agents you can find online. To look for dropshipping agents, you can do a Google search, post a question in dropshipping communities or forums, or join dropshipping Facebook groups. However, to find out if they are the right people to work with, here are some things you could do:
+[Nichepik](https://www.nichepik.com), [CJDropShipping](), and Wiio are just some of the dropshipping agents you can find online. To look for dropshipping agents, you can do a Google search, post a question in dropshipping communities or forums, or join dropshipping Facebook groups. However, to find out if they are the right people to work with, here are some things you could do:
 
 -   _Read third-party reviews to get an unbiased opinion and real experiences._
 -   _Ask other dropshippers who used their services through forums and Facebook groups._
@@ -63,6 +62,6 @@ If you’re a serious dropshipper, you will always find ways to beat your compet
 
 If you, however, choose to continue sourcing  **dropshipping products**  from AliExpress, these articles will be useful for you.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MTAyODc1MCw4Nzg1MTc2ODAsMjEyMz
+eyJoaXN0b3J5IjpbLTY2NzIyNTc2NCw4Nzg1MTc2ODAsMjEyMz
 Y1NTA3MCwtMTg3NDA2OTkwN119
 -->
