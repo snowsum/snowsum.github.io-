@@ -5,9 +5,9 @@ To prevent confusion, frustration, and the potential loss of customers, it’s i
 But before we dive into how to write a return policy for your store and implement a system to handle requests, let's talk about why it's so important to get returns and exchanges right.
 
 1.  [How customer returns impact your business](#how-returns-and-exchanges-impact-your-business)
-2.  [An Effective Online Return Police](#setting-up-a-system-for-returns-and-exchanges)
-3.  [How to write a return policy](https://www.shopify.com/blog/return-policy#policy)
-4.  [Return policy template](https://www.shopify.com/blog/return-policy#template)
+2.  [An Effective Online Return Police](#an-effective-online-return-police)
+3.  [How to write a return policy](#how-to-write-a-return-policy)
+4.  [Return policy template](#Return policy template)
 5.  [Where to surface your policy](https://www.shopify.com/blog/return-policy#places)
 6.  [Choosing a service to power your process](https://www.shopify.com/blog/return-policy#app)
 7.  [Strategies for more profitable returns and exchanges](https://www.shopify.com/blog/return-policy#strategies)
@@ -844,11 +844,11 @@ Just because shipping is free, doesn't mean it should take a long time. Zappos o
 
 #### We look forward to giving you more reasons to fall in love with all that we have to offer!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NjQ2Njc3NCwxMTAxMDQ2ODQ2LC0xMj
-k3MzgyMjQ0LC02Mzc3NzEwNTYsLTE1NTc4NDM4MzMsODc0NDQ5
-NjU4LC05NzE5OTczMzAsNjcxMDMxNjYzLDEzODAxMTU0MTQsMj
-MyMzk4NTM3LC0xMzY3NDgxNTkwLC0xOTUwNzUzMzU5LC0xMjQ1
-MTMwMjY3LDk3ODk3MTEwOSwtMTM3MzM0NDMzOSwtNDU2NjI3ND
-k3LC0xNzIyNTIxNTgsLTExOTc3MzIyODUsLTUwOTQzMTMyOSwt
-MTA3MzMxOTE0MF19
+eyJoaXN0b3J5IjpbNjMxMjg4NzA2LC0yOTY0NjY3NzQsMTEwMT
+A0Njg0NiwtMTI5NzM4MjI0NCwtNjM3NzcxMDU2LC0xNTU3ODQz
+ODMzLDg3NDQ0OTY1OCwtOTcxOTk3MzMwLDY3MTAzMTY2MywxMz
+gwMTE1NDE0LDIzMjM5ODUzNywtMTM2NzQ4MTU5MCwtMTk1MDc1
+MzM1OSwtMTI0NTEzMDI2Nyw5Nzg5NzExMDksLTEzNzMzNDQzMz
+ksLTQ1NjYyNzQ5NywtMTcyMjUyMTU4LC0xMTk3NzMyMjg1LC01
+MDk0MzEzMjldfQ==
 -->
