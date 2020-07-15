@@ -337,8 +337,8 @@ We do not accept returns of Nordstrom, Nordstrom.com or Nordstrom.ca merchandise
 [Do I need a receipt from my purchase?](#do-i-need-a-receipt-from-my-purchase)
 [Do you take everything back?](#do-you-take-everything-back)  
 [Is there a time limit? What if the item is worn?](#is-there-a-time-limit-what-if-the-item-is-worn)  
-[Why do special-occasion dresses and some designer items have tags that say if the tag is removed the garment cannot be returned?](https://www.nordstrom.com/c/return-policy#anchor-link-special-occasion "Why do special-occasion dresses and some designer items have tags that say if the tag is removed the garment cannot be returned?")  
-[Are there restocking fees?](https://www.nordstrom.com/c/return-policy#anchor-link-restocking-fee "Are there restocking fees?")  
+[Why do special-occasion dresses and some designer items have tags that say if the tag is removed the garment cannot be returned?](#why-do-special-occasion-dresses-and-some-designer-items-have-tags-that-say-if-the-tag-is-removed-the-garment-cannot-be-returned)  
+[Are there restocking fees?](#are-there-restocking-fees)  
 [Why does Nordstrom request my personal identification for a return without a record of sale?](https://www.nordstrom.com/c/return-policy#anchor-link-personal-identification "Why does Nordstrom request my personal identification for a return without a record of sale?")  
 [Do you take checks?](https://www.nordstrom.com/c/return-policy#anchor-link-checks "Do you take checks?")  
 [How do you process my return if I paid with PayPal (U.S.)?](https://www.nordstrom.com/c/return-policy#anchor-link-paypal "How do you process my return if I paid with PayPal (U.S.)?")
@@ -844,7 +844,7 @@ Just because shipping is free, doesn't mean it should take a long time. Zappos o
 
 #### We look forward to giving you more reasons to fall in love with all that we have to offer!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMzk5Njc2NiwtNjM3NzcxMDU2LC0xNT
+eyJoaXN0b3J5IjpbMTYwNjA2MjA2NywtNjM3NzcxMDU2LC0xNT
 U3ODQzODMzLDg3NDQ0OTY1OCwtOTcxOTk3MzMwLDY3MTAzMTY2
 MywxMzgwMTE1NDE0LDIzMjM5ODUzNywtMTM2NzQ4MTU5MCwtMT
 k1MDc1MzM1OSwtMTI0NTEzMDI2Nyw5Nzg5NzExMDksLTEzNzMz
