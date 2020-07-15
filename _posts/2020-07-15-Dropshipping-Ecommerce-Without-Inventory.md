@@ -1,4 +1,10 @@
-
+---
+layout: post
+title:  "About Bundler"
+author: sal
+categories: [ Jekyll ]
+image: 
+---
 
 ## Introduction
 
@@ -2170,6 +2176,79 @@ But who should you hire and when? Typically, dropshipping merchants can benefit 
 **Customer support representatives.** If you’re getting a steady flow of support tickets and messages from customers, it could be worthwhile to hire a dedicated customer support rep. This will free up your time to focus on higher level responsibilities.
 
 **SEOs, marketers, copywriters, and designers**. Depending on your exact business model and goals, you may want to [hire some freelancers](https://www.oberlo.com/blog/freelance-websites-for-entrepreneurs) to do some once-off work. For instance, if you’re running into problems with visibility in the SERPs, hiring an SEO to optimize your site could help. You may already know some people to fill these roles, but just be aware that you’ll likely need all of these services at one point or another. Only you can determine if it’s worth it to hire salaried employees in these roles.
+## Conclusion
+
+![dropshipping glossary](https://wp-en.oberlo.com/wp-content/uploads/2018/05/drop12.jpg)
+
+Do you know why most dropshipping businesses fail?
+
+_Because they never start in the first place_.
+
+You wouldn’t believe how many entrepreneurs I’ve talked to who say they want to start a dropshipping business more than anything, yet they don’t do it.
+
+A lot of entrepreneurs shy away from kickstarting a business of their own for various reasons. You might share some of their fears. Maybe you think your business plan isn’t good enough or that you’ll never make it in your niche.
+
+What many big time entrepreneurs won’t tell you is that many of them had absolutely no idea what they were doing when they started. In fact, by just reading this guide, you’re more equipped than a lot of current business owners were at the start of their careers.
+
+With that in mind, I want to remind you that you can do it. You don’t have to have a perfect business right now. You just need to start taking action toward building a business of your own.
+
+If you create a business with the goal of providing value, you’ll be able to move past all your shortcomings and fire up a successful business. So many people today just want to make money fast, and customers see right through that. You have to have a desire to improve people’s lives if you want your business to last.
+
+The entrepreneurs who have been so successful didn’t get to where they are today by doing everything flawlessly. They all made more mistakes than they could count. You’ll do the same on your journey. You’ll fall, pick yourself up again, and find out how to stop falling. It’s a long road, but if you start today, you’ll be surprised at how fast you can move.
+
+# Glossary
+
+**Business structure** – A business’s legal status and associated classifications. For example, a business may be incorporated as an LLC or C Corp.
+
+[**Buyer persona**](https://www.oberlo.com/ecommerce-wiki/buyer-persona) – A fictional customer profile that helps you determine how you should market and sell to your audience.
+
+**Chargeback** – An official dispute that reverses a transaction and refunds the customer, taking the money from the merchant. Many chargebacks are fraudulent, and accumulating too many chargebacks often carries penalties.
+
+**Conversion** – A conversion happens when someone takes a desired action. This is typically used to describe the process of converting a website visitor into a customer.
+
+**Distributor** – A business that purchases from manufacturers and sells to retailers. This term is often used synonymously with the terms _supplier_ and _retailer_.
+
+**Domain** – The root URL of a website (e.g., [https://shopify.com](https://shopify.com/?prev_msid=517d97f7-3191-4B1A-BEC7-6BC8367857BB)).
+
+**Dropshipping** – A retail fulfillment method in which the retailer does not actually stock the product. Instead, the retailer works with a supplier to send products out to customers.
+
+**EIN** – Employer Identification Number, used to legally identify a business entity.
+
+**Fulfillment** – The process of completing an order.
+
+**Limited Liability Company (LLC)** – A business structure that separates personal and business finances, giving you more protection.
+
+**Listing fees** – Fees that ecommerce platforms (e.g., Amazon, eBay) charge for hosting products on their site.
+
+**Manufacturer** – A company that manufactures products. Often, manufacturers sell to wholesalers in bulk.
+
+**MAP pricing** – The minimum price that a product can carry.
+
+**Margin** – The difference between what a merchant pays and what a customer pays. Also called _profit margin_.
+
+**Merchant** – A retailer who sells directly to customers.
+
+**Minimum order size** – The smallest order that can be placed from a supplier. This is either measured in unit size or price.
+
+**Net terms** – A payment structure in which the retailer is given a set amount of time after purchasing to pay for the products from a supplier. So ‘net 30’ means the retailer has 30 days after purchase to pay.
+
+**Retailer** – A business that sells directly to customers. Also called a _merchant_.
+
+**Search Engine Optimization (SEO)** – The practice of enhancing visibility in search engines.
+
+**Search Engine Results Pages (SERPs)** – A search engine web page that displays the results of a search.
+
+**Sole proprietorship** – A business structure in which one person owns and operates the business. Typically there is no separation between personal and business finances.
+
+**Supplier** – A business that buys products from manufacturers and sells to retailers. Also called _wholesalers_ or _distributors_.
+
+**Supplier directory** – A list of legitimate suppliers.
+
+**Supply chain** – The path of a product from manufacturer to customer.
+
+**Wholesale price** – The price suppliers charge to retailers.
+
+**Wholesaler** – A supplier that sells to retailers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4Mjc4NDU5NV19
+eyJoaXN0b3J5IjpbODY3ODEyMTMwXX0=
 -->
