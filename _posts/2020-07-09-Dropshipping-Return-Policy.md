@@ -434,7 +434,7 @@ We want to make sure returns are as easy as possible to do, but if you need more
 -   [Responsibility](#responsibility)
 -   [Fair use](#fair-use)
 -   [Final Sale](#final-sale)
--   [Want to exchange an item?](#want-to exchange an item)
+-   [Want to exchange an item?](#want-to-exchange-an-item)
 -   [Returning a faulty or incorrect item?](https://www.asos.com/us/customer-care/returns-refunds/what-is-your-returns-policy/#9##9)
 -   [Returns have gone online!](https://www.asos.com/us/customer-care/returns-refunds/what-is-your-returns-policy/#10)
 
@@ -844,11 +844,11 @@ Just because shipping is free, doesn't mean it should take a long time. Zappos o
 
 #### We look forward to giving you more reasons to fall in love with all that we have to offer!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMTA0Njg0NiwtMTI5NzM4MjI0NCwtNj
-M3NzcxMDU2LC0xNTU3ODQzODMzLDg3NDQ0OTY1OCwtOTcxOTk3
-MzMwLDY3MTAzMTY2MywxMzgwMTE1NDE0LDIzMjM5ODUzNywtMT
-M2NzQ4MTU5MCwtMTk1MDc1MzM1OSwtMTI0NTEzMDI2Nyw5Nzg5
-NzExMDksLTEzNzMzNDQzMzksLTQ1NjYyNzQ5NywtMTcyMjUyMT
-U4LC0xMTk3NzMyMjg1LC01MDk0MzEzMjksLTEwNzMzMTkxNDAs
-MjA0MDI5NzYyMl19
+eyJoaXN0b3J5IjpbMTU3NzE0NDA0MywxMTAxMDQ2ODQ2LC0xMj
+k3MzgyMjQ0LC02Mzc3NzEwNTYsLTE1NTc4NDM4MzMsODc0NDQ5
+NjU4LC05NzE5OTczMzAsNjcxMDMxNjYzLDEzODAxMTU0MTQsMj
+MyMzk4NTM3LC0xMzY3NDgxNTkwLC0xOTUwNzUzMzU5LC0xMjQ1
+MTMwMjY3LDk3ODk3MTEwOSwtMTM3MzM0NDMzOSwtNDU2NjI3ND
+k3LC0xNzIyNTIxNTgsLTExOTc3MzIyODUsLTUwOTQzMTMyOSwt
+MTA3MzMxOTE0MF19
 -->
