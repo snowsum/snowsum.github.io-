@@ -1198,7 +1198,511 @@ Don’t forget that product selection is an ongoing process. This won’t be the
 You’ve done a lot so far! At this point, you have all the makings of a great business. You’ve done your research, chosen a niche, and picked out products. A good amount of the grunt work is over, so give yourself a pat on the back for all that you’ve accomplished so far.
 
 The only thing stopping you from getting started is, well, setting up your business! You’ll need to take some important steps before you go on the hunt for suppliers and source your products. [Chapter 6](https://www.oberlo.com/ebooks/dropshipping/opening-business)  will introduce you to vital concepts that deal with making your business official so you can start dropshipping products and profiting from your work.
+## Making Your Business Official
+
+![opening business](https://wp-en.oberlo.com/wp-content/uploads/2018/05/drop6.png)
+
+First things first: while I _am_ a dropshipping expert, I’m _not_ a legal expert. You should consult an attorney before taking action on anything mentioned in this chapter. Specifically, you should find an attorney who is experienced in helping entrepreneurs set up businesses.
+
+In addition, the use of this guide does not create an attorney-client relationship between the reader and Shopify. I’m not a lawyer – I’m just an entrepreneur who has a passion for helping others.
+
+Finally, the advice in this chapter is only applicable for entrepreneurs in the United States. International entrepreneurs, skip ahead to the end of this chapter for some resources that will point you in the right direction.
+
+Now that I’ve gotten the boring stuff out of the way, let’s talk about [making your business official.](https://www.sba.gov/business-guide/10-steps-start-your-business/)
+
+Right now, you have a business concept ready to go, but it’s not a bona fide business just yet. You need to make it legal, set up an official business framework, and make sure you’re abiding by all the right rules.
+
+This is often the step that intimidates would-be dropshippers the most. Dealing with legal stuff isn’t exactly fun, and sometimes it’s downright confusing. What do you do? Where do you start?
+
+The goal of this chapter is to help you become more confident about setting up your business. I’ll review the steps every entrepreneur needs to take, and I’ll also give some suggestions to help out as much as possible.
+
+By no means will this chapter answer all your questions, nor is it a definitive resource on anything legal. I highly recommend talking with an attorney and seeking advice from people in the legal industry. This chapter is only a starting point to introduce you to the essential aspects of incorporation and finances..
+
+To make it easy, I’ve split up this chapter into two sections: legal and finances.
+
+## Legal
+
+### Choosing a Business Structure
+
+_Note: This section is primarily focused on starting a business for residents of the U.S. Please make sure you determine the correct structure for the country in which you reside._
+
+The first step in setting up a business is deciding _how_ the business will be set up. Since you’re likely a one-person operation, this is typically pretty straightforward, but you still need to weigh your options and see which one is best for your personal situation.
+
+![set up legal business structure dropshipping](https://wp-en.oberlo.com/wp-content/uploads/2018/05/legal.png)
+
+[Source](http://foundersguide.com/a-quick-look-of-business-structures-for-startups/)
+
+Since every business is different, this guide won’t be able to help you choose which structure is right for your company. That’s where a lawyer can help out. However, this guide can help you understand these structures.
+
+With that said, here’s an overview of four widely used business structures.
+
+[**Sole Proprietorship**](https://www.entrepreneur.com/encyclopedia/sole-proprietorship)**.** This is the simplest business structure. [The IRS defines this structure as](https://www.irs.gov/businesses/small-businesses-self-employed/sole-proprietorships) ‘someone who owns an unincorporated business by himself or herself. Many self-employed workers (like freelancers) are sole proprietors.
+
+Think of a sole proprietorship as a personal business. Under this structure, nothing much changes. You essentially just communicate to the IRS that you’re making money online. When filing taxes, you simply report business earnings on your personal taxes.
+
+Keep in mind that a sole proprietorship offers no liability protection, so if your business is sued, your personal assets could be in trouble. So while a sole proprietorship is easiest to get started with, it’s not necessarily the best.
+
+[**Partnership**](https://www.entrepreneur.com/encyclopedia/partnership)**.** If you want to start up your business with a partner, your company may fall under partnership jurisdiction. This is simply ‘the relationship existing between two or more persons who join to carry on a trade or business,’ [according to the IRS](https://www.irs.gov/businesses/small-businesses-self-employed/partnerships).
+
+Partners must file an annual information return, but the business does not pay income tax. Instead, each partner reports his or her profits and losses.
+
+Obviously, for solo entrepreneurs, this structure doesn’t apply. Many dropshipping stores are run by one person, so you don’t see this structure a lot. However, it’s definitely useful in some cases, and you should be aware of it in case you’re co-founding a business with a partner.
+
+[**Limited Liability Company (LLC)**](https://www.investopedia.com/terms/l/llc.asp)**.** Ever seen a business name with LLC at the end? That means it’s a Limited Liability Company. Under this structure, personal and business finances are separated, meaning your business will be a separate legal entity from your personal finances. This affords more protection than a sole proprietorship, but it doesn’t come with the heavy regulations that a C Corporation demands.
+
+You’ll often see medium-sized businesses opt for an LLC, and it’s appealing for its balance of protection and flexibility. Even though it’s popular, it may or may not be right for you. Check out [the IRS guidelines on LLCs](https://www.irs.gov/businesses/small-businesses-self-employed/limited-liability-company-llc) as well as any local rules that apply.
+
+[**C Corporation**](https://en.wikipedia.org/wiki/C_corporation)**.** This option provides the highest level of liability protection. This is how most major businesses are set up. However, becoming a C Corp is a more complex process, and a C Corp may be subject to double taxation.
+
+For most dropshippers, this option is off the table. However, more ambitious entrepreneurs might want to give it a look. [Here’s some information from the IRS on C Corps](https://www.irs.gov/businesses/small-businesses-self-employed/forming-a-corporation).
+
+Again, since I’m not a legal expert, I can’t suggest one of these structures. I can say that most entrepreneurs who have smaller businesses usually choose a sole proprietorship or an LLC. A one-person business isn’t too complex to set up, but a business attorney can help you make the best choices and help you protect yourself, your personal assets, and your business from harm.
+
+Another reason to consult an attorney is that different states have different requirements for businesses. A professional in your state will be able to tell you everything you need to know about incorporating. If you don’t know where to start looking, look at [this FindLaw page](http://lawyers.findlaw.com/lawyer/practice/business-commercial-law) that lists business and commercial lawyers by state.
+
+Remember, the business structure you choose will determine much of how you have to run your business, so make sure the one you pick is the best for you.
+
+### Getting your Employer Identification Number (EIN)
+
+This is a small but important step. Most people who run a business are required to have an EIN. An EIN is used by the IRS to identify a business entity. An EIN is like a Social Security number for a business, so it’s important to have. Thankfully, it’s a snap to get one. [You can apply for one online here](https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online).
+
+However, not all business owners need an EIN. Visit [this page](https://www.irs.gov/businesses/small-businesses-self-employed/do-you-need-an-ein) to see if you need one or not.
+
+### Miscellaneous Legal Necessities
+
+When it comes to legal must-haves, there’s much more than what I’ve discussed in this chapter. Trademarking your store name, making your email list legal, and protecting your customers’ data are a few of the considerations you’ll want to make.
+
+Shopify created the [Definitive Legal Guide to Ecommerce](https://www.shopify.com/blog/14926393-the-definitive-legal-guide-to-ecommerce?prev_msid=517a6e6c-672D-4048-C70E-1D1729230ABA) to help with some of these areas. However, this guide is not legal advice, so it can only share information like I’ve done in this chapter.
+
+Depending on where you are, different rules may apply, so it’s always best to consult a local attorney. Your state and city might have official information on starting an online business, and often there are specific rules for entrepreneurs who operate a business from their home.
+
+## Finances
+
+Business finances are much more extensive than personal finances, so you’ll want to make absolutely sure you have everything set up and ready to go. The term ‘finances’ is broadly applied to a range of financial matters, including taxes and payment processing.
+
+If you’re using an ecommerce solution like Shopify, you’ll find business finances become a whole lot easier. However, you still need to read up on financial requirements. While ecommerce solutions simplify finances, they don’t eliminate them.
+
+A sturdy financial foundation will protect your business and make selling easy. It takes some work upfront, and you’ll want to consult an attorney for most of these matters as well.
+
+Here are some of the things you’ll need to do:
+
+### Open a Business Checking Account
+
+In most cases, you’ll want your business income to be separate from your personal income. This  [simplifies accounting](https://www.oberlo.com/ebooks/mindset/accounting), makes finances easier to manage, and affords you some extra protection.
+
+[Do some research](https://www.nerdwallet.com/banking/best-checking-accounts) to find a bank that offers a solid business account. It’s perfectly fine to use different banks for your personal and business income streams.
+
+Don’t forget to look at online banks. An online checking account may come with lower fees, but there could also be some limitations. Whether you choose an online bank or not, make sure the bank you’re dealing with is reputable and FDIC insured.
+
+Even if you’re not expecting to pull in high volume sales, a business checking account is still nice to have. Separating your income streams will save you countless headaches, and your CPA will thank you once tax time rolls around.
+
+### Get a Business Credit Card
+
+For business-related purchases, a dedicated credit card is a necessity whether you’re buying inventory or charging a business expense. Just like you should have a checking account for business only, you should have a credit card that is solely used for business.
+
+Your business credit card will mostly be used to order from suppliers. There are other ways to pay, but a credit card is one of the most flexible methods, and it’s accepted everywhere.
+
+This also gives you the opportunity to make use of credit cards with rewards programs. Since you’ll be making fairly large purchases on a regular basis, you can easily rack up rewards. This isn’t a necessity, but it’s certainly a nice feature that you might as well take advantage of.
+
+### Create a Business Paypal Account
+
+If you plan to accept PayPal, you’ll need a separate business account to process payment. Again, the goal here is to separate personal and business finances, so don’t use your personal PayPal account for your store.
+
+It’s easy to sign up for a business account, but be aware of the fees and restrictions that come with it. You’ll deal with different fee amounts depending on factors like the size of the order and the location of the customer. [Here’s the information straight from PayPal](https://www.paypal.com/us/webapps/mpp/merchant).
+
+PayPal isn’t the only option for paying online, although it is the most popular. If you want to accept other forms of payment, like Stripe or Bitcoin, you’ll need to set up business accounts for each one. And make sure you have a method of accepting credit cards!
+
+### Get Your Taxes and Accounting in Order
+
+Before you open the doors to your business, make sure you know what you need to do for [taxes and accounting](https://www.thebalancesmb.com/develop-the-chart-of-accounts-for-your-small-business-392997). Reach out to a professional tax and accounting expert to familiarize yourself with the rules and regulations involved. Depending on which business structure you choose and which local and state rules apply, your processes for filing and paying tax will likely be different from how you normally file and pay.
+
+In addition, come up with a way of organizing your finances, recording your income, and logging expenses. Taking care of this on a consistent basis will help keep your finances headache-free. Trust me, you don’t want to have to dig up everything a month before tax season.
+
+### Understand When to Collect State Tax on Purchases
+
+This is a rule that’s good to know in advance. You only need to collect state tax if both of these criteria are met:
+
+-   The state your business operates from collects sales tax
+-   Someone from your state places an order from your site
+
+Most orders won’t be eligible for sales tax, but some will, and you’ll need to be prepared for those. Be sure to contact the Department of Commerce in your state to register and get more information about rules you need to follow.
+
+### See If You Need a Local Business License
+
+Since most dropshipping businesses are operated out of home offices, a [local business license may or may not be necessary](https://www.sba.gov/blogs/how-find-right-license-and-permit-your-new-business). You’ll need to contact your city to find out if you need one or not. Even if you end up not needing a business license, you may need to obey certain local rules that govern home businesses.
+
+### Make Sure Your Office Space Is in the Clear
+
+Having a home office is usually a straightforward process, but sometimes there are snags. For example, you might need a local business license.
+
+However, in some cases, there’s a few more formalities involved. If you’re part of a Homeowners Association (HOA), you may have to follow specific regulations for running a business from your residence. Alternatively, you could choose to rent an office or coworking space, but this usually isn’t cost effective for most entrepreneurs.
+
+Don’t forget to read up on what tax deductions you can take advantage of. You can write off or depreciate items that you buy for work, and you may be able to use other deductions as well.
+
+## What About International Entrepreneurs?
+
+Not in the United States? As always, I recommend consulting with legal and business professionals near you to determine exactly what steps you need to follow in order to establish a business in your area.
+
+You should know that you still can incorporate in the US, but you’ll need to jump through some hoops to make it happen. A business law expert will be able to help you decide if it’s better for you to incorporate in your country or the US.
+
+For further reading on the subject, check out [this guide from New York attorney Aaron Wise](http://www.gdblaw.com/siteFiles/526cbb41-0cb6-4284-9aac-c9feb26de48c/custom/files/BusinessUSA_Eng.pdf).
+
+## Finding Legal Help near You
+
+As I’ve said throughout this chapter, nothing beats local legal help when it comes to setting up a business. Reach out to your network and see if anyone you know has experience with incorporation attorneys or business accountants.
+
+If you’re having trouble, here are a couple of resources to help you out. The first is [the FindLaw page that lists business and commercial lawyers](http://lawyers.findlaw.com/lawyer/practice/business-commercial-law), and the second is [a search tool from AccountantsWorld.com](http://www.accountantsworld.com/directory-list) that will show you accountants near you.
+
+Reading online can only do so much. If you want your dropshipping store to succeed, it’s more than worth it to invest some time and money into expert advice.
+## Choosing a Sales Platform
+
+![dropshipping website](https://wp-en.oberlo.com/wp-content/uploads/2018/05/drop7.jpg)
+
+It’s finally time to get into the good stuff: making sales. If you’ve made it this far, you’ve gotten a lot of the administrative stuff out of the way, and you’re ready to start building your actual store.
+
+Earlier I mentioned we’d be covering different sales channels. This is such a deep topic that I’ve devoted an entire chapter to it.
+
+A sales channel is a platform you use to sell products. This can be a [Shopify store](https://shopify.com/?prev_msid=517af19c-F9AC-4D4A-AEA1-01462645B240), a dropshipping website of your own, or a seller account on a product site like eBay.
+
+The sales channel is another foundational element to a dropshipping business. The platform you use to sell will determine how you sell. You’ll be subject to the flexibility (or lack of flexibility) of your channel, and the audience you reach (and how you reach them) will be extremely dependent on the sales platform you choose.
+
+As you might be able to guess, there are lots of options out there. This is mostly a good thing, but it can leave you confused as to what you should choose. Each sales channel has its own pros and cons, and you need to closely evaluate them before you make a decision.
+
+You can use multiple sales channels if you want, but you’ll have to juggle all the different tasks and responsibilities. In most situations, this isn’t too difficult, but you might want to start out with just one sales channel and then start using others.
+
+There are three popular sales platforms: eBay, Amazon, and custom online storefronts (typically using ecommerce software or plugins). None of these platforms are inherently better or worse than the others, so you’ll have to spend some time familiarizing yourself with each one. You’ll likely find that one option is best for you.
+
+## Dropshipping on Amazon
+
+When it comes to choosing a dropshipping website, Amazon seems like an easy choice. It’s one of the biggest online marketplaces in the world, and it’s a hotspot for dropshippers.
+
+![dropshipping on amazon](https://wp-en.oberlo.com/wp-content/uploads/2018/05/dropshipping-on-amazon.png)
+
+[Source](https://affiliatedork.com/amazon-dropshipping-the-wave-of-tomorrow)
+
+Many of the products you see listed on Amazon are actually sold by third-party merchants. But is Amazon _really_ that good for dropshippers?
+
+There’s no doubt that Amazon has plenty of advantages, but it’s not without its own issues. In some ways it’s convenient, and in other ways it can be really detrimental to dropshippers. Here are some of the pros and cons you should be aware of if you’re considering using Amazon as your first dropshipping platform.
+
+### Pros of Dropshipping on Amazon
+
+**It exposes your products to an enormous audience.** By listing your products on Amazon, you’ll instantly get in front of [millions and millions of people](https://www.oberlo.com/blog/amazon-dropshipping-guide#Large_audience_to_sell_to). This is the kind of attention you’d have to spend years to achieve on your own. And since many Amazon shoppers buy from third party merchants, you’re almost guaranteed a colossal amount of free traffic no matter what you’re selling.
+
+**It’s trustworthy.** These days, people treat Amazon like a local big box store. Shopping on Amazon has become a casual affair, and it’s often where people go to buy any number of products. That means your customers might already regularly browse Amazon to purchase items they need.
+
+**You get access to Fulfillment by Amazon (FBA).** With FBA, retailers ship products to Amazon, who then ships out the orders. If you have products of your own to sell, FBA can give you an additional revenue stream. This isn’t a huge perk, but it’s nice to have.
+
+### Cons of Dropshipping on Amazon
+
+**The listing fees are substantial.** Like eBay, Amazon imposes hefty listing fees that are typically in the neighborhood of 10 to 15 percent. And that’s on top of the monthly $39.99 base fee. If your margins are already low, this will cut into your profits quite heavily, but it’s the cost you’ll have to pay if you want that potential exposure to millions of buyers.
+
+**The competition is insane.** Amazon’s popularity is a double-edged sword. On the one hand, it means lots of people will see (and hopefully buy) your products. On the other hand, it means there’s lots of competition. It doesn’t help that many third-party Amazon sellers automate their listings to continuously adjust their prices to be the lowest. This creates pricing wars, which is bad news for dropshippers. Undercutting your competition all the time is no way to stay in business, so this is a real problem for dropshippers.
+
+**The payment situation isn’t ideal for everyone.** There are two big problems with how Amazon deals with payment. First, it doesn’t accept PayPal. This is obviously a huge issue, as PayPal is how millions of people prefer to pay. Second, sellers only get paid every two weeks, and this is less than ideal for many entrepreneurs.
+
+## Dropshipping on eBay
+
+To put it lightly, eBay is an enormous sales platform. Many people trust eBay, and  [millions of people](https://www.oberlo.com/blog/ebay-statistics)  use it to go shopping and buy products. It’s similar to Amazon in many respects, and the two sites share many of the same advantages.
+
+![dropshipping on ebay](https://wp-en.oberlo.com/wp-content/uploads/2018/05/dropshipping-on-ebay.png)
+
+However, since eBay is an auction site, it’s a little different than the other two options. It can be invaluable for dropshippers just starting out, but it comes at a price – literally.
+
+### Pros of Dropshipping on Ebay
+
+**It’s huge.** One of eBay’s most appealing features is its sheer size. Dropshipping on eBay will give you instant access to millions of customers who have their wallets out, ready to buy. This means you can do less marketing and work more on leveraging the platform itself.
+
+**It’s easy.** Dropshipping on eBay is easy to set up. You can easily manage everything all by yourself without the need for any assistants or team members. If that weren’t enough, eBay makes payment processing and finances a lot easier.
+
+**It’s trustworthy.** Customers trust eBay because of its seller protection policies, which can benefit new dropshippers. Many buyers will purchase from brand new sellers because they know they’re covered if something goes wrong. This makes it easy for you to attract customers and build a positive reputation.
+
+### Cons of Dropshipping on Ebay
+
+**The fees can add up.** eBay is notorious for its high fees – the ecommerce giant takes up to 10 percent of a sale (and in rare cases, even more). [These fees](http://pages.ebay.com/help/sell/fees.html) are somewhat of a necessary evil and a tradeoff for selling on such a big platform, but this does dissuade some entrepreneurs from choosing eBay as a dropshipping platform.
+
+**Its auction style isn’t always ideal for dropshipping.** With a dropshipping business model, you list a product and keep that listing up indefinitely. eBay doesn’t work like this because it’s an auction platform, which means there’s a time limit for all listings. You’ll have to relist your items once the listings expire. This can be time consuming and make you postpone more important things.
+
+**It’s limiting.** With eBay, your hands are tied. There’s a lot you can’t do, like build an email list or design your own storefront. You have to play by eBay’s rules, and you’re more or less stuck on eBay. This means you won’t get many repeat customers, you can’t really build an audience, and you can’t brand yourself. Suffice it to say, this can get frustrating. It can also make it harder for you to stand out since virtually every eBay store looks exactly the same.
+
+## Dropshipping on Your Own Website
+
+While it won’t give you the ability to get your inventory in front of millions of customers, a dropshipping website of your very own can provide you with advantages you won’t get any other way. You’ll get a lot of freedom, but you’ll have to make some compromises.
+
+Setting up a dropshipping website from scratch may sound overwhelming, especially if you don’t have any prior experience, but it’s surprisingly easy thanks to ecommerce software like Shopify. You can easily create a site and integrate an ecommerce plugin to make your store, no experience necessary.  [Chapter 3](https://www.oberlo.com/ebooks/make-money-from-home/products-to-sell-from-home)  of Oberlo’s Make Money From Home ebook offers some insight into the process. But is this the right choice for you? Here are some points to think about.
+
+### Pros of Setting up Your Own Dropshipping Website
+
+**You have complete control.** You can decide everything that makes up your store, from the placement of your logo to the format of your pages. Most importantly, you can communicate your value to your readers, and this can give you a serious edge over your competition.
+
+**You don’t have to pay outrageous fees.** Without a third party to take a cut, you can considerably increase your profit margins. Those 10 to 15 percent listing fees that Amazon and eBay charge? Forget about them. You now only have to worry about payment processor fees and the cost of the actual products.
+
+**It’s easier for customers to buy on mobile.** Ever tried to use your mobile device to buy something off a sales platform like Amazon or eBay? It’s not always pleasant. With your own dropshipping website, you can easily make your site responsive and mobile-friendly for your customers. Better yet, if you use a platform like Shopify, you can manage your entire business from your mobile device, so you can keep an eye on things even when you’re on the go.
+
+**You can stand out.** All Amazon pages look the same, just like all eBay pages look the same. Having a dropshipping website of your own lets you implement your branding and make a lasting impression on your audience. This can make a big difference, and it will help you build your brand and draw in a loyal audience of return customers. There are other benefits as well, which you can learn about by watching our video:  [Dropshipping vs Amazon](https://www.oberlo.com/videos/dropshipping-vs-amazon-how-to-succeed-as-a-dropshipper-in-2020).
+
+### Cons of Setting up Your Own Dropshipping Website
+
+**You don’t have access to a large audience.** Having your own site means building an audience from the ground up. You’ll have to put more time, money, and effort into marketing, [traffic generation](https://help.oberlo.com/improve-your-business/how-to-drive-traffic-to-the-shopify-store?prev_msid=517af19c-F9AC-4D4A-AEA1-01462645B240), and outreach.
+
+**It can take a long time to get off the ground.** You won’t be making sales immediately like you would on Amazon or eBay. It’s going to take some time to attract customers and make consistent sales.
+
+## How to Choose a Sales Platform
+
+So you might be asking yourself, “Which dropshipping platform is right for me?” I can’t decide for you, but I can help. To [choose the best platform](https://searchenginewatch.com/2017/08/11/7-things-to-consider-when-choosing-an-ecommerce-platform/) for your business, you’ll need to ask some questions and evaluate your priorities. First, think about which is more important to you: higher profit margins or more exposure to an audience.
+
+If you’re interested in making the most money, you should probably consider creating a dropshipping website of your own. This strategy will take longer, but you’ll wind up with more money in your pocket, and you’ll be able to build a customer base.
+
+If you’re more interested in getting your product in front of lots of people, then Amazon or eBay may be right for you. This will cut your margins, but you’ll get sales more quickly.
+
+Second, think about your long-term goals. How do you want to be selling your product a year from now? What about five years from now?
+
+In other words, how much control do you want over selling your products? Your own dropshipping website will give you the most control, while platforms like Amazon or eBay will limit you in many ways. When it comes to control over branding, sales, and pretty much everything else, a website of your own is hard to beat.
+
+Finally – and this is the most important factor – think about how you’ll bring value to your customers. More specifically, think about which platform will allow you to provide the most value.
+
+I discussed earlier different ways to provide value, and you might have a few ideas in mind. Which sales platform(s) will best facilitate those ideas?
+
+Personally, I’ve had the best experience with a custom dropshipping website paired with ecommerce software like Shopify. It gives you a ton of control, makes it easy to sell, and increases your profit margins. It also gives you more opportunities to brand yourself, retain customers, and market your store.
+
+While you can switch to another dropshipping platform rather easily, there’s one thing to bear in mind. If you start out on Amazon or eBay and want to move to a dropshipping website of your own, you’ll have no way to relocate your customer base to your own site. Your positive reviews and customer experiences will be confined to that platform.
+
+Regardless of which platform you opt for, you’ll need to think about branding and digital marketing. You can have the best products and still fall short if you don’t have a memorable brand. The good news is that with a little bit of know-how, you can create an amazing brand that will help your business stand head and shoulders above your competition.
+## Branding
+
+![what is branding](https://wp-en.oberlo.com/wp-content/uploads/2018/05/branding1.png)
+
+[Image source](https://unsplash.com/photos/mGH253KbfaY)
+
+So far, you’ve started to build the foundation of your business. I’ve gone over a lot of the brass tacks, from niche selection to incorporation. You’ve come a long way, but there’s still some important steps ahead.
+
+Even though I’ve talked about building your business, a business isn’t truly a complete business without a unique identity. [That’s where branding comes in](https://www.oberlo.com/blog/brand-awareness-tips).
+
+The right branding can establish your business as a trustworthy retailer and help with marketing too. It’s what helps certain retailers rise above the others and stick in customers’ minds.
+
+Think of your favorite company. You probably know their logo, the tone of voice they use for advertisements, and maybe even their slogan. These elements are important for a memorable brand, and to really stand out, you’ll need to put some serious work into developing a robust brand.
+
+Many dropshipping stores don’t have a brand. Think of all of the online storefronts that look the same. They’re interchangeable. They give you no compelling reason to buy from them. Building a brand takes effort, and some dropshipping stores are only out to make fast cash. That’s why so many dropshippers offer rock bottom prices.
+
+Nevertheless, a brand is crucial. Customers know a good brand when they see one. The best companies in the world have awesome brands, so why shouldn’t your store have one?
+
+However, the concept of branding can be a little confusing or vague. What exactly goes into a brand? What’s the process behind branding? As a whole, branding far exceeds the scope of this guide, but I’ll get into the basics to get you started. First I’ll define what a brand is, and then I’ll show you what you need to focus on to brand your business.
+
+## What Is Branding?
+
+You know that every company has a brand, [something that makes each business unique](https://www.shopify.com/blog/16692816-5-brand-strategies-to-uniquely-position-your-ecommerce-business-above-the-competition?prev_msid=517bb144-4341-46E6-1BE5-292212A2EB6F). So a brand is essentially a company’s identity. Just like no two people are alike, no two businesses are alike, and brands are what make them all different.
+
+If you want, you can think of a brand as a company’s personality. A brand tells your customers who you are and what you’re about. It’s the  [essence of your business](https://www.oberlo.com/ecommerce-wiki/brand-equity)  – the who, what, and why, so to speak.
+
+Lots of companies treat branding as an afterthought. If you go that route, you’ll find it difficult to gain traction and get new customers. Without a brand, your business won’t be memorable, and it won’t make prospective customers think it’s special.
+
+**This is the reason why a lot of first time dropshippers give up and quit. They don’t spend enough time on branding.**
+
+Branding is the thread that runs through your entire business. Everything about your business should be infused with your brand. Your social media, marketing strategies, and even ad copy will all reflect your brand.
+
+Branding is both internal and external. Internal branding deals with your mission statement and company values, while external branding deals with aspects like design and copy.
+
+Also, branding is part of the value you provide to your audience. Whether or not your customers are loyal will largely depend on how much your brand resonates with them. A remarkable brand will attract customers by connecting with them and help turn casual shoppers into loyal followers.
+
+First, let’s discuss internal branding
+
+## Internal Branding
+
+Whether you’re a solopreneur or the head of a small team, your company needs internal branding. This may seem insignificant, but I urge you to not ignore it.
+
+![internal branding](https://wp-en.oberlo.com/wp-content/uploads/2018/05/internal-branding.png)
+
+[Image source](https://electrumbranding.com/internal-branding-external-branding/)
+
+[Internal branding](http://www.inwardconsulting.com/who-we-are/news-and-events/internal-branding/) allows you (and any team members you have) to understand what your company stands for. It’s another way of saying your company is focused on its customers. And while your customers aren’t ever going to see what your internal branding is like, your public presence will reflect the attitude you maintain. A good internal brand ensures everyone is on the same page and facilitates an optimal work ethic.
+
+Two common ways of implementing internal branding are the mission statement and a list of values.
+
+### Creating a Mission Statement
+
+Throughout this book, I’ve placed a heavy emphasis on value. By now, I hope you’ve gained a value-first mindset that focuses on how you can best serve your audience.
+
+This idea of value first is integral to a successful mission statement. Mission statements can sometimes seem corny or disingenuous, but a good mission statement can work wonders for your business by giving you a customer-centric perspective.
+
+You’ve probably seen lots of mission statements before, but if you haven’t, [here are some famous examples](https://blog.hubspot.com/marketing/inspiring-company-mission-statements):
+
+**Warby Parker**: “To offer designer eyewear at a revolutionary price, while leading the way for socially-conscious businesses.”
+
+**Nordstrom**: “To give customers the most compelling shopping experience possible.”
+
+**JetBlue**: “To inspire humanity – both in the air and on the ground.”
+
+These mission statements are more than hollow platitudes to whip up some good PR. They’re designed to guide each and every worker in everything he or she does. A good mission statement improves morale, creates a positive environment, and helps everyone communicate better.
+
+To see the power of the mission statement in action, take a second look at those mission statements above. _They’re all about what the company does for the customer_. This is vital because if your mission statement is all about your company, it’s not going to work well.
+
+Just like you’ve developed a value-first mindset, you have to develop a value-first mission statement. Again, this may seem like overkill for a dropshipping business, but trust me – not many dropshippers take this seriously. It may not always be obvious, but most successful dropshippers with great brands have an outstanding mission statement that’s driving them.
+
+This is how companies like IKEA work. You may not realize it at first, but IKEA’s goal of helping ;more people can create a better everyday life at home’ [affects everything they do](http://businesscasestudies.co.uk/ikea/vision-values-and-mission-in-driving-strategy/visi.html), from product design to store layout. This is exactly the kind of internal structure you want to create for your dropshipping business (even if it’s just you right now).
+
+It’s also important to establish your internal branding before you start working on any external branding. It’s like building a house on a sturdy foundation. Your external branding is the house, and your internal branding is the foundation.
+
+Not an expert on crafting inspirational mission statements? Don’t worry. Here are a few tips to give you a boost.
+
+**Don’t make your mission statement self-serving.** Like I said, you have to put your customer base first, and that means refraining from overloading your mission statement with ‘we’. Yes, your mission statement is about your company, but only about what your company can offer. Don’t get too caught up in your ambition and lose sight of that.
+
+**Think in verbs.** The mission statements listed above all start with “to ____”. To offer, to give, to inspire. These are all verbs, and who is the recipient of these actions? The customer. If you think of what your company does in terms of verbs, it’s easier to maintain the focus on your customers and not yourself.
+
+**Reflect on** **_why_** **your company does what it does.** Every company needs a fundamental reason to exist, often simply called [a ‘why’](https://www.youtube.com/watch?v=IPYeCltXpxw). If your why is just to sell and make money, that’s not good. Your business needs to have a reason to improve people’s lives somehow. You then need to incorporate that reason into your mission statement. Warby Parker’s mission statement does this wonderfully: “To offer designer eyewear at a revolutionary price, while leading the way for socially-conscious businesses.”
+
+You’ll want to draft several mission statements, anywhere from 10-30. It’s okay if they don’t sound perfect. Right now, you want to think of as many statements as possible to give you the most options to work with.
+
+Next, narrow it down. Which mission statements summarize your goals best? Which ones would you identify with most if you were the customer?
+
+You might need to change your mission statement over time. As your business grows, you’ll get a better idea of the value you provide and what your specific objectives are. Update your mission statement accordingly and make sure everyone on your team knows what it is.
+
+[Here’s an excellent guide from The Balance](https://www.thebalance.com/how-to-write-a-mission-statement-2948001) that provides some tips for writing a great mission statement. This step helps you think like the most successful businesses in the world and allows you to align actions with goals.
+
+## External Branding
+
+External branding is complex to talk about because everything you do represents your brand. Your logo, customer support emails, and social media avatars are all part of your brand. (This is why internal branding is so important – you need to understand who you are before you go public.)
+
+![external branding](https://wp-en.oberlo.com/wp-content/uploads/2018/05/external-branding.png)
+
+[Image source](https://electrumbranding.com/internal-branding-external-branding/)
+
+The basic elements of a brand are how you look and how you sound. Your business logo and website (or storefront) will often be the first thing a new customer sees, so they need to make good first impressions. Next, the tone and style of writing you use will affect everything from sales to social shares. Text and media are how you’ll communicate with your customers, so everything you put out needs to make sense with your brand.
+
+Let’s break down these parts (logo, website, writing), and discuss them each in depth.
+
+### Logo Design
+
+There’s a reason big businesses spend millions on logo design. It’s because your logo is more than just a nice design. It’s a way for people to instantly recognize your brand.
+
+I bet you can think of at least 10 different logos right now. Logos have tons of power. Humans are visual creatures, so when you and I see a logo for a business we love, we’ll commit it to memory almost subconsciously.
+
+You’ll use your logo on your storefront, your social media accounts, your business cards, and even your email profile picture. All of your customers are going to see it, so why not make it the best it can be?
+
+Because a good logo can be a little pricey, many entrepreneurs opt to choose a free logo [they can make themselves](https://www.oberlo.com/blog/online-logo-maker-free). The problem with this? If you have no design skills at all, your logo will look generic and forgettable.
+
+That’s why you need a logo that’s tailor-made for your brand. You don’t need to spend thousands of dollars, but you should be prepared to pay a fair rate for a custom designed logo from a qualified designer. That way you won’t be just another store with a boring logo. A custom logo is an easy way to stand out from your competition.
+
+First, you should have an idea of the aesthetic you want for your brand. Do you want to have a more formal or a more casual look? What feelings do you want to evoke in your customers? A good designer will be able to guide you, but it’s good to ask these questions beforehand.
+
+It’s helpful to find a bunch of logos you like and try to figure out what you like about them. What makes them unique to you? Thinking about this makes a logo designer’s job easier because they’ll be able to come up with ideas that reflect what you want in a logo.
+
+Second, you should be prepared to pay. How much should you spend? Costs vary from designer to designer, but a good price range to shoot for is the $100 to $300 range. Logo design takes a lot of work, and designers who charge too little often skimp on quality. If you get a quote in the $100 to $300 range, you’ll likely be dealing with someone who takes his or her job seriously.
+
+So how do you find a logo designer? It’s worth reaching out to your network and seeing if you can find a designer that way. This is a great way to find people you can trust and build relationships with them.
+
+If you can’t find anyone through your network, there are tons of sites that allow you to get a well designed logo that doesn’t put you in debt. Here are a few options.
+
+**Find a freelance designer.** For most entrepreneurs, hiring a freelance offers the best value for money. You’re not aiming for a prestigious firm, but you’re also ensuring you’re not just paying someone to use a free logo designer and charge you for it. It’s a nice middle of the road option that works out wonderfully for everyone involved.
+
+You may be able to find a local logo designer by Googling ‘logo design’ plus your area. Many logo designers target locally based businesses, and this is an excellent option to connect with someone reliable.
+
+Sites like [99designs](https://99designs.com/) can help you connect with a designer, but these sites aren’t always ideal.
+
+Yet another method is to use portfolio sites like [Dribbble](https://dribbble.com/). You can instantly view hundreds of designers and their work, and you can contact them directly to get a quote. This might take a little longer, but you’ll be happier in the long run.
+
+**Use an online marketplace.** Sites like [Upwork](https://www.upwork.com/) and [Fiverr](https://www.fiverr.com/) are abundant with freelancers, and usually you won’t pay too much. It’s easy to browse the site and find skilled designers, and you can normally get a finished logo in a matter of days.
+
+The flip side is that most freelancers on these types of sites will undervalue themselves and charge very little. It’s also somewhat difficult to find designers that don’t produce generic logos. Still, if you pick through the options, you can find some diamonds in the rough.
+
+**Find a graphic design firm.** This is a more expensive option, but it can yield excellent results. If you’re willing to pay up and get a professionally designed logo, you can search for renowned graphic design firms. These firms usually have an in-house team of designers who work to produce the logo of your dreams. These firms are common in major cities, and if you find a local firm, you get the convenience of chatting in person and working with a designer for the best results.
+
+For all intents and purposes, your logo is the face of your brand. It’s going to go on all of your marketing materials, so while it might be tough to swallow the idea of spending a few hundred bucks on a logo, keep your eye on the long term.
+
+### Website Design
+
+By now, you should have a sales channel picked out. If you’re going to be using a website of your own, you’ll need to think about [your site’s design](https://www.oberlo.com/ebooks/get-sales-dropshipping/website-design).
+
+If you’re using eBay or Amazon, there’s nothing design-related you can do, which limits your ability to effectively brand your business. A website will give you a solid web presence and let you sell however you want to.
+
+You know that design is important, but let me ask you a question: How many websites can you remember visiting in the past week? Probably not many. That’s because the average website doesn’t take design seriously. You’ll usually see variations of the same WordPress or Squarespace theme.
+
+Now, there’s nothing wrong with using WordPress or Squarespace, but there _is_ something wrong with having a generic site. You don’t want prospective customers to forget about your site because it looks like any other site out there. Even worse, a lackluster site could kill your conversion rate and turn people away from your site.
+
+Website design is another aspect of your business that you should set aside a sizeable budget for. In terms of price, you can spend as little as a few hundred dollars or as much as several thousand. Plan your finances accordingly. Your website is one of the [most important business investments](https://www.forbes.com/sites/denispinsky/2018/02/12/website-design-standards/) you’ll make.
+
+There are ways of setting up a site yourself, but you’ll get more polished results if you hire a web designer. No matter how you choose to set up your site, you should focus on two important things:
+
+**Integrating your branding into your site.** It’s not called a ‘brand identity’ for nothing. Your site needs to be an organic extension of your branding. That means the colors, fonts, and images you use should be consistent with your brand. Attention to detail is necessary here because anything that doesn’t align with your brand will feel out of place, and that disrupts the customer experience.
+
+**Having a memorable design.** Your site should look like your site and no one else’s. Despite what you might think, getting a memorable design doesn’t have to dry up your funds. It’s very possible to have a unique design using a website builder like WordPress, but you need to put work into it. Hiring a designer is your best bet if you want your site to be customized to your needs by a pro, but it’s not necessary.
+
+There are two routes you can take: build a site yourself or hire someone to do it. There are pros and cons to both, and you need to choose carefully, as a bad website can be a costly mistake.
+
+### Designing Your Own Site
+
+This option is probably the more appealing of the two, right? In theory, you can save tons of money and quickly get a site up that will let you start selling products.
+
+Not so fast. This has its perks, and sometimes it’s the preferable option, especially because of the resources that are available to you. At the same time, it’s not the right choice for every dropshipper.
+
+It’s crucial to think about what goes into a dropshipping site before you decide to take on the job. Your site will have to have product pages, an integrated payment processor, and encryption, to name just a few things. If there are any bugs in your site, that could spell doom for your business.
+
+So if you have zero experience with creating and designing a site, I recommend finding someone experienced to help you out. Yes, it’s an additional cost that you technically could avoid, but paying a bit now can help to save your business in the long run.
+
+On the other hand, if you have sufficient web design and/or development experience, this option may be for you. Bear in mind that this will take some time, possibly longer than projects you’ve worked on in the past. It’s tempting to skimp on some details, but don’t.
+
+It’s worth mentioning that there are other website solutions to consider. While these won’t give you as much flexibility and customization as a designer would, they’re more affordable and will get the job done.
+
+WordPress is one such option. There are numerous ecommerce plugins to help you set up a store even if you’re not the most tech-savvy person in the world. You’ll probably have to pay for some premium (paid) plugins, but the end cost will be much cheaper than seeking out a designer. Squarespace is another popular web design solution.
+
+If you go this route, you can utilize [Shopify](https://www.oberlo.com/videos/shopify-tools-for-online-store) tools and plugins. These are designed to be incredibly user-friendly and help you step by step through the entire process.
+
+Using site builders like WordPress or Squarespace can make the technical stuff easier, but you’ll have to work harder on the design. You don’t want to use the same theme everyone else is using. You could also take a hybrid approach, doing what you can by yourself and hiring someone to do the rest.
+
+The upside of using site builders like WordPress is the ability to use the ecommerce plugins I mentioned. There are a plethora of plugins that handle payment processing, storefront design, email lists, and pretty much everything else you can think of. Many dropshippers choose to set up a site like this, and while it works fine, you might find it lacking.
+
+In the end, it all depends on what you want from your site. If you’re comfortable and experienced with creating and designing websites, consider the DIY approach. If you want a professional touch, or if you’re not too savvy with website creation, consider hiring someone for the job.
+
+### Hiring a Web Designer
+
+Because the success of your entire business depends upon your site operating flawlessly, hiring a web designer is an excellent choice in most cases. It’s a long term investment, and while it may hurt your wallet now, it will pay for itself in due time.
+
+The options for finding a web designer are the same as finding a logo designer. You can reach out to your network, find a freelancer online, or work with a design firm. However, since web design can cost a pretty penny, you’ll want to put even more thought and research into finding the perfect web designer. It’s always a good idea to chat with the designer if possible and see if he or she is on the same page as you and understands your vision.
+
+As I mentioned in the logo design section, fraudulent designers can be an issue. Many ‘designers’ just set up a WordPress site and charge a premium fee for it. If you don’t even know how to use WordPress, this isn’t a bad option, but the point is that you need to do your homework before paying anybody. Make sure you’re clear on what a designer will do for you.
+
+A good web designer will be able to answer your questions, integrate your branding, and showcase work they’ve done in the past. Ideally you want a designer who has created retail sites before. Since online stores require more work than other sites, it’s important you work with someone who’s used to it. A designer who’s unfamiliar with how ecommerce stores work could end up creating a site that’s not exactly optimized for converting and selling.
+
+If you think you’ve found the right designer for you, you might want to email the people or businesses they’ve worked with before. Getting honest, personal testimonials can speak volumes about a designer’s quality. At the very least, check out previous sites the designer has done and take a thorough look at them. Are they visually and functionally similar to what you’re looking for?
+
+Now for the big question: how much should you expect to spend? This is where the costs can add up. An ecommerce site starts at around $5,000 and goes up from there.
+
+If this seems like a lot, refocus on the big picture. While it’s tempting to cut costs by doing things yourself, paying a designer is usually worth it because it provides you with peace of mind. You’ll have a storefront that works flawlessly in a short amount of time, which means you’ll be able to start selling sooner. The final product will be refined and visually appealing, so you won’t have to worry about having a subpar site.
+
+Whether you design the site yourself or outsource the job, you’ll want to get familiar with how the site runs. This is especially true for ecommerce plugins. Since you’ll be using a suite of plugins, spend some time with them and get used to how they work. If you run into problems, you’ll want to be able to troubleshoot easily.
+
+## Copywriting
+
+Whether you end up building your own website or not, you’ll still need professional copywriting. Writing is an essential part of a site that most people overlook. Many entrepreneurs focus on having a flashy site or an eye-catching logo, but they forget about the writing.
+
+[Good copywriting](https://www.copyblogger.com/copywriting-101/) is vital for several aspects of a dropshipping business:
+
+-   Ad copy
+-   Product descriptions
+-   Marketing content
+-   Social media posts
+-   Additional content (e.g., blog posts, videos, guides)
+
+In short, writing is a huge part of how you’ll convert people and close the sale. The right words can bring your brand to life and turn one-time shoppers into repeat customers. On the other hand, boring copy can make your visitors click away and possibly never visit your site again.
+
+Writers are a dime a dozen these days, so you have to be careful when selecting someone to work with. You don’t necessarily need someone who has a master’s degree in English, but you shouldn’t work with someone whose work is riddled with errors. Even small grammar issues can make visitors feel like you don’t care or that you’re lazy, and that’s the last thing you want.
+
+If you want to grab your audience’s attention, you’ll need cleanly edited, emotionally engaging copy. That means you’ll want to find a seasoned writer who also knows the ins and outs of sales copy, marketing content, and [product descriptions](https://www.oberlo.com/ebooks/get-sales-dropshipping/product-descriptions). There’s a world of difference between writing a book and website copy that converts, so the writer you choose should have prior experience in copywriting for online businesses.
+
+Again, you can find a freelancer, use an online marketplace, or work with a firm. Although I should note that when it comes to writing, it’s often very difficult to pick through online marketplaces (like Upwork) to find high quality writers. Many writers aren’t native speakers of the languages they list, and once you filter those writers out, you’ll still find many who don’t have the requirements you need.
+
+But before you even start your search for a writer, you have to know what tone of voice you’re going for. If your brand is casual or even edgy, you won’t want formal or poetic copy. Likewise, if you’re going for a super-professional appearance, you won’t want your copy to be filled with slang. Again, check out some of your competitors and evaluate them. Which writing styles do you like? Communicating that to your writer will help them understand what you’re looking for.
+
+You should also consider whether you want to find a writer to work with in the long term. Since you’ll regularly need new ad copy for products and marketing materials, it may benefit you to find a perfect writer from the start and build a working relationship. This can save you time down the road since you won’t have to look for a writer all over again.
+
+All of that being said, finding a good freelance writer can still be tricky, especially if you’ve never worked with a writer before. Finding someone with an established portfolio is usually your best bet. Remember that just like logo and web design, writing takes a lot of work, so it’s not going to be cheap.
+
+While writing rates are variable, expect to pay the equivalent of 10 cents per word or higher to get the good stuff. Some writers charge hourly or per project, so you’d have to figure out the per word equivalent. If you’re in a smaller or more technically demanding niche, you’ll need to pay even more to find someone who is experienced in the field. The bottom line is that for premium, professional writing, you’ll need to budget accordingly.
+
+## Maintaining Your Brand
+
+Once you’ve worked on both your internal and external branding for a while, you should have a solid sense of your brand as a whole. A lasting brand will require development, so tweak it from time to time. For example, if you notice your customers using a certain tone of voice, you might want to emulate that with your copy.
+
+As your store grows, your brand will too. If you keep focusing on  [improving your brand](https://www.oberlo.com/ebooks/mindset/new-brand), you’ll have a dropshipping business that attracts customers in droves and keeps them coming back for more.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjM3MjI3MTFdfQ==
+eyJoaXN0b3J5IjpbLTIwNzgyNzU1OTJdfQ==
 -->
