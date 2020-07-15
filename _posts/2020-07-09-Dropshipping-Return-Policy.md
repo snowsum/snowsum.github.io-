@@ -790,11 +790,13 @@ At this time we do not offer exchanges. If you would like to exchange a product,
 -   Custom Framing orders may be reworked at the same store location within 14 days of pickup.
 -   Classes are refundable up to start date of class, in store only.
 -   Michaels reserves the right to limit returns or exchanges.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODMzNjAyNjgsLTE1NTc4NDM4MzMsOD
-c0NDQ5NjU4LC05NzE5OTczMzAsNjcxMDMxNjYzLDEzODAxMTU0
-MTQsMjMyMzk4NTM3LC0xMzY3NDgxNTkwLC0xOTUwNzUzMzU5LC
-0xMjQ1MTMwMjY3LDk3ODk3MTEwOSwtMTM3MzM0NDMzOSwtNDU2
-NjI3NDk3LC0xNzIyNTIxNTgsLTExOTc3MzIyODUsLTUwOTQzMT
-MyOSwtMTA3MzMxOTE0MCwyMDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbLTYzNzc3MTA1NiwtMTU1Nzg0MzgzMyw4Nz
+Q0NDk2NTgsLTk3MTk5NzMzMCw2NzEwMzE2NjMsMTM4MDExNTQx
+NCwyMzIzOTg1MzcsLTEzNjc0ODE1OTAsLTE5NTA3NTMzNTksLT
+EyNDUxMzAyNjcsOTc4OTcxMTA5LC0xMzczMzQ0MzM5LC00NTY2
+Mjc0OTcsLTE3MjI1MjE1OCwtMTE5NzczMjI4NSwtNTA5NDMxMz
+I5LC0xMDczMzE5MTQwLDIwNDAyOTc2MjJdfQ==
 -->
