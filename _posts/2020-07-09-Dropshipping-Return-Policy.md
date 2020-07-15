@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dropshipping retrun policy 101-"
+title:  "Dropshipping retrun policy-(Free 6 templates from top sellers)"
 categories: [ shopify,return policy ]
 image: https://i.imgur.com/lLt4ZZ2.png
 tags: [sticky]
@@ -851,11 +851,11 @@ Just because shipping is free, doesn't mean it should take a long time. Zappos o
 
 #### We look forward to giving you more reasons to fall in love with all that we have to offer!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTI4ODY2NTAsLTI5NjQ2Njc3NCwxMT
-AxMDQ2ODQ2LC0xMjk3MzgyMjQ0LC02Mzc3NzEwNTYsLTE1NTc4
-NDM4MzMsODc0NDQ5NjU4LC05NzE5OTczMzAsNjcxMDMxNjYzLD
-EzODAxMTU0MTQsMjMyMzk4NTM3LC0xMzY3NDgxNTkwLC0xOTUw
-NzUzMzU5LC0xMjQ1MTMwMjY3LDk3ODk3MTEwOSwtMTM3MzM0ND
-MzOSwtNDU2NjI3NDk3LC0xNzIyNTIxNTgsLTExOTc3MzIyODUs
-LTUwOTQzMTMyOV19
+eyJoaXN0b3J5IjpbMTQ4NjkxMTk4OSwtMjk2NDY2Nzc0LDExMD
+EwNDY4NDYsLTEyOTczODIyNDQsLTYzNzc3MTA1NiwtMTU1Nzg0
+MzgzMyw4NzQ0NDk2NTgsLTk3MTk5NzMzMCw2NzEwMzE2NjMsMT
+M4MDExNTQxNCwyMzIzOTg1MzcsLTEzNjc0ODE1OTAsLTE5NTA3
+NTMzNTksLTEyNDUxMzAyNjcsOTc4OTcxMTA5LC0xMzczMzQ0Mz
+M5LC00NTY2Mjc0OTcsLTE3MjI1MjE1OCwtMTE5NzczMjI4NSwt
+NTA5NDMxMzI5XX0=
 -->
