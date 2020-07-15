@@ -203,9 +203,9 @@ Below are some basic templates for a return policy that can be adapted to fit yo
 
 Last Updated: April 9, 2020
 
- [Temporary Extended Returns Policy Due to COVID-19](#temporary-ExtendedReturns-Policy-Due-to-COVID-19)  
- [Returns Policy](https://www.sephora.com/returns-exchanges#Returns)  
-   [Sephora.com Purchases](https://www.sephora.com/returns-exchanges#SephoraPurchases)  
+ [Temporary Extended Returns Policy Due to COVID-19](#temporary-extended-returns-policy-due-to-covid-19)  
+ [Returns Policy](#returns-policy)  
+   [Sephora.com Purchases](#sephora.com-purchases)  
  [Sephora.com Returns by Mail](https://www.sephora.com/returns-exchanges#ByMail)  
  [Sephora.com Returns to a Store Location](https://www.sephora.com/returns-exchanges#ByLocation)  
    [Gift Returns](https://www.sephora.com/returns-exchanges#gift)  
@@ -844,11 +844,11 @@ Just because shipping is free, doesn't mean it should take a long time. Zappos o
 
 #### We look forward to giving you more reasons to fall in love with all that we have to offer!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDMwODIxOTcsLTYzNzc3MTA1NiwtMT
-U1Nzg0MzgzMyw4NzQ0NDk2NTgsLTk3MTk5NzMzMCw2NzEwMzE2
-NjMsMTM4MDExNTQxNCwyMzIzOTg1MzcsLTEzNjc0ODE1OTAsLT
-E5NTA3NTMzNTksLTEyNDUxMzAyNjcsOTc4OTcxMTA5LC0xMzcz
-MzQ0MzM5LC00NTY2Mjc0OTcsLTE3MjI1MjE1OCwtMTE5NzczMj
-I4NSwtNTA5NDMxMzI5LC0xMDczMzE5MTQwLDIwNDAyOTc2MjJd
-fQ==
+eyJoaXN0b3J5IjpbODI5NzI1ODM3LC02Mzc3NzEwNTYsLTE1NT
+c4NDM4MzMsODc0NDQ5NjU4LC05NzE5OTczMzAsNjcxMDMxNjYz
+LDEzODAxMTU0MTQsMjMyMzk4NTM3LC0xMzY3NDgxNTkwLC0xOT
+UwNzUzMzU5LC0xMjQ1MTMwMjY3LDk3ODk3MTEwOSwtMTM3MzM0
+NDMzOSwtNDU2NjI3NDk3LC0xNzIyNTIxNTgsLTExOTc3MzIyOD
+UsLTUwOTQzMTMyOSwtMTA3MzMxOTE0MCwyMDQwMjk3NjIyXX0=
+
 -->
