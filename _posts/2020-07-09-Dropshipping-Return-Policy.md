@@ -3,7 +3,7 @@ layout: post
 title:  "6 steps guide dropshipping retrun policy-(Free 6 templates from top sellers)"
 categories: [ shopify,return policy ]
 image: https://i.imgur.com/lLt4ZZ2.png
-tags: [sticky]
+tags: [featured]
 ---
 Selling your product to a customer and receiving payment might not be the end of the sales process. You need to be prepared for situations where customers return products or are unhappy with your service.
 
@@ -850,11 +850,11 @@ Just because shipping is free, doesn't mean it should take a long time. Zappos o
 
 #### We look forward to giving you more reasons to fall in love with all that we have to offer!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTY1ODAzMzksLTI5NjQ2Njc3NCwxMT
-AxMDQ2ODQ2LC0xMjk3MzgyMjQ0LC02Mzc3NzEwNTYsLTE1NTc4
-NDM4MzMsODc0NDQ5NjU4LC05NzE5OTczMzAsNjcxMDMxNjYzLD
-EzODAxMTU0MTQsMjMyMzk4NTM3LC0xMzY3NDgxNTkwLC0xOTUw
-NzUzMzU5LC0xMjQ1MTMwMjY3LDk3ODk3MTEwOSwtMTM3MzM0ND
-MzOSwtNDU2NjI3NDk3LC0xNzIyNTIxNTgsLTExOTc3MzIyODUs
-LTUwOTQzMTMyOV19
+eyJoaXN0b3J5IjpbODczNTQzNTI4LC0yOTY0NjY3NzQsMTEwMT
+A0Njg0NiwtMTI5NzM4MjI0NCwtNjM3NzcxMDU2LC0xNTU3ODQz
+ODMzLDg3NDQ0OTY1OCwtOTcxOTk3MzMwLDY3MTAzMTY2MywxMz
+gwMTE1NDE0LDIzMjM5ODUzNywtMTM2NzQ4MTU5MCwtMTk1MDc1
+MzM1OSwtMTI0NTEzMDI2Nyw5Nzg5NzExMDksLTEzNzMzNDQzMz
+ksLTQ1NjYyNzQ5NywtMTcyMjUyMTU4LC0xMTk3NzMyMjg1LC01
+MDk0MzEzMjldfQ==
 -->
