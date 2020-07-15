@@ -194,7 +194,7 @@ How you decide to deal with these unsatisfied customers is an important factor i
 
 Writing a clear return policy that feeds into a well-thought-out return and exchange system—and regularly optimizing it to make it more efficient—is a powerful way to cut costs and potentially turn a bad customer experience into a net positive outcome for your business.
 
-# 36 return policies templates from top stores
+# 6 return policies templates from top stores
 
 Below are some basic templates for a return policy that can be adapted to fit your business. Just replace the bolded text with your own policy and use the lists as a guide to ensure you don’t forget to include any important information:
 
@@ -894,11 +894,11 @@ Just because shipping is free, doesn't mean it should take a long time. Zappos o
 
 #### We look forward to giving you more reasons to fall in love with all that we have to offer!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjEyNTgxODEsLTYzNzc3MTA1NiwtMT
-U1Nzg0MzgzMyw4NzQ0NDk2NTgsLTk3MTk5NzMzMCw2NzEwMzE2
-NjMsMTM4MDExNTQxNCwyMzIzOTg1MzcsLTEzNjc0ODE1OTAsLT
-E5NTA3NTMzNTksLTEyNDUxMzAyNjcsOTc4OTcxMTA5LC0xMzcz
-MzQ0MzM5LC00NTY2Mjc0OTcsLTE3MjI1MjE1OCwtMTE5NzczMj
-I4NSwtNTA5NDMxMzI5LC0xMDczMzE5MTQwLDIwNDAyOTc2MjJd
-fQ==
+eyJoaXN0b3J5IjpbLTcwMTMxNTY5OCwtNjM3NzcxMDU2LC0xNT
+U3ODQzODMzLDg3NDQ0OTY1OCwtOTcxOTk3MzMwLDY3MTAzMTY2
+MywxMzgwMTE1NDE0LDIzMjM5ODUzNywtMTM2NzQ4MTU5MCwtMT
+k1MDc1MzM1OSwtMTI0NTEzMDI2Nyw5Nzg5NzExMDksLTEzNzMz
+NDQzMzksLTQ1NjYyNzQ5NywtMTcyMjUyMTU4LC0xMTk3NzMyMj
+g1LC01MDk0MzEzMjksLTEwNzMzMTkxNDAsMjA0MDI5NzYyMl19
+
 -->
