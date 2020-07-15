@@ -39,8 +39,8 @@ A legit dropshipping agent performs as the middleman and has a real warehouse in
 
 Working with dropshipping agents have many advantages yet, there are certain disadvantages to consider too.
 
--   _If you are a new commer to dropshipping business, without stable daily orders,they might n_
--   _You’ll be charged for recurring monthly and/or annual membership fees._
+-   _If you are a new commer to dropshipping business, without stable daily orders,they might not going to support you._
+-   _You’ll be required to buy stock(2-3days) so they can process the orders once they get your orders._
 -   _You’ll be competing with lots of dropshippers that use their services._
 -   _You can only access a small number of manufacturers or suppliers._
 -   _You might pay more with a middleman than negotiating directly with suppliers on AliExpress._
@@ -63,6 +63,6 @@ If you’re a serious dropshipper, you will always find ways to beat your compet
 
 If you, however, choose to continue sourcing  **dropshipping products**  from AliExpress, these articles will be useful for you.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTM1MTUxMiw4Nzg1MTc2ODAsMjEyMz
+eyJoaXN0b3J5IjpbMTI0MTA3NzYyOCw4Nzg1MTc2ODAsMjEyMz
 Y1NTA3MCwtMTg3NDA2OTkwN119
 -->
