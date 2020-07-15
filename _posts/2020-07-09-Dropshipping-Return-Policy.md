@@ -618,17 +618,31 @@ If you return more than $7500 in a 12 month period you may be subject to a modif
 
 All bridal gowns may be returned within 30 days for a full refund or store credit. We cannot accept returns on any bridal gowns after 30 days. Bridal gowns must be unworn and unaltered, and all original tags must be attached.
 
-#### BRIDESMAID DRESSES
+##### BRIDESMAID DRESSES
 
 Special orders of 3 or more dresses in one style will be final sale. If you are interested in a particular style, we encourage you to order an in-stock size in the style, if available, before special ordering.
 
-### HOLIDAY RETURNS
+##### HOLIDAY RETURNS
 
 During the Holiday season (Nov. 1st - Dec 25th), we will accept your return after 30 days so long as it is received by January 10th.
+[](https://www.revolve.com/returnsexchanges#accordion-damaged)
+
+#### DAMAGED ITEMS
+
+If you receive an item that is damaged, please contact customer service immediately.
+[](https://www.revolve.com/returnsexchanges#accordion-warranty)
+
+#### AUTHENTICITY/WARRANTY
+
+REVOLVE only carries merchandise that is authentic, first-run, and purchased directly from the designer. Please be aware that even such products are not entirely free of workmanship errors, including occasional missing threads and similar defects. Products subject to distressing as part of the styling are also subject to increased chance of defect and do tend to wear out faster than normal.
+
+Many products, particularly those with distressed styling, do wear out or develop holes with regular wear-and-tear over time. REVOLVE warranties all products to be free of such problems for the first 90 days from the time of purchase, and will replace or refund your purchase in the event such a problem occurs.
+
+After 90 days, we will attempt to assist with repairs, including providing replacement hardware such as lost buttons or broken snaps to the extent these items or repair services are available from the designer, but we will not provide a complete replacement or refund for an unrepairable product after 90 days unless the designer is willing to replace or reimburse the product at this time.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY1OTAyMTQsMTM4MDExNTQxNCwyMzIzOT
-g1MzcsLTEzNjc0ODE1OTAsLTE5NTA3NTMzNTksLTEyNDUxMzAy
-NjcsOTc4OTcxMTA5LC0xMzczMzQ0MzM5LC00NTY2Mjc0OTcsLT
-E3MjI1MjE1OCwtMTE5NzczMjI4NSwtNTA5NDMxMzI5LC0xMDcz
-MzE5MTQwLDIwNDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbNTM5OTYwMjg4LDEzODAxMTU0MTQsMjMyMz
+k4NTM3LC0xMzY3NDgxNTkwLC0xOTUwNzUzMzU5LC0xMjQ1MTMw
+MjY3LDk3ODk3MTEwOSwtMTM3MzM0NDMzOSwtNDU2NjI3NDk3LC
+0xNzIyNTIxNTgsLTExOTc3MzIyODUsLTUwOTQzMTMyOSwtMTA3
+MzMxOTE0MCwyMDQwMjk3NjIyXX0=
 -->
