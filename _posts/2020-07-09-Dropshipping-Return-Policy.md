@@ -210,7 +210,7 @@ Last Updated: April 9, 2020
  [Sephora.com Returns to a Store Location](#sephora.com-returns-to-a-store-location)  
    [Gift Returns](#gift-returns)  
   [Sephora In-store Purchases](#sephora-in-store-purchases)  
- [Canadian and International Returns](https://www.sephora.com/returns-exchanges#canada)
+ [Canadian and International Returns](#canadian-and-international-returns)
 
 ### Temporary Extended Returns Policy Due to COVID-19
 
@@ -844,7 +844,7 @@ Just because shipping is free, doesn't mean it should take a long time. Zappos o
 
 #### We look forward to giving you more reasons to fall in love with all that we have to offer!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNTczNzUyNiwtNjM3NzcxMDU2LC0xNT
+eyJoaXN0b3J5IjpbMjAxNDY4MzA4MiwtNjM3NzcxMDU2LC0xNT
 U3ODQzODMzLDg3NDQ0OTY1OCwtOTcxOTk3MzMwLDY3MTAzMTY2
 MywxMzgwMTE1NDE0LDIzMjM5ODUzNywtMTM2NzQ4MTU5MCwtMT
 k1MDc1MzM1OSwtMTI0NTEzMDI2Nyw5Nzg5NzExMDksLTEzNzMz
