@@ -817,7 +817,7 @@ Zappos ships anywhere in the United States, and to all US territories and milita
 Just because shipping is free, doesn't mean it should take a long time. Zappos offers 3 shipping speeds: 3-5 business days, 2-business days, and 1-business day. You may expedite your shipping at the Checkout page. Please note some items are ineligible for expedited shipping – such as watches containing lithium batteries – these items will be marked as such in the product description. Expedited shipping is not available for shipments outside the continental United States; please allow additional time for your order to arrive to these locations. Orders to P.O. boxes, US territories or military APO/FPO addresses will ship via United States Postal Service (USPS). Delivery dates are subject to order cut-off times or carrier delays.
 
 **Questions?**  [Contact us](https://www.zappos.com/c/contact-us)  – the Zappos Customer Loyalty Team is available 24 hours a day, 365 days a year!
-## Case 8 - 
+## Case 8 - Anthropologie
 ![enter image description here](https://i.imgur.com/i2xcSXb.jpg)
 #### Returning an international order? Visit  [Returns Outside the US](https://www.anthropologie.com/help/international-returns-exchanges)  for more information.
 
@@ -894,7 +894,7 @@ Just because shipping is free, doesn't mean it should take a long time. Zappos o
 
 #### We look forward to giving you more reasons to fall in love with all that we have to offer!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzcwODY5MzQsLTYzNzc3MTA1NiwtMT
+eyJoaXN0b3J5IjpbLTE0NjEyNTgxODEsLTYzNzc3MTA1NiwtMT
 U1Nzg0MzgzMyw4NzQ0NDk2NTgsLTk3MTk5NzMzMCw2NzEwMzE2
 NjMsMTM4MDExNTQxNCwyMzIzOTg1MzcsLTEzNjc0ODE1OTAsLT
 E5NTA3NTMzNTksLTEyNDUxMzAyNjcsOTc4OTcxMTA5LC0xMzcz
