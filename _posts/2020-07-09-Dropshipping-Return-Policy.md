@@ -547,17 +547,17 @@ If so, please contact the seller directly for return address and instructions.
 
 Haven't you heard? ASOS is going paperless! You'll no longer receive a paper returns slip with your order- instead, you can create your return through your ASOS account. At the moment you'll need to print a returns label if you want to return, but we're working on ways around this so watch this space! Click here for  [more information on how to return](https://www.asos.com/us/customer-care/returns-refunds/how-do-i-return-something-to-you-from-the-us/).
 ![enter image description here](https://i.imgur.com/83OYpWZ.png)
-```
+
 ## Case 4 - Land's End
 
 
 #### HOW TO SEND IN YOUR RETURN/EXCHANGE
-EXCHANGES
 
+##### EXCHANGES
 If you would like to exchange your item(s), reserve your exchange item online via your order history or contact customer service prior to returning in person.
-```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5ODI0NDcwNCwxMzgwMTE1NDE0LDIzMj
+eyJoaXN0b3J5IjpbLTkyNTA1MTk1MSwxMzgwMTE1NDE0LDIzMj
 M5ODUzNywtMTM2NzQ4MTU5MCwtMTk1MDc1MzM1OSwtMTI0NTEz
 MDI2Nyw5Nzg5NzExMDksLTEzNzMzNDQzMzksLTQ1NjYyNzQ5Ny
 wtMTcyMjUyMTU4LC0xMTk3NzMyMjg1LC01MDk0MzEzMjksLTEw
