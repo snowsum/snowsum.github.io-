@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "About Bundler"
-author: sal
+title:  "Dropshipping 101: 2020 updated version"
 categories: [ start-up, ecommerce, shopify ]
 image: 
 ---
@@ -2250,5 +2249,5 @@ The entrepreneurs who have been so successful didn’t get to where they are tod
 
 **Wholesaler** – A supplier that sells to retailers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyODU4OTQzNV19
+eyJoaXN0b3J5IjpbMTA3NjI3MzQzMV19
 -->
