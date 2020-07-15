@@ -33,11 +33,9 @@ A legit dropshipping agent performs as the middleman and has a real warehouse in
 1.  _Product sourcing._
 2.  _Inspecting product quality._
 3.  _Buying products from local marketplaces or China-exclusive platforms like Taobao._
-4.  _Stocking  [**dropshipping products**](https://www.productmafia.com/home/)  in their warehouses._
+4.  _Stocking products in their warehouses._
 5.  _Labeling and packaging products before shipping to customers._
 6.  _Shipping using faster carriers than China EMS and ePacket._
-
-![](https://www.productmafia.com/wp-content/uploads/2019/11/agent-products-300x200.jpg)
 
 Working with dropshipping agents have many advantages yet, there are certain disadvantages to consider too.
 
@@ -65,6 +63,6 @@ If you’re a serious dropshipper, you will always find ways to beat your compet
 
 If you, however, choose to continue sourcing  **dropshipping products**  from AliExpress, these articles will be useful for you.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NjIyODIwMiw4Nzg1MTc2ODAsMjEyMz
+eyJoaXN0b3J5IjpbMTA5MDI4MTEyMiw4Nzg1MTc2ODAsMjEyMz
 Y1NTA3MCwtMTg3NDA2OTkwN119
 -->
