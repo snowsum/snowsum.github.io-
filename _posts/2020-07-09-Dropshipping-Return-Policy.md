@@ -341,7 +341,7 @@ We do not accept returns of Nordstrom, Nordstrom.com or Nordstrom.ca merchandise
 [Are there restocking fees?](#are-there-restocking-fees)  
 [Why does Nordstrom request my personal identification for a return without a record of sale?](#why-does-nordstrom-request-my-personal-identification-for-a-return-without-a-record-of-sale)  
 [Do you take checks?](#do-you-take-checks)  
-[How do you process my return if I paid with PayPal (U.S.)?](#how-do-you-process-my-return-if I paid with PayPal (U.S.)?)
+[How do you process my return if I paid with PayPal (U.S.)?](#how-do-you-process-my-return-if-i-paid-with-paypal-u.s.)
 
 #### How do I exchange an item
 For the best service and selection, please order your replacement items online or in the U.S., call 1.888.282.6060, or in Canada, call 1.877.794.5304 for assistance.
@@ -844,7 +844,7 @@ Just because shipping is free, doesn't mean it should take a long time. Zappos o
 
 #### We look forward to giving you more reasons to fall in love with all that we have to offer!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MzUxMzk0NywtNjM3NzcxMDU2LC0xNT
+eyJoaXN0b3J5IjpbLTUzMjMxOTI1NiwtNjM3NzcxMDU2LC0xNT
 U3ODQzODMzLDg3NDQ0OTY1OCwtOTcxOTk3MzMwLDY3MTAzMTY2
 MywxMzgwMTE1NDE0LDIzMjM5ODUzNywtMTM2NzQ4MTU5MCwtMT
 k1MDc1MzM1OSwtMTI0NTEzMDI2Nyw5Nzg5NzExMDksLTEzNzMz
