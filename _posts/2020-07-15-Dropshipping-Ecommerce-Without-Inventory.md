@@ -1702,7 +1702,474 @@ While writing rates are variable, expect to pay the equivalent of 10 cents per w
 Once you’ve worked on both your internal and external branding for a while, you should have a solid sense of your brand as a whole. A lasting brand will require development, so tweak it from time to time. For example, if you notice your customers using a certain tone of voice, you might want to emulate that with your copy.
 
 As your store grows, your brand will too. If you keep focusing on  [improving your brand](https://www.oberlo.com/ebooks/mindset/new-brand), you’ll have a dropshipping business that attracts customers in droves and keeps them coming back for more.
+## Finding & Dealing With Suppliers
 
+![dropshipping suppliers](https://wp-en.oberlo.com/wp-content/uploads/2018/05/drop9.jpg)
+
+It’s been a long road so far, but it’s finally time to start talking about suppliers. Now that you’ve built up your business and understand your place in the market, you can work on building relationships with suppliers to get the actual products to sell.
+
+In this chapter, I’ll give you a primer on how to find and contact suppliers. I’ll also go over some common pitfalls that first-time dropshippers often make when looking for suppliers to work with.
+
+## Finding Suppliers
+
+Finding the right suppliers takes some caution, so it’s crucial to use the right strategies. With a little bit of work, you’ll be able to separate the good from the bad and find reliable wholesalers to do business with.
+
+Some of these strategies are more effective than others, so I’ll start with the one that’s worked the best for me and then work my way down the list.
+
+### Contact the Product Manufacturer
+
+This is by far the easiest and most effective method of finding wholesalers. Once you know which products you want to sell, find out who makes those products and contact them. Ask them for their list of wholesale distributors. This gives you an official list from the manufacturer themselves, so you know you’ll be working with legitimate businesses.
+
+This strategy is quick and only takes a few calls. By calling different manufacturers in your niche, you might find the same wholesalers coming up again and again. This lets you know who the leading wholesalers are, and you barely have to do any work to find out.
+
+### Use Oberlo
+
+If you want to be able to easily find and even switch between different suppliers, give Oberlo a look. Oberlo [integrates seamlessly](https://www.youtube.com/watch?v=cQUZgQGZI3Y) with Shopify and makes supplier management a breeze.
+
+You’ll have access to a vast catalog of products, from thousands of suppliers.
+
+In addition, you’ll get access to several other handy features. You can import products directly from suppliers, fulfill orders automatically, automate your prices, and more. [Here’s a full list of Oberlo’s features](https://www.oberlo.com/features).
+
+### Use Supplier Directories
+
+I mentioned supplier directories earlier in connection with fees. No supplier will charge a monthly fee, but a supplier directory might.
+
+Supplier directories list wholesalers in all kinds of niches. There are two main benefits to directories: security and convenience. Directories are secure because they often screen wholesalers before listing them, and they’re convenient because you can look up wholesalers by niche or product type. It can save you a lot of time when you’re searching for suppliers.
+
+By no means are supplier directories necessary. They make your job easier if you have the money to spend on them, but you can find all of the legitimate wholesalers you need without ever touching a directory. All in all, directories are great for some dropshippers, but not for everyone.
+
+If you want to save some time and don’t mind paying the price of admission, here are some of the most trusted and well-known directories. I’m not endorsing or advertising for any of these. I just want you to know what your options are.
+
+[**Worldwide Brands**](https://www.worldwidebrands.com/) – This is one of the oldest and most trustworthy supplier directories. Created in 1999, Worldwide Brands has a huge database of thousands of certified wholesalers. These wholesalers are all top-level, meaning they’re not middlemen (i.e., the retailers who pretend to be wholesalers). If that’s not enough, you can also browse over 10 million products.
+
+The cost is $299 for a lifetime membership, which is a great deal compared to many of the directories out there. If you’re planning to rely heavily on a directory and you want one of the best, Worldwide Brands is definitely worth a look.
+
+[**Wholesale Central**](http://www.wholesalecentral.com/) – Wholesale Central is completely free. This might seem like a warning sign at first, and it’s true that this directory has some issues. Even though Wholesale Central charges a listing fee to suppliers, not every listing is genuine.
+
+For one, most of the ‘wholesalers seem to be retailers selling at ‘wholesale’ prices. Wholesale Central also claims to screen its applicants, but they don’t specify what that process looks like, so it’s very possible that some illegitimate suppliers are slipping through the cracks. Bottom line – feel free to browse it, but be cautious and do a lot of research before reaching out.
+
+## How to Spot Fake Wholesalers
+
+Now that you know how to find suppliers, I’m going to show you how to identify _fake_ dropshipping suppliers. That’s right – there are fakes out there. Some retail stores pose as wholesale suppliers so they can sell more, but they mark up the prices like crazy. You want to work with true wholesalers who buy directly from the manufacturer and can offer you much better pricing.
+
+If you go and look for wholesalers, it might be difficult to tell which ones are fake. In fact, it might be nearly impossible. That’s because the fake ones often seem more credible. Unfortunately, legitimate wholesalers tend to be less marketing-savvy, so it’s often more difficult to find them. Fake suppliers, on the other hand, often excel at marketing, so they’ll pop up a lot when you search.
+
+There are a few telltale signs that give away fake dropshipping wholesalers:
+
+**They sell products to the general public.** Many retailers posing as wholesalers will sell to the public, often advertising ‘wholesale prices’ to make customers think they’re getting a good deal. What they’re really doing is selling products at inflated prices and then slapping the wholesale label on them. This is a dead giveaway that you’re not dealing with a legitimate wholesaler. If you see a wholesaler listing their prices publicly, this is also a sign they’re fake.
+
+A real wholesaler will never sell to the public. Furthermore, in order to make a deal with a wholesaler, you’ll have to apply and be approved. Wholesalers won’t work with just anybody. You have to prove you own your business and that it’s a legitimate business.
+
+**They charge ongoing fees.** This is another way for fake suppliers to squeeze more money out of their unsuspecting victims. They’ll charge a monthly fee just for doing business with them. No true wholesaler would ever do this.
+
+However, you might come across some wholesaler directories that may charge a fee. These directories are actually a good method of finding suppliers, so I’ll discuss them shortly. Just be aware that a supplier will not ask for a base fee of any sort.
+
+**They don’t want to sign any contracts.** This is a huge red flag. You will always need to sign a contract to enter into a legally binding business agreement before making any purchases. A supplier that refuses to sign a contract (or says it’s not necessary) is fake.
+
+## How to Spot Legitimate Wholesalers
+
+So how do you find legitimate wholesalers to work with? Thankfully, it doesn’t have to be a guessing game. Real wholesalers can be detected using a few simple criteria:
+
+**They require you to apply.** Whereas fake wholesalers won’t have an application process, legitimate wholesalers will. You’ll have to be legally incorporated, and the supplier will have to approve you. All of this will happen before you even see any prices.
+
+**They have a minimum order size.** It’s common for suppliers to have a minimum order size, especially for your first order. This is because suppliers only want to work with serious businesses, so setting a minimum order size helps to filter out people who are just window shopping.
+
+Sometimes this can be problematic for dropshippers. Consider the following scenario. A supplier has a $500 minimum order, but the size of your average order is only $75. In this case, it seems like you’d have to pay the $500 just to open the dropshipping account in the first place. What do you do? My advice is to turn the extra amount into credit to be applied to future orders. This way, you’re meeting the minimum order size, but you don’t have to order extra product.
+
+**They have experienced staff and a dedicated support team.** This is truly a hallmark of a top-notch supplier. You should be able to call up a representative who knows your niche and can answer any questions you have in detail. If the company reps don’t seem knowledgeable, it’s possible they were hired without any experience or training.
+
+On top of that, look out for a dedicated support team. If you’re working with a wholesaler, you should be assigned one specific customer support member to take care of your needs. This will make problem solving easy. Having to call and email multiple team members only leads to confusion, and it makes problems worse. That’s why having a single point of contact is so beneficial.
+
+**Their technology is up-to-date.** Remember when I said that legitimate wholesalers tend to be bad at marketing? Unfortunately, they also tend to be bad with technology as a whole. This isn’t a deal breaker, but it sure helps when your supplier has a polished website and interface. Being able to use features like real-time inventory, searchable order histories, and easy-to-use online catalogs are incredibly useful and save you lots of time.
+
+**They have pre-order fees.** While no retailer will charge monthly fees, many will charge small pre-order fees. These usually range from $1 to $5 per order or possibly more, depending on how large the order is. These fees cover the costs of packaging and shipping, since individual orders carry much higher fees than bulk orders do.
+
+**They won’t go over the top to persuade you to work with them.** This is a tactic you’ll see a lot with middlemen ‘wholesalers’. Since these businesses are just retailers, they’re going to use sales tactics to try to get your money. They’ll go on about their benefits and provide lots of information that’s really useless.
+
+Real wholesalers won’t bend over backward to work with you. They’ll require _you_ to apply, and they’ll have stringent requirements. If a ‘wholesaler’ is throwing sales pitch after sales pitch at you, run for the hills.
+
+## What to Look for in a Supplier
+
+Just because a certain supplier is legitimate, that doesn’t mean they’re the best option for you. Choosing the right suppliers can be a lengthy process, but it’ll be worth it when you find one that ticks all of the boxes you need. To do that, you need to know how to spot a _good_ supplier.
+
+If you’re new to searching for suppliers, you may not even know where to start analyzing the quality of one supplier over another. Fear not, because I have some expert tips for you. It might not be obvious to look for these things, but they can save you insane amounts of time and money.
+
+**They take orders by email.** Having to call in an order instead of emailing may seem like a minor issue that you shouldn’t raise a stink about. But think about a future where you’re getting hundreds of orders every day. Do you want to have to call in all those orders (or hire someone to do it for you)? Even placing orders via the supplier’s website can be time consuming.
+
+Being able to submit orders through email will be a blessing when you’re getting inundated with new orders every hour. Thankfully, many wholesalers will accept email orders, but there are some who use other systems.
+
+**Their location is prime for shipping.** Assuming you’re in the United States, think about where the best location for a supplier is. If the supplier only has one shipping center, it’s makes the most sense for it to be in the middle of the country. This allows packages to get to 90% of the US in 2-4 business days. If the supplier is on either coast or perhaps far south, it can take more than a week for some orders to get in customers’ hands.
+
+A centrally located supplier will give you consistent shipping results, and on average it will only take a few days for people to get their items. International shipping is a whole different ball game, of course, but for domestic shipping, a central location is ideal.
+
+**Their processes are efficient.** Obviously you don’t want to work with suppliers who constantly botch orders or make mistakes. But how can you know that without actually working with them? Unfortunately, you really can’t.
+
+What you can do is place a few test orders. This won’t conclusively prove the supplier’s quality, but it will give you some helpful information. You can see what the order process looks like from your side, how long the shipping takes, and how the items arrive. For example, if the supplier doesn’t send out tracking information within a few days, that could be a red flag. The entire process should be smooth and seamless, from the order to the delivery.
+
+## Getting Ready to Contact Suppliers
+
+After you’ve compiled a list of suppliers you’d like to contact, you’ll need to take care of a few more things before you actually reach out. It’s easiest to interact with suppliers once you have the necessary legal standing and know exactly what you’re looking for in a supplier.
+
+### Be Incorporated
+
+This is a must. As I said earlier, most wholesalers will require proof that your business is indeed legal, and that means incorporation. In fact, the majority of wholesalers will only show their pricing to approved businesses, so  [unless you’re incorporated](https://www.oberlo.com/ebooks/wholesale/wholesale-products), you probably won’t even see wholesale prices.
+
+### Know What You Want
+
+What do you want from your dropshipper? What products do you want to offer? These are the types of questions you’ll want to answer before talking to a supplier. Basically, you’ll want to have all the specifics in mind before you make contact. (The section above about knowing what to look for should also help you with this.)
+
+Wholesalers are there to do business, and they get tons of spam every day from people who waste their time. You don’t want to be one of those people. You need to show them you mean business, and a lot of that proof comes with how you present yourself. If you get straight to the point and don’t ask a million questions, the supplier will know you’re serious.
+
+So it’s important to know what you’re looking for well before you ever pick up the phone or type an email. Try to take up as little of their time as possible (but don’t be afraid to ask legitimate questions).
+
+### Ask If They Dropship
+
+Not all wholesalers offer dropshipping, so this is probably the #1 question you’ll want to ask. You might already know, but it’s still polite to ask (and it gets you and the rep on the same page). You don’t want to chat on the phone with a supplier for half an hour about products and pricing only to learn that they don’t dropship.
+
+If a specific supplier doesn’t dropship but you definitely want to go with them, let them know that, and see if you can negotiate a deal. This is the exception rather than the rule, but it’s not unheard of.
+
+### The Phone Is Your Friend
+
+These days, the average entrepreneur’s first instinct is to type up a quick email and shoot it off. Email has become the go-to method of communication for many people. On top of that, fear of talking on the phone is very common, even for entrepreneurs. It’s easy to understand why. It’s intimidating to place your first call (or even your first ten calls) to suppliers you’ve never talked to before.
+
+![dropshipping suppliers](https://wp-en.oberlo.com/wp-content/uploads/2018/05/dropshipping-suppliers.png)
+
+[Image source](https://unsplash.com/photos/0NR3-f_LSbc)
+
+But once you pick up the phone for the first time and start talking, it gets a lot less scary. It’s not as bad as it seems, and even if communication isn’t your strong suit, don’t worry; suppliers are used to it, and they’re there to help you.
+
+One effective phone call can do the work of fifty emails, so you’ll zip right along instead of waiting days for a response in your inbox. Simply calling instead of emailing can save you months of wasted time.
+
+Still afraid? Here’s a tip – write out your questions before you make the call. This way, you’ll have a structure to your conversation. Believe it or not, this little technique can make all the difference.
+
+### Paying Suppliers
+
+So you’ve hunted down a great supplier, chatted on the phone, sealed the deal, and are ready to join forces. You should be aware of how suppliers will take payment so there will be no hitches when it comes time to pay.
+
+**Credit card.** In  [Chapter 6](https://www.oberlo.com/ebooks/dropshipping/opening-business), I recommended getting a credit card exclusively for business use, and this is one of the biggest reasons to do so. Nearly every wholesaler will accept credit card payment, and it’s easily the most convenient way to pay.
+
+The nice thing is that you’ll have few out-of-pocket expenses because you’ll be paying the supplier for orders that customers have already placed. This makes it super easy to rack up lots of rewards and/or frequent flier miles.
+
+Credit cards are also fast and secure. Many suppliers will have your CC number on file and simply charge you when you place an order, which makes the process straightforward and painless.
+
+**PayPal.** While not every supplier will accept PayPal, many do since it’s become so ubiquitous. This is also an extremely convenient way to pay, but there are always fees when dealing with PayPal, which is why it’s not always the best choice. Generally speaking, a credit card is better, but there are some situations in which PayPal might win out. You’ll have to research both options and see which one is right for you.
+
+If you’re in doubt, go with a credit card. You can get tons of rewards and bypass the hefty fees PayPal charges.
+
+**Net terms.** This is a more traditional method of paying suppliers, but it’s still widely in use today. Under a net terms arrangement, after you purchase products you have a certain number of days to pay, usually by check or bank transfer. For example, if you’re on ‘Net 30’ terms, you have 30 days after you place the order to pay.
+
+You’re probably asking yourself why suppliers use this payment method if they don’t get the money upfront. Couldn’t someone run away with the product? Suppliers solve this problem by requiring credit references. If your chosen supplier uses net terms, you’ll need to provide some relevant documentation when you apply for an account.
+
+## Dealing with Suppliers
+
+You might be wondering what your responsibilities are when dealing with a supplier, or maybe you want to know what the retailer-supplier relationship looks like. While this varies from supplier to supplier, there are some general rules of thumb to keep in mind when you’re preparing to start working with a supplier.
+
+**Be timely with sending in orders.** This is vital not only for your supplier but also for your customers. You need to get your customers’ orders from point A (your site) to point B (the supplier) in a speedy fashion. Depending on how many sales you get, this could mean processing orders daily or, if you’re selling like crazy, outsourcing the job to a virtual assistant.
+
+**Get to know your contact/representative.** As I briefly mentioned earlier in this chapter, a good supplier will assign you a dedicated representative. You’ll want to build good rapport with this person, since he or she will be providing help and resolving all kinds of issues with orders. If you experience problems with your contact, don’t hesitate to talk to a higher up about it. Your rep is an important part of the supply chain, and a bad rep could mean orders going wrong. Yikes!
+
+## Handling Botched Orders
+
+Dropshipping isn’t perfect, and there are lots of problem areas that you should be aware of. One of those issues: botched orders. Suppliers are bound to mess up an order here and there, especially if you’re dealing with a larger supplier who gets a high volume of orders.
+
+Sometimes, this means the supplier sends the wrong item to the customer. Worst case scenario? They never ship the item at all. That idea can send shivers down a dropshipping merchant’s spine, so it’s best to be prepared for it.
+
+There’s a 3-step process you can use for remedying order mistakes:
+
+1.  **Apologize to the customer.** The first step is to admit the mistake and apologize for it. Do not blame your supplier. This makes you look like a poor retailer who can’t own up to their mistakes. And remember, the customer should never know you have a supplier! So apologize right off the bat.
+2.  **Make it up to them.** After you apologize, you’ll need to correct the mistake in some way. The specific way you do that will depend on how big the mistake was. Sometimes you’ll just want to send the correct product to the customer. Other times, you might want to refund the shipping cost or include a small freebie, such as a small amount of store credit. In any case, you need to make it right with your customer.
+3.  **Confront the supplier about the mistake.** Even though you have to correct the mistake, your supplier should pay for it. Typically, a supplier will cover the shipping costs to return a wrong item or even send out a new one. They usually won’t pay for any freebies or upgrades that you give the customer.
+
+So what happens if your supplier botches several orders within a short time frame? Nine times out of ten that means you have a bad supplier. Unfortunately, there’s not a whole lot you can do when dealing with a low quality supplier. Start looking for another supplier who has a better reputation for fulfillment. And if you do leave a supplier, make sure you explicitly let them know why!
+
+## After Getting a Supplier
+
+After you’ve landed a supplier, take some time to see how they perform. After a few months, you’ll have a sense of how efficient they are. Don’t be afraid to break it off and look for another supplier if things aren’t going so well.
+
+In  [Chapter 11](https://www.oberlo.com/ebooks/dropshipping/growing-dropshipping-business), I’ll discuss suppliers a bit more and talk about working with multiple suppliers to fulfill all of your dropshipping needs. I do recommend starting out with one, but once you get the hang of it, dealing with more than one isn’t a big deal at all.
+## Marketing
+
+![marketing strategies dropshipping](https://wp-en.oberlo.com/wp-content/uploads/2018/05/drop10.jpg)
+
+After you incorporate your business, find a supplier, and start making sales, you’ll want to get the word out about your shiny new storefront. Carefully planned marketing strategies are essential in ensuring the success of any dropshipping business, as it’s marketing that drives traffic – and thus, sales – to your store. The good news is that there are lots of low-cost marketing strategies available, and you don’t need to hire a marketer to start out.
+
+[Marketing for Ecommerce](https://www.oberlo.com/videos/marketing-for-ecommerce)  is quite accessible, and it’s good to know the basics even if you end up  [outsourcing marketing](https://www.oberlo.com/ecommerce-wiki/outsourcing)  in the future. These concepts will help you define what types of people you’re targeting and how you’re going to reach them.
+
+## Creating Buyer Personas
+
+You already know who you want to sell to, but how specific can you get? Do you know your average customer’s income or education level? All good marketing strategies should involve taking a detailed look at your potential customers.
+
+One way to get such a detailed view of your customers is by building a buyer persona. These are basically profiles of fictional customers who represent your audience as a whole. The personas are constructed from demographics and psychographics that are averaged together. The idea is that by marketing to a few fictional people, you can effectively market to your entire customer base.
+
+Here’s what a [buyer persona](https://www.oberlo.com/ecommerce-wiki/buyer-persona) looks like:
+
+![buyer persona](https://wp-en.oberlo.com/wp-content/uploads/2018/05/buyer-persona.png)
+
+This is a simple buyer persona, but you can get really complex if you want it to be. While it’s not always necessary to have a bunch of details, it can help.
+
+To create a buyer persona for your business, you’ll need to research two types of statistics I mentioned earlier: demographics and psychographics.
+
+Demographics tell you who your audience is. You’ll find statistics like:
+
+-   Age range
+-   Location
+-   Education level
+-   Income
+-   Family information
+
+Psychographics tell you why your audience wants to buy products. They give you insight into your customers’ motives so you can upgrade your marketing strategy to appeal to them better.
+
+Here’s a quick method of grabbing some basic demographics and psychographics. It uses Google Analytics (GA), a simple analytics tool that even expert marketers use. If you were comfortable with using Keyword Planner in  [Chapter 5](https://www.oberlo.com/ebooks/dropshipping/finding-products), you’ll have no problem with GA.
+
+Navigate to [https://analytics.google.com](https://analytics.google.com/) and log in.
+
+You should see a sidebar on the left side of the page. Go to _Audience_, then _Demographics_. In the drop down, select _Overview_.
+
+![marketing strategies](https://wp-en.oberlo.com/wp-content/uploads/2018/05/demographic.png)
+
+You’ll see a couple of charts that give you information about age and gender.
+
+![buyer demographics](https://wp-en.oberlo.com/wp-content/uploads/2018/05/demographic1.png)
+
+This isn’t incredibly detailed, but it gives you an overview of these two vital statistics. Don’t forget that you can adjust the time frame for these metrics to get an idea of how they’ve evolved over time.
+
+For psychographics, go to the sidebar and navigate to _Audience > Interests > Overview_.
+
+![audience demographics](https://wp-en.oberlo.com/wp-content/uploads/2018/05/demographic2.png)
+
+You’ll see a few categories that tell you about your audience’s interests. This data can help you understand what sort of topics your customers and visitors like.
+
+![demographic research](https://wp-en.oberlo.com/wp-content/uploads/2018/05/demographic3.png)
+
+This is surprisingly useful, and there are a wide range of applications. For example, you could investigate these niches to see if they intersect your own. Let’s go back to the example of selling water bottles. If you find out a lot of your customers like the technology niche, you could see about selling a smart water bottle that can track how much water someone drinks. That’s just one idea – the possibilities are endless.
+
+If you want to get more detailed demographic and psychographic data, there are other tools you can use. You can also leverage user-generated content, like contest entries or survey responses, to collect this sort of information.
+
+Once you’ve gotten enough demographics and psychographics, you can create a buyer persona like the one included at the beginning of this chapter. I recommend starting out with two (one male, one female) and using those for a while. If you’re running into trouble, try creating additional personas, as you can focus on other data points and potentially learn something new about your audience. A detailed buyer persona can help inform and improve your marketing strategies drastically.
+
+## Creating Negative Buyer Personas
+
+You can also create negative buyer personas if you want to take a super-targeted approach to marketing. This step isn’t necessary, but it doesn’t hurt.
+
+![negative buyer personas](https://wp-en.oberlo.com/wp-content/uploads/2018/05/negative-buyer-personas.png)
+
+[Image source](https://in2sight.net/the-dark-side-why-you-need-negative-buyer-personas-for-better-customer-acquisition/)
+
+A negative persona is the type of person you _don’t_ want to sell to. At first, this seems crazy. Why would you want to avoid selling to some people? Because not everyone is part of your audience. If your niche is fishing products, you won’t want to market to firefighters. Negative personas narrow down your list of who you should be targeting.
+
+Negative buyer personas are trickier to create because it’s hard to know who to exclude. A good starting point is to think about who your problem customers are. This gets easier once you’ve been in business for a while and have interacted with lots of different types of people.
+
+Then you can create a buyer persona like you usually would, only this time you’ll be focusing on customer types to avoid. This is one of the more advanced marketing strategies that can really help you concentrate on the specific types of people who will love your products.
+
+## Low-Cost Marketing Strategies
+
+Now that you know who to market to, it’s time to do the actual marketing. First I’ll introduce some free or low-cost marketing strategies, and then I’ll go over some tactics that involve a bigger financial investment.
+
+### [Display Ads](https://www.clickz.com/a-beginners-guide-to-display-advertising/89821/)
+
+The marketing world has come a long way in the last several years. Display ads used to be those annoying top bar or sidebar banners that would flash to get your attention. Nowadays, display advertising is much more organic, which means they can form an effective part of online marketing strategies.
+
+Take a look at this display ad from Volkswagen:
+
+![display ad marketing](https://wp-en.oberlo.com/wp-content/uploads/2018/05/display-ads.png)
+
+This is an excellent example of [what great display advertising looks like](https://www.shopify.com/guides/make-your-first-ecommerce-sale/banner-ads?prev_msid=517caf23-74D4-4F3C-3868-5616A5F6D96A). It’s interactive, eye-catching, and fun. Don’t get me wrong: there are still tons of awful ads on the Internet. If you want your ads to get people coming to your store, you have to follow some important guidelines.
+
+**Make it about the customer.** No one likes to be sold to, but people do like products that benefit them. Your ad should solve a problem the viewer is having. How do you find these problems? Through research, especially psychographics. A specific product you sell can solve one or many problems, but you have to find out which angle to take. In short, make your ads about how the viewer’s life will be better with your product.
+
+**Be thoughtful about where to run ads.** Dropshippers who run ads and place them everywhere see few results. Remember, you’re not selling to everyone in the world. Heck, you’re not even selling to everyone in your niche – remember what I said about negative buyer personas. You need to think strategically about the kinds of sites that would benefit you the most.
+
+A good technique is to visit influential sites in your niche and look for an advertising page. You’ll often find this in the footer or sometimes the navigation bar. Ideally, you want to build relationships with these influencers. Start by sending an email inquiring about ad space, asking about rates, etc. Don’t try to force anything, and don’t work with sites that aren’t right for you. Let the conversations happen naturally, and you might be surprised at what happens.
+
+If display ads interest you, you should know that there are two main methods of purchasing ads: working with one site or working with a large ad network. As with most things in dropshipping, one isn’t always better than the other, so what’s right for someone else may be wrong for you.
+
+Working with one website often plays out as I described above. You find the site’s advertising page, reach out, and get an ad spot. If you take this approach, think about becoming a regular advertiser. This is a great way to build strong relationships with other sites _and_ their audiences. You’ll get your brand in front of more people, and you’ll have the beginnings of a robust professional network.
+
+If you want to advertise to more people and are willing to compromise, an ad network can help get your brand out into the world. These networks are basically middlemen between you and the sites that your ads are displayed on. This is an easy method of getting lots of ads out on various websites, and often it’s cost effective. However, you can’t really build business relationships this way, and you can’t be as targeted with your ads.
+
+### Search Engine Optimization (SEO)
+
+If you’ve ever read any article about creating a website or starting a business online, you’ve no doubt heard about SEO more times than you can count. Plenty of online marketing strategies have incorporated SEO for years, and this approach isn’t going anywhere.
+
+Essentially, SEO improves the visibility of your site in search engines. If your site has good SEO, someone searching for a product type you carry will see your site on Google. This is why so many marketers shout the benefits of SEO from the rooftops.
+
+SEO can be difficult to categorize because it’s made up of so many elements. I’m not going to go over several SEO techniques in depth, but I will introduce some critical concepts that will help to increase your search engine ranking.
+
+SEO breaks down into two types: on-page and off-page. On-page SEO deals with the content on your website, and off-page SEO happens outside of your site.
+
+-   **[On-page SEO](https://moz.com/blog/category/on-page-seo)**
+
+There’s a lot I could say about on-page SEO, but if I had to distill it into one sentence, it would be this: optimize your title tags, metadata, headings, and file information. If you’re new to SEO, you probably have no idea what this means. That’s okay – it’s a breeze to master this. I’ll break this down piece by piece.
+
+![online marketing strategies](https://wp-en.oberlo.com/wp-content/uploads/2018/05/on-page-seo.png)
+
+[Image source](http://www.seotraininglucknow.com/what-is-on-page-seo/)
+
+Title tags are what show up in Google as the title of your page or article. Although this seems like off-page SEO (since it matters most outside of your site), you define the title tag within your website. A good title tag should use a focus keyword, and that keyword should be as close to the beginning as possible. It also shouldn’t be too long, or else it’ll get cut off.
+
+The meta description (sometimes referred to as the meta) is the small snippet of text that accompanies the title tag and URL in a search result. This is a great place to tell readers more about the page, and it doesn’t hurt to pop in a couple of keywords either.
+
+[Here’s a diagram](https://www.tiltedpixel.com/blog/how-to-rank-your-business-highly-in-local-search-results-part-1) that points to the locations of the title tag and meta description:
+
+![seo for dropshipping site](https://wp-en.oberlo.com/wp-content/uploads/2018/05/seo2.png)
+
+Next, let’s talk about headings. In a piece of content, say a blog post, you’ll often have headings and subheadings to break up the text. Search engines love finding these on pages because they aid in reading comprehension.
+
+Finally, by file information, I mean adding more detail about the files within your site. There are a few things you’ll want to do:
+
+-   Make sure all of your images have filenames and alt text
+-   Optimize your sitemap.xml file
+-   Set up your robots.txt
+
+This might sound complex, but if you check out a few articles, you’ll have this down faster than you think.
+
+These are all really important aspects of on-page SEO, and you should definitely research them. There are way more on-page SEO techniques, like having a short and keyword-focused URL, but going over those would take a _long_ time. So I encourage you to [do some reading about on-page SEO](https://www.shopify.com/blog/70627717-the-basics-of-search-engine-optimization-for-your-shopify-store?prev_msid=517caf23-74D4-4F3C-3868-5616A5F6D96A) and get comfortable with it.
+
+-   **Off-page SEO**
+
+For the purposes of this guide, I’m only going to talk about one element of off-page SEO: backlinks. By no means is this the only important off-page tactic, but it’s the most foundational one.
+
+It’s commonly known that the more links a site has, the better it will rank. However, this statement needs a little qualification. I think a more accurate phrasing is the more high quality links a site has over time, the better it will rank. Getting links is a long-term plan, and you don’t want to get links from anywhere and everywhere.
+
+First, [your links need to be natural](https://www.shopify.com/guides/make-your-first-ecommerce-sale/search-engine-optimization?prev_msid=517caf23-74D4-4F3C-3868-5616A5F6D96A). This means not paying for links. I know, everyone doesn’t, but you shouldn’t. Paid links hurt your SEO, and you’ll often get penalized if Google detects a paid link going to or from your site.
+
+Second, you need to build a network of links. You want to have a lot of root domains linking to your site. Recall the section on using Moz Open Site Explorer. This will ensure you get the most juice out of your links, and it also allows you to build those crucial relationships with influencers and website owners.
+
+Third, aim to [get high-value backlinks](https://www.shopify.com/blog/17989280-building-backlinks-the-backbone-of-your-ecommerce-business?prev_msid=517caf23-74D4-4F3C-3868-5616A5F6D96A). Some backlinks will pass along ranking power to your site, and these are called _follow_ or _dofollow_ links. Other types called _nofollow_ won’t pass on any of this so-called ‘link juice’. As a rule of thumb, always try to get dofollow backlinks.
+
+Again, backlinks are just the tip of the iceberg that is off-page SEO. Interestingly, off-page SEO is ignored by many site owners because it’s not as popular, so if you put in the work, you could gain an advantage over your competition.
+
+## High-Cost Marketing Strategies
+
+The saying “it takes money to make money” is true at times. This applies to marketing too. Sometimes, it’s best to pony up and make a considerable investment if you want to see the kinds of crazy results that you hear about.
+
+**Influencer marketing.** This is currently one of the hottest marketing strategies because it can drive sales like nothing else. If an influencer shouts out your product, you can expect to see some serious traffic and hopefully lots of conversions.
+
+At this point, influencer marketing is its own legitimate subcategory of marketing. There are lots of [strategies to take your influencer marketing game to the next level](https://www.oberlo.com/ebooks/traffic-store/influencer-marketing). It’s excellent for dropshippers because it’s easy for an influencer to show off a product, as opposed to a service.
+
+**Contests, giveaways, and promotions.** Giving away products, providing discounts, and running sales can all boost your bottom line, but you have to do it carefully. After all, you don’t want to be giving away free products all the time! You might consider offering regular seasonal sales and hosting contests or giveaways for special occasions.
+
+On the technical side, this is one of the easiest methods of improving marketing strategies. For example, you can use a contest app (like [Gleam Competitions for Shopify](https://apps.shopify.com/gleam?prev_msid=517caf23-74D4-4F3C-3868-5616A5F6D96A)) to set everything up in a few minutes.
+
+## Learning More About Marketing Strategies
+
+While you don’t have to become a marketing master, understanding how to use some basic marketing techniques can take you a long way. If you want to do more marketing, I highly suggest reading some articles about  [marketing strategies](https://www.oberlo.com/blog/online-marketing-strategies-ecommerce)  and techniques and learning about the newest [marketing trends](https://www.oberlo.com/blog/marketing-trends). It takes a while to learn the ins and outs of marketing, but you can learn as you go.
+## Growing Your Dropshipping Business
+
+![dropshipping business](https://wp-en.oberlo.com/wp-content/uploads/2018/05/drop11.jpg)  
+You’ve made it to the final chapter: congratulations! Now that your business is up and running, I’m guessing you want to know how to manage and grow it. Running a tight ship is crucial, and if you don’t make any changes or try to achieve specific goals, your dropshipping business won’t last long.
+
+In this chapter, I’ll outline how you can create stability within your business, and then I’ll suggest some ways to expand.
+
+## Dealing with Problems
+
+As you sell more, you’ll be faced with problems. This happens to the best dropshippers, and if you don’t know how to deal with these problems ahead of time, your business (and reputation) will suffer.
+
+First, always expect the unexpected. Even when things are going smoothly, you never know when your supplier is going to botch an order or when a customer will send you an angry email. There are lots of surprises in dropshipping, so try not to get caught off guard when these things happen.
+
+Here are a couple of the problems you might face and some ways to remedy them.
+
+### Returns and Chargebacks
+
+For one reason or another, you’ll likely get customers returning items. In some cases, you may get chargebacks on orders. These are both specific problems, so I’ll tackle them one at a time.
+
+**Returns.** First of all, you’ll want to have a return policy in place. This will largely determine on what your suppliers’ return policies are. If your supplier has a 30-day return policy, you don’t want to have a 45-day window, so base your policy off your suppliers’ rules.
+
+Second, understand the structure of a return. After the customer requests a return, you’ll need to get an RMA (return merchandise authorization) number from your supplier. The customer sends the item to the supplier, noting the RMA on the address. Then, your supplier refunds you the wholesale price of the product, and you refund the customer for the full retail price.
+
+Third, be aware of some issues that may pop up.
+
+For example, some suppliers charge restocking fees. This can cause confusion – who eats the fee? I recommend taking the loss and not making your customer pay the restocking fee. Yes, you’ll lose a little profit here and there, but your policy will be much friendlier to your customers.
+
+What about items that are defective? Generally, suppliers won’t cover return shipping for damaged or broken products, so that’s another fee you have to pay. That said, you always need to cover return shipping, whether or not your supplier does. This is part of having a good business that treats its customers right.
+
+A common practice for defective items is simply shipping the customer a new item and allowing them to keep the old one. While this makes the customer stuck with a broken product, it’s cost effective since suppliers will usually cover the shipping costs of sending a new item out.
+
+**Chargebacks.** A chargeback happens when a customer calls his or her bank/credit card company and disputes a charge. If you get a chargeback from a sale you made, you might be confused. That’s because chargebacks only happen for a handful of reasons.
+
+Most often, chargebacks will be fraudulent. These are pretty easy to handle. You just need to provide proof that you sent the item and that it was delivered. This typically means showing the exact order, shipping/tracking information, and a wholesale packing slip that details the items you purchased and shipped to the customer. Just don’t wait too long to respond to a chargeback! You only have a few days before you’re hit with that fee. Here’s some more information on [dealing with fraudulent chargebacks](https://www.shopify.com/blog/credit-card-chargebacks?prev_msid=517d4224-B09C-4B6F-F7E1-BED9ED6233A6).
+
+There is a bit of bad news, though. If the chargeback is on an order with different shipping and billing addresses, it’s nearly impossible to win. Sadly, if this happens I recommend eating the fee and writing it off as a loss.
+
+### Shipping Issues
+
+Speaking of shipping costs, there can be many complications with shipping. Most dropshippers have trouble with rates. Depending on which carrier you choose, you’ll have any number of rate options to choose from, and it can be daunting.
+
+Here are three shipping rates you’ll commonly encounter:
+
+**Real-time rates.** ‘Real-time’ simply means that a custom shipping quote is generated for each order. The weight of the products and the destination factor in to give you the final quote. This is highly accurate, but it can be difficult to implement.
+
+**Per type rates.** Per type shipping uses flat fees for different sizes of products. For example, all products under five pounds might ship for $5.
+
+**Flat rate shipping.** This is one of the most popular shipping options because it’s super easy. You just charge one flat rate for all shipments. This means you’ll lose money on some orders but make it back on others. While it’s not a very accurate method, it is simple and direct.
+
+Many merchants who use flat rate shipping choose to offer free shipping sitewide and build the shipping costs into the product prices. This isn’t a universal solution; [free shipping works great for some situations but not all of them](https://www.oberlo.com/blog/should-you-offer-free-shipping). But if you can do it, offering free shipping is a nice way to appeal even more to your customers.
+
+So which one of these should you go with? Flat rate shipping is what many dropshippers use, so you should definitely consider it. It’s also the easiest rate to implement when you’re first starting out. I recommend using flat rate at first and seeing how it goes. If you feel you could benefit more from another rate type, by all means look into it.
+
+What about international shipping? Since most niches have a global market, this is something you’ll need to face sooner or later. Be ready to think about the additional costs of international shipping, and browse your carrier options to see which one has the best rates for you. You can offer domestic shipping only, but depending on your niche, this could harm your sales.
+
+While we’re on the subject of carrier, I’ll talk briefly about the options you have. In the US, you’re basically choosing between UPS/FedEx and the United States Postal Service (USPS).
+
+**UPS/FedEx** – If you’re regularly shipping large packages, UPS and FedEx will give you better rates. Unfortunately their international rates are somewhat pricey.
+
+**USPS** – If you’re mainly shipping small packages, USPS is the way to go. You can usually ship small packages for under $5. USPS also has much better international rates than UPS or FedEx.
+
+For shipping both smaller and larger packages, it doesn’t hurt to use two (or even all three) carriers. Think about which carriers will have the best rates for specific sizes and destinations.
+
+## Managing Customer Support
+
+For a small business to be incredibly successful, it has to have a great customer support solution. I’ve seen a lot of dropshippers use nothing more than a business Gmail account an an Excel spreadsheet to manage customer support. This ‘solution’ is the equivalent of fixing up your car with duct tape. Sure, it works for a while, but it’s not going to last forever.
+
+It’s ideal to use dedicated support software from day one. Help desk software can scale alongside your business, and it’s easy to use. There are many options for you to choose from. Here are a few of my favorites:
+
+[**Zendesk**](https://www.zendesk.com/)  – One of the biggest names in customer support, Zendesk is one of the most popular choices. It also offers a wide range of pricing options, so you can start off small if you need to.
+
+[**Help Scout**](https://www.helpscout.net/) – Help Scout is big on personalization. Support tickets are designed to look like regular emails, so your customers won’t feel like they’re receiving a canned response.
+
+[**Desk**](https://desk.com/) – Desk is operated by the highly regarded Salesforce, and like Salesforce, it’s a powerful platform that centralizes everything and makes support easier to manage.
+
+Many dropshippers use one of these platforms, but there are lots of options out there. Find something that works for you and stick with it. The software you choose should also be able to accommodate a growing team.
+
+Although more antiquated, phone support is also something to think about. This is especially vital for dropshippers selling items with larger price tags. All the way back in Chapter 5, I mentioned that people buying more expensive items will often want to speak to a team member on the phone. So if you’re planning on selling pricier products, plan on getting phone support. [Grasshopper](https://grasshopper.com/) is a good starting point that works well for small businesses.
+
+## Using Multiple Suppliers
+
+While I requested starting out with just one supplier, most medium-sized dropshipping merchants use more than one. If you’re selling a lot of product, having multiple suppliers at your disposal can make your job a lot easier.
+
+There are several benefits to working with more than one supplier:
+
+**Order fulfillment is easier.** When you’re working with just one supplier and an item’s out of stock, you’re out of luck. Using multiple suppliers with overlapping inventories increases the chances that a product will always be available to you.
+
+**You can pick and choose.** Being able to cherry pick the best products from various suppliers is a big deal. Say you’re after a specific product. If Supplier A doesn’t have it, Supplier B might. This simplifies product selection.
+
+**It gives you a safety net.** If a supplier unexpectedly raises its prices or shuts down, you can count on your other suppliers to keep you in business.
+
+And once you’ve found a supplier, it’s a snap to find others.
+
+## Managing Inventory
+
+Keeping track of the products you have available to you is a must. Out-of-stock items can lower your conversion and retention rates, as it’s highly inconvenient for a customer to be told their item isn’t currently available.
+
+Here are a few tips for mitigating the number of out-of-stock products in your store.
+
+**Ask your supplier(s) about item availability.** Some suppliers may not stock all of their items regularly. Some products may be seasonal, for example. Ask your supplier(s) about this and make sure that your most popular products are available year-round (or close to year-round).
+
+**Don’t be afraid to use generic products.** Let’s say you have two suppliers. If you want to sell something common, like a water bottle, chances are both suppliers have similar products in stock. Supplier A’s water bottle may not be identical to Supplier B’s bottle, but if they’re _nearly_ identical, you can often write a generic product description and sell both bottles under the same listing. (Of course, don’t substitute for big brands like Samsung or Adidas.)
+
+**Use a robust inventory solution.** Suppliers will typically have their own way to manage inventory, and if it’s good enough, use it. If you find it lacking, look into software like [Ordoro](https://www.ordoro.com/) or [HubLogix](http://www.hublogix.com/). These tools can also help you manage inventory across multiple suppliers.
+
+## Building a Team
+
+When you start out, you can easily run your business all by yourself. As you grow, you might get overwhelmed with tons of daily orders, support tickets, and other administrative duties. That’s when you should think about getting more people on board.
+
+But who should you hire and when? Typically, dropshipping merchants can benefit the most from hiring certain roles.
+
+**Virtual assistants**. [Virtual assistants](https://www.oberlo.com/blog/digital-nomad-jobs) (or VAs) can be helpful if you mostly need assistance with administrative matters like processing invoices or organizing documents. It’s usually fairly cheap to hire a good VA too. However, a VA can only do so much. While a VA can help keep everything on track, he or she can’t take over marketing duties, for instance.
+
+**Customer support representatives.** If you’re getting a steady flow of support tickets and messages from customers, it could be worthwhile to hire a dedicated customer support rep. This will free up your time to focus on higher level responsibilities.
+
+**SEOs, marketers, copywriters, and designers**. Depending on your exact business model and goals, you may want to [hire some freelancers](https://www.oberlo.com/blog/freelance-websites-for-entrepreneurs) to do some once-off work. For instance, if you’re running into problems with visibility in the SERPs, hiring an SEO to optimize your site could help. You may already know some people to fill these roles, but just be aware that you’ll likely need all of these services at one point or another. Only you can determine if it’s worth it to hire salaried employees in these roles.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzgyNzU1OTJdfQ==
+eyJoaXN0b3J5IjpbMTQ4Mjc4NDU5NV19
 -->
