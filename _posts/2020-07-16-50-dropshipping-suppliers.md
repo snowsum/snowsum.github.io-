@@ -105,12 +105,12 @@ If you want access to advanced features like bulk orders and variant mapping, yo
 Overall, it’s the clear winner for any Shopify dropshipping store. But it does not support other ecommerce platforms. That’s the only thing keeping it from ranking first on our list.
 
 ### SaleHoo
+[SaleHoo](https://www.salehoo.com/)  is a directory of product wholesalers that you can use to source products for your ecommerce site. They offer items from top brands like Disney, Samsung and Xbox.
+
 
 [![SaleHoo](https://s3.amazonaws.com/ceblog/wp-content/uploads/2020/04/15125535/SaleHoo.png)](http://www.salehoo.com/)
 
 ### [SaleHoo](http://www.salehoo.com/)
-
-#### Best Supplier Directory
 
 8,000+ pre-vetted suppliers. Find trending products and calculate profit margins. 60-day money-back guarantee.
 
@@ -138,8 +138,6 @@ The only downside of using SalesHoo is that there is still an extra step in the 
 
 ### [Inventory Source](http://www.inventorysource.com/)
 
-#### Best Automation Software
-
 Compatible with 25+ ecommerce platforms. Integrate with your supplier's inventory and automatically upload products. Starts at $99 per month.
 
 [Free to Start!](http://www.inventorysource.com/)
@@ -162,7 +160,6 @@ Pricing for inventory automation starts at $99 per month, and full automation st
 
 ### [Worldwide Brands](http://www.worldwidebrands.com/)
 
-#### Best For Lifetime Access
 
 Dropshipping directory with an A+ rating on BBB and 5/5-star rating on Trustpilot. 16+ million dropshipping products available. Android and iOS mobile app.
 
@@ -186,8 +183,6 @@ Worldwide Brands does have a mobile app for iOS and Android available to members
 
 ### [Megagoods](http://www.megagoods.com/)
 
-#### Best For Dropshipping Electronics
-
 US-based dropshipping company. Tools to help you research the most popular products every week. Access members-only pricing for $14.99 per month.
 
 [Free For 30 Days!](http://www.megagoods.com/)
@@ -208,8 +203,6 @@ To access members-only pricing, you can sign up for just $14.99 per month. Start
 [![Dropified](https://s3.amazonaws.com/ceblog/wp-content/uploads/2020/04/15125526/Dropified.png)](http://www.dropified.com/)
 
 ### [Dropified](http://www.dropified.com/)
-
-#### Best For AliExpress and eBay
 
 Integrates with Shopify, BigCommerce, WooCommerce, and more. 60-day ecommerce training program. Starts at $47 per month.
 
@@ -242,7 +235,6 @@ Discounts are available with an annual subscription. Start a 14-day free trial t
 
 ### [Sunrise Wholesale](http://www.sunrisewholesalemerchandise.com/)
 
-#### Best For Trend Research
 
 More than 30,000 brand-name products. Amazon and eBay research tools. Pricing starts at $49 per month.
 
@@ -260,13 +252,15 @@ One standout feature from Sunrise Wholesale is the Amazon research tool. It help
 
 A membership for Sunrise Wholesale costs $49 per month or $199 per year. You can try a 7-day free trial before you commit.
 
+
 ### Printify
+
+[Printify](https://printify.com/)  is a dropshipping and print on demand service for small businesses. You can have custom designs printed onto t-shirts and other products and have them shipped directly to buyers as they order.
 
 [![Printify](https://s3.amazonaws.com/ceblog/wp-content/uploads/2020/04/15125533/Printify.png)](http://www.printify.com/)
 
 ### [Printify](http://www.printify.com/)
 
-#### Best For Custom Products
 
 Create and sell more than 250+ custom items. Free forever plan available. $29 per month for paid memberships.
 
@@ -284,14 +278,14 @@ You can even get samples shipped to you to ensure the quality before you start l
 
 Printify has a free forever plan that supports up to five stores and unlimited product designs. To access better wholesale discounts of up to 20%, the membership will cost you $29 per month.
 
-### Wholesale2b
+
+### Wholesale 2B
+
+[Wholesale 2B](http://www.wholesale2b.com/)  carries over one million products and facilitates dropshipping services for ecommerce sites. This site is known for having some of the most competitive prices.
 
 [![Wholesale2b](https://s3.amazonaws.com/ceblog/wp-content/uploads/2020/04/15125539/Wholesale2b.png)](http://www.wholesale2b.com/)
 
 ### [Wholesale2b](http://www.wholesale2b.com/)
-
-#### Best Free Account
-
 More than one million products available. No credit card required to create an account. Manage all suppliers in one place.
 
 [Sign Up For Free!](http://www.wholesale2b.com/)
@@ -317,14 +311,13 @@ For example, the Shopify, BigCommerce, and Weebly app all cost $29.99 per month,
 
 
 
+----
+---
+---
 
-### SaleHoo
 
-[SaleHoo](https://www.salehoo.com/)  is a directory of product wholesalers that you can use to source products for your ecommerce site. They offer items from top brands like Disney, Samsung and Xbox.
 
-### Wholesale 2B
 
-[Wholesale 2B](http://www.wholesale2b.com/)  carries over one million products and facilitates dropshipping services for ecommerce sites. This site is known for having some of the most competitive prices.
 
 
 
@@ -332,9 +325,8 @@ For example, the Shopify, BigCommerce, and Weebly app all cost $29.99 per month,
 
 AliExpress is actually owned by the  [Alibaba Group](https://www.aliexpress.com/). So it’s based in China. And it offers a variety of products to international buyers.
 
-### Printify
 
-[Printify](https://printify.com/)  is a dropshipping and print on demand service for small businesses. You can have custom designs printed onto t-shirts and other products and have them shipped directly to buyers as they order.
+
 
 ### Redbubble
 
@@ -344,9 +336,7 @@ AliExpress is actually owned by the  [Alibaba Group](https://www.aliexpress.com/
 
 [Worldwide Brands](https://www.worldwidebrands.com/)  is a directory of wholesale distributors from around the globe. With more than 20 years in business, they’re one of the more established marketplaces out there. And you can use it to find either wholesalers or dropshippers.
 
-----------
 
-----------
 
 ### Dropshipper.com
 
@@ -364,9 +354,7 @@ AliExpress is actually owned by the  [Alibaba Group](https://www.aliexpress.com/
 
 This option is actually a network of various ecommerce suppliers. The online  [directory](https://www.thomasnet.com/network/)  includes suppliers from various industries, so you can browse or search to find the options that are best for your business.
 
-----------
 
-----------
 
 ### Megagoods
 
@@ -526,6 +514,6 @@ Does your business plan carrying sporting goods? Then  [Maurice](http://www.maur
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTAxODE2NDcsLTE3NjcxOTA0NDMsMT
-A3NzY3MzI1N119
+eyJoaXN0b3J5IjpbMTMxMTA3NDMzMSwtMTc2NzE5MDQ0MywxMD
+c3NjczMjU3XX0=
 -->
