@@ -25,10 +25,14 @@ Check out 55 of the top ecommerce suppliers. And they include a ton of variety f
 
 ![enter image description here](https://i.imgur.com/HvMEbh1.jpg)
 
-How they work
+#### How they work
+Wiio is the all in one dropshipping solution that takes care of sourcing shipping and quality controlling products from China. They remove the stress that surrounds finding the perfect supplier from China.
+
+Wiio does it all! They find all of the top trending products then they have the inventory in their own warehouses which are conveniently placed around the world to help increase shipping times.
+
+The inventory is ready to be shipped and Wiio is dedicated to providing great service, unlike some other aliexpress suppliers. Then as soon as your store gets an order they do virtually everything for you and even ship it out. They even provide quality assurance unlike some of their competitors this helps you build a great relationship with your customers.
 ![enter image description here](https://i.imgur.com/Qu9vW9b.png)
-Many suppliers don’t care about your bsuiness if you aren’t getting many sales. I know many suppliers don’t spend time fulfilling orders from a small dropshipping store as you aren’t bringing in enough money for them. This causes even longer delays than normal for dropshipping, and it reflects badly on your brand.
-This is extremely annoying and it can end up costing you a lot of money in returns and loss of customers. There has to be a better way you may be asking? Well, there is using Nichepik you have a supplier that cares about the longevity of your business.
+
 ![enter image description here](https://i.imgur.com/fIogQuF.jpg)
 
 
@@ -514,7 +518,7 @@ Does your business plan carrying sporting goods? Then  [Maurice](http://www.maur
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NzQwODIxMywtMTc2NzgwMDMzOSwtMT
+eyJoaXN0b3J5IjpbMjAxMDE3ODM3NiwtMTc2NzgwMDMzOSwtMT
 c5OTI0OTMyOCwtMTE5ODk4MTAwLC00NTU0MzU2NDUsLTE3Njcx
 OTA0NDMsMTA3NzY3MzI1N119
 -->
