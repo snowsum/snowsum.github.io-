@@ -181,6 +181,9 @@ Worldwide Brands does have a mobile app for iOS and Android available to members
 
 ### Megagoods
 
+A consumer electronics distributor,  [Megagoods](https://www.megagoods.com/)  provides brand name tech items that cover everything from kitchen gadgets to gaming accessories.
+
+
 [![Megagoods](https://s3.amazonaws.com/ceblog/wp-content/uploads/2020/04/15125530/Megagoods.png)](http://www.megagoods.com/)
 
 ### [Megagoods](http://www.megagoods.com/)
@@ -513,6 +516,6 @@ Does your business plan carrying sporting goods? Then  [Maurice](http://www.maur
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODg2NDA0NjgsLTE3NjcxOTA0NDMsMT
-A3NzY3MzI1N119
+eyJoaXN0b3J5IjpbMTQxNTgxNTY5NCwtMTc2NzE5MDQ0MywxMD
+c3NjczMjU3XX0=
 -->
