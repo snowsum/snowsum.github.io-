@@ -48,7 +48,7 @@ Unlike some other aliexpress suppliers. Then as soon as your store gets an order
 ### Wiio
 Wiio The All-In-One Dropshipping Platform That Helps You Source, Ship & Fulfill ANYTHING From China.
 
-Our vision is to make dropshipping easy for everyone so that you as an entrepreneur could fully focus on what you do best which is marketing. Leave all the heavy lifting to us. Wiio will be leveling the playing field, enabling dropshippers to have a REAL business by helping you own your own supply chain. We also help you discover hot selling unique products, and not only that, we provide you with videos and also custom product photos too.
+Their vision is to make dropshipping easy for everyone so that you as an entrepreneur could fully focus on what you do best which is marketing. Leave all the heavy lifting to them. Wiio will be leveling the playing field, enabling dropshippers to have a REAL business by helping you own your own supply chain. they also help you discover hot selling unique products, and not only that, we provide you with videos and also custom product photos too.
 
 Now it's time you had your own professional teams on the ground working around the clock to help you grow because let's face it: Your current suppliers don't care about you, the pricing isn't great, they nickel and dime you for every little service you need, they are a one man show (you can't scale quickly because everything is going to break), shipping times murder you, communication is a problem, theres's no quality check at all, no repeat customer follow up, sometimes your orders don't even ship to the customer, and the supplier could care less about the after sales issues, dumping their screw ups on your shoulders to deal with.
 
@@ -550,7 +550,7 @@ Does your business plan carrying sporting goods? Then  [Maurice](http://www.maur
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MTY5MjkzOCw4NTU2MDMyMzgsLTE3Nj
-c4MDAzMzksLTE3OTkyNDkzMjgsLTExOTg5ODEwMCwtNDU1NDM1
-NjQ1LC0xNzY3MTkwNDQzLDEwNzc2NzMyNTddfQ==
+eyJoaXN0b3J5IjpbMzE4ODYyMjM2LDg1NTYwMzIzOCwtMTc2Nz
+gwMDMzOSwtMTc5OTI0OTMyOCwtMTE5ODk4MTAwLC00NTU0MzU2
+NDUsLTE3NjcxOTA0NDMsMTA3NzY3MzI1N119
 -->
