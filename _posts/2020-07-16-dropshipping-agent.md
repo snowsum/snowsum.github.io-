@@ -2,7 +2,7 @@
 layout: post
 title:  "Dropshipping agent-(Key to scale your business)"
 categories: [ start-up, ecommerce, shopify ]
-image:https://i.imgur.com/aUFTZEi.png
+image: https://i.imgur.com/aUFTZEi.png?2
 ---
 
 **Dropshipping agents are everywhere but should you work with them?**
@@ -67,6 +67,7 @@ If you’re a serious dropshipper, you will always find ways to beat your compet
 
 If you, however, choose to continue sourcing  **dropshipping products**  from AliExpress, these articles will be useful for you.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MTQwMTIyNiwtMTQ0NTY2ODcxOSw4Nz
-g1MTc2ODAsMjEyMzY1NTA3MCwtMTg3NDA2OTkwN119
+eyJoaXN0b3J5IjpbLTExMzExODU4NjcsLTk3MTQwMTIyNiwtMT
+Q0NTY2ODcxOSw4Nzg1MTc2ODAsMjEyMzY1NTA3MCwtMTg3NDA2
+OTkwN119
 -->
