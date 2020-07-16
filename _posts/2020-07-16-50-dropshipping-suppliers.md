@@ -46,6 +46,13 @@ Unlike some other aliexpress suppliers. Then as soon as your store gets an order
 
 
 ### Wiio
+Wiio The All-In-One Dropshipping Platform That Helps You Source, Ship & Fulfill ANYTHING From China.
+
+Our vision is to make dropshipping easy for everyone so that you as an entrepreneur could fully focus on what you do best which is marketing. Leave all the heavy lifting to us. Wiio will be leveling the playing field, enabling dropshippers to have a REAL business by helping you own your own supply chain. We also help you discover hot selling unique products, and not only that, we provide you with videos and also custom product photos too.
+
+Now it's time you had your own professional teams on the ground working around the clock to help you grow because let's face it: Your current suppliers don't care about you, the pricing isn't great, they nickel and dime you for every little service you need, they are a one man show (you can't scale quickly because everything is going to break), shipping times murder you, communication is a problem, theres's no quality check at all, no repeat customer follow up, sometimes your orders don't even ship to the customer, and the supplier could care less about the after sales issues, dumping their screw ups on your shoulders to deal with.
+
+Our all in one platform is the new arm of your business. We have over 200 people working behind the scenes in 2 strategically located warehouses in China to make sure your business can scale quickly so you can start making some real money with your eCommerce business. Our platform is the answer you've been asking for.
 **Their strength:**
 + Product research
 
@@ -543,7 +550,7 @@ Does your business plan carrying sporting goods? Then  [Maurice](http://www.maur
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU1NjAzMjM4LC0xNzY3ODAwMzM5LC0xNz
-k5MjQ5MzI4LC0xMTk4OTgxMDAsLTQ1NTQzNTY0NSwtMTc2NzE5
-MDQ0MywxMDc3NjczMjU3XX0=
+eyJoaXN0b3J5IjpbMTU4MTY5MjkzOCw4NTU2MDMyMzgsLTE3Nj
+c4MDAzMzksLTE3OTkyNDkzMjgsLTExOTg5ODEwMCwtNDU1NDM1
+NjQ1LC0xNzY3MTkwNDQzLDEwNzc2NzMyNTddfQ==
 -->
