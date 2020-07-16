@@ -24,27 +24,29 @@ Check out 55 of the top ecommerce suppliers. And they include a ton of variety f
 [Nichepik]([https://nichepik.com/about-us](https://nichepik.com/about-us)) is a tech-powered fulfillment company based in HK and mainland China. With 8 years experience since 2011, we offer the best end-to-end global fulfillment solution and service for cross-border ecommerce sellers(Shopify and other marketplaces seller fulfillment ) , crowdfunding campaigns and dropshipping business.
 
 ![enter image description here](https://i.imgur.com/HvMEbh1.jpg)
-
-#### How they work
 Many suppliers don’t care about your bsuiness if you aren’t getting many sales. I know many suppliers don’t spend time fulfilling orders from a small dropshipping store as you aren’t bringing in enough money for them. This causes even longer delays than normal for dropshipping, and it reflects badly on your brand.
 
 This is extremely annoying and it can end up costing you a lot of money in returns and loss of customers. There has to be a better way you may be asking? Well, there is using Nichepik you have a supplier that cares about the longevity of your business.
+#### How they work
 
 ![enter image description here](https://i.imgur.com/Qu9vW9b.png)
 
 Nichepik is the all in one dropshipping solution that takes care of sourcing shipping and quality controlling products from China. They remove the stress that surrounds finding the perfect supplier from China.
 
 Unlike some other aliexpress suppliers. Then as soon as your store gets an order they do virtually everything for you and even ship it out. They even provide quality assurance unlike some of their competitors this helps you build a great relationship with your customers.
+
 **Their strength:**
 + Sourcing ability
 + Response speed
 + logostics
+
 **Their weakness:**
  + product research
 ![enter image description here](https://i.imgur.com/fIogQuF.jpg)
 
 
 ### Wiio
+
 
 ![enter image description here](https://i.imgur.com/LosaepV.jpg)
 ### Cjdropshipping
@@ -527,7 +529,7 @@ Does your business plan carrying sporting goods? Then  [Maurice](http://www.maur
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3ODcxNDMxMSwtMTc2NzgwMDMzOSwtMT
-c5OTI0OTMyOCwtMTE5ODk4MTAwLC00NTU0MzU2NDUsLTE3Njcx
-OTA0NDMsMTA3NzY3MzI1N119
+eyJoaXN0b3J5IjpbLTkyOTMzNDM1LC0xNzY3ODAwMzM5LC0xNz
+k5MjQ5MzI4LC0xMTk4OTgxMDAsLTQ1NTQzNTY0NSwtMTc2NzE5
+MDQ0MywxMDc3NjczMjU3XX0=
 -->
