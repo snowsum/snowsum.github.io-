@@ -27,9 +27,11 @@ Check out 55 of the top ecommerce suppliers. And they include a ton of variety f
 
 Many suppliers don’t care about your bsuiness if you aren’t getting many sales. I know many suppliers don’t spend time fulfilling orders from a small dropshipping store as you aren’t bringing in enough money for them. This causes even longer delays than normal for dropshipping, and it reflects badly on your brand.
 This is extremely annoying and it can end up costing you a lot of money in returns and loss of customers. There has to be a better way you may be asking? Well, there is using Nichepik you have a supplier that cares about the longevity of your business.
+![enter image description here](https://i.imgur.com/fIogQuF.jpg)
 
 
 ### Wiio
+
 ### Cjdropshipping
 
 
@@ -509,6 +511,6 @@ Does your business plan carrying sporting goods? Then  [Maurice](http://www.maur
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NTQzNTY0NSwtMTc2NzE5MDQ0MywxMD
-c3NjczMjU3XX0=
+eyJoaXN0b3J5IjpbLTExOTg5ODEwMCwtNDU1NDM1NjQ1LC0xNz
+Y3MTkwNDQzLDEwNzc2NzMyNTddfQ==
 -->
