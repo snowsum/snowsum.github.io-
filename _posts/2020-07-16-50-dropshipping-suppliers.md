@@ -50,7 +50,7 @@ Wiio The All-In-One Dropshipping Platform That Helps You Source, Ship & Fulfill 
 
 Their vision is to make dropshipping easy for everyone so that you as an entrepreneur could fully focus on what you do best which is marketing. Leave all the heavy lifting to them. Wiio will be leveling the playing field, enabling dropshippers to have a REAL business by helping you own your own supply chain. they also help you discover hot selling unique products, and not only that, they provide you with videos and also custom product photos too.
 
-Created By Tan
+Created By Steve Tan, who is a Singapore based serial entrepreneur, renowned dropshipper and full-stack digital marketer with over 14 years of extensive background in the eCommerce industry. Along with his brother Evan Tan, they are known as the Super Tan Brothers – the indestructible duo who can crush out brands and scale them from 0 to 7 figures in a matter of days.
 **Their strength:**
 + Product research
 
@@ -548,7 +548,7 @@ Does your business plan carrying sporting goods? Then  [Maurice](http://www.maur
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzU1ODM2MzEsODU1NjAzMjM4LC0xNz
-Y3ODAwMzM5LC0xNzk5MjQ5MzI4LC0xMTk4OTgxMDAsLTQ1NTQz
-NTY0NSwtMTc2NzE5MDQ0MywxMDc3NjczMjU3XX0=
+eyJoaXN0b3J5IjpbLTU2NjEwMDkwNiw4NTU2MDMyMzgsLTE3Nj
+c4MDAzMzksLTE3OTkyNDkzMjgsLTExOTg5ODEwMCwtNDU1NDM1
+NjQ1LC0xNzY3MTkwNDQzLDEwNzc2NzMyNTddfQ==
 -->
