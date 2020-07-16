@@ -52,7 +52,7 @@ Their vision is to make dropshipping easy for everyone so that you as an entrepr
 
 Created By Steve Tan, who is a Singapore based serial entrepreneur, renowned dropshipper and full-stack digital marketer with over 14 years of extensive background in the eCommerce industry. Along with his brother Evan Tan, they are known as the Super Tan Brothers – the indestructible duo who can crush out brands and scale them from 0 to 7 figures in a matter of days.
 
-It is their advantage that they are both help you fulfill your orders at the same time they might running their own dropshipping store
+It is their advantage and disadvantage that they help you fulfill your orders at the same time they might running their own dropshipping store. They can share you hot selling products at the same time steal your 
 **Their strength:**
 + Product research
 
@@ -550,7 +550,7 @@ Does your business plan carrying sporting goods? Then  [Maurice](http://www.maur
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzOTMzODczNSw4NTU2MDMyMzgsLTE3Nj
+eyJoaXN0b3J5IjpbLTg2Mjk0NTY4Miw4NTU2MDMyMzgsLTE3Nj
 c4MDAzMzksLTE3OTkyNDkzMjgsLTExOTg5ODEwMCwtNDU1NDM1
 NjQ1LC0xNzY3MTkwNDQzLDEwNzc2NzMyNTddfQ==
 -->
