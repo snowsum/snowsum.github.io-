@@ -46,6 +46,13 @@ Unlike some other aliexpress suppliers. Then as soon as your store gets an order
 
 
 ### Wiio
+**Their strength:**
++ Sourcing ability
++ Response speed
++ logostics
++ product research
+
+**Their weakness:**
 
 
 ![enter image description here](https://i.imgur.com/LosaepV.jpg)
@@ -529,7 +536,7 @@ Does your business plan carrying sporting goods? Then  [Maurice](http://www.maur
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyOTMzNDM1LC0xNzY3ODAwMzM5LC0xNz
-k5MjQ5MzI4LC0xMTk4OTgxMDAsLTQ1NTQzNTY0NSwtMTc2NzE5
-MDQ0MywxMDc3NjczMjU3XX0=
+eyJoaXN0b3J5IjpbMTg4MTgzMzIxMCwtMTc2NzgwMDMzOSwtMT
+c5OTI0OTMyOCwtMTE5ODk4MTAwLC00NTU0MzU2NDUsLTE3Njcx
+OTA0NDMsMTA3NzY3MzI1N119
 -->
