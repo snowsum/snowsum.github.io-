@@ -44,11 +44,11 @@ Now  [eBay](https://www.ebay.com/rpp/ebay-business-supply)  does not serve as an
 
 ### Doba
 
+[Doba](https://www.doba.com/)  focuses on connecting ecommerce suppliers with qualified manufacturers. And they handle all of the shipping and logistics for you. But they also integrate inventory. And integrate sales data right into your site.
+
 [![Doba](https://s3.amazonaws.com/ceblog/wp-content/uploads/2020/04/15125524/Doba.png)](http://www.doba.com/)
 
 ### [Doba](http://www.doba.com/)
-
-#### Best Overall Dropshipping Company
 
 Over 2 million wholesale products available. Manage all suppliers in one place. Pricing starts at $29 per month.
 
@@ -83,7 +83,6 @@ I’d recommend using that trial to run your numbers and see if the pricing on i
 
 ### [Oberlo](http://www.oberlo.com/)
 
-#### Best For Shopify Dropshipping
 
 Automated Shopify fulfillment. Millions of products. Free plan for up to 500 products. Paid plans starting at $29.90 per month.
 
@@ -316,9 +315,8 @@ However, the free plan doesn’t support ordres. It’s basically a browsing-onl
 For example, the Shopify, BigCommerce, and Weebly app all cost $29.99 per month, but eBay and Amazon apps cost $37.99 per month.
 
 
-### Doba
 
-[Doba](https://www.doba.com/)  focuses on connecting ecommerce suppliers with qualified manufacturers. And they handle all of the shipping and logistics for you. But they also integrate inventory. And integrate sales data right into your site.
+
 
 ### SaleHoo
 
@@ -528,6 +526,6 @@ Does your business plan carrying sporting goods? Then  [Maurice](http://www.maur
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MTAwOTQwNSwtMTc2NzE5MDQ0MywxMD
-c3NjczMjU3XX0=
+eyJoaXN0b3J5IjpbLTExMTAxODE2NDcsLTE3NjcxOTA0NDMsMT
+A3NzY3MzI1N119
 -->
