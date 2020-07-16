@@ -38,7 +38,7 @@ Unlike some other aliexpress suppliers. Then as soon as your store gets an order
 **Their strength:**
 + Sourcing ability
 + Response speed
-+ logostics
++ Logostics
 
 **Their weakness:**
  + product research
@@ -47,10 +47,10 @@ Unlike some other aliexpress suppliers. Then as soon as your store gets an order
 
 ### Wiio
 **Their strength:**
-+ product research
++ Product research
 
 **Their weakness:**
-+ ogostics
++ Logostics
 + Response speed
 ![enter image description here](https://i.imgur.com/LosaepV.jpg)
 ### Cjdropshipping
@@ -543,7 +543,7 @@ Does your business plan carrying sporting goods? Then  [Maurice](http://www.maur
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyODQ2MTM5MCwtMTc2NzgwMDMzOSwtMT
-c5OTI0OTMyOCwtMTE5ODk4MTAwLC00NTU0MzU2NDUsLTE3Njcx
-OTA0NDMsMTA3NzY3MzI1N119
+eyJoaXN0b3J5IjpbODU1NjAzMjM4LC0xNzY3ODAwMzM5LC0xNz
+k5MjQ5MzI4LC0xMTk4OTgxMDAsLTQ1NTQzNTY0NSwtMTc2NzE5
+MDQ0MywxMDc3NjczMjU3XX0=
 -->
