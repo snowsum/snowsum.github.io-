@@ -205,8 +205,7 @@ Megagoods is PCI compliant, EDI compliant, offers private label shipping, and ha
 
 To access members-only pricing, you can sign up for just $14.99 per month. Start a 30-day free trial to try it out.
 
-## #7 – Dropified Review — Best Software For AliExpress and eBay
-
+### Dropified 
 [![Dropified](https://s3.amazonaws.com/ceblog/wp-content/uploads/2020/04/15125526/Dropified.png)](http://www.dropified.com/)
 
 ### [Dropified](http://www.dropified.com/)
@@ -238,7 +237,7 @@ For those of you just starting out, Dropified offers a 60-day ecommerce training
 
 Discounts are available with an annual subscription. Start a 14-day free trial to test the software for yourself.
 
-## #8 – Sunrise Wholesale Review — The Best For Trend Research
+### Sunrise Wholesale
 
 [![Sunrise Wholesale](https://s3.amazonaws.com/ceblog/wp-content/uploads/2020/04/15125537/Sunrise-Wholesale.png)](http://www.sunrisewholesalemerchandise.com/)
 
@@ -262,7 +261,7 @@ One standout feature from Sunrise Wholesale is the Amazon research tool. It help
 
 A membership for Sunrise Wholesale costs $49 per month or $199 per year. You can try a 7-day free trial before you commit.
 
-## #9 – Printify Review — The Best For Custom Products
+### Printify
 
 [![Printify](https://s3.amazonaws.com/ceblog/wp-content/uploads/2020/04/15125533/Printify.png)](http://www.printify.com/)
 
@@ -286,7 +285,7 @@ You can even get samples shipped to you to ensure the quality before you start l
 
 Printify has a free forever plan that supports up to five stores and unlimited product designs. To access better wholesale discounts of up to 20%, the membership will cost you $29 per month.
 
-## #10 – Wholesale2b Review — The Best Free Account
+### Wholesale2b
 
 [![Wholesale2b](https://s3.amazonaws.com/ceblog/wp-content/uploads/2020/04/15125539/Wholesale2b.png)](http://www.wholesale2b.com/)
 
@@ -529,6 +528,6 @@ Does your business plan carrying sporting goods? Then  [Maurice](http://www.maur
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI0NTkxNzQ3LC0xNzY3MTkwNDQzLDEwNz
-c2NzMyNTddfQ==
+eyJoaXN0b3J5IjpbLTk0MTAwOTQwNSwtMTc2NzE5MDQ0MywxMD
+c3NjczMjU3XX0=
 -->
