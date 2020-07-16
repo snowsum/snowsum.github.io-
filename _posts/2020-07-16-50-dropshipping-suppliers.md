@@ -62,7 +62,8 @@ It is their advantage and disadvantage that they help you fulfill your orders at
 + Response speed
 ![enter image description here](https://i.imgur.com/LosaepV.jpg)
 ### Cjdropshipping
-
+CJ 
+![enter image description here](https://i.imgur.com/De3p3Rl.jpg)
 **Their strength:**
 + Product research
 + ERP automation
@@ -551,7 +552,7 @@ Does your business plan carrying sporting goods? Then  [Maurice](http://www.maur
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNzY4NjU5NCw4NTU2MDMyMzgsLTE3Nj
-c4MDAzMzksLTE3OTkyNDkzMjgsLTExOTg5ODEwMCwtNDU1NDM1
-NjQ1LC0xNzY3MTkwNDQzLDEwNzc2NzMyNTddfQ==
+eyJoaXN0b3J5IjpbOTQ0NzExMzU2LDg1NTYwMzIzOCwtMTc2Nz
+gwMDMzOSwtMTc5OTI0OTMyOCwtMTE5ODk4MTAwLC00NTU0MzU2
+NDUsLTE3NjcxOTA0NDMsMTA3NzY3MzI1N119
 -->
