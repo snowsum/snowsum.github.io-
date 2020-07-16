@@ -3,6 +3,7 @@ layout: post
 title:  "Dropshipping 101: 2020 updated version"
 categories: [ start-up, ecommerce, shopify ]
 image: https://i.imgur.com/1Or3ja1.jpg
+tags: [featured]
 ---
 
 
@@ -2248,6 +2249,6 @@ The entrepreneurs who have been so successful didn’t get to where they are tod
 
 **Wholesaler** – A supplier that sells to retailers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjUxNTI0MjIsLTIxMDgwNjI4MjUsMT
-E3OTE3MjY0OSwxMDc2MjczNDMxXX0=
+eyJoaXN0b3J5IjpbMjkzMjc5NjQ3LC0xMDY1MTUyNDIyLC0yMT
+A4MDYyODI1LDExNzkxNzI2NDksMTA3NjI3MzQzMV19
 -->
