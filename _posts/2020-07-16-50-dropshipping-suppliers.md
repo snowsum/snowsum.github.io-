@@ -21,11 +21,14 @@ So if you’re interested in  [starting an online store](https://blog.nichepik.c
 
 Check out 55 of the top ecommerce suppliers. And they include a ton of variety for those with specific niches.
 ### Nichepik
+[Nichepik]([https://nichepik.com/about-us](https://nichepik.com/about-us)) is a tech-powered fulfillment company based in HK and mainland China. With 8 years experience since 2011, we offer the best end-to-end global fulfillment solution and service for cross-border ecommerce sellers(Shopify and other marketplaces seller fulfillment ) , crowdfunding campaigns and dropshipping business.
 
 ![enter image description here](https://i.imgur.com/HvMEbh1.jpg)
 
 Many suppliers don’t care about your bsuiness if you aren’t getting many sales. I know many suppliers don’t spend time fulfilling orders from a small dropshipping store as you aren’t bringing in enough money for them. This causes even longer delays than normal for dropshipping, and it reflects badly on your brand.
 This is extremely annoying and it can end up costing you a lot of money in returns and loss of customers. There has to be a better way you may be asking? Well, there is using Nichepik you have a supplier that cares about the longevity of your business.
+
+
 ### Wiio
 ### Cjdropshipping
 
@@ -506,6 +509,6 @@ Does your business plan carrying sporting goods? Then  [Maurice](http://www.maur
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNjIwMjQ2NiwtMTc2NzE5MDQ0MywxMD
+eyJoaXN0b3J5IjpbLTQ1NTQzNTY0NSwtMTc2NzE5MDQ0MywxMD
 c3NjczMjU3XX0=
 -->
