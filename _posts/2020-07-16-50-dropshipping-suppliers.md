@@ -156,6 +156,8 @@ Pricing for inventory automation starts at $99 per month, and full automation st
 
 ### Worldwide Brands
 
+[Worldwide Brands](https://www.worldwidebrands.com/)  is a directory of wholesale distributors from around the globe. With more than 20 years in business, they’re one of the more established marketplaces out there. And you can use it to find either wholesalers or dropshippers.
+
 [![Worldwide Brands](https://s3.amazonaws.com/ceblog/wp-content/uploads/2020/04/15125541/Worldwide-Brands.png)](http://www.worldwidebrands.com/)
 
 ### [Worldwide Brands](http://www.worldwidebrands.com/)
@@ -332,9 +334,8 @@ AliExpress is actually owned by the  [Alibaba Group](https://www.aliexpress.com/
 
 [Redbubble](https://www.redbubble.com/)  is another print on demand service that facilitates the delivery of products right to your customers. You can also place large wholesale orders and handle the logistics on your own.
 
-### Worldwide Brands
 
-[Worldwide Brands](https://www.worldwidebrands.com/)  is a directory of wholesale distributors from around the globe. With more than 20 years in business, they’re one of the more established marketplaces out there. And you can use it to find either wholesalers or dropshippers.
+
 
 
 
@@ -356,9 +357,7 @@ This option is actually a network of various ecommerce suppliers. The online  [d
 
 
 
-### Megagoods
 
-A consumer electronics distributor,  [Megagoods](https://www.megagoods.com/)  provides brand name tech items that cover everything from kitchen gadgets to gaming accessories.
 
 ### Investory Source
 
@@ -514,6 +513,6 @@ Does your business plan carrying sporting goods? Then  [Maurice](http://www.maur
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMTA3NDMzMSwtMTc2NzE5MDQ0MywxMD
-c3NjczMjU3XX0=
+eyJoaXN0b3J5IjpbLTIwODg2NDA0NjgsLTE3NjcxOTA0NDMsMT
+A3NzY3MzI1N119
 -->
