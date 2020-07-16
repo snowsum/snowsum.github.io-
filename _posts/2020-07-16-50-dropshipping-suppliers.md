@@ -62,7 +62,8 @@ It is their advantage and disadvantage that they help you fulfill your orders at
 + Response speed
 ![enter image description here](https://i.imgur.com/LosaepV.jpg)
 ### Cjdropshipping
-CJ enters this business at a very early age, they start from a jewery wholesale company and process their own products to dropshipers and later they developed into a fulfillment company. They are growing very fast and they are more like another Aliexpress now. You might try their service if you hit hundred of orders per day or 
+CJ enters this business at a very early age, they start from a jewery wholesale company and process their own products to dropshipers and later they developed into a fulfillment company. They are growing very fast and they are more like another Aliexpress now. You might try their service if you hit hundred of orders per day for VIP might get their full support.
+
 ![enter image description here](https://i.imgur.com/De3p3Rl.jpg)
 **Their strength:**
 + Product research
@@ -552,7 +553,7 @@ Does your business plan carrying sporting goods? Then  [Maurice](http://www.maur
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Njg4OTI5MjYsODU1NjAzMjM4LC0xNz
-Y3ODAwMzM5LC0xNzk5MjQ5MzI4LC0xMTk4OTgxMDAsLTQ1NTQz
-NTY0NSwtMTc2NzE5MDQ0MywxMDc3NjczMjU3XX0=
+eyJoaXN0b3J5IjpbMTU1OTcwOTkwOCw4NTU2MDMyMzgsLTE3Nj
+c4MDAzMzksLTE3OTkyNDkzMjgsLTExOTg5ODEwMCwtNDU1NDM1
+NjQ1LC0xNzY3MTkwNDQzLDEwNzc2NzMyNTddfQ==
 -->
