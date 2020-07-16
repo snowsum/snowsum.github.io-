@@ -376,9 +376,7 @@ This option is actually a network of various ecommerce suppliers. The online  [d
 
 If you’re interested in dropshipping products made in China,  [this site](https://www.chinabrands.com/)  includes a huge array of items, from toys and games to clothing and accessories.
 
-----------
 
-----------
 
 ### Made-In-China.com
 
@@ -395,9 +393,7 @@ Another option for made in China products, this site is a business sourcing  [pl
 
 
 
-----------
 
-----------
 
 ### DHGate
 
@@ -415,9 +411,6 @@ A wholesale merchandiser based in California,  [Kole Imports](https://www.koleim
 
 An international wholesaler of mobile phones and other tech products,  [Uniqbe Limited](http://www.uniqbe.com/home)  lets you access the latest products. And they customize your experience with a variety of shipping options.
 
-----------
-
-----------
 
 ### ASI Partners
 
@@ -455,9 +448,6 @@ An online fashion and beauty distributor, Collective Fab offers thousands of pro
 
 A wholesale cosmetics distributor,  [Beauty Joint](https://beautyjoint.com/)  offers brand name products and even beauty boxes. They offer both wholesale ordering and dropshipping options. So you can customize the experience to your business needs.
 
-----------
-
-----------
 
 ### USA Wholesale
 
@@ -517,6 +507,6 @@ Does your business plan carrying sporting goods? Then  [Maurice](http://www.maur
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMTIxNTYxNywtMTc2NzE5MDQ0MywxMD
-c3NjczMjU3XX0=
+eyJoaXN0b3J5IjpbMTAzMzQ0NDU5LC0xNzY3MTkwNDQzLDEwNz
+c2NzMyNTddfQ==
 -->
