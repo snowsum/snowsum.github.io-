@@ -203,8 +203,10 @@ The Megagoods website has a cool feature to help you identify popular products. 
 Megagoods is PCI compliant, EDI compliant, offers private label shipping, and has a wide selection of brand name items available.
 
 To access members-only pricing, you can sign up for just $14.99 per month. Start a 30-day free trial to try it out.
+ 
+### Dropified
 
-### Dropified 
+[Dropified](https://www.dropified.com/)  is a dropshipping software that integrates with popular ecommerce platforms like Shopify and Woocommerce. You can pick products right from the tool and have them added to your site automatically.
 [![Dropified](https://s3.amazonaws.com/ceblog/wp-content/uploads/2020/04/15125526/Dropified.png)](http://www.dropified.com/)
 
 ### [Dropified](http://www.dropified.com/)
@@ -390,9 +392,8 @@ Another option for made in China products, this site is a business sourcing  [pl
 
 [Spocket](https://www.spocket.co/)  is a dropshipping company that connects you with original products produced in the U.S. and EU. You can sort by product type and country of origin to find the items that best suit your shop.
 
-### Dropified
 
-[Dropified](https://www.dropified.com/)  is a dropshipping software that integrates with popular ecommerce platforms like Shopify and Woocommerce. You can pick products right from the tool and have them added to your site automatically.
+
 
 ----------
 
@@ -516,6 +517,6 @@ Does your business plan carrying sporting goods? Then  [Maurice](http://www.maur
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNTgxNTY5NCwtMTc2NzE5MDQ0MywxMD
+eyJoaXN0b3J5IjpbLTkyMTIxNTYxNywtMTc2NzE5MDQ0MywxMD
 c3NjczMjU3XX0=
 -->
