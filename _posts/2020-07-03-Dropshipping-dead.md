@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dropshipping dead in 2020: Challenge and Opturnities-(What others won't tell you)"
+title:  "Dropshipping dead in 2021: Challenge and Opturnities-(What others won't tell you)"
 categories: [ shopify ]
 image: https://i.imgur.com/lLt4ZZ2.png
 tags: [sticky]
@@ -43,7 +43,7 @@ I'm also not talking about making $500-1000 per month from this. You can get tha
     - [Highly competitive](#highly-competitive)
     - [Unprofessionalism of sellers](#unprofessionalism-of-sellers)
     - [No control over supply-chain](#no-control-over-supply-chain)
- - [Is dropshipping still profitable in 2020?](#is-dropshipping-still-profitable-in-2020)
+ - [Is dropshipping still profitable in 2021?](#is-dropshipping-still-profitable-in-2020)
  - [Conclusion](#conclusion)
  
 
@@ -144,7 +144,7 @@ And if they’re vocal about it, those bad reviews early on could end your busin
 ### 6. Long shipping times
 There are obvious problems that are plaguing dropshipping businesses. Most blogs you’ll find out there are not talking about them at all or are not addressing them as real issues that can easily collapse the entire business overnight. People who are pushing courses in order to capitalize on the trend are not helping as well.
 
-Let’s be real, would anyone in 2020 buy something if it says on the product page that it’ll take 20-45 days to arrive?
+Let’s be real, would anyone in 2021 buy something if it says on the product page that it’ll take 20-45 days to arrive?
 
 **I know that I wouldn’t.**
 
@@ -390,5 +390,6 @@ Bootstrapping it and freaking out when you spend $250 on ads with no returns sho
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYyNTEwMTUxLC0xMTczMjk4OTkzXX0=
+eyJoaXN0b3J5IjpbMzMxMTk5OTc2LDc2MjUxMDE1MSwtMTE3Mz
+I5ODk5M119
 -->
