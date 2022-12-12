@@ -18,7 +18,7 @@ tags: [featured]
 ### Compliance and security
 ### Making your customers happy
 ## How much does a dropshipping agent cost
-## How do you pay a sourcing agent?
+## How do you pay a dropshipping agent?
 ## How to find a dropshipping agent
 ## How to choose a perfect Dropshipping agent?
 ### Based on your dropshipping product needs
@@ -36,5 +36,5 @@ tags: [featured]
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3OTM4Nzc5OV19
+eyJoaXN0b3J5IjpbMTI3MzIyMTI5NF19
 -->
