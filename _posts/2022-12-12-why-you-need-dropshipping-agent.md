@@ -9,8 +9,11 @@ tags: [featured]
 ## What Is Dropshipping
 Dropshipping is a type of e-commerce business model where a seller does not keep goods in stock, but instead transfers customer orders and shipment details to a third-party supplier, who then ships the goods directly to the customer. This means that the seller does not have to handle the goods themselves, and can focus on marketing and customer service. It can be a convenient and cost-effective way to start an e-commerce business, as the seller does not need to invest in inventory or handle fulfillment.
 ## Dropshipping business model
+In the dropshipping business model, a seller lists items for sale on their website or online marketplace, and when a customer makes a purchase, the seller passes the order and shipping details to a third-party supplier. The supplier then ships the goods directly to the customer, and the seller receives a commission or markup on the sale.
 ## What Is Dropshipping Agent?
+A dropshipping agent is a person or company that acts as an intermediary between a seller and a third-party supplier in a dropshipping business model. The agent may handle tasks such as finding suppliers, negotiating prices, and managing the communication and fulfillment process between the seller and the supplier. This can help the seller to focus on marketing and customer service, while the agent takes care of the logistics of the business. Dropshipping agents may charge a fee for their services.
 ## What is a private dropshipping agent
+A private dropshipping agent is a person or company that offers dropshipping services to a specific seller or group of sellers, rather than working with the general public. This type of arrangement may be beneficial for sellers who want to have a dedicated agent to manage their dropshipping business, and who are willing to pay a higher fee for personalized service. A private dropshipping agent may also offer additional services such as product sourcing, inventory management, and customer support.
 ## What do drop shipping agents do?
 ## Factors to consider before choosing a dropshipping agent
 ## How Can I Use a Dropshipping Agent?
@@ -37,5 +40,5 @@ Dropshipping is a type of e-commerce business model where a seller does not keep
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxODM2NzM3LDEyNzMyMjEyOTRdfQ==
+eyJoaXN0b3J5IjpbLTIwOTQyNjYwODAsMTI3MzIyMTI5NF19
 -->
