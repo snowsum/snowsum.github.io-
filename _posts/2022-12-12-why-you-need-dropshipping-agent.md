@@ -97,7 +97,31 @@ When choosing a dropshipping agent, it is important to consider your product nee
 
 Overall, it is important to choose a dropshipping agent who can support and fulfill your product needs, and who can provide the services and support that you need to run your business effectively.
 ### Based on your suppliers’ business model
+When choosing a dropshipping agent, it is important to consider the business model of your suppliers and how the agent can support and work with that model. Some key factors to consider include:
+
+-   Compatibility with your suppliers: Make sure that the agent is able to work with the suppliers that you have already chosen, or can help you to find new suppliers who are compatible with your business model.
+    
+-   Negotiation and pricing: Look for an agent who has experience in negotiating prices and terms with suppliers, and who can help you to get the best deals and pricing for your products.
+    
+-   Communication and fulfillment: Find out how the agent communicates and works with your suppliers, and make sure that they can handle the fulfillment and shipping process smoothly and efficiently.
+    
+-   Payment and billing: Check that the agent is able to handle payment and billing with your suppliers, and that they can provide accurate and timely reporting on sales and revenue.
+    
+
+Overall, it is important to choose a dropshipping agent who can support and work with your suppliers’ business model, and who can provide the services and support that you need to run your business effectively.
 ### Consider the agent’s customer base
+When choosing a dropshipping agent, it is important to consider the agent’s customer base and how it aligns with your business. Some key factors to consider include:
+
+-   Compatibility with your target market: Look for an agent who has experience and knowledge of the market that you are targeting, and who can help you to reach and sell to your ideal customers.
+    
+-   Similarity of products and services: Make sure that the agent’s customer base is similar to your own in terms of the products and services that you offer, as this can help you to learn from their experience and success.
+    
+-   Reputation and credibility: Research the reputation and credibility of the agent’s customer base, and look for any red flags or warning signs. A positive reputation and credibility can help to build trust and confidence with your customers.
+    
+-   Customer feedback and reviews: Read customer feedback and reviews about the agent and their customers, and look for any patterns or trends that may be relevant to your business. This can help you to understand the experiences and expectations of the agent’s customers, and how they may compare to your own customers.
+    
+
+Overall, it is important to choose a dropshipping agent whose customer base aligns with your business and your target market, and who has a good reputation and credibility in the industry. This can help to ensure that you are able to learn from their experiences and success, and to provide the best possible service and support to your own customers.
 ### Cost of dropshipping agent
 ### Consider the agent’s features
 ## What are the features of a good drop shipping agent?
@@ -110,6 +134,6 @@ Overall, it is important to choose a dropshipping agent who can support and fulf
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk2NTcwNzUwLDQ4MTQxNzEzMCwxMjczMj
-IxMjk0XX0=
+eyJoaXN0b3J5IjpbMTczMjY3NjI2MSw0ODE0MTcxMzAsMTI3Mz
+IyMTI5NF19
 -->
