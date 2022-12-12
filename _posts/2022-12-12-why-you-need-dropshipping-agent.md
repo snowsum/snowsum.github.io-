@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dropshipping agent-Why you need one for 2023(Top 10 dropshipping agent)"
+title:  "Dropshipping agent-Why you need one for 2023"
 categories: [ shopify, dropshipping agent ]
 image: https://i.imgur.com/S6A46jt.png
 tags: [featured]
@@ -196,6 +196,6 @@ In conclusion, using a dropshipping agent can provide many benefits to an e-comm
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY5NzgwNTExLC0xODYxNTkwMzY4LC0xOT
-cyMDI0NjY1LDQ4MTQxNzEzMCwxMjczMjIxMjk0XX0=
+eyJoaXN0b3J5IjpbLTMwNjY0MTczOCwtMTg2MTU5MDM2OCwtMT
+k3MjAyNDY2NSw0ODE0MTcxMzAsMTI3MzIyMTI5NF19
 -->
