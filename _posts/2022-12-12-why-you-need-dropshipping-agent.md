@@ -7,6 +7,7 @@ tags: [featured]
 ---
 
 ## What Is Dropshipping
+Dropshipping is a type of e-commerce business model where a seller does not keep goods in stock, but instead transfers customer orders and shipment details to a third-party supplier, who then ships the goods directly to the customer. This means that the seller does not have to handle the goods themselves, and can focus on marketing and customer service. It can be a convenient and cost-effective way to start an e-commerce business, as the seller does not need to invest in inventory or handle fulfillment.
 ## Dropshipping business model
 ## What Is Dropshipping Agent?
 ## What is a private dropshipping agent
@@ -36,5 +37,5 @@ tags: [featured]
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MzIyMTI5NF19
+eyJoaXN0b3J5IjpbLTIxODM2NzM3LDEyNzMyMjEyOTRdfQ==
 -->
