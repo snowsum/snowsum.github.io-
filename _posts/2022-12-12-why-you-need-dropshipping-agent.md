@@ -15,6 +15,14 @@ A dropshipping agent is a person or company that acts as an intermediary between
 ## What is a private dropshipping agent
 A private dropshipping agent is a person or company that offers dropshipping services to a specific seller or group of sellers, rather than working with the general public. This type of arrangement may be beneficial for sellers who want to have a dedicated agent to manage their dropshipping business, and who are willing to pay a higher fee for personalized service. A private dropshipping agent may also offer additional services such as product sourcing, inventory management, and customer support.
 ## What do drop shipping agents do?
+Dropshipping agents are responsible for managing the relationship between a seller and a third-party supplier in a dropshipping business model. They may handle tasks such as finding suppliers, negotiating prices, and managing the communication and fulfillment process between the seller and the supplier. This can help the seller to focus on marketing and customer service, while the agent takes care of the logistics of the business. Some examples of specific tasks that dropshipping agents may perform include:
+
+-   Identifying and sourcing products that the seller can offer on their website or online marketplace
+-   Negotiating prices and terms with suppliers
+-   Managing inventory levels and ensuring that products are in stock and ready to ship
+-   Processing and fulfilling customer orders, including handling payment and shipping details
+-   Providing customer service and support, including answering questions, handling returns and exchanges, and tracking orders
+-   Monitoring market trends and working with the seller to identify new opportunities and products to sell.
 ## Factors to consider before choosing a dropshipping agent
 ## How Can I Use a Dropshipping Agent?
 ### Automated order processing
@@ -40,5 +48,5 @@ A private dropshipping agent is a person or company that offers dropshipping ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTQyNjYwODAsMTI3MzIyMTI5NF19
+eyJoaXN0b3J5IjpbLTE5Nzc2NzQ5NzIsMTI3MzIyMTI5NF19
 -->
