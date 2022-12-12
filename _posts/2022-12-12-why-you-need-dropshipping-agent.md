@@ -13,9 +13,15 @@ tags: [featured]
 ## Factors to consider before choosing a dropshipping agent
 ## How Can I Use a Dropshipping Agent?
 ### Automated order processing
-
+### Accurate tracking of sales and revenue
+### Compliance and security
+### Making your customers happy
+## How to choose a perfect Dropshipping agent?
+### Based on your dropshipping product needs
+### Based on your suppliers’ business model
+### Consider the agent’s customer base
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NTA2ODU1NF19
+eyJoaXN0b3J5IjpbMTc4MTY5MTk2OV19
 -->
