@@ -20,8 +20,15 @@ tags: [featured]
 ### Based on your dropshipping product needs
 ### Based on your suppliers’ business model
 ### Consider the agent’s customer base
+### Cost of dropshipping agent
+### Consider the agent’s features
+## What are the features of a good drop shipping agent?
+## Role of an agent in a successful dropshipping business?
+## Is there any disadvantage to using a dropshipping agent?
+## How can dropshipping agents benefit businesses?
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MTY5MTk2OV19
+eyJoaXN0b3J5IjpbLTE0ODczMDg1MTFdfQ==
 -->
