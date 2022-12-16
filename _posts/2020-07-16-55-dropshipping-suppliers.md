@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "55 Dropshipping Suppliers-(2021 updated)"
+title:  "55 Dropshipping Suppliers-(2022 updated)"
 categories: [ start-up, ecommerce, shopify ]
 image: https://i.imgur.com/hHy5ev9.jpg?1
 tags: [featured]
@@ -11,7 +11,7 @@ It’s a great alternative to traditional sales. Instead of buying inventory upf
 
 With dropshipping, the manufacturer ships products directly to the consumer. You can run an ecommerce website from your house without having to deal with any logistics headaches.
 
-After extensive research, I’ve identified 50 dropshipping companies on the market today. I’ll give you an in-depth review of each one below and help you find the best option for your needs based on our methodology.
+After extensive research, I’ve identified 55 dropshipping companies on the market today. I’ll give you an in-depth review of each one below and help you find the best option for your needs based on our methodology.
 
 
 So if you’re interested in  [starting an online store](https://blog.nichepik.com/Dropshipping-Ecommerce-Without-Inventory/). And finding an ecommerce supplier is one of the first steps you need to take. 
@@ -553,5 +553,6 @@ Does your business plan carrying sporting goods? Then  [Maurice](http://www.maur
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk4OTE5NTUsMTU1OTcwOTkwOF19
+eyJoaXN0b3J5IjpbLTE1MjExODkyNjcsNzk4OTE5NTUsMTU1OT
+cwOTkwOF19
 -->
