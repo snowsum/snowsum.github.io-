@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dropshipping dead in 2021: Challenge and Opturnities-(What others won't tell you)"
+title:  "Dropshipping dead in 2022: Challenge and Opturnities-(What others won't tell you)"
 categories: [ shopify ]
 image: https://i.imgur.com/lLt4ZZ2.png
 tags: [featured]
@@ -390,6 +390,6 @@ Bootstrapping it and freaking out when you spend $250 on ads with no returns sho
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDQxNjQwMywzMzExOTk5NzYsNzYyNT
-EwMTUxLC0xMTczMjk4OTkzXX0=
+eyJoaXN0b3J5IjpbODI2ODkxNDM4LC0yMDA0MTY0MDMsMzMxMT
+k5OTc2LDc2MjUxMDE1MSwtMTE3MzI5ODk5M119
 -->
