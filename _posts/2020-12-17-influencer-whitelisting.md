@@ -34,7 +34,15 @@ image: https://i.imgur.com/czVOMpX.png
 ## What is influencer whitelisting?
 ## Don't confuse influencer whitelisting with paid partnerships
 ## What is dark posting?
-
+## Why should brands use influencer whitelisting?
+## What are the pros and cons of whitelisting for a brand?
+### Pros of influencer whitelisting for a brand
+### Cons of influencer whitelisting for a brand
+## What are the pros and cons of whitelisting for an influencer?
+### Pros of whitelisting for an influencer
+### Cons of whitelisting for an influencer
+### How can influencers work effectively with brands for whitelisting?
+## How do you access an influencer's Facebook or Instagram profile for whitelisting?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NjA0MTMzOSwtMTU5NTM5NDU3MV19
+eyJoaXN0b3J5IjpbNzA5MDM0OTA0LC0xNTk1Mzk0NTcxXX0=
 -->
