@@ -20,7 +20,14 @@ image: https://i.imgur.com/czVOMpX.png
 ## **Influencer whitelisting: A marketer’s secret weapon?**
 
 ---
-
+# V2
+-   [1  What is influencer whitelisting?]
+-   [2  Why do whitelisting on Facebook and Instagram?]
+-   [3  How to set up influencer whitelisting on Instagram (and Facebook)]
+    -   [3.1  For brands and influencers: Setting up Facebook Business Manager]
+    -   [3.2  For influencers: Sharing assets with your brand partner](https://www.upfluence.com/influencer-marketing/how-to-guide-influencer-whitelisting-for-instagram-and-facebook#For_influencers_Sharing_assets_with_your_brand_partner)
+-   [4  You’re set up for influencer whitelisting, now what?](https://www.upfluence.com/influencer-marketing/how-to-guide-influencer-whitelisting-for-instagram-and-facebook#Youre_set_up_for_influencer_whitelisting_now_what)
+    -   [4.1  Tips for maximizing the impact of whitelisted content](https://www.upfluence.com/influencer-marketing/how-to-guide-influencer-whitelisting-for-instagram-and-facebook#Tips_for_maximizing_the_impact_of_whitelisted_content)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMjIwMzEzOF19
+eyJoaXN0b3J5IjpbLTYxMjgwOTY2N119
 -->
