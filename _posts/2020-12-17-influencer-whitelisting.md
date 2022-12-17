@@ -43,6 +43,20 @@ image: https://i.imgur.com/czVOMpX.png
 ### Cons of whitelisting for an influencer
 ### How can influencers work effectively with brands for whitelisting?
 ## How do you access an influencer's Facebook or Instagram profile for whitelisting?
+## How can brands get access to an influencer's TikTok profile for whitelisting?
+
+---
+# V3
+-   [What is Influencer Whitelisting?]
+-   [Benefits of Influencer Whitelisting]
+-   [How to Find Influencers for Whitelisting]
+-   [What Does Influencer Whitelisting on Instagram Look Like?]
+-   [How to do Influencer Whitelisting on Instagram and Facebook]
+-   [What Does Influencer Whitelisting on TikTok Look Like?]
+-   [How to do Influencer Whitelisting on TikTok]
+-   [Wrapping Up]
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA5MDM0OTA0LC0xNTk1Mzk0NTcxXX0=
+eyJoaXN0b3J5IjpbLTEzMjA0MTk4ODYsLTE1OTUzOTQ1NzFdfQ
+==
 -->
