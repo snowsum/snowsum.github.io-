@@ -67,8 +67,19 @@ image: https://i.imgur.com/czVOMpX.png
 -   [7. Ad approval process for edits and changes.]
 -   [8. Contract language confusion.]
 
-
+--- 
+# V5
+-   [What does “whitelist” mean?]
+-   [What is influencer whitelisting?]
+-   [What are the types of whitelist influencer content?]
+-   [How is whitelisting different from branded ads?]
+-   [Why should I choose whitelisting over other advertising methods?]
+-   [What factors impact the cost of a whitelisting campaign?]
+-   [What results can brands and influencers expect from a whitelisting campaign?]
+-   [How to whitelist influencers on Facebook and Instagram]
+-   [What type of influencers and creators should you whitelist?]
+-   [What type of content works well as whitelisted ads?]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NTkxNjA2NiwtMzM3OTYwODMwLC0xMD
-Q3NTY1OTEyLC0xMzIwNDE5ODg2LC0xNTk1Mzk0NTcxXX0=
+eyJoaXN0b3J5IjpbOTgyNDg3MzY5LC0zMzc5NjA4MzAsLTEwND
+c1NjU5MTIsLTEzMjA0MTk4ODYsLTE1OTUzOTQ1NzFdfQ==
 -->
