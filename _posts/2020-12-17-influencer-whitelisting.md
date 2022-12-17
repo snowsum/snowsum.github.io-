@@ -58,15 +58,15 @@ image: https://i.imgur.com/czVOMpX.png
 
 ---
 # V4
--   [1. Identifying the right set of influencers for a campaign.](https://influencermarketinghub.com/influencer-whitelisting/#toc-0)
--   [2. It takes time to execute an end to end campaign.](https://influencermarketinghub.com/influencer-whitelisting/#toc-1)
--   [3. Figuring out how much to pay each influencer.](https://influencermarketinghub.com/influencer-whitelisting/#toc-2)
--   [4. How to measure success and calculate ROI.](https://influencermarketinghub.com/influencer-whitelisting/#toc-3)
--   [5. Facebook’s Branded Content Tool lacks power of Facebook dark posts](https://influencermarketinghub.com/influencer-whitelisting/#toc-4)
--   [6. Walking influencers through the process of granting advertising access (whitelisting permissions).](https://influencermarketinghub.com/influencer-whitelisting/#toc-5)
--   [7. Ad approval process for edits and changes.](https://influencermarketinghub.com/influencer-whitelisting/#toc-6)
--   [8. Contract language confusion.](https://influencermarketinghub.com/influencer-whitelisting/#toc-7)
+-   [1. Identifying the right set of influencers for a campaign.]
+-   [2. It takes time to execute an end to end campaign.]
+-   [3. Figuring out how much to pay each influencer.]
+-   [4. How to measure success and calculate ROI.]
+-   [5. Facebook’s Branded Content Tool lacks power of Facebook dark posts]
+-   [6. Walking influencers through the process of granting advertising access (whitelisting permissions).]
+-   [7. Ad approval process for edits and changes.]
+-   [8. Contract language confusion.]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTUzMTIwNTAsLTEwNDc1NjU5MTIsLT
-EzMjA0MTk4ODYsLTE1OTUzOTQ1NzFdfQ==
+eyJoaXN0b3J5IjpbLTMzNzk2MDgzMCwtMTA0NzU2NTkxMiwtMT
+MyMDQxOTg4NiwtMTU5NTM5NDU3MV19
 -->
