@@ -66,7 +66,9 @@ image: https://i.imgur.com/czVOMpX.png
 -   [6. Walking influencers through the process of granting advertising access (whitelisting permissions).]
 -   [7. Ad approval process for edits and changes.]
 -   [8. Contract language confusion.]
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNzk2MDgzMCwtMTA0NzU2NTkxMiwtMT
-MyMDQxOTg4NiwtMTU5NTM5NDU3MV19
+eyJoaXN0b3J5IjpbLTg0NTkxNjA2NiwtMzM3OTYwODMwLC0xMD
+Q3NTY1OTEyLC0xMzIwNDE5ODg2LC0xNTk1Mzk0NTcxXX0=
 -->
