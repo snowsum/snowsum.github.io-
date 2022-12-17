@@ -30,6 +30,11 @@ image: https://i.imgur.com/czVOMpX.png
     -   [4.1  Tips for maximizing the impact of whitelisted content]
 
 ---
+# V3
+## What is influencer whitelisting?
+## Don't confuse influencer whitelisting with paid partnerships
+## What is dark posting?
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTUzOTQ1NzFdfQ==
+eyJoaXN0b3J5IjpbMTQ2NjA0MTMzOSwtMTU5NTM5NDU3MV19
 -->
