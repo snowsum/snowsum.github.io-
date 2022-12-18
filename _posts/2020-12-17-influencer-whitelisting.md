@@ -1,85 +1,52 @@
 ---
 layout: post
-title:  "# Influencer Whitelisting: The Definitive Guide"
+title:  "Influencer Whitelisting: The Definitive Guide"
 categories: [ shopify, dropshipping agent, influencer marketing ]
 image: https://i.imgur.com/czVOMpX.png
 ---
 
-## **What is influencer whitelisting?**
-## **Why create an influencer whitelisting strategy?**
-### **Amplified reach through advertising**
-### **Optimized content through A/B testing**
-### **Performance data insights**
-### **Improved targeting**
-## **5 best practices around influencer whitelisting**
-### 1. Choose niche influencers—both micro and macro
-### **2. Create a targeted content strategy**
-### **3. Define custom and lookalike audience sets**
-### **4. Prepare a plan and test often**
-### 5. Pick your metrics to assess progress
-## **Influencer whitelisting: A marketer’s secret weapon?**
-
----
-# V2
--   [1  What is influencer whitelisting?]
--   [2  Why do whitelisting on Facebook and Instagram?]
--   [3  How to set up influencer whitelisting on Instagram (and Facebook)]
-    -   [3.1  For brands and influencers: Setting up Facebook Business Manager]
-    -   [3.2  For influencers: Sharing assets with your brand partner]
--   [4  You’re set up for influencer whitelisting, now what?]
-    -   [4.1  Tips for maximizing the impact of whitelisted content]
-
----
-# V3
 ## What is influencer whitelisting?
 ## Don't confuse influencer whitelisting with paid partnerships
 ## What is dark posting?
-## Why should brands use influencer whitelisting?
 ## What are the pros and cons of whitelisting for a brand?
 ### Pros of influencer whitelisting for a brand
 ### Cons of influencer whitelisting for a brand
 ## What are the pros and cons of whitelisting for an influencer?
 ### Pros of whitelisting for an influencer
 ### Cons of whitelisting for an influencer
-### How can influencers work effectively with brands for whitelisting?
-## How do you access an influencer's Facebook or Instagram profile for whitelisting?
+## Why create an influencer whitelisting strategy?
+### Amplified reach through advertising
+### Optimized content through A/B testing
+### Performance data insights
+### Improved targeting**
+## best practices around influencer whitelisting
+### Choose niche influencers—both micro and macro
+### Create a targeted content strategy
+### Define custom and lookalike audience sets
+### Prepare a plan and test often
+### Pick your metrics to assess progress
+## How to set up influencer whitelisting on Instagram (and Facebook)
+### For brands and influencers: Setting up Facebook Business Manager
+### For influencers: Sharing assets with your brand partner
+## What Does Influencer Whitelisting on Instagram Look Like?
+## How to do Influencer Whitelisting on Instagram and Facebook
 ## How can brands get access to an influencer's TikTok profile for whitelisting?
+## What Does Influencer Whitelisting on TikTok Look Like?
+## How to do Influencer Whitelisting on TikTok
 
----
-# V3
--   [What is Influencer Whitelisting?]
--   [Benefits of Influencer Whitelisting]
--   [How to Find Influencers for Whitelisting]
--   [What Does Influencer Whitelisting on Instagram Look Like?]
--   [How to do Influencer Whitelisting on Instagram and Facebook]
--   [What Does Influencer Whitelisting on TikTok Look Like?]
--   [How to do Influencer Whitelisting on TikTok]
--   [Wrapping Up]
+## Influencer whitelisting: A marketer’s secret weapon?
 
----
-# V4
--   [1. Identifying the right set of influencers for a campaign.]
--   [2. It takes time to execute an end to end campaign.]
--   [3. Figuring out how much to pay each influencer.]
--   [4. How to measure success and calculate ROI.]
--   [5. Facebook’s Branded Content Tool lacks power of Facebook dark posts]
--   [6. Walking influencers through the process of granting advertising access (whitelisting permissions).]
--   [7. Ad approval process for edits and changes.]
--   [8. Contract language confusion.]
 
---- 
-# V5
--   [What does “whitelist” mean?]
--   [What is influencer whitelisting?]
--   [What are the types of whitelist influencer content?]
--   [How is whitelisting different from branded ads?]
--   [Why should I choose whitelisting over other advertising methods?]
--   [What factors impact the cost of a whitelisting campaign?]
--   [What results can brands and influencers expect from a whitelisting campaign?]
--   [How to whitelist influencers on Facebook and Instagram]
--   [What type of influencers and creators should you whitelist?]
--   [What type of content works well as whitelisted ads?]
+
+
+
+
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgyNDg3MzY5LC0zMzc5NjA4MzAsLTEwND
-c1NjU5MTIsLTEzMjA0MTk4ODYsLTE1OTUzOTQ1NzFdfQ==
+eyJoaXN0b3J5IjpbLTkxNTAzODY2Miw5ODI0ODczNjksLTMzNz
+k2MDgzMCwtMTA0NzU2NTkxMiwtMTMyMDQxOTg4NiwtMTU5NTM5
+NDU3MV19
 -->
