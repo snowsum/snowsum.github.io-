@@ -6,6 +6,11 @@ image: https://i.imgur.com/czVOMpX.png
 ---
 
 ## What is influencer whitelisting?
+Influencer whitelisting is a process in which a company or organization creates a list of approved influencers who are allowed to promote their products or services. This list is typically created to ensure that the company's brand and reputation are protected by only working with influencers who have a positive reputation and align with the company's values and messaging.
+
+Influencer whitelisting is often used in social media marketing, where companies use influencers with large followings to promote their products or services to a wider audience. By creating a whitelist of approved influencers, companies can ensure that the influencers they work with meet certain criteria and are not likely to damage the company's reputation through their actions or content.
+
+In order to be whitelisted, influencers typically have to go through a vetting process, which may include providing information about their followers, engagement rates, and content history. Companies may also require influencers to sign a contract or agreement outlining the terms of their partnership and any requirements for content creation or promotion.
 ## Don't confuse influencer whitelisting with paid partnerships
 ## What is dark posting?
 ## What are the pros and cons of whitelisting for a brand?
@@ -46,7 +51,7 @@ image: https://i.imgur.com/czVOMpX.png
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNTAzODY2Miw5ODI0ODczNjksLTMzNz
-k2MDgzMCwtMTA0NzU2NTkxMiwtMTMyMDQxOTg4NiwtMTU5NTM5
-NDU3MV19
+eyJoaXN0b3J5IjpbLTgzMTE0MDU4MiwtOTE1MDM4NjYyLDk4Mj
+Q4NzM2OSwtMzM3OTYwODMwLC0xMDQ3NTY1OTEyLC0xMzIwNDE5
+ODg2LC0xNTk1Mzk0NTcxXX0=
 -->
