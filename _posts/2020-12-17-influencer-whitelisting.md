@@ -147,6 +147,16 @@ Creating lookalike audiences based on the network of your influencers is another
 
 Your ads can also reach a larger audience of interested prospects beyond those you were initially targeting, potentially resulting in more conversions and bringing new opportunities with a new audience to your attention.
 ### Prepare a plan and test often
+One of the main advantages of influencer whitelisting over traditional marketing is the ability to edit a post and test the impact of your ads through A/B testing. This allows you to make data-informed decisions and achieve better targeting, leading to increased revenue.
+
+To optimize the content of your creator ads, it is important to have a solid testing strategy in place. A three-month framework for testing whitelisted ads, optimized for one parameter per month, might include the following:
+
+-   Ad format: Identify the content format that produces the maximum brand lift.
+-   Creative design: Review and improve the overall appeal of the ad's design to deliver the best viewer experience.
+-   Call to action: Determine which CTA copy works best and the ideal placement for your CTAs.
+-   Video subtitles: Add subtitles as needed and decide on the style of subtitles that aligns with your brand's colors and font to build recall value and further advance brand awareness.
+
+A/B testing provides a mathematical analysis of how your creative assets will perform and offers actionable suggestions for improvements. This can result in more reliable results and a higher conversion rate.
 ### Pick your metrics to assess progress
 ## How to set up influencer whitelisting on Instagram (and Facebook)
 ### For brands and influencers: Setting up Facebook Business Manager
@@ -169,10 +179,10 @@ Your ads can also reach a larger audience of interested prospects beyond those y
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzEyMDU2NzMsNDc1ODg5NDExLDE4OD
-U0OTYyMDcsLTE1NTkzNjY1NzcsLTI1MDgwNTY5NiwyNDY2Njk2
-NTMsLTE2NzA1MzUwNDAsLTExMjY1NDQ4MjcsLTE0NTA5Njg1MT
-gsLTgzMTE0MDU4MiwtOTE1MDM4NjYyLDk4MjQ4NzM2OSwtMzM3
-OTYwODMwLC0xMDQ3NTY1OTEyLC0xMzIwNDE5ODg2LC0xNTk1Mz
-k0NTcxXX0=
+eyJoaXN0b3J5IjpbLTExMTg0NzkxODgsLTE4MzEyMDU2NzMsND
+c1ODg5NDExLDE4ODU0OTYyMDcsLTE1NTkzNjY1NzcsLTI1MDgw
+NTY5NiwyNDY2Njk2NTMsLTE2NzA1MzUwNDAsLTExMjY1NDQ4Mj
+csLTE0NTA5Njg1MTgsLTgzMTE0MDU4MiwtOTE1MDM4NjYyLDk4
+MjQ4NzM2OSwtMzM3OTYwODMwLC0xMDQ3NTY1OTEyLC0xMzIwND
+E5ODg2LC0xNTk1Mzk0NTcxXX0=
 -->
