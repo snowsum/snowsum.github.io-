@@ -103,8 +103,14 @@ This can help them make more informed decisions and achieve their desired outcom
 Influencer whitelisting can potentially provide a higher return on investment because it allows brands to more effectively advertise their products and ensure that the ad and brand messaging are effective in generating results. 
 
 Collaborating with influencers who have similar target demographics can increase the chances of reaching the right audience and generating conversions. 
-Additionally, access to audience and content metrics allows brands to create lookalike audiences that are likely to have a strong affinity for their products, further enhancing their targeting strategy. Overall, whitelisting can help brands effectively reach and engage their desired audience, leading to better outcomes.
+
+Additionally, access to audience and content metrics allows brands to create lookalike audiences that are likely to have a strong affinity for their products, further enhancing their targeting strategy. 
+
+Overall, whitelisting can help brands effectively reach and engage their desired audience, leading to better outcomes.
 ## Best practices around influencer whitelisting
+Influencer whitelisting allows retail brands to take their paid advertising to the next level by giving them direct access to an influencer's account, insights, and controls for creating more on-brand content. 
+
+However, without a carefully planned strategy, whitelisting campaigns may not be successful. Here are five best practices to consider when developing an influencer whitelisting strategy:
 ### Choose niche influencers—both micro and macro
 ### Create a targeted content strategy
 ### Define custom and lookalike audience sets
@@ -131,7 +137,7 @@ Additionally, access to audience and content metrics allows brands to create loo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NjI1NzI2MywxODg1NDk2MjA3LC0xNT
+eyJoaXN0b3J5IjpbMTM4NjU3MTU3MywxODg1NDk2MjA3LC0xNT
 U5MzY2NTc3LC0yNTA4MDU2OTYsMjQ2NjY5NjUzLC0xNjcwNTM1
 MDQwLC0xMTI2NTQ0ODI3LC0xNDUwOTY4NTE4LC04MzExNDA1OD
 IsLTkxNTAzODY2Miw5ODI0ODczNjksLTMzNzk2MDgzMCwtMTA0
