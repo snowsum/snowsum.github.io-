@@ -122,6 +122,7 @@ When selecting influencer partners for whitelisted campaigns, it can be helpful 
 -   Reliability: their communication style, turnaround times, etc.
 
 For example, cosmetics brand Jones Road Beauty collaborated with micro-influencer Carolyn Gray, whose content includes honest reviews of cosmetics and beauty products. This partnership was a good fit for Jones Road because it aligned with their values and helped them reach their target audience.
+![micro-influencer who posts honest reviews](https://cdn.shopify.com/s/files/1/1246/6441/files/image3_5dd116e8-0bbc-4b0c-add2-490ccebd7ed0.png?format=webp&v=1654627066)
 
 Once you have a shortlist of potential partners, it is important to brief them about whitelisting and how it will benefit them. Be sure they understand what the relationship will look like and what both parties will gain from it. Essentially, whitelisting can help both parties get more visibility for their content, resulting in increased sales for the brand and more followers/engagement for the influencer.
 
@@ -151,9 +152,9 @@ Once you have a shortlist of potential partners, it is important to brief them a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NzcxMDg0MCwxODg1NDk2MjA3LC0xNT
-U5MzY2NTc3LC0yNTA4MDU2OTYsMjQ2NjY5NjUzLC0xNjcwNTM1
-MDQwLC0xMTI2NTQ0ODI3LC0xNDUwOTY4NTE4LC04MzExNDA1OD
-IsLTkxNTAzODY2Miw5ODI0ODczNjksLTMzNzk2MDgzMCwtMTA0
-NzU2NTkxMiwtMTMyMDQxOTg4NiwtMTU5NTM5NDU3MV19
+eyJoaXN0b3J5IjpbNDc1ODg5NDExLDE4ODU0OTYyMDcsLTE1NT
+kzNjY1NzcsLTI1MDgwNTY5NiwyNDY2Njk2NTMsLTE2NzA1MzUw
+NDAsLTExMjY1NDQ4MjcsLTE0NTA5Njg1MTgsLTgzMTE0MDU4Mi
+wtOTE1MDM4NjYyLDk4MjQ4NzM2OSwtMzM3OTYwODMwLC0xMDQ3
+NTY1OTEyLC0xMzIwNDE5ODg2LC0xNTk1Mzk0NTcxXX0=
 -->
