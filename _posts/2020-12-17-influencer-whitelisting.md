@@ -84,9 +84,26 @@ By doing so, they can increase the chances of getting more users to watch their 
 
 This approach can be especially effective in reaching potential buyers who are not already following the influencer.
 ### Optimized content through A/B testing
-Whitelisting allows for greater flexibility in optimizing influencer content for better performance. Brands have the option to test multiple versions of the same ad and use the data from their performance to fine-tune the content and maximize Return on Ad Spend (RoAS). This allows for more informed decision-making and a higher chance of achieving desired results.
+Whitelisting allows for greater flexibility in optimizing influencer content for better performance. 
+
+Brands have the option to test multiple versions of the same ad and use the data from their performance to fine-tune the content and maximize Return on Ad Spend (RoAS). 
+
+This allows for more informed decision-making and a higher chance of achieving desired results.
 ### Performance data insights
-### Improved targeting**
+Influencer whitelisting enables brands to closely track the performance of their ads with each influencer. 
+
+Rather than relying on the influencer for analytics every time they work together, brands can collect this data directly and use it to optimize their strategies and achieve better results. 
+
+Key metrics like impressions, engagement, click-through rate, and conversions are important for evaluating ad spend and refining the strategy. 
+
+With whitelisting, brands have the ability to gather detailed data directly from the source, without the need for a middleman. 
+
+This can help them make more informed decisions and achieve their desired outcomes.
+### Improved targeting
+Influencer whitelisting can potentially provide a higher return on investment because it allows brands to more effectively advertise their products and ensure that the ad and brand messaging are effective in generating results. 
+
+Collaborating with influencers who have similar target demographics can increase the chances of reaching the right audience and generating conversions. 
+Additionally, access to audience and content metrics allows brands to create lookalike audiences that are likely to have a strong affinity for their products, further enhancing their targeting strategy. Overall, whitelisting can help brands effectively reach and engage their desired audience, leading to better outcomes.
 ## Best practices around influencer whitelisting
 ### Choose niche influencers—both micro and macro
 ### Create a targeted content strategy
@@ -114,7 +131,7 @@ Whitelisting allows for greater flexibility in optimizing influencer content for
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNjkzOTgwOCwxODg1NDk2MjA3LC0xNT
+eyJoaXN0b3J5IjpbMTY4NjI1NzI2MywxODg1NDk2MjA3LC0xNT
 U5MzY2NTc3LC0yNTA4MDU2OTYsMjQ2NjY5NjUzLC0xNjcwNTM1
 MDQwLC0xMTI2NTQ0ODI3LC0xNDUwOTY4NTE4LC04MzExNDA1OD
 IsLTkxNTAzODY2Miw5ODI0ODczNjksLTMzNzk2MDgzMCwtMTA0
