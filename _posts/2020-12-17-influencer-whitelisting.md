@@ -128,8 +128,24 @@ Once you have a shortlist of potential partners, it is important to brief them a
 
 "Remember that not all influencers are familiar with the concept of whitelisting, so it's vital to share all the information and benefits of whitelisting when creating a relationship with them," advises Savannah Sanchez, founder of The Social Savannah.
 ### Create a targeted content strategy
+Having a well-defined content strategy will be an important foundation for your whitelisting ad campaigns. By providing clear guidance on your brand messaging, preferred content formats, campaign goals, and key performance indicators (KPIs), you can give influencers the information they need to create content that resonates with your target audience.
 
+Here are some tips to help you create an impactful whitelisting content strategy:
+
+-   Define your messaging before deciding on the type of ad, platform, and format to use.
+-   Evaluate your content performance to see what your audience likes. For example, compare the engagement rate of your Instagram stories and carousels to determine the best format to use.
+-   Focus on creating short-form videos, as video ads tend to perform well on social media channels.
+-   Experiment with different ways of collaborating with the influencer to find the best arrangement that benefits both parties.
+
+"Once you find someone who genuinely loves your products and creates good content, you can start talking about paying for content. You can either use existing content or pay them to produce new content that you can run through their handle," says Cody Plofker, Director CMO at Jones Road Beauty.
+
+According to a survey, 38% of shoppers base their buying decisions on influencer reviews, so whether you're paying for new content or repurposing old material, whitelisting can unlock significant sales potential. It provides better targeting through custom and lookalike audiences, access to first-party data for optimizing ads, and consistent messaging across your marketing channels.
 ### Define custom and lookalike audience sets
+Whitelisting influencers can provide a new way to reach new audiences. You can create custom audiences by combining followers from your top-performing creators with your primary target audience. This allows you to reach users who fit into your target demographic but may not have been aware of your brand.
+
+Creating lookalike audiences based on the network of your influencers is another effective way to increase the visibility of your ads. Through whitelisting, you have direct access to the influencer's account, which allows you to analyze which users have engaged with the influencer's content or visited their profile, enabling you to create a more specific and accurate lookalike audience.
+
+Your ads can also reach a larger audience of interested prospects beyond those you were initially targeting, potentially resulting in more conversions and bringing new opportunities with a new audience to your attention.
 ### Prepare a plan and test often
 ### Pick your metrics to assess progress
 ## How to set up influencer whitelisting on Instagram (and Facebook)
@@ -153,10 +169,10 @@ Once you have a shortlist of potential partners, it is important to brief them a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNjMyODIxMyw0NzU4ODk0MTEsMTg4NT
-Q5NjIwNywtMTU1OTM2NjU3NywtMjUwODA1Njk2LDI0NjY2OTY1
-MywtMTY3MDUzNTA0MCwtMTEyNjU0NDgyNywtMTQ1MDk2ODUxOC
-wtODMxMTQwNTgyLC05MTUwMzg2NjIsOTgyNDg3MzY5LC0zMzc5
-NjA4MzAsLTEwNDc1NjU5MTIsLTEzMjA0MTk4ODYsLTE1OTUzOT
-Q1NzFdfQ==
+eyJoaXN0b3J5IjpbLTE4MzEyMDU2NzMsNDc1ODg5NDExLDE4OD
+U0OTYyMDcsLTE1NTkzNjY1NzcsLTI1MDgwNTY5NiwyNDY2Njk2
+NTMsLTE2NzA1MzUwNDAsLTExMjY1NDQ4MjcsLTE0NTA5Njg1MT
+gsLTgzMTE0MDU4MiwtOTE1MDM4NjYyLDk4MjQ4NzM2OSwtMzM3
+OTYwODMwLC0xMDQ3NTY1OTEyLC0xMzIwNDE5ODg2LC0xNTk1Mz
+k0NTcxXX0=
 -->
