@@ -22,6 +22,7 @@ Influencer whitelisting is often used in social media marketing, where companies
 
 In order to be whitelisted, influencers typically have to go through a vetting process, which may include providing information about their followers, engagement rates, and content history. Companies may also require influencers to sign a contract or agreement outlining the terms of their partnership and any requirements for content creation or promotion.
 ## Don't confuse influencer whitelisting with paid partnerships
+
 ## What is dark posting?
 ## What are the pros and cons of whitelisting for a brand?
 ### Pros of influencer whitelisting for a brand
@@ -61,8 +62,8 @@ In order to be whitelisted, influencers typically have to go through a vetting p
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgyNjk3ODA2LC0xNDUwOTY4NTE4LC04Mz
-ExNDA1ODIsLTkxNTAzODY2Miw5ODI0ODczNjksLTMzNzk2MDgz
-MCwtMTA0NzU2NTkxMiwtMTMyMDQxOTg4NiwtMTU5NTM5NDU3MV
-19
+eyJoaXN0b3J5IjpbLTk5NjQ3NzkyMCwtMTQ1MDk2ODUxOCwtOD
+MxMTQwNTgyLC05MTUwMzg2NjIsOTgyNDg3MzY5LC0zMzc5NjA4
+MzAsLTEwNDc1NjU5MTIsLTEzMjA0MTk4ODYsLTE1OTUzOTQ1Nz
+FdfQ==
 -->
