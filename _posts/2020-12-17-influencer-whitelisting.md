@@ -141,9 +141,13 @@ Here are some tips to help you create an impactful whitelisting content strategy
 
 According to a survey, 38% of shoppers base their buying decisions on influencer reviews, so whether you're paying for new content or repurposing old material, whitelisting can unlock significant sales potential. It provides better targeting through custom and lookalike audiences, access to first-party data for optimizing ads, and consistent messaging across your marketing channels.
 ### Define custom and lookalike audience sets
-Whitelisting influencers can provide a new way to reach new audiences. You can create custom audiences by combining followers from your top-performing creators with your primary target audience. This allows you to reach users who fit into your target demographic but may not have been aware of your brand.
+Whitelisting influencers can provide a new way to reach new audiences. You can create custom audiences by combining followers from your top-performing creators with your primary target audience. 
 
-Creating lookalike audiences based on the network of your influencers is another effective way to increase the visibility of your ads. Through whitelisting, you have direct access to the influencer's account, which allows you to analyze which users have engaged with the influencer's content or visited their profile, enabling you to create a more specific and accurate lookalike audience.
+This allows you to reach users who fit into your target demographic but may not have been aware of your brand.
+
+Creating lookalike audiences based on the network of your influencers is another effective way to increase the visibility of your ads. 
+
+Through whitelisting, you have direct access to the influencer's account, which allows you to analyze which users have engaged with the influencer's content or visited their profile, enabling you to create a more specific and accurate lookalike audience.
 
 Your ads can also reach a larger audience of interested prospects beyond those you were initially targeting, potentially resulting in more conversions and bringing new opportunities with a new audience to your attention.
 ### Prepare a plan and test often
@@ -163,7 +167,9 @@ A/B testing provides a mathematical analysis of how your creative assets will pe
 ### Pick your metrics to assess progress
 Approximately 15% of brands spend more than half of their marketing budgets on building creator partnerships, so it is crucial to accurately calculate the return on investment (ROI) of your whitelisting campaigns and optimize your strategy to get the most value for your money.
 
-While there is no one-size-fits-all approach to evaluating your progress, you can define relevant key performance indicators (KPIs) that align with your campaign goals. One advantage of whitelisting is that you can use the influencer's in-app insights to assess metrics like impressions, engagement, and clicks. You can also use tools like Google Analytics to cross-reference and gain access to deeper insights such as conversions, traffic, and traffic-to-conversion ratio.
+While there is no one-size-fits-all approach to evaluating your progress, you can define relevant key performance indicators (KPIs) that align with your campaign goals. 
+
+One advantage of whitelisting is that you can use the influencer's in-app insights to assess metrics like impressions, engagement, and clicks. You can also use tools like Google Analytics to cross-reference and gain access to deeper insights such as conversions, traffic, and traffic-to-conversion ratio.
 
 Here is a list of metrics for your whitelisted ads that can be mapped to popular goals:
 
@@ -174,6 +180,7 @@ Here is a list of metrics for your whitelisted ads that can be mapped to popular
 Tracking your ad performance and regularly reviewing your whitelisting strategy is an effective way to improve the results of your ad campaigns. By combining quantitative and qualitative metrics, you can understand the true value of your influencer ads and adjust your strategy to create more targeted content with influential creators at a cost that provides a good ROI.
 ## How to set up influencer whitelisting on Instagram (and Facebook)
 To run ads on Facebook or Instagram, both the brand and the influencer will need to have a Facebook page and a Facebook Business Manager account. Even if you typically run influencer campaigns on TikTok or YouTube, your influencers will still need to set up a Facebook account if they don't already have one. It is a quick process that can be done by following these simple steps.
+![enter image description here](https://www.upfluence.com/wp-content/uploads/2021/05/Screen-Shot-2021-05-07-at-11.38.24-AM-min.jpg)
 ### For brands and influencers: Setting up Facebook Business Manager
 ### For influencers: Sharing assets with your brand partner
 ## What Does Influencer Whitelisting on Instagram Look Like?
@@ -194,7 +201,7 @@ To run ads on Facebook or Instagram, both the brand and the influencer will need
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNzU5NzQ3NCwtNzAzNzA4NzksLTE4Mz
+eyJoaXN0b3J5IjpbMTI4MjE4MTA5OSwtNzAzNzA4NzksLTE4Mz
 EyMDU2NzMsNDc1ODg5NDExLDE4ODU0OTYyMDcsLTE1NTkzNjY1
 NzcsLTI1MDgwNTY5NiwyNDY2Njk2NTMsLTE2NzA1MzUwNDAsLT
 ExMjY1NDQ4MjcsLTE0NTA5Njg1MTgsLTgzMTE0MDU4MiwtOTE1
