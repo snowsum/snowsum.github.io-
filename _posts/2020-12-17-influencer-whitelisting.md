@@ -179,9 +179,9 @@ Here is a list of metrics for your whitelisted ads that can be mapped to popular
 
 Tracking your ad performance and regularly reviewing your whitelisting strategy is an effective way to improve the results of your ad campaigns. By combining quantitative and qualitative metrics, you can understand the true value of your influencer ads and adjust your strategy to create more targeted content with influential creators at a cost that provides a good ROI.
 ## How to set up influencer whitelisting on Instagram (and Facebook)
+### For brands and influencers: Setting up Facebook Business Manager
 To run ads on Facebook or Instagram, both the brand and the influencer will need to have a Facebook page and a Facebook Business Manager account. Even if you typically run influencer campaigns on TikTok or YouTube, your influencers will still need to set up a Facebook account if they don't already have one. It is a quick process that can be done by following these simple steps.
 ![BM manager](https://www.upfluence.com/wp-content/uploads/2021/05/Screen-Shot-2021-05-07-at-11.38.24-AM-min.jpg)
-### For brands and influencers: Setting up Facebook Business Manager
 ### For influencers: Sharing assets with your brand partner
 ## What Does Influencer Whitelisting on Instagram Look Like?
 ## How to do Influencer Whitelisting on Instagram and Facebook
@@ -201,10 +201,10 @@ To run ads on Facebook or Instagram, both the brand and the influencer will need
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NzE3MzM2NCwtNzAzNzA4NzksLTE4Mz
-EyMDU2NzMsNDc1ODg5NDExLDE4ODU0OTYyMDcsLTE1NTkzNjY1
-NzcsLTI1MDgwNTY5NiwyNDY2Njk2NTMsLTE2NzA1MzUwNDAsLT
-ExMjY1NDQ4MjcsLTE0NTA5Njg1MTgsLTgzMTE0MDU4MiwtOTE1
-MDM4NjYyLDk4MjQ4NzM2OSwtMzM3OTYwODMwLC0xMDQ3NTY1OT
-EyLC0xMzIwNDE5ODg2LC0xNTk1Mzk0NTcxXX0=
+eyJoaXN0b3J5IjpbLTEwNTQ5MDcyMjYsLTcwMzcwODc5LC0xOD
+MxMjA1NjczLDQ3NTg4OTQxMSwxODg1NDk2MjA3LC0xNTU5MzY2
+NTc3LC0yNTA4MDU2OTYsMjQ2NjY5NjUzLC0xNjcwNTM1MDQwLC
+0xMTI2NTQ0ODI3LC0xNDUwOTY4NTE4LC04MzExNDA1ODIsLTkx
+NTAzODY2Miw5ODI0ODczNjksLTMzNzk2MDgzMCwtMTA0NzU2NT
+kxMiwtMTMyMDQxOTg4NiwtMTU5NTM5NDU3MV19
 -->
