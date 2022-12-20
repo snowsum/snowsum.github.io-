@@ -159,7 +159,17 @@ To optimize the content of your creator ads, it is important to have a solid tes
 
 A/B testing provides a mathematical analysis of how your creative assets will perform and offers actionable suggestions for improvements. This can result in more reliable results and a higher conversion rate.
 ### Pick your metrics to assess progress
+Approximately 15% of brands spend more than half of their marketing budgets on building creator partnerships, so it is crucial to accurately calculate the return on investment (ROI) of your whitelisting campaigns and optimize your strategy to get the most value for your money.
 
+While there is no one-size-fits-all approach to evaluating your progress, you can define relevant key performance indicators (KPIs) that align with your campaign goals. One advantage of whitelisting is that you can use the influencer's in-app insights to assess metrics like impressions, engagement, and clicks. You can also use tools like Google Analytics to cross-reference and gain access to deeper insights such as conversions, traffic, and traffic-to-conversion ratio.
+
+Here is a list of metrics for your whitelisted ads that can be mapped to popular goals:
+
+-   Building awareness: Evaluate metrics like impressions, search volume and mentions for your brand, and website traffic.
+-   Boosting engagement: Review the number of likes/comments/shares, number of new followers, number of post saves, and profile visits.
+-   Increasing sales: Calculate the number of conversions through attributable link tracking for each ad and sales through personalized promo codes.
+
+Tracking your ad performance and regularly reviewing your whitelisting strategy is an effective way to improve the results of your ad campaigns. By combining quantitative and qualitative metrics, you can understand the true value of your influencer ads and adjust your strategy to create more targeted content with influential creators at a cost that provides a good ROI.
 ## How to set up influencer whitelisting on Instagram (and Facebook)
 ### For brands and influencers: Setting up Facebook Business Manager
 ### For influencers: Sharing assets with your brand partner
@@ -181,10 +191,10 @@ A/B testing provides a mathematical analysis of how your creative assets will pe
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDYzNjgzNjUsLTcwMzcwODc5LC0xOD
-MxMjA1NjczLDQ3NTg4OTQxMSwxODg1NDk2MjA3LC0xNTU5MzY2
-NTc3LC0yNTA4MDU2OTYsMjQ2NjY5NjUzLC0xNjcwNTM1MDQwLC
-0xMTI2NTQ0ODI3LC0xNDUwOTY4NTE4LC04MzExNDA1ODIsLTkx
-NTAzODY2Miw5ODI0ODczNjksLTMzNzk2MDgzMCwtMTA0NzU2NT
-kxMiwtMTMyMDQxOTg4NiwtMTU5NTM5NDU3MV19
+eyJoaXN0b3J5IjpbLTY1NjEzODY4MCwtNzAzNzA4NzksLTE4Mz
+EyMDU2NzMsNDc1ODg5NDExLDE4ODU0OTYyMDcsLTE1NTkzNjY1
+NzcsLTI1MDgwNTY5NiwyNDY2Njk2NTMsLTE2NzA1MzUwNDAsLT
+ExMjY1NDQ4MjcsLTE0NTA5Njg1MTgsLTgzMTE0MDU4MiwtOTE1
+MDM4NjYyLDk4MjQ4NzM2OSwtMzM3OTYwODMwLC0xMDQ3NTY1OT
+EyLC0xMzIwNDE5ODg2LC0xNTk1Mzk0NTcxXX0=
 -->
