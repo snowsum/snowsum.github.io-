@@ -33,6 +33,9 @@ Here is an example of a brand using an influencer for their sponsored content, w
 ![This ISN'T whitelisting!](https://uploads-ssl.webflow.com/60c334e72012f37063378d4b/62c2ea871fcf416b2f8ba54e_8Ex0_ANCXd7XgN1inV537gWt4CzdIaZeZJfiAd0KTjMHRSfiDLf8GweSrHOSyV8q4CnA8EzO1lEY0CpOCbIUhlDq7-8vsUferTouyHiBlj6Lffz6-Tvw0NbHOcpM56d17Z04XPlbGzh8r6Gfmw.jpeg)
 When it comes to whitelisting, the brand posts as the influencer, and the post appears as follows:
 ![This IS whitelisting!](https://uploads-ssl.webflow.com/60c334e72012f37063378d4b/62c2ea873500c64946684e07_0xPxRs2ufXNObUQTBe6qL0BgAe6p_rdgaUWUE1Jd7iIozgY95Qfs70SForC5UHpY7dhxySTu7SojaYHn9DbkKuSPh4x4ANFTyFle5X4w6IioTZEVbgS1W4eoAaiO6OGqS2iWV7fe-FBqCBRfOw.jpeg)
+In this scenario, the brand is sponsoring a post about a tablet on the influencer's Instagram account, but it only appears on the user's timeline and not on the influencer's profile. This is an example of whitelisting.
+![enter image description here](https://uploads-ssl.webflow.com/60c334e72012f37063378d4b/62c2ea874d0a535b51a54a38_WHSqrTKEefdketD41RZ23MOUUDxbrBxvmkbPo_NkuM5ro7XjCn1qC95QCKz9vmmVjP437T0p__eBPRlaTGs1yUfuj_oX9HqUYnKnaok99Mr3KMb4izTPKGSHCSyIUJbd4wuuDlHZAf10UUb2yg.jpeg)
+Which brings us to our next question…
 ## What is dark posting?
 ## What are the pros and cons of whitelisting for a brand?
 ### Pros of influencer whitelisting for a brand
@@ -72,8 +75,9 @@ When it comes to whitelisting, the brand posts as the influencer, and the post a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ2NjY5NjUzLC0xNjcwNTM1MDQwLC0xMT
-I2NTQ0ODI3LC0xNDUwOTY4NTE4LC04MzExNDA1ODIsLTkxNTAz
-ODY2Miw5ODI0ODczNjksLTMzNzk2MDgzMCwtMTA0NzU2NTkxMi
-wtMTMyMDQxOTg4NiwtMTU5NTM5NDU3MV19
+eyJoaXN0b3J5IjpbMTc0NDQyMDE0NCwyNDY2Njk2NTMsLTE2Nz
+A1MzUwNDAsLTExMjY1NDQ4MjcsLTE0NTA5Njg1MTgsLTgzMTE0
+MDU4MiwtOTE1MDM4NjYyLDk4MjQ4NzM2OSwtMzM3OTYwODMwLC
+0xMDQ3NTY1OTEyLC0xMzIwNDE5ODg2LC0xNTk1Mzk0NTcxXX0=
+
 -->
