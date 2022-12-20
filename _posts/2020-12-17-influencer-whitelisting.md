@@ -65,8 +65,14 @@ Here are a few reasons why influencer whitelisting is worth considering:
 ## What are the pros and cons of whitelisting for an influencer?
 As an influencer, there are several benefits to allowing a brand to whitelist your profile, as well as some potential drawbacks:
 ### Pros of whitelisting for an influencer
-
+-   Allowing a brand to whitelist your profile allows you to take advantage of their advertising budget and reach a larger audience
+-   The brand's advertisements will be shown to both your audience and their own, which means your profile will be exposed to more people
+-   You may see an increase in followers and likes on your page or profile
+-   It is an additional source of income for you, as you can charge a flat fee or a percentage per post
+-   You only need to create the content, as the brand handles everything else, including creating, running, and optimizing the ads.
 ### Cons of whitelisting for an influencer
+-   If you allow a brand to control your advertising, you may lose some control over the content shared under your handle
+-   By allowing a brand to whitelist your profile, you are sharing your audience, which you may have spent a long time building and earning trust from, with the brand.
 ## Why create an influencer whitelisting strategy?
 ### Amplified reach through advertising
 ### Optimized content through A/B testing
@@ -99,9 +105,9 @@ As an influencer, there are several benefits to allowing a brand to whitelist yo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzk5NjI0MCwtMTU1OTM2NjU3NywtMj
-UwODA1Njk2LDI0NjY2OTY1MywtMTY3MDUzNTA0MCwtMTEyNjU0
-NDgyNywtMTQ1MDk2ODUxOCwtODMxMTQwNTgyLC05MTUwMzg2Nj
-IsOTgyNDg3MzY5LC0zMzc5NjA4MzAsLTEwNDc1NjU5MTIsLTEz
-MjA0MTk4ODYsLTE1OTUzOTQ1NzFdfQ==
+eyJoaXN0b3J5IjpbLTE1NTExODAzNTksLTE1NTkzNjY1NzcsLT
+I1MDgwNTY5NiwyNDY2Njk2NTMsLTE2NzA1MzUwNDAsLTExMjY1
+NDQ4MjcsLTE0NTA5Njg1MTgsLTgzMTE0MDU4MiwtOTE1MDM4Nj
+YyLDk4MjQ4NzM2OSwtMzM3OTYwODMwLC0xMDQ3NTY1OTEyLC0x
+MzIwNDE5ODg2LC0xNTk1Mzk0NTcxXX0=
 -->
