@@ -159,6 +159,7 @@ To optimize the content of your creator ads, it is important to have a solid tes
 
 A/B testing provides a mathematical analysis of how your creative assets will perform and offers actionable suggestions for improvements. This can result in more reliable results and a higher conversion rate.
 ### Pick your metrics to assess progress
+
 ## How to set up influencer whitelisting on Instagram (and Facebook)
 ### For brands and influencers: Setting up Facebook Business Manager
 ### For influencers: Sharing assets with your brand partner
@@ -180,10 +181,10 @@ A/B testing provides a mathematical analysis of how your creative assets will pe
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMzcwODc5LC0xODMxMjA1NjczLDQ3NT
-g4OTQxMSwxODg1NDk2MjA3LC0xNTU5MzY2NTc3LC0yNTA4MDU2
-OTYsMjQ2NjY5NjUzLC0xNjcwNTM1MDQwLC0xMTI2NTQ0ODI3LC
-0xNDUwOTY4NTE4LC04MzExNDA1ODIsLTkxNTAzODY2Miw5ODI0
-ODczNjksLTMzNzk2MDgzMCwtMTA0NzU2NTkxMiwtMTMyMDQxOT
-g4NiwtMTU5NTM5NDU3MV19
+eyJoaXN0b3J5IjpbLTExMDYzNjgzNjUsLTcwMzcwODc5LC0xOD
+MxMjA1NjczLDQ3NTg4OTQxMSwxODg1NDk2MjA3LC0xNTU5MzY2
+NTc3LC0yNTA4MDU2OTYsMjQ2NjY5NjUzLC0xNjcwNTM1MDQwLC
+0xMTI2NTQ0ODI3LC0xNDUwOTY4NTE4LC04MzExNDA1ODIsLTkx
+NTAzODY2Miw5ODI0ODczNjksLTMzNzk2MDgzMCwtMTA0NzU2NT
+kxMiwtMTMyMDQxOTg4NiwtMTU5NTM5NDU3MV19
 -->
