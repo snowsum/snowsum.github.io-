@@ -63,7 +63,9 @@ Here are a few reasons why influencer whitelisting is worth considering:
 -   The approval process and access requirements involved in influencer whitelisting may be more complex than running sponsored ads from your own brand account
 -   Influencers may charge higher fees for whitelisted content compared to generic sponsored posts.
 ## What are the pros and cons of whitelisting for an influencer?
+As an influencer, there are several benefits to allowing a brand to whitelist your profile, as well as some potential drawbacks:
 ### Pros of whitelisting for an influencer
+
 ### Cons of whitelisting for an influencer
 ## Why create an influencer whitelisting strategy?
 ### Amplified reach through advertising
@@ -97,7 +99,7 @@ Here are a few reasons why influencer whitelisting is worth considering:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0OTc5NTcxNiwtMTU1OTM2NjU3NywtMj
+eyJoaXN0b3J5IjpbLTEwMzk5NjI0MCwtMTU1OTM2NjU3NywtMj
 UwODA1Njk2LDI0NjY2OTY1MywtMTY3MDUzNTA0MCwtMTEyNjU0
 NDgyNywtMTQ1MDk2ODUxOCwtODMxMTQwNTgyLC05MTUwMzg2Nj
 IsOTgyNDg3MzY5LC0zMzc5NjA4MzAsLTEwNDc1NjU5MTIsLTEz
