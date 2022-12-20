@@ -128,6 +128,7 @@ Once you have a shortlist of potential partners, it is important to brief them a
 
 "Remember that not all influencers are familiar with the concept of whitelisting, so it's vital to share all the information and benefits of whitelisting when creating a relationship with them," advises Savannah Sanchez, founder of The Social Savannah.
 ### Create a targeted content strategy
+
 ### Define custom and lookalike audience sets
 ### Prepare a plan and test often
 ### Pick your metrics to assess progress
@@ -152,9 +153,10 @@ Once you have a shortlist of potential partners, it is important to brief them a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc1ODg5NDExLDE4ODU0OTYyMDcsLTE1NT
-kzNjY1NzcsLTI1MDgwNTY5NiwyNDY2Njk2NTMsLTE2NzA1MzUw
-NDAsLTExMjY1NDQ4MjcsLTE0NTA5Njg1MTgsLTgzMTE0MDU4Mi
-wtOTE1MDM4NjYyLDk4MjQ4NzM2OSwtMzM3OTYwODMwLC0xMDQ3
-NTY1OTEyLC0xMzIwNDE5ODg2LC0xNTk1Mzk0NTcxXX0=
+eyJoaXN0b3J5IjpbMTAzNjMyODIxMyw0NzU4ODk0MTEsMTg4NT
+Q5NjIwNywtMTU1OTM2NjU3NywtMjUwODA1Njk2LDI0NjY2OTY1
+MywtMTY3MDUzNTA0MCwtMTEyNjU0NDgyNywtMTQ1MDk2ODUxOC
+wtODMxMTQwNTgyLC05MTUwMzg2NjIsOTgyNDg3MzY5LC0zMzc5
+NjA4MzAsLTEwNDc1NjU5MTIsLTEzMjA0MTk4ODYsLTE1OTUzOT
+Q1NzFdfQ==
 -->
