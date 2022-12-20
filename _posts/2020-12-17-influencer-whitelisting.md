@@ -183,6 +183,22 @@ Tracking your ad performance and regularly reviewing your whitelisting strategy 
 To run ads on Facebook or Instagram, both the brand and the influencer will need to have a Facebook page and a Facebook Business Manager account. Even if you typically run influencer campaigns on TikTok or YouTube, your influencers will still need to set up a Facebook account if they don't already have one. It is a quick process that can be done by following these simple steps.
 ![BM manager](https://www.upfluence.com/wp-content/uploads/2021/05/Screen-Shot-2021-05-07-at-11.38.24-AM-min.jpg)
 ### For influencers: Sharing assets with your brand partner
+To give brands access to content within Facebook Business Manager, influencers can follow these steps:
+
+1.  Open Facebook Business Manager > Business Settings > Users > tap Partners.
+![enter image description here](https://www.upfluence.com/wp-content/uploads/2021/05/Screen-Shot-2021-05-07-at-11.37.50-AM-min-e1621410022718-499x1024.jpg)
+2.  Tap the Add dropdown > select Give a partner access to your assets.
+![enter image description here](https://www.upfluence.com/wp-content/uploads/2021/05/Screen-Shot-2021-05-07-at-12.34.21-PM-min.jpg)
+3.  Enter the brand's Facebook Business Manager ID > tap Next.
+![enter image description here](https://www.upfluence.com/wp-content/uploads/2021/05/Screen-Shot-2021-05-07-at-12.39.18-PM-min.jpg)
+4.  Select the assets and permissions that the brand partner should have access to.
+5.  Choose the Facebook Page and Instagram Account assets that the brand will use for whitelisting.
+![enter image description here](https://www.upfluence.com/wp-content/uploads/2021/05/Screen-Shot-2021-05-07-at-1.03.13-PM-min.jpg)
+6.  Set the permissions level to Create Ads.
+![enter image description here](https://www.upfluence.com/wp-content/uploads/2021/05/Screen-Shot-2021-05-07-at-1.00.21-PM-min.jpg)
+7.  Save changes.
+
+Once these steps are completed, the influencer's Instagram account and Facebook page will be ready for whitelisting. As a top tip, brands can request access to pixels to help build custom audiences that match their target customer demographics for even better targeting.
 ## What Does Influencer Whitelisting on Instagram Look Like?
 ## How to do Influencer Whitelisting on Instagram and Facebook
 ## How can brands get access to an influencer's TikTok profile for whitelisting?
@@ -201,10 +217,10 @@ To run ads on Facebook or Instagram, both the brand and the influencer will need
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTQ5MDcyMjYsLTcwMzcwODc5LC0xOD
-MxMjA1NjczLDQ3NTg4OTQxMSwxODg1NDk2MjA3LC0xNTU5MzY2
-NTc3LC0yNTA4MDU2OTYsMjQ2NjY5NjUzLC0xNjcwNTM1MDQwLC
-0xMTI2NTQ0ODI3LC0xNDUwOTY4NTE4LC04MzExNDA1ODIsLTkx
-NTAzODY2Miw5ODI0ODczNjksLTMzNzk2MDgzMCwtMTA0NzU2NT
-kxMiwtMTMyMDQxOTg4NiwtMTU5NTM5NDU3MV19
+eyJoaXN0b3J5IjpbMTU4NTA5MjA2NywtNzAzNzA4NzksLTE4Mz
+EyMDU2NzMsNDc1ODg5NDExLDE4ODU0OTYyMDcsLTE1NTkzNjY1
+NzcsLTI1MDgwNTY5NiwyNDY2Njk2NTMsLTE2NzA1MzUwNDAsLT
+ExMjY1NDQ4MjcsLTE0NTA5Njg1MTgsLTgzMTE0MDU4MiwtOTE1
+MDM4NjYyLDk4MjQ4NzM2OSwtMzM3OTYwODMwLC0xMDQ3NTY1OT
+EyLC0xMzIwNDE5ODg2LC0xNTk1Mzk0NTcxXX0=
 -->
