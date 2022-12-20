@@ -112,6 +112,20 @@ Influencer whitelisting allows retail brands to take their paid advertising to t
 
 However, without a carefully planned strategy, whitelisting campaigns may not be successful. Here are five best practices to consider when developing an influencer whitelisting strategy:
 ### Choose niche influencers—both micro and macro
+The effectiveness of your influencer whitelisting strategy is closely linked to the type of influencers you work with. Instead of just focusing on metrics like number of followers, it is important to choose creators who are aligned with your brand values and personality to ensure consistency in messaging and maximize return on ad spend. It can be helpful to consider influencers with different numbers of followers to understand engagement levels and invest more budget in those that produce the best results. In fact, micro-influencers (influencers with a following of 1,000 to 10,000) often have a higher engagement rate (3.86%) than mega-influencers (influencers with a following of over 100,000) (1.21%).
+
+When selecting influencer partners for whitelisted campaigns, it can be helpful to consider the following criteria:
+
+-   Audience: the demographics they cater to and their relevance to your brand
+-   Authenticity: the type of content they produce for their personal and sponsored posts
+-   Quality: the creative appeal of the content they post to attract your target audience
+-   Reliability: their communication style, turnaround times, etc.
+
+For example, cosmetics brand Jones Road Beauty collaborated with micro-influencer Carolyn Gray, whose content includes honest reviews of cosmetics and beauty products. This partnership was a good fit for Jones Road because it aligned with their values and helped them reach their target audience.
+
+Once you have a shortlist of potential partners, it is important to brief them about whitelisting and how it will benefit them. Be sure they understand what the relationship will look like and what both parties will gain from it. Essentially, whitelisting can help both parties get more visibility for their content, resulting in increased sales for the brand and more followers/engagement for the influencer.
+
+"Remember that not all influencers are familiar with the concept of whitelisting, so it's vital to share all the information and benefits of whitelisting when creating a relationship with them," advises Savannah Sanchez, founder of The Social Savannah.
 ### Create a targeted content strategy
 ### Define custom and lookalike audience sets
 ### Prepare a plan and test often
@@ -137,7 +151,7 @@ However, without a carefully planned strategy, whitelisting campaigns may not be
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NjU3MTU3MywxODg1NDk2MjA3LC0xNT
+eyJoaXN0b3J5IjpbMTQ5NzcxMDg0MCwxODg1NDk2MjA3LC0xNT
 U5MzY2NTc3LC0yNTA4MDU2OTYsMjQ2NjY5NjUzLC0xNjcwNTM1
 MDQwLC0xMTI2NTQ0ODI3LC0xNDUwOTY4NTE4LC04MzExNDA1OD
 IsLTkxNTAzODY2Miw5ODI0ODczNjksLTMzNzk2MDgzMCwtMTA0
