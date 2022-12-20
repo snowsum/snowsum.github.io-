@@ -43,6 +43,11 @@ One advantage of dark posting is that it allows a brand to test different versio
 
 It is also a way for brands to leverage an influencer's credibility without using organic posts with sponsored hashtags, as organic content typically only reaches about 5.5% of someone's followers. By putting money behind dark posts, a brand can ensure that more people will see them.
 ## What are the pros and cons of whitelisting for a brand?
+One of the most effective ways for companies to increase their return on investment in advertising and expand their influencer marketing efforts is through influencer whitelisting. 
+
+By partnering with the right influencers, businesses can effectively amplify their brand messaging and generate significantly more engagement and conversions than they would with a sponsored brand post. 
+
+Here are a few reasons why influencer whitelisting is worth considering:
 ### Pros of influencer whitelisting for a brand
 ### Cons of influencer whitelisting for a brand
 ## What are the pros and cons of whitelisting for an influencer?
@@ -80,9 +85,9 @@ It is also a way for brands to leverage an influencer's credibility without usin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MDgwNTY5NiwyNDY2Njk2NTMsLTE2Nz
-A1MzUwNDAsLTExMjY1NDQ4MjcsLTE0NTA5Njg1MTgsLTgzMTE0
-MDU4MiwtOTE1MDM4NjYyLDk4MjQ4NzM2OSwtMzM3OTYwODMwLC
-0xMDQ3NTY1OTEyLC0xMzIwNDE5ODg2LC0xNTk1Mzk0NTcxXX0=
-
+eyJoaXN0b3J5IjpbLTE1NTkzNjY1NzcsLTI1MDgwNTY5NiwyND
+Y2Njk2NTMsLTE2NzA1MzUwNDAsLTExMjY1NDQ4MjcsLTE0NTA5
+Njg1MTgsLTgzMTE0MDU4MiwtOTE1MDM4NjYyLDk4MjQ4NzM2OS
+wtMzM3OTYwODMwLC0xMDQ3NTY1OTEyLC0xMzIwNDE5ODg2LC0x
+NTk1Mzk0NTcxXX0=
 -->
