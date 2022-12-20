@@ -78,7 +78,7 @@ As an influencer, there are several benefits to allowing a brand to whitelist yo
 ### Optimized content through A/B testing
 ### Performance data insights
 ### Improved targeting**
-## best practices around influencer whitelisting
+## Best practices around influencer whitelisting
 ### Choose niche influencers—both micro and macro
 ### Create a targeted content strategy
 ### Define custom and lookalike audience sets
@@ -105,9 +105,9 @@ As an influencer, there are several benefits to allowing a brand to whitelist yo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTExODAzNTksLTE1NTkzNjY1NzcsLT
-I1MDgwNTY5NiwyNDY2Njk2NTMsLTE2NzA1MzUwNDAsLTExMjY1
-NDQ4MjcsLTE0NTA5Njg1MTgsLTgzMTE0MDU4MiwtOTE1MDM4Nj
-YyLDk4MjQ4NzM2OSwtMzM3OTYwODMwLC0xMDQ3NTY1OTEyLC0x
-MzIwNDE5ODg2LC0xNTk1Mzk0NTcxXX0=
+eyJoaXN0b3J5IjpbODM5MzE2MDksLTE1NTkzNjY1NzcsLTI1MD
+gwNTY5NiwyNDY2Njk2NTMsLTE2NzA1MzUwNDAsLTExMjY1NDQ4
+MjcsLTE0NTA5Njg1MTgsLTgzMTE0MDU4MiwtOTE1MDM4NjYyLD
+k4MjQ4NzM2OSwtMzM3OTYwODMwLC0xMDQ3NTY1OTEyLC0xMzIw
+NDE5ODg2LC0xNTk1Mzk0NTcxXX0=
 -->
