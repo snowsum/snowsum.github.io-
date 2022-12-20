@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Influencer Whitelisting: The Definitive Guide"
+title:  "The Insider's Guide to Influencer Whitelisting: Tips and Strategies for Success"
 categories: [ shopify, dropshipping agent, influencer marketing ]
 image: https://i.imgur.com/czVOMpX.png
 ---
@@ -61,7 +61,8 @@ In order to be whitelisted, influencers typically have to go through a vetting p
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTA5Njg1MTgsLTgzMTE0MDU4MiwtOT
-E1MDM4NjYyLDk4MjQ4NzM2OSwtMzM3OTYwODMwLC0xMDQ3NTY1
-OTEyLC0xMzIwNDE5ODg2LC0xNTk1Mzk0NTcxXX0=
+eyJoaXN0b3J5IjpbNDgyNjk3ODA2LC0xNDUwOTY4NTE4LC04Mz
+ExNDA1ODIsLTkxNTAzODY2Miw5ODI0ODczNjksLTMzNzk2MDgz
+MCwtMTA0NzU2NTkxMiwtMTMyMDQxOTg4NiwtMTU5NTM5NDU3MV
+19
 -->
