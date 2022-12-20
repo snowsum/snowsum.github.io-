@@ -74,6 +74,7 @@ As an influencer, there are several benefits to allowing a brand to whitelist yo
 -   If you allow a brand to control your advertising, you may lose some control over the content shared under your handle
 -   By allowing a brand to whitelist your profile, you are sharing your audience, which you may have spent a long time building and earning trust from, with the brand.
 ## Why create an influencer whitelisting strategy?
+According to research, almost half of consumers view influencer recommendations as more trustworthy than branded content and consider them to be influential in their purchasing decisions. Influencer whitelisting ads can amplify this potential and help brands achieve significant results on a larger scale. Other key advantages include:
 ### Amplified reach through advertising
 ### Optimized content through A/B testing
 ### Performance data insights
@@ -105,9 +106,9 @@ As an influencer, there are several benefits to allowing a brand to whitelist yo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM5MzE2MDksLTE1NTkzNjY1NzcsLTI1MD
-gwNTY5NiwyNDY2Njk2NTMsLTE2NzA1MzUwNDAsLTExMjY1NDQ4
-MjcsLTE0NTA5Njg1MTgsLTgzMTE0MDU4MiwtOTE1MDM4NjYyLD
-k4MjQ4NzM2OSwtMzM3OTYwODMwLC0xMDQ3NTY1OTEyLC0xMzIw
-NDE5ODg2LC0xNTk1Mzk0NTcxXX0=
+eyJoaXN0b3J5IjpbMTg4NTQ5NjIwNywtMTU1OTM2NjU3NywtMj
+UwODA1Njk2LDI0NjY2OTY1MywtMTY3MDUzNTA0MCwtMTEyNjU0
+NDgyNywtMTQ1MDk2ODUxOCwtODMxMTQwNTgyLC05MTUwMzg2Nj
+IsOTgyNDg3MzY5LC0zMzc5NjA4MzAsLTEwNDc1NjU5MTIsLTEz
+MjA0MTk4ODYsLTE1OTUzOTQ1NzFdfQ==
 -->
