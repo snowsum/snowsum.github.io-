@@ -31,7 +31,8 @@ In most cases, sponsored influencer content will include a declaration of the pa
 Influencer whitelisting is not the same as running a paid partnership or using influencer-generated content for branded ads. 
 Here is an example of a brand using an influencer for their sponsored content, which is not whitelisting:
 ![This ISN'T whitelisting!](https://uploads-ssl.webflow.com/60c334e72012f37063378d4b/62c2ea871fcf416b2f8ba54e_8Ex0_ANCXd7XgN1inV537gWt4CzdIaZeZJfiAd0KTjMHRSfiDLf8GweSrHOSyV8q4CnA8EzO1lEY0CpOCbIUhlDq7-8vsUferTouyHiBlj6Lffz6-Tvw0NbHOcpM56d17Z04XPlbGzh8r6Gfmw.jpeg)
-
+When it comes to whitelisting, the brand posts as the influencer, and the post appears as follows:
+![This IS whitelisting!](https://uploads-ssl.webflow.com/60c334e72012f37063378d4b/62c2ea873500c64946684e07_0xPxRs2ufXNObUQTBe6qL0BgAe6p_rdgaUWUE1Jd7iIozgY95Qfs70SForC5UHpY7dhxySTu7SojaYHn9DbkKuSPh4x4ANFTyFle5X4w6IioTZEVbgS1W4eoAaiO6OGqS2iWV7fe-FBqCBRfOw.jpeg)
 ## What is dark posting?
 ## What are the pros and cons of whitelisting for a brand?
 ### Pros of influencer whitelisting for a brand
@@ -71,8 +72,8 @@ Here is an example of a brand using an influencer for their sponsored content, w
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzA1MzUwNDAsLTExMjY1NDQ4MjcsLT
-E0NTA5Njg1MTgsLTgzMTE0MDU4MiwtOTE1MDM4NjYyLDk4MjQ4
-NzM2OSwtMzM3OTYwODMwLC0xMDQ3NTY1OTEyLC0xMzIwNDE5OD
-g2LC0xNTk1Mzk0NTcxXX0=
+eyJoaXN0b3J5IjpbMjQ2NjY5NjUzLC0xNjcwNTM1MDQwLC0xMT
+I2NTQ0ODI3LC0xNDUwOTY4NTE4LC04MzExNDA1ODIsLTkxNTAz
+ODY2Miw5ODI0ODczNjksLTMzNzk2MDgzMCwtMTA0NzU2NTkxMi
+wtMTMyMDQxOTg4NiwtMTU5NTM5NDU3MV19
 -->
