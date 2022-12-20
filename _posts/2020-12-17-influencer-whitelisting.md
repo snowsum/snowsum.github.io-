@@ -39,7 +39,9 @@ Which brings us to our next question…
 ## What is dark posting?
 Dark posting involves a brand running ads using an influencer's handle, but these posts do not appear on the influencer's feed. Instead, they are only visible to a specific target audience. This means that not all of the influencer's followers will see a dark post, only those who are part of the targeted group. 
 
-One advantage of dark posting is that it allows a brand to test different versions of a post and target them to different audiences without cluttering the influencer's feed. It is also a way for brands to leverage an influencer's credibility without using organic posts with sponsored hashtags, as organic content typically only reaches about 5.5% of someone's followers. By putting money behind dark posts, a brand can ensure that more people will see them.
+One advantage of dark posting is that it allows a brand to test different versions of a post and target them to different audiences without cluttering the influencer's feed. 
+
+It is also a way for brands to leverage an influencer's credibility without using organic posts with sponsored hashtags, as organic content typically only reaches about 5.5% of someone's followers. By putting money behind dark posts, a brand can ensure that more people will see them.
 ## What are the pros and cons of whitelisting for a brand?
 ### Pros of influencer whitelisting for a brand
 ### Cons of influencer whitelisting for a brand
@@ -78,8 +80,9 @@ One advantage of dark posting is that it allows a brand to test different versio
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ4MjI4MTIsMjQ2NjY5NjUzLC0xNjcwNT
-M1MDQwLC0xMTI2NTQ0ODI3LC0xNDUwOTY4NTE4LC04MzExNDA1
-ODIsLTkxNTAzODY2Miw5ODI0ODczNjksLTMzNzk2MDgzMCwtMT
-A0NzU2NTkxMiwtMTMyMDQxOTg4NiwtMTU5NTM5NDU3MV19
+eyJoaXN0b3J5IjpbLTI1MDgwNTY5NiwyNDY2Njk2NTMsLTE2Nz
+A1MzUwNDAsLTExMjY1NDQ4MjcsLTE0NTA5Njg1MTgsLTgzMTE0
+MDU4MiwtOTE1MDM4NjYyLDk4MjQ4NzM2OSwtMzM3OTYwODMwLC
+0xMDQ3NTY1OTEyLC0xMzIwNDE5ODg2LC0xNTk1Mzk0NTcxXX0=
+
 -->
