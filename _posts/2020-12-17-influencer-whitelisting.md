@@ -180,7 +180,7 @@ Here is a list of metrics for your whitelisted ads that can be mapped to popular
 Tracking your ad performance and regularly reviewing your whitelisting strategy is an effective way to improve the results of your ad campaigns. By combining quantitative and qualitative metrics, you can understand the true value of your influencer ads and adjust your strategy to create more targeted content with influential creators at a cost that provides a good ROI.
 ## How to set up influencer whitelisting on Instagram (and Facebook)
 To run ads on Facebook or Instagram, both the brand and the influencer will need to have a Facebook page and a Facebook Business Manager account. Even if you typically run influencer campaigns on TikTok or YouTube, your influencers will still need to set up a Facebook account if they don't already have one. It is a quick process that can be done by following these simple steps.
-![enter image description here](https://www.upfluence.com/wp-content/uploads/2021/05/Screen-Shot-2021-05-07-at-11.38.24-AM-min.jpg)
+![BM manager](https://www.upfluence.com/wp-content/uploads/2021/05/Screen-Shot-2021-05-07-at-11.38.24-AM-min.jpg)
 ### For brands and influencers: Setting up Facebook Business Manager
 ### For influencers: Sharing assets with your brand partner
 ## What Does Influencer Whitelisting on Instagram Look Like?
@@ -201,7 +201,7 @@ To run ads on Facebook or Instagram, both the brand and the influencer will need
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MjE4MTA5OSwtNzAzNzA4NzksLTE4Mz
+eyJoaXN0b3J5IjpbMTk3NzE3MzM2NCwtNzAzNzA4NzksLTE4Mz
 EyMDU2NzMsNDc1ODg5NDExLDE4ODU0OTYyMDcsLTE1NTkzNjY1
 NzcsLTI1MDgwNTY5NiwyNDY2Njk2NTMsLTE2NzA1MzUwNDAsLT
 ExMjY1NDQ4MjcsLTE0NTA5Njg1MTgsLTgzMTE0MDU4MiwtOTE1
