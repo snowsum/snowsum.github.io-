@@ -27,7 +27,8 @@ Influencers typically collaborate with brands through paid partnerships and spon
 It is often required by law for influencers to disclose any paid content by using hashtags such as #sponsored or #gifted or by explicitly stating the partnership at the beginning of the post. You can find more information about branded content policies on Facebook and Instagram. 
 
 In most cases, sponsored influencer content will include a declaration of the partnership at the top of the post.
-https://uploads-ssl.webflow.com/60c334e72012f37063378d4b/62c2ea87d24e7b417fd945e2_IDt8odJFQH6UFJ8o0xSu9O8XMUq4I7SoUOJg7kGEf8QLQ8-tvq3TB4H1Qp2Fm0zflzOw7-Fywlj6FGzogUipGGFujlIiqrDPgtrO3vFVRlv_MTKVmPc8ax5-54milUmpK7mVfN6F147PTuSaIg.jpeg
+![This ISN'T Whitelisting](https://uploads-ssl.webflow.com/60c334e72012f37063378d4b/62c2ea87d24e7b417fd945e2_IDt8odJFQH6UFJ8o0xSu9O8XMUq4I7SoUOJg7kGEf8QLQ8-tvq3TB4H1Qp2Fm0zflzOw7-Fywlj6FGzogUipGGFujlIiqrDPgtrO3vFVRlv_MTKVmPc8ax5-54milUmpK7mVfN6F147PTuSaIg.jpeg)
+
 ## What is dark posting?
 ## What are the pros and cons of whitelisting for a brand?
 ### Pros of influencer whitelisting for a brand
@@ -67,8 +68,8 @@ https://uploads-ssl.webflow.com/60c334e72012f37063378d4b/62c2ea87d24e7b417fd945e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MjQwMTU0OSwtMTQ1MDk2ODUxOCwtOD
-MxMTQwNTgyLC05MTUwMzg2NjIsOTgyNDg3MzY5LC0zMzc5NjA4
-MzAsLTEwNDc1NjU5MTIsLTEzMjA0MTk4ODYsLTE1OTUzOTQ1Nz
-FdfQ==
+eyJoaXN0b3J5IjpbLTExMjY1NDQ4MjcsLTE0NTA5Njg1MTgsLT
+gzMTE0MDU4MiwtOTE1MDM4NjYyLDk4MjQ4NzM2OSwtMzM3OTYw
+ODMwLC0xMDQ3NTY1OTEyLC0xMzIwNDE5ODg2LC0xNTk1Mzk0NT
+cxXX0=
 -->
