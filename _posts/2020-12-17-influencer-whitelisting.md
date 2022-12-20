@@ -84,6 +84,7 @@ By doing so, they can increase the chances of getting more users to watch their 
 
 This approach can be especially effective in reaching potential buyers who are not already following the influencer.
 ### Optimized content through A/B testing
+Whitelisting allows for greater flexibility in optimizing influencer content for better performance. Brands have the option to test multiple versions of the same ad and use the data from their performance to fine-tune the content and maximize Return on Ad Spend (RoAS). This allows for more informed decision-making and a higher chance of achieving desired results.
 ### Performance data insights
 ### Improved targeting**
 ## Best practices around influencer whitelisting
@@ -113,7 +114,7 @@ This approach can be especially effective in reaching potential buyers who are n
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NDYzODgwNiwxODg1NDk2MjA3LC0xNT
+eyJoaXN0b3J5IjpbLTUzNjkzOTgwOCwxODg1NDk2MjA3LC0xNT
 U5MzY2NTc3LC0yNTA4MDU2OTYsMjQ2NjY5NjUzLC0xNjcwNTM1
 MDQwLC0xMTI2NTQ0ODI3LC0xNDUwOTY4NTE4LC04MzExNDA1OD
 IsLTkxNTAzODY2Miw5ODI0ODczNjksLTMzNzk2MDgzMCwtMTA0
