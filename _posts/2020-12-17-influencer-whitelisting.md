@@ -76,6 +76,13 @@ As an influencer, there are several benefits to allowing a brand to whitelist yo
 ## Why create an influencer whitelisting strategy?
 According to research, almost half of consumers view influencer recommendations as more trustworthy than branded content and consider them to be influential in their purchasing decisions. Influencer whitelisting ads can amplify this potential and help brands achieve significant results on a larger scale. Other key advantages include:
 ### Amplified reach through advertising
+Influencer marketing can go beyond just reaching the organic network of an influencer. 
+
+Retail brands have the opportunity to use the influencer's account to access first-party data and target specific audiences that may be interested in their products. 
+
+By doing so, they can increase the chances of getting more users to watch their ads, engage with them, and ultimately make a purchase. 
+
+This approach can be especially effective in reaching potential buyers who are not already following the influencer.
 ### Optimized content through A/B testing
 ### Performance data insights
 ### Improved targeting**
@@ -106,9 +113,9 @@ According to research, almost half of consumers view influencer recommendations 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NTQ5NjIwNywtMTU1OTM2NjU3NywtMj
-UwODA1Njk2LDI0NjY2OTY1MywtMTY3MDUzNTA0MCwtMTEyNjU0
-NDgyNywtMTQ1MDk2ODUxOCwtODMxMTQwNTgyLC05MTUwMzg2Nj
-IsOTgyNDg3MzY5LC0zMzc5NjA4MzAsLTEwNDc1NjU5MTIsLTEz
-MjA0MTk4ODYsLTE1OTUzOTQ1NzFdfQ==
+eyJoaXN0b3J5IjpbMTI0NDYzODgwNiwxODg1NDk2MjA3LC0xNT
+U5MzY2NTc3LC0yNTA4MDU2OTYsMjQ2NjY5NjUzLC0xNjcwNTM1
+MDQwLC0xMTI2NTQ0ODI3LC0xNDUwOTY4NTE4LC04MzExNDA1OD
+IsLTkxNTAzODY2Miw5ODI0ODczNjksLTMzNzk2MDgzMCwtMTA0
+NzU2NTkxMiwtMTMyMDQxOTg4NiwtMTU5NTM5NDU3MV19
 -->
