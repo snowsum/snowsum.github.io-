@@ -148,6 +148,7 @@ Creating lookalike audiences based on the network of your influencers is another
 Your ads can also reach a larger audience of interested prospects beyond those you were initially targeting, potentially resulting in more conversions and bringing new opportunities with a new audience to your attention.
 ### Prepare a plan and test often
 One of the main advantages of influencer whitelisting over traditional marketing is the ability to edit a post and test the impact of your ads through A/B testing. This allows you to make data-informed decisions and achieve better targeting, leading to increased revenue.
+![enter image description here](https://cdn.shopify.com/s/files/1/1246/6441/files/image1_101099ae-8f46-463c-9715-799577eee107.png?format=webp&v=1654627091)
 
 To optimize the content of your creator ads, it is important to have a solid testing strategy in place. A three-month framework for testing whitelisted ads, optimized for one parameter per month, might include the following:
 
@@ -179,10 +180,10 @@ A/B testing provides a mathematical analysis of how your creative assets will pe
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTg0NzkxODgsLTE4MzEyMDU2NzMsND
-c1ODg5NDExLDE4ODU0OTYyMDcsLTE1NTkzNjY1NzcsLTI1MDgw
-NTY5NiwyNDY2Njk2NTMsLTE2NzA1MzUwNDAsLTExMjY1NDQ4Mj
-csLTE0NTA5Njg1MTgsLTgzMTE0MDU4MiwtOTE1MDM4NjYyLDk4
-MjQ4NzM2OSwtMzM3OTYwODMwLC0xMDQ3NTY1OTEyLC0xMzIwND
-E5ODg2LC0xNTk1Mzk0NTcxXX0=
+eyJoaXN0b3J5IjpbLTcwMzcwODc5LC0xODMxMjA1NjczLDQ3NT
+g4OTQxMSwxODg1NDk2MjA3LC0xNTU5MzY2NTc3LC0yNTA4MDU2
+OTYsMjQ2NjY5NjUzLC0xNjcwNTM1MDQwLC0xMTI2NTQ0ODI3LC
+0xNDUwOTY4NTE4LC04MzExNDA1ODIsLTkxNTAzODY2Miw5ODI0
+ODczNjksLTMzNzk2MDgzMCwtMTA0NzU2NTkxMiwtMTMyMDQxOT
+g4NiwtMTU5NTM5NDU3MV19
 -->
