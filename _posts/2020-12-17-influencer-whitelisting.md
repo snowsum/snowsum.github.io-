@@ -49,7 +49,19 @@ By partnering with the right influencers, businesses can effectively amplify the
 
 Here are a few reasons why influencer whitelisting is worth considering:
 ### Pros of influencer whitelisting for a brand
+-   Influencer whitelisting allows you to advertise directly to an influencer's audience
+-   Consumers tend to trust posts made by influencers more than those made by brands
+-   It is easier to track and calculate return on investment using tools such as Facebook Business Manager or Meta Business Suite than it is to do so with paid partnerships or sponsored posts
+-   You can gain full visibility of the customer journey
+-   You can use data from an influencer's audience to create new advertising audiences
+-   Whitelisted content has a longer lifespan than sponsored content in an influencer's organic feed
+-   You can continually test and optimize whitelisted content, such as changing calls to action, copy, images, or targeting a different audience
+-   You can increase engagement on sponsored content and improve the return on investment for your ad spend
 ### Cons of influencer whitelisting for a brand
+-   Collaborating with influencers can be unpredictable, as they may cancel or halt your ads at any time
+-   Negotiating and agreeing on content to post can be time-consuming
+-   The approval process and access requirements involved in influencer whitelisting may be more complex than running sponsored ads from your own brand account
+-   Influencers may charge higher fees for whitelisted content compared to generic sponsored posts.
 ## What are the pros and cons of whitelisting for an influencer?
 ### Pros of whitelisting for an influencer
 ### Cons of whitelisting for an influencer
@@ -85,9 +97,9 @@ Here are a few reasons why influencer whitelisting is worth considering:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTkzNjY1NzcsLTI1MDgwNTY5NiwyND
-Y2Njk2NTMsLTE2NzA1MzUwNDAsLTExMjY1NDQ4MjcsLTE0NTA5
-Njg1MTgsLTgzMTE0MDU4MiwtOTE1MDM4NjYyLDk4MjQ4NzM2OS
-wtMzM3OTYwODMwLC0xMDQ3NTY1OTEyLC0xMzIwNDE5ODg2LC0x
-NTk1Mzk0NTcxXX0=
+eyJoaXN0b3J5IjpbMTA0OTc5NTcxNiwtMTU1OTM2NjU3NywtMj
+UwODA1Njk2LDI0NjY2OTY1MywtMTY3MDUzNTA0MCwtMTEyNjU0
+NDgyNywtMTQ1MDk2ODUxOCwtODMxMTQwNTgyLC05MTUwMzg2Nj
+IsOTgyNDg3MzY5LC0zMzc5NjA4MzAsLTEwNDc1NjU5MTIsLTEz
+MjA0MTk4ODYsLTE1OTUzOTQ1NzFdfQ==
 -->
