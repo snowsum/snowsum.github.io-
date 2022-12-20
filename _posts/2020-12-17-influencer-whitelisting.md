@@ -147,7 +147,9 @@ Creating lookalike audiences based on the network of your influencers is another
 
 Your ads can also reach a larger audience of interested prospects beyond those you were initially targeting, potentially resulting in more conversions and bringing new opportunities with a new audience to your attention.
 ### Prepare a plan and test often
-One of the main advantages of influencer whitelisting over traditional marketing is the ability to edit a post and test the impact of your ads through A/B testing. This allows you to make data-informed decisions and achieve better targeting, leading to increased revenue.
+One of the main advantages of influencer whitelisting over traditional marketing is the ability to edit a post and test the impact of your ads through A/B testing. 
+
+This allows you to make data-informed decisions and achieve better targeting, leading to increased revenue.
 ![enter image description here](https://cdn.shopify.com/s/files/1/1246/6441/files/image1_101099ae-8f46-463c-9715-799577eee107.png?format=webp&v=1654627091)
 
 To optimize the content of your creator ads, it is important to have a solid testing strategy in place. A three-month framework for testing whitelisted ads, optimized for one parameter per month, might include the following:
@@ -171,6 +173,7 @@ Here is a list of metrics for your whitelisted ads that can be mapped to popular
 
 Tracking your ad performance and regularly reviewing your whitelisting strategy is an effective way to improve the results of your ad campaigns. By combining quantitative and qualitative metrics, you can understand the true value of your influencer ads and adjust your strategy to create more targeted content with influential creators at a cost that provides a good ROI.
 ## How to set up influencer whitelisting on Instagram (and Facebook)
+To run ads on Facebook or Instagram, both the brand and the influencer will need to have a Facebook page and a Facebook Business Manager account. Even if you typically run influencer campaigns on TikTok or YouTube, your influencers will still need to set up a Facebook account if they don't already have one. It is a quick process that can be done by following these simple steps.
 ### For brands and influencers: Setting up Facebook Business Manager
 ### For influencers: Sharing assets with your brand partner
 ## What Does Influencer Whitelisting on Instagram Look Like?
@@ -191,7 +194,7 @@ Tracking your ad performance and regularly reviewing your whitelisting strategy 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NjEzODY4MCwtNzAzNzA4NzksLTE4Mz
+eyJoaXN0b3J5IjpbLTUzNzU5NzQ3NCwtNzAzNzA4NzksLTE4Mz
 EyMDU2NzMsNDc1ODg5NDExLDE4ODU0OTYyMDcsLTE1NTkzNjY1
 NzcsLTI1MDgwNTY5NiwyNDY2Njk2NTMsLTE2NzA1MzUwNDAsLT
 ExMjY1NDQ4MjcsLTE0NTA5Njg1MTgsLTgzMTE0MDU4MiwtOTE1
