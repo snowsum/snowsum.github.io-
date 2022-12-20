@@ -28,6 +28,9 @@ It is often required by law for influencers to disclose any paid content by usin
 
 In most cases, sponsored influencer content will include a declaration of the partnership at the top of the post.
 ![This ISN'T Whitelisting](https://uploads-ssl.webflow.com/60c334e72012f37063378d4b/62c2ea87d24e7b417fd945e2_IDt8odJFQH6UFJ8o0xSu9O8XMUq4I7SoUOJg7kGEf8QLQ8-tvq3TB4H1Qp2Fm0zflzOw7-Fywlj6FGzogUipGGFujlIiqrDPgtrO3vFVRlv_MTKVmPc8ax5-54milUmpK7mVfN6F147PTuSaIg.jpeg)
+Influencer whitelisting is not the same as running a paid partnership or using influencer-generated content for branded ads. 
+Here is an example of a brand using an influencer for their sponsored content, which is not whitelisting:
+![This ISN'T whitelisting!](https://uploads-ssl.webflow.com/60c334e72012f37063378d4b/62c2ea871fcf416b2f8ba54e_8Ex0_ANCXd7XgN1inV537gWt4CzdIaZeZJfiAd0KTjMHRSfiDLf8GweSrHOSyV8q4CnA8EzO1lEY0CpOCbIUhlDq7-8vsUferTouyHiBlj6Lffz6-Tvw0NbHOcpM56d17Z04XPlbGzh8r6Gfmw.jpeg)
 
 ## What is dark posting?
 ## What are the pros and cons of whitelisting for a brand?
@@ -68,8 +71,8 @@ In most cases, sponsored influencer content will include a declaration of the pa
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjY1NDQ4MjcsLTE0NTA5Njg1MTgsLT
-gzMTE0MDU4MiwtOTE1MDM4NjYyLDk4MjQ4NzM2OSwtMzM3OTYw
-ODMwLC0xMDQ3NTY1OTEyLC0xMzIwNDE5ODg2LC0xNTk1Mzk0NT
-cxXX0=
+eyJoaXN0b3J5IjpbLTE2NzA1MzUwNDAsLTExMjY1NDQ4MjcsLT
+E0NTA5Njg1MTgsLTgzMTE0MDU4MiwtOTE1MDM4NjYyLDk4MjQ4
+NzM2OSwtMzM3OTYwODMwLC0xMDQ3NTY1OTEyLC0xMzIwNDE5OD
+g2LC0xNTk1Mzk0NTcxXX0=
 -->
