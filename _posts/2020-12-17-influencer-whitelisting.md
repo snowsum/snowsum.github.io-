@@ -277,6 +277,11 @@ If the creator has worked with brands before, they will likely know what to do. 
 3.  After choosing a time frame, tap "Authorize".
 ![enter image description here](https://brands.joinstatus.com/hs-fs/hubfs/June%202022%20Blogs/tiktok%20whitelisting/tiktok%20whitelisting%205.jpg?width=774&name=tiktok%20whitelisting%205.jpg)
 ![enter image description here](https://brands.joinstatus.com/hs-fs/hubfs/June%202022%20Blogs/tiktok%20whitelisting/tiktok%20whitelisting%206.jpg?width=700&name=tiktok%20whitelisting%206.jpg)
+On this screen, creators will also be given a video code that they need to share with the brand. The brand will need to coordinate with the creator to get this code, which can be done through a direct message or email.
+
+The video code should appear as a random combination of numbers, letters, and special characters.
+
+Once the brand has access to the video code, the creator's role in the approval process is complete for the time being.
 
 ## Influencer whitelisting: A marketer’s secret weapon
 
@@ -290,7 +295,7 @@ If the creator has worked with brands before, they will likely know what to do. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMTQ0MjY5NiwtMTEyNDA4ODQ0OCw0OD
+eyJoaXN0b3J5IjpbLTk4NzUwMDI4NSwtMTEyNDA4ODQ0OCw0OD
 c0NDY4MjcsLTQ3OTE1NDcyMywxMzU5ODYwNzkwLC0xMTQ5NTE4
 NTgyLC0xMzY2Mzc1NTI0LDIwMTA2ODk3MTMsLTE0MDI1MjY4NT
 IsLTMxNTQ5NjQ4NiwzMjc4ODUzNDYsLTQ2OTUxNzY0MCwtMTgy
