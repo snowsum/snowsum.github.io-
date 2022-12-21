@@ -295,7 +295,7 @@ In this step, you will enter the video code provided by the creator. Simply past
 If the code is correct and the video meets the requirements, a preview of the video will appear. You will also see some information about the approved video, such as its length and resolution. To continue, click "confirm."
 ![enter image description here](https://brands.joinstatus.com/hs-fs/hubfs/June%202022%20Blogs/tiktok%20whitelisting/tiktok%20whitelisting%209.jpg?width=1200&name=tiktok%20whitelisting%209.jpg)
 Once your authorization is confirmed, you will be directed to create your Spark Ad.
-
+![enter image description here](https://brands.joinstatus.com/hs-fs/hubfs/June%202022%20Blogs/tiktok%20whitelisting/tiktok%20whitelisting%2010.jpg?width=1200&name=tiktok%20whitelisting%2010.jpg)
 
 ## Influencer whitelisting: A marketer’s secret weapon
 
@@ -309,11 +309,11 @@ Once your authorization is confirmed, you will be directed to create your Spark 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM2NjUxODczLC05ODc1MDAyODUsLTExMj
-QwODg0NDgsNDg3NDQ2ODI3LC00NzkxNTQ3MjMsMTM1OTg2MDc5
-MCwtMTE0OTUxODU4MiwtMTM2NjM3NTUyNCwyMDEwNjg5NzEzLC
-0xNDAyNTI2ODUyLC0zMTU0OTY0ODYsMzI3ODg1MzQ2LC00Njk1
-MTc2NDAsLTE4MjY5ODcxNDksMjA1NzgwMjYzNCwtMjEzNDI1Nz
-Q1NSwxNTg1MDkyMDY3LC03MDM3MDg3OSwtMTgzMTIwNTY3Myw0
-NzU4ODk0MTFdfQ==
+eyJoaXN0b3J5IjpbLTE3OTQzNjU4NDIsLTk4NzUwMDI4NSwtMT
+EyNDA4ODQ0OCw0ODc0NDY4MjcsLTQ3OTE1NDcyMywxMzU5ODYw
+NzkwLC0xMTQ5NTE4NTgyLC0xMzY2Mzc1NTI0LDIwMTA2ODk3MT
+MsLTE0MDI1MjY4NTIsLTMxNTQ5NjQ4NiwzMjc4ODUzNDYsLTQ2
+OTUxNzY0MCwtMTgyNjk4NzE0OSwyMDU3ODAyNjM0LC0yMTM0Mj
+U3NDU1LDE1ODUwOTIwNjcsLTcwMzcwODc5LC0xODMxMjA1Njcz
+LDQ3NTg4OTQxMV19
 -->
