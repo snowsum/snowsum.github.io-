@@ -304,6 +304,15 @@ The specifics of these details will depend on your business, so we won't go into
 If you are new to TikTok, you can use the "Simplified Mode" to quickly create your ad. Alternatively, the "Custom Mode" allows for a more detailed and customized ad creation process.
 ![enter image description here](https://brands.joinstatus.com/hs-fs/hubfs/June%202022%20Blogs/tiktok%20whitelisting/tiktok%20whitelisting%2011.jpg?width=1520&name=tiktok%20whitelisting%2011.jpg)
 When you reach the "Identity" and "Ad Details" sections of the ad creation process, you are almost done!
+## Step 5 (Brand): Choose Your Creator's Video and Submit the Ad 
+In this step, you will link your creator's video to your ad.
+
+1.  Under "Identity," check the box next to "Use TikTok account to deliver Spark ads".
+2.  Under "Ad Details," select "Ad format" and then choose your creative (in this case, "Single video").
+3.  Select "Use other authorized account or post".
+4.  You should see your creator's account listed - click on their name.
+5.  Select "TikTok Post".
+![enter image description here](https://brands.joinstatus.com/hs-fs/hubfs/June%202022%20Blogs/tiktok%20whitelisting/tiktok%20whitelisting%2012.gif?width=700&name=tiktok%20whitelisting%2012.gif)
 
 ## Influencer whitelisting: A marketer’s secret weapon
 
@@ -317,7 +326,7 @@ When you reach the "Identity" and "Ad Details" sections of the ad creation proce
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MjI1MTE1MiwtMTc5NDM2NTg0MiwtOT
+eyJoaXN0b3J5IjpbMTYxNDE4ODQ5MSwtMTc5NDM2NTg0MiwtOT
 g3NTAwMjg1LC0xMTI0MDg4NDQ4LDQ4NzQ0NjgyNywtNDc5MTU0
 NzIzLDEzNTk4NjA3OTAsLTExNDk1MTg1ODIsLTEzNjYzNzU1Mj
 QsMjAxMDY4OTcxMywtMTQwMjUyNjg1MiwtMzE1NDk2NDg2LDMy
