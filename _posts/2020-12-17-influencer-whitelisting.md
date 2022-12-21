@@ -302,6 +302,9 @@ Now you will need to specify the details of your ad campaign, including the targ
 The specifics of these details will depend on your business, so we won't go into too much detail here.
 
 If you are new to TikTok, you can use the "Simplified Mode" to quickly create your ad. Alternatively, the "Custom Mode" allows for a more detailed and customized ad creation process.
+![enter image description here](https://brands.joinstatus.com/hs-fs/hubfs/June%202022%20Blogs/tiktok%20whitelisting/tiktok%20whitelisting%2011.jpg?width=1520&name=tiktok%20whitelisting%2011.jpg)
+When you reach the "Identity" and "Ad Details" sections of the ad creation process, you are almost done!
+
 ## Influencer whitelisting: A marketer’s secret weapon
 
 
@@ -314,11 +317,11 @@ If you are new to TikTok, you can use the "Simplified Mode" to quickly create yo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzExNDAxMDQsLTE3OTQzNjU4NDIsLT
-k4NzUwMDI4NSwtMTEyNDA4ODQ0OCw0ODc0NDY4MjcsLTQ3OTE1
-NDcyMywxMzU5ODYwNzkwLC0xMTQ5NTE4NTgyLC0xMzY2Mzc1NT
-I0LDIwMTA2ODk3MTMsLTE0MDI1MjY4NTIsLTMxNTQ5NjQ4Niwz
-Mjc4ODUzNDYsLTQ2OTUxNzY0MCwtMTgyNjk4NzE0OSwyMDU3OD
-AyNjM0LC0yMTM0MjU3NDU1LDE1ODUwOTIwNjcsLTcwMzcwODc5
-LC0xODMxMjA1NjczXX0=
+eyJoaXN0b3J5IjpbLTk0MjI1MTE1MiwtMTc5NDM2NTg0MiwtOT
+g3NTAwMjg1LC0xMTI0MDg4NDQ4LDQ4NzQ0NjgyNywtNDc5MTU0
+NzIzLDEzNTk4NjA3OTAsLTExNDk1MTg1ODIsLTEzNjYzNzU1Mj
+QsMjAxMDY4OTcxMywtMTQwMjUyNjg1MiwtMzE1NDk2NDg2LDMy
+Nzg4NTM0NiwtNDY5NTE3NjQwLC0xODI2OTg3MTQ5LDIwNTc4MD
+I2MzQsLTIxMzQyNTc0NTUsMTU4NTA5MjA2NywtNzAzNzA4Nzks
+LTE4MzEyMDU2NzNdfQ==
 -->
