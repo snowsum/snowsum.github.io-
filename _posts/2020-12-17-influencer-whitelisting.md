@@ -251,6 +251,8 @@ It is possible to find influencers through the TikTok Creator Marketplace, but t
 - You will also need to be prepared to share the code for the video you wish to whitelist and to follow up with the brand about the performance and interactions of the whitelisted video. 
 - It is important for creators to be proactive and open to communication with the brand to ensure a successful campaign.
 ## How to do Influencer Whitelisting on TikTok
+If you have a good working relationship with a creator and want to start a campaign using TikTok's Spark Ads feature, here is a summary of the steps involved:
+
 
 ## Influencer whitelisting: A marketer’s secret weapon
 
@@ -264,11 +266,11 @@ It is possible to find influencers through the TikTok Creator Marketplace, but t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg3NDQ2ODI3LC00NzkxNTQ3MjMsMTM1OT
-g2MDc5MCwtMTE0OTUxODU4MiwtMTM2NjM3NTUyNCwyMDEwNjg5
-NzEzLC0xNDAyNTI2ODUyLC0zMTU0OTY0ODYsMzI3ODg1MzQ2LC
-00Njk1MTc2NDAsLTE4MjY5ODcxNDksMjA1NzgwMjYzNCwtMjEz
-NDI1NzQ1NSwxNTg1MDkyMDY3LC03MDM3MDg3OSwtMTgzMTIwNT
-Y3Myw0NzU4ODk0MTEsMTg4NTQ5NjIwNywtMTU1OTM2NjU3Nywt
-MjUwODA1Njk2XX0=
+eyJoaXN0b3J5IjpbODAwODc3Nzg4LDQ4NzQ0NjgyNywtNDc5MT
+U0NzIzLDEzNTk4NjA3OTAsLTExNDk1MTg1ODIsLTEzNjYzNzU1
+MjQsMjAxMDY4OTcxMywtMTQwMjUyNjg1MiwtMzE1NDk2NDg2LD
+MyNzg4NTM0NiwtNDY5NTE3NjQwLC0xODI2OTg3MTQ5LDIwNTc4
+MDI2MzQsLTIxMzQyNTc0NTUsMTU4NTA5MjA2NywtNzAzNzA4Nz
+ksLTE4MzEyMDU2NzMsNDc1ODg5NDExLDE4ODU0OTYyMDcsLTE1
+NTkzNjY1NzddfQ==
 -->
