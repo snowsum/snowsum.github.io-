@@ -296,7 +296,12 @@ If the code is correct and the video meets the requirements, a preview of the vi
 ![enter image description here](https://brands.joinstatus.com/hs-fs/hubfs/June%202022%20Blogs/tiktok%20whitelisting/tiktok%20whitelisting%209.jpg?width=1200&name=tiktok%20whitelisting%209.jpg)
 Once your authorization is confirmed, you will be directed to create your Spark Ad.
 ![enter image description here](https://brands.joinstatus.com/hs-fs/hubfs/June%202022%20Blogs/tiktok%20whitelisting/tiktok%20whitelisting%2010.jpg?width=1200&name=tiktok%20whitelisting%2010.jpg)
+## Step 4 (Brand): Specify the Target Audience, Budget, and Goals of  Your Ad 
+Now you will need to specify the details of your ad campaign, including the target audience, budget, and objectives.
 
+The specifics of these details will depend on your business, so we won't go into too much detail here.
+
+If you are new to TikTok, you can use the "Simplified Mode" to quickly create your ad. Alternatively, the "Custom Mode" allows for a more detailed and customized ad creation process.
 ## Influencer whitelisting: A marketer’s secret weapon
 
 
@@ -309,11 +314,11 @@ Once your authorization is confirmed, you will be directed to create your Spark 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTQzNjU4NDIsLTk4NzUwMDI4NSwtMT
-EyNDA4ODQ0OCw0ODc0NDY4MjcsLTQ3OTE1NDcyMywxMzU5ODYw
-NzkwLC0xMTQ5NTE4NTgyLC0xMzY2Mzc1NTI0LDIwMTA2ODk3MT
-MsLTE0MDI1MjY4NTIsLTMxNTQ5NjQ4NiwzMjc4ODUzNDYsLTQ2
-OTUxNzY0MCwtMTgyNjk4NzE0OSwyMDU3ODAyNjM0LC0yMTM0Mj
-U3NDU1LDE1ODUwOTIwNjcsLTcwMzcwODc5LC0xODMxMjA1Njcz
-LDQ3NTg4OTQxMV19
+eyJoaXN0b3J5IjpbLTE0MzExNDAxMDQsLTE3OTQzNjU4NDIsLT
+k4NzUwMDI4NSwtMTEyNDA4ODQ0OCw0ODc0NDY4MjcsLTQ3OTE1
+NDcyMywxMzU5ODYwNzkwLC0xMTQ5NTE4NTgyLC0xMzY2Mzc1NT
+I0LDIwMTA2ODk3MTMsLTE0MDI1MjY4NTIsLTMxNTQ5NjQ4Niwz
+Mjc4ODUzNDYsLTQ2OTUxNzY0MCwtMTgyNjk4NzE0OSwyMDU3OD
+AyNjM0LC0yMTM0MjU3NDU1LDE1ODUwOTIwNjcsLTcwMzcwODc5
+LC0xODMxMjA1NjczXX0=
 -->
