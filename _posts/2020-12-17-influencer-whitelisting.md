@@ -200,7 +200,6 @@ To give brands access to content within Facebook Business Manager, influencers c
 
 Sign up to download the step be step setup guide for influencers(PDF version ready to share)
 
-```php
 <form action="/signup.php" method="post">
   <label for="email">Email:</label><br>
   <input type="email" id="email" name="email"><br>
@@ -227,11 +226,11 @@ Once these steps are completed, the influencer's Instagram account and Facebook 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2OTUxNzY0MCwtMTgyNjk4NzE0OSwyMD
-U3ODAyNjM0LC0yMTM0MjU3NDU1LDE1ODUwOTIwNjcsLTcwMzcw
-ODc5LC0xODMxMjA1NjczLDQ3NTg4OTQxMSwxODg1NDk2MjA3LC
-0xNTU5MzY2NTc3LC0yNTA4MDU2OTYsMjQ2NjY5NjUzLC0xNjcw
-NTM1MDQwLC0xMTI2NTQ0ODI3LC0xNDUwOTY4NTE4LC04MzExND
-A1ODIsLTkxNTAzODY2Miw5ODI0ODczNjksLTMzNzk2MDgzMCwt
-MTA0NzU2NTkxMl19
+eyJoaXN0b3J5IjpbMzI3ODg1MzQ2LC00Njk1MTc2NDAsLTE4Mj
+Y5ODcxNDksMjA1NzgwMjYzNCwtMjEzNDI1NzQ1NSwxNTg1MDky
+MDY3LC03MDM3MDg3OSwtMTgzMTIwNTY3Myw0NzU4ODk0MTEsMT
+g4NTQ5NjIwNywtMTU1OTM2NjU3NywtMjUwODA1Njk2LDI0NjY2
+OTY1MywtMTY3MDUzNTA0MCwtMTEyNjU0NDgyNywtMTQ1MDk2OD
+UxOCwtODMxMTQwNTgyLC05MTUwMzg2NjIsOTgyNDg3MzY5LC0z
+Mzc5NjA4MzBdfQ==
 -->
