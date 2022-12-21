@@ -198,7 +198,7 @@ To give brands access to content within Facebook Business Manager, influencers c
 ![enter image description here](https://www.upfluence.com/wp-content/uploads/2021/05/Screen-Shot-2021-05-07-at-1.00.21-PM-min.jpg)
 7.  Save changes.
 
-Sign up to download the step be step setup guide for influencers(Pready to share)
+Sign up to download the step be step setup guide for influencers(PDF version ready to share)
 
 ```php
 <form action="/signup.php" method="post">
@@ -227,7 +227,7 @@ Once these steps are completed, the influencer's Instagram account and Facebook 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MTUwMzA1NiwtMTgyNjk4NzE0OSwyMD
+eyJoaXN0b3J5IjpbLTQ2OTUxNzY0MCwtMTgyNjk4NzE0OSwyMD
 U3ODAyNjM0LC0yMTM0MjU3NDU1LDE1ODUwOTIwNjcsLTcwMzcw
 ODc5LC0xODMxMjA1NjczLDQ3NTg4OTQxMSwxODg1NDk2MjA3LC
 0xNTU5MzY2NTc3LC0yNTA4MDU2OTYsMjQ2NjY5NjUzLC0xNjcw
