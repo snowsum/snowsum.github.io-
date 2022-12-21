@@ -292,6 +292,9 @@ At this point, the brand takes over the process. Here's what needs to be done no
 ![enter image description here](https://brands.joinstatus.com/hs-fs/hubfs/June%202022%20Blogs/tiktok%20whitelisting/tiktok%20whitelisting%207.jpg?width=1520&name=tiktok%20whitelisting%207.jpg)
 In this step, you will enter the video code provided by the creator. Simply paste the code into the search bar and proceed with the process.
 ![enter image description here](https://brands.joinstatus.com/hs-fs/hubfs/June%202022%20Blogs/tiktok%20whitelisting/tiktok%20whitelisting%208.gif?width=1200&name=tiktok%20whitelisting%208.gif)
+If the code is correct and the video meets the requirements, a preview of the video will appear. You will also see some information about the approved video, such as its length and resolution. To continue, click "confirm."
+![enter image description here](https://brands.joinstatus.com/hs-fs/hubfs/June%202022%20Blogs/tiktok%20whitelisting/tiktok%20whitelisting%209.jpg?width=1200&name=tiktok%20whitelisting%209.jpg)
+Once your authorization is confirmed, you will be directed to create your Spark Ad.
 
 
 ## Influencer whitelisting: A marketer’s secret weapon
@@ -306,7 +309,7 @@ In this step, you will enter the video code provided by the creator. Simply past
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA3MjU4ODk1LC05ODc1MDAyODUsLTExMj
+eyJoaXN0b3J5IjpbMjM2NjUxODczLC05ODc1MDAyODUsLTExMj
 QwODg0NDgsNDg3NDQ2ODI3LC00NzkxNTQ3MjMsMTM1OTg2MDc5
 MCwtMTE0OTUxODU4MiwtMTM2NjM3NTUyNCwyMDEwNjg5NzEzLC
 0xNDAyNTI2ODUyLC0zMTU0OTY0ODYsMzI3ODg1MzQ2LC00Njk1
