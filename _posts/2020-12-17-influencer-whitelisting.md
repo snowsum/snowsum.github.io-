@@ -217,7 +217,14 @@ They then launched a Spark Ads campaign using this content and saw impressive re
 
 This demonstrates the potential success that can come from using TikTok whitelisting or Spark Ads as a marketing strategy.
 ## Influencer Whitelisting on TikTok Case Study
+Creator campaigns are a popular form of TikTok advertising because they offer a level of authenticity. 
 
+You may have come across several Spark Ads while using the app. 
+
+As an example, BlendJet, a portable blender company, ran a Spark Ad campaign in 2021 featuring lifestyle influencers, foodies, and fitness creators using the product in a variety of how-to videos and mixing hacks. 
+
+These types of ads can be effective in showcasing the capabilities and uses of a product to a TikTok audience.
+![enter image description here](https://brands.joinstatus.com/hs-fs/hubfs/June%202022%20Blogs/tiktok%20whitelisting/tiktok%20whitelisting%202.gif?width=700&name=tiktok%20whitelisting%202.gif)
 
 ## What Are the Requirements for Whitelisting on TikTok?
 ## How to do Influencer Whitelisting on TikTok
@@ -234,11 +241,11 @@ This demonstrates the potential success that can come from using TikTok whitelis
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Njg1OTcwMjYsMjAxMDY4OTcxMywtMT
-QwMjUyNjg1MiwtMzE1NDk2NDg2LDMyNzg4NTM0NiwtNDY5NTE3
-NjQwLC0xODI2OTg3MTQ5LDIwNTc4MDI2MzQsLTIxMzQyNTc0NT
-UsMTU4NTA5MjA2NywtNzAzNzA4NzksLTE4MzEyMDU2NzMsNDc1
-ODg5NDExLDE4ODU0OTYyMDcsLTE1NTkzNjY1NzcsLTI1MDgwNT
-Y5NiwyNDY2Njk2NTMsLTE2NzA1MzUwNDAsLTExMjY1NDQ4Mjcs
-LTE0NTA5Njg1MThdfQ==
+eyJoaXN0b3J5IjpbMjU4MzA0MTAzLDIwMTA2ODk3MTMsLTE0MD
+I1MjY4NTIsLTMxNTQ5NjQ4NiwzMjc4ODUzNDYsLTQ2OTUxNzY0
+MCwtMTgyNjk4NzE0OSwyMDU3ODAyNjM0LC0yMTM0MjU3NDU1LD
+E1ODUwOTIwNjcsLTcwMzcwODc5LC0xODMxMjA1NjczLDQ3NTg4
+OTQxMSwxODg1NDk2MjA3LC0xNTU5MzY2NTc3LC0yNTA4MDU2OT
+YsMjQ2NjY5NjUzLC0xNjcwNTM1MDQwLC0xMTI2NTQ0ODI3LC0x
+NDUwOTY4NTE4XX0=
 -->
