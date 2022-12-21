@@ -239,7 +239,7 @@ These examples demonstrate the effectiveness of using creators as the focus of a
 
 The process of building such campaigns using the whitelisting feature is streamlined and efficient.
 ## What Are the Requirements for Whitelisting on TikTok?
-
+To use TikTok's Spark Ads feature and run creator campaigns, there are a few requirements that both brands and creators need to fulfill. Brands need to have access to the TikTok Ads Manager and have the ability to run ads on the platform. It is helpful if the brand has already established relationships with the creators they wish to whitelist, and they should be prepared to coordinate with the creators to decide on the details of the campaign, such as which video to promote and the duration of the campaign. Creators should also be prepared to work with the brand to determine these details and ensure that the campaign runs smoothly. It is possible to find influencers through the TikTok Creator Marketplace, but this post focuses on whitelisting creators that a brand already has established relationships with.
 ## How to do Influencer Whitelisting on TikTok
 
 ## Influencer whitelisting: A marketer’s secret weapon
@@ -254,11 +254,11 @@ The process of building such campaigns using the whitelisting feature is streaml
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDk1MTg1ODIsLTEzNjYzNzU1MjQsMj
-AxMDY4OTcxMywtMTQwMjUyNjg1MiwtMzE1NDk2NDg2LDMyNzg4
-NTM0NiwtNDY5NTE3NjQwLC0xODI2OTg3MTQ5LDIwNTc4MDI2Mz
-QsLTIxMzQyNTc0NTUsMTU4NTA5MjA2NywtNzAzNzA4NzksLTE4
-MzEyMDU2NzMsNDc1ODg5NDExLDE4ODU0OTYyMDcsLTE1NTkzNj
-Y1NzcsLTI1MDgwNTY5NiwyNDY2Njk2NTMsLTE2NzA1MzUwNDAs
-LTExMjY1NDQ4MjddfQ==
+eyJoaXN0b3J5IjpbLTE2MjQ0NDE0MTQsLTExNDk1MTg1ODIsLT
+EzNjYzNzU1MjQsMjAxMDY4OTcxMywtMTQwMjUyNjg1MiwtMzE1
+NDk2NDg2LDMyNzg4NTM0NiwtNDY5NTE3NjQwLC0xODI2OTg3MT
+Q5LDIwNTc4MDI2MzQsLTIxMzQyNTc0NTUsMTU4NTA5MjA2Nywt
+NzAzNzA4NzksLTE4MzEyMDU2NzMsNDc1ODg5NDExLDE4ODU0OT
+YyMDcsLTE1NTkzNjY1NzcsLTI1MDgwNTY5NiwyNDY2Njk2NTMs
+LTE2NzA1MzUwNDBdfQ==
 -->
