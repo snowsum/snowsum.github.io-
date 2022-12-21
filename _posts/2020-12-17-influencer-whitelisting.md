@@ -232,8 +232,12 @@ Another example of a successful creator ad campaign is Little Moons' promotion o
 When demand for the product was high and they were difficult to find in stores, Little Moons ran a Spark Ad campaign announcing that the desserts would be available at UK's Tesco chain for one day only. 
 
 This approach capitalized on the buzz surrounding the product and was likely effective in driving sales.
+![enter image description here](https://brands.joinstatus.com/hs-fs/hubfs/June%202022%20Blogs/tiktok%20whitelisting/tiktok%20whitelisting%203.gif?width=670&name=tiktok%20whitelisting%203.gif)
+Little Moons' creator campaign was highly successful, resulting in a 1,300% increase in in-store sales, 6.7 million campaign impressions, and a 4.54% engagement rate. 
 
+These examples demonstrate the effectiveness of using creators as the focus of advertising campaigns on TikTok. 
 
+The process of building such campaigns using the whitelisting feature is streamlined and efficient.
 ## What Are the Requirements for Whitelisting on TikTok?
 ## How to do Influencer Whitelisting on TikTok
 
@@ -249,11 +253,11 @@ This approach capitalized on the buzz surrounding the product and was likely eff
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MjYxODAyLDIwMTA2ODk3MTMsLTE0MD
-I1MjY4NTIsLTMxNTQ5NjQ4NiwzMjc4ODUzNDYsLTQ2OTUxNzY0
-MCwtMTgyNjk4NzE0OSwyMDU3ODAyNjM0LC0yMTM0MjU3NDU1LD
-E1ODUwOTIwNjcsLTcwMzcwODc5LC0xODMxMjA1NjczLDQ3NTg4
-OTQxMSwxODg1NDk2MjA3LC0xNTU5MzY2NTc3LC0yNTA4MDU2OT
-YsMjQ2NjY5NjUzLC0xNjcwNTM1MDQwLC0xMTI2NTQ0ODI3LC0x
-NDUwOTY4NTE4XX0=
+eyJoaXN0b3J5IjpbLTEzNjYzNzU1MjQsMjAxMDY4OTcxMywtMT
+QwMjUyNjg1MiwtMzE1NDk2NDg2LDMyNzg4NTM0NiwtNDY5NTE3
+NjQwLC0xODI2OTg3MTQ5LDIwNTc4MDI2MzQsLTIxMzQyNTc0NT
+UsMTU4NTA5MjA2NywtNzAzNzA4NzksLTE4MzEyMDU2NzMsNDc1
+ODg5NDExLDE4ODU0OTYyMDcsLTE1NTkzNjY1NzcsLTI1MDgwNT
+Y5NiwyNDY2Njk2NTMsLTE2NzA1MzUwNDAsLTExMjY1NDQ4Mjcs
+LTE0NTA5Njg1MThdfQ==
 -->
