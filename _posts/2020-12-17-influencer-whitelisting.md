@@ -239,6 +239,7 @@ These examples demonstrate the effectiveness of using creators as the focus of a
 
 The process of building such campaigns using the whitelisting feature is streamlined and efficient.
 ## What Are the Requirements for Whitelisting on TikTok?
+
 ## How to do Influencer Whitelisting on TikTok
 
 ## Influencer whitelisting: A marketer’s secret weapon
@@ -253,11 +254,11 @@ The process of building such campaigns using the whitelisting feature is streaml
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjYzNzU1MjQsMjAxMDY4OTcxMywtMT
-QwMjUyNjg1MiwtMzE1NDk2NDg2LDMyNzg4NTM0NiwtNDY5NTE3
-NjQwLC0xODI2OTg3MTQ5LDIwNTc4MDI2MzQsLTIxMzQyNTc0NT
-UsMTU4NTA5MjA2NywtNzAzNzA4NzksLTE4MzEyMDU2NzMsNDc1
-ODg5NDExLDE4ODU0OTYyMDcsLTE1NTkzNjY1NzcsLTI1MDgwNT
-Y5NiwyNDY2Njk2NTMsLTE2NzA1MzUwNDAsLTExMjY1NDQ4Mjcs
-LTE0NTA5Njg1MThdfQ==
+eyJoaXN0b3J5IjpbLTExNDk1MTg1ODIsLTEzNjYzNzU1MjQsMj
+AxMDY4OTcxMywtMTQwMjUyNjg1MiwtMzE1NDk2NDg2LDMyNzg4
+NTM0NiwtNDY5NTE3NjQwLC0xODI2OTg3MTQ5LDIwNTc4MDI2Mz
+QsLTIxMzQyNTc0NTUsMTU4NTA5MjA2NywtNzAzNzA4NzksLTE4
+MzEyMDU2NzMsNDc1ODg5NDExLDE4ODU0OTYyMDcsLTE1NTkzNj
+Y1NzcsLTI1MDgwNTY5NiwyNDY2Njk2NTMsLTE2NzA1MzUwNDAs
+LTExMjY1NDQ4MjddfQ==
 -->
