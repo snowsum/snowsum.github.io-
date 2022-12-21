@@ -239,7 +239,11 @@ These examples demonstrate the effectiveness of using creators as the focus of a
 
 The process of building such campaigns using the whitelisting feature is streamlined and efficient.
 ## What Are the Requirements for Whitelisting on TikTok?
-To use TikTok's Spark Ads feature and run creator campaigns, there are a few requirements that both brands and creators need to fulfill. Brands need to have access to the TikTok Ads Manager and have the ability to run ads on the platform. It is helpful if the brand has already established relationships with the creators they wish to whitelist, and they should be prepared to coordinate with the creators to decide on the details of the campaign, such as which video to promote and the duration of the campaign. Creators should also be prepared to work with the brand to determine these details and ensure that the campaign runs smoothly. It is possible to find influencers through the TikTok Creator Marketplace, but this post focuses on whitelisting creators that a brand already has established relationships with.
+To use TikTok's Spark Ads feature and run creator campaigns, there are a few requirements that both brands and creators need to fulfill. 
+
+- Brands need to have access to the TikTok Ads Manager and have the ability to run ads on the platform. 
+- It is helpful if the brand has already established relationships with the creators they wish to whitelist, and they should be prepared to coordinate with the creators to decide on the details of the campaign, such as which video to promote and the duration of the campaign. 
+- Creators should also be prepared to work with the brand to determine these details and ensure that the campaign runs smoothly. It is possible to find influencers through the TikTok Creator Marketplace, but this post focuses on whitelisting creators that a brand already has established relationships with.
 ## How to do Influencer Whitelisting on TikTok
 
 ## Influencer whitelisting: A marketer’s secret weapon
@@ -254,11 +258,11 @@ To use TikTok's Spark Ads feature and run creator campaigns, there are a few req
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjQ0NDE0MTQsLTExNDk1MTg1ODIsLT
-EzNjYzNzU1MjQsMjAxMDY4OTcxMywtMTQwMjUyNjg1MiwtMzE1
-NDk2NDg2LDMyNzg4NTM0NiwtNDY5NTE3NjQwLC0xODI2OTg3MT
-Q5LDIwNTc4MDI2MzQsLTIxMzQyNTc0NTUsMTU4NTA5MjA2Nywt
-NzAzNzA4NzksLTE4MzEyMDU2NzMsNDc1ODg5NDExLDE4ODU0OT
-YyMDcsLTE1NTkzNjY1NzcsLTI1MDgwNTY5NiwyNDY2Njk2NTMs
-LTE2NzA1MzUwNDBdfQ==
+eyJoaXN0b3J5IjpbODU2NDI1Nzg3LC0xMTQ5NTE4NTgyLC0xMz
+Y2Mzc1NTI0LDIwMTA2ODk3MTMsLTE0MDI1MjY4NTIsLTMxNTQ5
+NjQ4NiwzMjc4ODUzNDYsLTQ2OTUxNzY0MCwtMTgyNjk4NzE0OS
+wyMDU3ODAyNjM0LC0yMTM0MjU3NDU1LDE1ODUwOTIwNjcsLTcw
+MzcwODc5LC0xODMxMjA1NjczLDQ3NTg4OTQxMSwxODg1NDk2Mj
+A3LC0xNTU5MzY2NTc3LC0yNTA4MDU2OTYsMjQ2NjY5NjUzLC0x
+NjcwNTM1MDQwXX0=
 -->
