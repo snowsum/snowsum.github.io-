@@ -289,6 +289,9 @@ At this point, the brand takes over the process. Here's what needs to be done no
 1.  Log in to the TikTok Ads Manager.
 2.  Click on "Assets" at the top of the page and then select "Spark Ad posts" on the left side.
 3.  Click the "Apply for Authorization" button in the center of the screen.
+![enter image description here](https://brands.joinstatus.com/hs-fs/hubfs/June%202022%20Blogs/tiktok%20whitelisting/tiktok%20whitelisting%207.jpg?width=1520&name=tiktok%20whitelisting%207.jpg)
+In this step, you will enter the video code provided by the creator. Simply paste the code into the search bar and proceed with the process.
+![enter image description here](https://brands.joinstatus.com/hs-fs/hubfs/June%202022%20Blogs/tiktok%20whitelisting/tiktok%20whitelisting%208.gif?width=1200&name=tiktok%20whitelisting%208.gif)
 
 
 ## Influencer whitelisting: A marketer’s secret weapon
@@ -303,11 +306,11 @@ At this point, the brand takes over the process. Here's what needs to be done no
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MjcyMzE0OCwtOTg3NTAwMjg1LC0xMT
-I0MDg4NDQ4LDQ4NzQ0NjgyNywtNDc5MTU0NzIzLDEzNTk4NjA3
-OTAsLTExNDk1MTg1ODIsLTEzNjYzNzU1MjQsMjAxMDY4OTcxMy
-wtMTQwMjUyNjg1MiwtMzE1NDk2NDg2LDMyNzg4NTM0NiwtNDY5
-NTE3NjQwLC0xODI2OTg3MTQ5LDIwNTc4MDI2MzQsLTIxMzQyNT
-c0NTUsMTU4NTA5MjA2NywtNzAzNzA4NzksLTE4MzEyMDU2NzMs
-NDc1ODg5NDExXX0=
+eyJoaXN0b3J5IjpbOTA3MjU4ODk1LC05ODc1MDAyODUsLTExMj
+QwODg0NDgsNDg3NDQ2ODI3LC00NzkxNTQ3MjMsMTM1OTg2MDc5
+MCwtMTE0OTUxODU4MiwtMTM2NjM3NTUyNCwyMDEwNjg5NzEzLC
+0xNDAyNTI2ODUyLC0zMTU0OTY0ODYsMzI3ODg1MzQ2LC00Njk1
+MTc2NDAsLTE4MjY5ODcxNDksMjA1NzgwMjYzNCwtMjEzNDI1Nz
+Q1NSwxNTg1MDkyMDY3LC03MDM3MDg3OSwtMTgzMTIwNTY3Myw0
+NzU4ODk0MTFdfQ==
 -->
