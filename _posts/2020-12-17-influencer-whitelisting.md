@@ -211,7 +211,13 @@ When you publish these creator licensed ads or Spark Ads, users can interact wit
 
 An example of a brand using Spark Ads might look like a post from a creator or influencer promoting a product or service, with a disclaimer indicating that it is a sponsored ad.
 ![Spark ads](https://assets-global.website-files.com/63343441a1da9b07cf060122/639b9f782d3d573715fe41aa_1.jpeg)
+Isle of Paradise, a company looking to boost product sales, partnered with creators to create organic content. 
+
+They then launched a Spark Ads campaign using this content and saw impressive results, including a 500% return on investment (ROI), a 68% increase in weekly revenue, and 48 million video views. 
+
+This demonstrates the potential success that can come from using TikTok whitelisting or Spark Ads as a marketing strategy.
 ## What Does Influencer Whitelisting on TikTok Look Like?
+
 ## What Are the Requirements for Whitelisting on TikTok?
 ## How to do Influencer Whitelisting on TikTok
 
@@ -227,7 +233,7 @@ An example of a brand using Spark Ads might look like a post from a creator or i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMjA5NTc5OCwyMDEwNjg5NzEzLC0xND
+eyJoaXN0b3J5IjpbMTc4MjY1Mjg1NSwyMDEwNjg5NzEzLC0xND
 AyNTI2ODUyLC0zMTU0OTY0ODYsMzI3ODg1MzQ2LC00Njk1MTc2
 NDAsLTE4MjY5ODcxNDksMjA1NzgwMjYzNCwtMjEzNDI1NzQ1NS
 wxNTg1MDkyMDY3LC03MDM3MDg3OSwtMTgzMTIwNTY3Myw0NzU4
