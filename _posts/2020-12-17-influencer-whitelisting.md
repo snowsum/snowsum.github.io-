@@ -200,12 +200,6 @@ To give brands access to content within Facebook Business Manager, influencers c
 
 Sign up to download the step be step setup guide for influencers(PDF version ready to share)
 
-<form action="/signup.php" method="post">
-  <label for="email">Email:</label><br>
-  <input type="email" id="email" name="email"><br>
-  <input type="submit" value="Sign up">
-</form>
-
 For more detailed setup guide, Please check another post - [Influencer Marketing-Step by step setup guide for influencer](#)
 
 Once these steps are completed, the influencer's Instagram account and Facebook page will be ready for whitelisting. As a top tip, brands can request access to pixels to help build custom audiences that match their target customer demographics for even better targeting.
@@ -226,11 +220,11 @@ Once these steps are completed, the influencer's Instagram account and Facebook 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI3ODg1MzQ2LC00Njk1MTc2NDAsLTE4Mj
-Y5ODcxNDksMjA1NzgwMjYzNCwtMjEzNDI1NzQ1NSwxNTg1MDky
-MDY3LC03MDM3MDg3OSwtMTgzMTIwNTY3Myw0NzU4ODk0MTEsMT
-g4NTQ5NjIwNywtMTU1OTM2NjU3NywtMjUwODA1Njk2LDI0NjY2
-OTY1MywtMTY3MDUzNTA0MCwtMTEyNjU0NDgyNywtMTQ1MDk2OD
-UxOCwtODMxMTQwNTgyLC05MTUwMzg2NjIsOTgyNDg3MzY5LC0z
-Mzc5NjA4MzBdfQ==
+eyJoaXN0b3J5IjpbOTYwMDU3NTE0LDMyNzg4NTM0NiwtNDY5NT
+E3NjQwLC0xODI2OTg3MTQ5LDIwNTc4MDI2MzQsLTIxMzQyNTc0
+NTUsMTU4NTA5MjA2NywtNzAzNzA4NzksLTE4MzEyMDU2NzMsND
+c1ODg5NDExLDE4ODU0OTYyMDcsLTE1NTkzNjY1NzcsLTI1MDgw
+NTY5NiwyNDY2Njk2NTMsLTE2NzA1MzUwNDAsLTExMjY1NDQ4Mj
+csLTE0NTA5Njg1MTgsLTgzMTE0MDU4MiwtOTE1MDM4NjYyLDk4
+MjQ4NzM2OV19
 -->
