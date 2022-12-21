@@ -252,6 +252,7 @@ It is possible to find influencers through the TikTok Creator Marketplace, but t
 - It is important for creators to be proactive and open to communication with the brand to ensure a successful campaign.
 ## How to do Influencer Whitelisting on TikTok
 If you have a good working relationship with a creator and want to start a campaign using TikTok's Spark Ads feature, here is a summary of the steps involved:
+### Step 1.  Choose the video they want to promote
 To get started with a creator campaign on TikTok using the Spark Ads feature, the first step for the brand is to choose the video they want to promote. This can be done by reviewing the creator's content and selecting a video that will work well as an ad. Some factors to consider when making this decision include recent organic content that has received strong engagement, videos that have gone viral, and videos that showcase the brand's latest products or promotions. Brands can also consider the number of views a video has received as an indicator of its potential strength as an ad. Alternatively, they can reach out to the creator to ask which of their branded posts have performed well in the past. It is important to note that, unlike on Instagram, TikTok's whitelisting feature does not grant access to all of a creator's account assets. Instead, the brand must specify a specific video to promote before proceeding.
 
 ## Influencer whitelisting: A marketer’s secret weapon
@@ -266,7 +267,7 @@ To get started with a creator campaign on TikTok using the Spark Ads feature, th
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTc5ODg3MTgsNDg3NDQ2ODI3LC00Nz
+eyJoaXN0b3J5IjpbLTExMjQwODg0NDgsNDg3NDQ2ODI3LC00Nz
 kxNTQ3MjMsMTM1OTg2MDc5MCwtMTE0OTUxODU4MiwtMTM2NjM3
 NTUyNCwyMDEwNjg5NzEzLC0xNDAyNTI2ODUyLC0zMTU0OTY0OD
 YsMzI3ODg1MzQ2LC00Njk1MTc2NDAsLTE4MjY5ODcxNDksMjA1
