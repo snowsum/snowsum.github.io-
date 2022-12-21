@@ -264,7 +264,15 @@ Some factors to consider when making this decision include
 
 It is important to note that, unlike on Instagram, TikTok's whitelisting feature does not grant access to all of a creator's account assets. Instead, the brand must specify a specific video to promote before proceeding.
 
+### Step 2 (Creator): Authorize Advertisements and Share the Video's Post Code This is the only step in the process of getting approved to advertise on TikTok that requires the creator's participation.
 
+The creator will need to allow the brand to use their content and provide the unique code for the video that the brand wants to promote.
+
+If the creator has worked with brands before, they will likely know what to do. If not, don't worry! The creator just needs to go to their TikTok account settings and follow these steps:
+
+1.  Select "Creator tools" and turn on "Ad Settings".
+2.  Enable "Ad authorization" (this will prompt the creator to authorize their content for promotion).
+3.  After choosing a time frame, tap "Authorize".
 
 ## Influencer whitelisting: A marketer’s secret weapon
 
@@ -278,11 +286,11 @@ It is important to note that, unlike on Instagram, TikTok's whitelisting feature
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODc1NTA2MTksLTExMjQwODg0NDgsND
-g3NDQ2ODI3LC00NzkxNTQ3MjMsMTM1OTg2MDc5MCwtMTE0OTUx
-ODU4MiwtMTM2NjM3NTUyNCwyMDEwNjg5NzEzLC0xNDAyNTI2OD
-UyLC0zMTU0OTY0ODYsMzI3ODg1MzQ2LC00Njk1MTc2NDAsLTE4
-MjY5ODcxNDksMjA1NzgwMjYzNCwtMjEzNDI1NzQ1NSwxNTg1MD
-kyMDY3LC03MDM3MDg3OSwtMTgzMTIwNTY3Myw0NzU4ODk0MTEs
-MTg4NTQ5NjIwN119
+eyJoaXN0b3J5IjpbNzIzOTY4ODQ3LC0xMTI0MDg4NDQ4LDQ4Nz
+Q0NjgyNywtNDc5MTU0NzIzLDEzNTk4NjA3OTAsLTExNDk1MTg1
+ODIsLTEzNjYzNzU1MjQsMjAxMDY4OTcxMywtMTQwMjUyNjg1Mi
+wtMzE1NDk2NDg2LDMyNzg4NTM0NiwtNDY5NTE3NjQwLC0xODI2
+OTg3MTQ5LDIwNTc4MDI2MzQsLTIxMzQyNTc0NTUsMTU4NTA5Mj
+A2NywtNzAzNzA4NzksLTE4MzEyMDU2NzMsNDc1ODg5NDExLDE4
+ODU0OTYyMDddfQ==
 -->
