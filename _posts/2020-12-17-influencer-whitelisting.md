@@ -216,7 +216,8 @@ Isle of Paradise, a company looking to boost product sales, partnered with creat
 They then launched a Spark Ads campaign using this content and saw impressive results, including a 500% return on investment (ROI), a 68% increase in weekly revenue, and 48 million video views. 
 
 This demonstrates the potential success that can come from using TikTok whitelisting or Spark Ads as a marketing strategy.
-## What Does Influencer Whitelisting on TikTok Look Like?
+## Influencer Whitelisting on TikTok Case Study
+
 
 ## What Are the Requirements for Whitelisting on TikTok?
 ## How to do Influencer Whitelisting on TikTok
@@ -233,11 +234,11 @@ This demonstrates the potential success that can come from using TikTok whitelis
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MjY1Mjg1NSwyMDEwNjg5NzEzLC0xND
-AyNTI2ODUyLC0zMTU0OTY0ODYsMzI3ODg1MzQ2LC00Njk1MTc2
-NDAsLTE4MjY5ODcxNDksMjA1NzgwMjYzNCwtMjEzNDI1NzQ1NS
-wxNTg1MDkyMDY3LC03MDM3MDg3OSwtMTgzMTIwNTY3Myw0NzU4
-ODk0MTEsMTg4NTQ5NjIwNywtMTU1OTM2NjU3NywtMjUwODA1Nj
-k2LDI0NjY2OTY1MywtMTY3MDUzNTA0MCwtMTEyNjU0NDgyNywt
-MTQ1MDk2ODUxOF19
+eyJoaXN0b3J5IjpbLTE0Njg1OTcwMjYsMjAxMDY4OTcxMywtMT
+QwMjUyNjg1MiwtMzE1NDk2NDg2LDMyNzg4NTM0NiwtNDY5NTE3
+NjQwLC0xODI2OTg3MTQ5LDIwNTc4MDI2MzQsLTIxMzQyNTc0NT
+UsMTU4NTA5MjA2NywtNzAzNzA4NzksLTE4MzEyMDU2NzMsNDc1
+ODg5NDExLDE4ODU0OTYyMDcsLTE1NTkzNjY1NzcsLTI1MDgwNT
+Y5NiwyNDY2Njk2NTMsLTE2NzA1MzUwNDAsLTExMjY1NDQ4Mjcs
+LTE0NTA5Njg1MThdfQ==
 -->
