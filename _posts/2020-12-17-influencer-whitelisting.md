@@ -210,6 +210,7 @@ This means that brands can promote their products or services using authentic, o
 When you publish these creator licensed ads or Spark Ads, users can interact with the content by commenting, sharing, and liking, which can increase the reach of the brand. 
 
 An example of a brand using Spark Ads might look like a post from a creator or influencer promoting a product or service, with a disclaimer indicating that it is a sponsored ad.
+![Spark ads](https://assets-global.website-files.com/63343441a1da9b07cf060122/639b9f782d3d573715fe41aa_1.jpeg)
 ## What Does Influencer Whitelisting on TikTok Look Like?
 ## What Are the Requirements for Whitelisting on TikTok?
 ## How to do Influencer Whitelisting on TikTok
@@ -226,7 +227,7 @@ An example of a brand using Spark Ads might look like a post from a creator or i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNTE1NDE3MSwyMDEwNjg5NzEzLC0xND
+eyJoaXN0b3J5IjpbMTYzMjA5NTc5OCwyMDEwNjg5NzEzLC0xND
 AyNTI2ODUyLC0zMTU0OTY0ODYsMzI3ODg1MzQ2LC00Njk1MTc2
 NDAsLTE4MjY5ODcxNDksMjA1NzgwMjYzNCwtMjEzNDI1NzQ1NS
 wxNTg1MDkyMDY3LC03MDM3MDg3OSwtMTgzMTIwNTY3Myw0NzU4
