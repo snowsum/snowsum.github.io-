@@ -283,6 +283,12 @@ The video code should appear as a random combination of numbers, letters, and sp
 
 Once the brand has access to the video code, the creator's role in the approval process is complete for the time being.
 
+## Step 3 (Brand): Approve the Video to Run as an Ad (Enter the Post Code) 
+At this point, the brand takes over the process. Here's what needs to be done now that you have the video code:
+
+1.  Log in to the TikTok Ads Manager.
+2.  Click on "Assets" at the top of the page and then select "Spark Ad posts" on the left side.
+3.  Click the "Apply for Authorization" button in the center of the screen.
 
 
 ## Influencer whitelisting: A marketer’s secret weapon
@@ -297,7 +303,7 @@ Once the brand has access to the video code, the creator's role in the approval 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MDMyNjM2NywtOTg3NTAwMjg1LC0xMT
+eyJoaXN0b3J5IjpbMTQ1MjcyMzE0OCwtOTg3NTAwMjg1LC0xMT
 I0MDg4NDQ4LDQ4NzQ0NjgyNywtNDc5MTU0NzIzLDEzNTk4NjA3
 OTAsLTExNDk1MTg1ODIsLTEzNjYzNzU1MjQsMjAxMDY4OTcxMy
 wtMTQwMjUyNjg1MiwtMzE1NDk2NDg2LDMyNzg4NTM0NiwtNDY5
