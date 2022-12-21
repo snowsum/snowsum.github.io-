@@ -240,13 +240,13 @@ These examples demonstrate the effectiveness of using creators as the focus of a
 The process of building such campaigns using the whitelisting feature is streamlined and efficient.
 ## What Are the Requirements for Whitelisting on TikTok?
 To use TikTok's Spark Ads feature and run creator campaigns, there are a few requirements that both brands and creators need to fulfill. 
-
+### TikTok Whitelisting Requirements for Brands
 - Brands need to have access to the TikTok Ads Manager and have the ability to run ads on the platform. 
 - It is helpful if the brand has already established relationships with the creators they wish to whitelist, and they should be prepared to coordinate with the creators to decide on the details of the campaign, such as which video to promote and the duration of the campaign. 
 - Creators should also be prepared to work with the brand to determine these details and ensure that the campaign runs smoothly. 
 
 It is possible to find influencers through the TikTok Creator Marketplace, but this post focuses on whitelisting creators that a brand already has established relationships with.
-
+### TikTok Whitelisting Requirements for Creators
 - To participate in TikTok's Spark Ads feature as a creator, you will need to enable your account to share videos with brands. This can be done through a few quick changes in your TikTok settings. 
 - You will also need to be prepared to share the code for the video you wish to whitelist and to follow up with the brand about the performance and interactions of the whitelisted video. 
 - It is important for creators to be proactive and open to communication with the brand to ensure a successful campaign.
@@ -264,11 +264,11 @@ It is possible to find influencers through the TikTok Creator Marketplace, but t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MjU4MDU4MiwtNDc5MTU0NzIzLDEzNT
-k4NjA3OTAsLTExNDk1MTg1ODIsLTEzNjYzNzU1MjQsMjAxMDY4
-OTcxMywtMTQwMjUyNjg1MiwtMzE1NDk2NDg2LDMyNzg4NTM0Ni
-wtNDY5NTE3NjQwLC0xODI2OTg3MTQ5LDIwNTc4MDI2MzQsLTIx
-MzQyNTc0NTUsMTU4NTA5MjA2NywtNzAzNzA4NzksLTE4MzEyMD
-U2NzMsNDc1ODg5NDExLDE4ODU0OTYyMDcsLTE1NTkzNjY1Nzcs
-LTI1MDgwNTY5Nl19
+eyJoaXN0b3J5IjpbNDg3NDQ2ODI3LC00NzkxNTQ3MjMsMTM1OT
+g2MDc5MCwtMTE0OTUxODU4MiwtMTM2NjM3NTUyNCwyMDEwNjg5
+NzEzLC0xNDAyNTI2ODUyLC0zMTU0OTY0ODYsMzI3ODg1MzQ2LC
+00Njk1MTc2NDAsLTE4MjY5ODcxNDksMjA1NzgwMjYzNCwtMjEz
+NDI1NzQ1NSwxNTg1MDkyMDY3LC03MDM3MDg3OSwtMTgzMTIwNT
+Y3Myw0NzU4ODk0MTEsMTg4NTQ5NjIwNywtMTU1OTM2NjU3Nywt
+MjUwODA1Njk2XX0=
 -->
