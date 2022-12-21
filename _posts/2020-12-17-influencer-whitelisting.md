@@ -203,6 +203,13 @@ You can share the step be step setup guide for influencers: [Influencer Marketin
 Once these steps are completed, the influencer's Instagram account and Facebook page will be ready for whitelisting. As a top tip, brands can request access to pixels to help build custom audiences that match their target customer demographics for even better targeting.
 
 ## What is TikTok Whitelisting?
+TikTok whitelisting, also known as Spark Ads, is a process where creators or influencers allow brands to use their content and run ads from their accounts. 
+
+This means that brands can promote their products or services using authentic, organic content from the creator or influencer. 
+
+When you publish these creator licensed ads or Spark Ads, users can interact with the content by commenting, sharing, and liking, which can increase the reach of the brand. 
+
+An example of a brand using Spark Ads might look like a post from a creator or influencer promoting a product or service, with a disclaimer indicating that it is a sponsored ad.
 ## What Does Influencer Whitelisting on TikTok Look Like?
 ## What Are the Requirements for Whitelisting on TikTok?
 ## How to do Influencer Whitelisting on TikTok
@@ -219,11 +226,11 @@ Once these steps are completed, the influencer's Instagram account and Facebook 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMDY4OTcxMywtMTQwMjUyNjg1MiwtMz
-E1NDk2NDg2LDMyNzg4NTM0NiwtNDY5NTE3NjQwLC0xODI2OTg3
-MTQ5LDIwNTc4MDI2MzQsLTIxMzQyNTc0NTUsMTU4NTA5MjA2Ny
-wtNzAzNzA4NzksLTE4MzEyMDU2NzMsNDc1ODg5NDExLDE4ODU0
-OTYyMDcsLTE1NTkzNjY1NzcsLTI1MDgwNTY5NiwyNDY2Njk2NT
-MsLTE2NzA1MzUwNDAsLTExMjY1NDQ4MjcsLTE0NTA5Njg1MTgs
-LTgzMTE0MDU4Ml19
+eyJoaXN0b3J5IjpbMTQxNTE1NDE3MSwyMDEwNjg5NzEzLC0xND
+AyNTI2ODUyLC0zMTU0OTY0ODYsMzI3ODg1MzQ2LC00Njk1MTc2
+NDAsLTE4MjY5ODcxNDksMjA1NzgwMjYzNCwtMjEzNDI1NzQ1NS
+wxNTg1MDkyMDY3LC03MDM3MDg3OSwtMTgzMTIwNTY3Myw0NzU4
+ODk0MTEsMTg4NTQ5NjIwNywtMTU1OTM2NjU3NywtMjUwODA1Nj
+k2LDI0NjY2OTY1MywtMTY3MDUzNTA0MCwtMTEyNjU0NDgyNywt
+MTQ1MDk2ODUxOF19
 -->
