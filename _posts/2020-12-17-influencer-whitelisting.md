@@ -283,6 +283,8 @@ The video code should appear as a random combination of numbers, letters, and sp
 
 Once the brand has access to the video code, the creator's role in the approval process is complete for the time being.
 
+
+
 ## Influencer whitelisting: A marketer’s secret weapon
 
 
@@ -295,11 +297,11 @@ Once the brand has access to the video code, the creator's role in the approval 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NzUwMDI4NSwtMTEyNDA4ODQ0OCw0OD
-c0NDY4MjcsLTQ3OTE1NDcyMywxMzU5ODYwNzkwLC0xMTQ5NTE4
-NTgyLC0xMzY2Mzc1NTI0LDIwMTA2ODk3MTMsLTE0MDI1MjY4NT
-IsLTMxNTQ5NjQ4NiwzMjc4ODUzNDYsLTQ2OTUxNzY0MCwtMTgy
-Njk4NzE0OSwyMDU3ODAyNjM0LC0yMTM0MjU3NDU1LDE1ODUwOT
-IwNjcsLTcwMzcwODc5LC0xODMxMjA1NjczLDQ3NTg4OTQxMSwx
-ODg1NDk2MjA3XX0=
+eyJoaXN0b3J5IjpbMTU1MDMyNjM2NywtOTg3NTAwMjg1LC0xMT
+I0MDg4NDQ4LDQ4NzQ0NjgyNywtNDc5MTU0NzIzLDEzNTk4NjA3
+OTAsLTExNDk1MTg1ODIsLTEzNjYzNzU1MjQsMjAxMDY4OTcxMy
+wtMTQwMjUyNjg1MiwtMzE1NDk2NDg2LDMyNzg4NTM0NiwtNDY5
+NTE3NjQwLC0xODI2OTg3MTQ5LDIwNTc4MDI2MzQsLTIxMzQyNT
+c0NTUsMTU4NTA5MjA2NywtNzAzNzA4NzksLTE4MzEyMDU2NzMs
+NDc1ODg5NDExXX0=
 -->
