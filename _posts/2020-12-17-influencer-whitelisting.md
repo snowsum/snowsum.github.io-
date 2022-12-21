@@ -225,6 +225,14 @@ As an example, BlendJet, a portable blender company, ran a Spark Ad campaign in 
 
 These types of ads can be effective in showcasing the capabilities and uses of a product to a TikTok audience.
 ![enter image description here](https://brands.joinstatus.com/hs-fs/hubfs/June%202022%20Blogs/tiktok%20whitelisting/tiktok%20whitelisting%202.gif?width=700&name=tiktok%20whitelisting%202.gif)
+The authentic, hashtag-driven content of BlendJet's Spark Ad campaign was very successful, resulting in 28 million impressions, 407,000 clicks, and 12,000 conversions. 
+
+Another example of a successful creator ad campaign is Little Moons' promotion of their mochi desserts on TikTok. 
+
+When demand for the product was high and they were difficult to find in stores, Little Moons ran a Spark Ad campaign announcing that the desserts would be available at UK's Tesco chain for one day only. 
+
+This approach capitalized on the buzz surrounding the product and was likely effective in driving sales.
+
 
 ## What Are the Requirements for Whitelisting on TikTok?
 ## How to do Influencer Whitelisting on TikTok
@@ -241,7 +249,7 @@ These types of ads can be effective in showcasing the capabilities and uses of a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU4MzA0MTAzLDIwMTA2ODk3MTMsLTE0MD
+eyJoaXN0b3J5IjpbMTc4MjYxODAyLDIwMTA2ODk3MTMsLTE0MD
 I1MjY4NTIsLTMxNTQ5NjQ4NiwzMjc4ODUzNDYsLTQ2OTUxNzY0
 MCwtMTgyNjk4NzE0OSwyMDU3ODAyNjM0LC0yMTM0MjU3NDU1LD
 E1ODUwOTIwNjcsLTcwMzcwODc5LC0xODMxMjA1NjczLDQ3NTg4
