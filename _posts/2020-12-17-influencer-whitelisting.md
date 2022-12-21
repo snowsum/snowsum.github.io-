@@ -247,13 +247,9 @@ To use TikTok's Spark Ads feature and run creator campaigns, there are a few req
 
 It is possible to find influencers through the TikTok Creator Marketplace, but this post focuses on whitelisting creators that a brand already has established relationships with.
 
-To participate in TikTok's Spark Ads feature as a creator, you will need to enable your account to share videos with brands. 
-
-This can be done through a few quick changes in your TikTok settings. 
-
-You will also need to be prepared to share the code for the video you wish to whitelist and to follow up with the brand about the performance and interactions of the whitelisted video. 
-
-It is important for creators to be proactive and open to communication with the brand to ensure a successful campaign.
+- To participate in TikTok's Spark Ads feature as a creator, you will need to enable your account to share videos with brands. This can be done through a few quick changes in your TikTok settings. 
+- You will also need to be prepared to share the code for the video you wish to whitelist and to follow up with the brand about the performance and interactions of the whitelisted video. 
+- It is important for creators to be proactive and open to communication with the brand to ensure a successful campaign.
 ## How to do Influencer Whitelisting on TikTok
 
 ## Influencer whitelisting: A marketer’s secret weapon
@@ -268,11 +264,11 @@ It is important for creators to be proactive and open to communication with the 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3OTE1NDcyMywxMzU5ODYwNzkwLC0xMT
-Q5NTE4NTgyLC0xMzY2Mzc1NTI0LDIwMTA2ODk3MTMsLTE0MDI1
-MjY4NTIsLTMxNTQ5NjQ4NiwzMjc4ODUzNDYsLTQ2OTUxNzY0MC
-wtMTgyNjk4NzE0OSwyMDU3ODAyNjM0LC0yMTM0MjU3NDU1LDE1
-ODUwOTIwNjcsLTcwMzcwODc5LC0xODMxMjA1NjczLDQ3NTg4OT
-QxMSwxODg1NDk2MjA3LC0xNTU5MzY2NTc3LC0yNTA4MDU2OTYs
-MjQ2NjY5NjUzXX0=
+eyJoaXN0b3J5IjpbMTk3MjU4MDU4MiwtNDc5MTU0NzIzLDEzNT
+k4NjA3OTAsLTExNDk1MTg1ODIsLTEzNjYzNzU1MjQsMjAxMDY4
+OTcxMywtMTQwMjUyNjg1MiwtMzE1NDk2NDg2LDMyNzg4NTM0Ni
+wtNDY5NTE3NjQwLC0xODI2OTg3MTQ5LDIwNTc4MDI2MzQsLTIx
+MzQyNTc0NTUsMTU4NTA5MjA2NywtNzAzNzA4NzksLTE4MzEyMD
+U2NzMsNDc1ODg5NDExLDE4ODU0OTYyMDcsLTE1NTkzNjY1Nzcs
+LTI1MDgwNTY5Nl19
 -->
