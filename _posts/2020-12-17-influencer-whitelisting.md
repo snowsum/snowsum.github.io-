@@ -264,7 +264,9 @@ Some factors to consider when making this decision include
 
 It is important to note that, unlike on Instagram, TikTok's whitelisting feature does not grant access to all of a creator's account assets. Instead, the brand must specify a specific video to promote before proceeding.
 
-### Step 2 (Creator): Authorize Advertisements and Share the Video's Post Code This is the only step in the process of getting approved to advertise on TikTok that requires the creator's participation.
+### Step 2 (Creator): Authorize Advertisements and Share the Video's Post Code 
+
+This is the only step in the process of getting approved to advertise on TikTok that requires the creator's participation.
 
 The creator will need to allow the brand to use their content and provide the unique code for the video that the brand wants to promote.
 
@@ -273,6 +275,8 @@ If the creator has worked with brands before, they will likely know what to do. 
 1.  Select "Creator tools" and turn on "Ad Settings".
 2.  Enable "Ad authorization" (this will prompt the creator to authorize their content for promotion).
 3.  After choosing a time frame, tap "Authorize".
+![enter image description here](https://brands.joinstatus.com/hs-fs/hubfs/June%202022%20Blogs/tiktok%20whitelisting/tiktok%20whitelisting%205.jpg?width=774&name=tiktok%20whitelisting%205.jpg)
+![enter image description here](https://brands.joinstatus.com/hs-fs/hubfs/June%202022%20Blogs/tiktok%20whitelisting/tiktok%20whitelisting%206.jpg?width=700&name=tiktok%20whitelisting%206.jpg)
 
 ## Influencer whitelisting: A marketer’s secret weapon
 
@@ -286,11 +290,11 @@ If the creator has worked with brands before, they will likely know what to do. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIzOTY4ODQ3LC0xMTI0MDg4NDQ4LDQ4Nz
-Q0NjgyNywtNDc5MTU0NzIzLDEzNTk4NjA3OTAsLTExNDk1MTg1
-ODIsLTEzNjYzNzU1MjQsMjAxMDY4OTcxMywtMTQwMjUyNjg1Mi
-wtMzE1NDk2NDg2LDMyNzg4NTM0NiwtNDY5NTE3NjQwLC0xODI2
-OTg3MTQ5LDIwNTc4MDI2MzQsLTIxMzQyNTc0NTUsMTU4NTA5Mj
-A2NywtNzAzNzA4NzksLTE4MzEyMDU2NzMsNDc1ODg5NDExLDE4
-ODU0OTYyMDddfQ==
+eyJoaXN0b3J5IjpbMTcyMTQ0MjY5NiwtMTEyNDA4ODQ0OCw0OD
+c0NDY4MjcsLTQ3OTE1NDcyMywxMzU5ODYwNzkwLC0xMTQ5NTE4
+NTgyLC0xMzY2Mzc1NTI0LDIwMTA2ODk3MTMsLTE0MDI1MjY4NT
+IsLTMxNTQ5NjQ4NiwzMjc4ODUzNDYsLTQ2OTUxNzY0MCwtMTgy
+Njk4NzE0OSwyMDU3ODAyNjM0LC0yMTM0MjU3NDU1LDE1ODUwOT
+IwNjcsLTcwMzcwODc5LC0xODMxMjA1NjczLDQ3NTg4OTQxMSwx
+ODg1NDk2MjA3XX0=
 -->
