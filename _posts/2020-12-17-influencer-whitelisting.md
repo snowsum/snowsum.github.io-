@@ -313,6 +313,9 @@ In this step, you will link your creator's video to your ad.
 4.  You should see your creator's account listed - click on their name.
 5.  Select "TikTok Post".
 ![enter image description here](https://brands.joinstatus.com/hs-fs/hubfs/June%202022%20Blogs/tiktok%20whitelisting/tiktok%20whitelisting%2012.gif?width=700&name=tiktok%20whitelisting%2012.gif)
+You will then be prompted to browse through the creator's authorized content. Locate the approved video and select it, then click "Confirm".
+![enter image description here](https://brands.joinstatus.com/hs-fs/hubfs/June%202022%20Blogs/tiktok%20whitelisting/tiktok%20whitelisting%2013.gif?width=564&name=tiktok%20whitelisting%2013.gif)
+You will see a preview of your Spark Ad. At this point, you can make any necessary adjustments to the details of your creatives, captions, and targeting based on your campaign goals. When you are satisfied with your ad, click "Submit".
 
 ## Influencer whitelisting: A marketer’s secret weapon
 
@@ -326,11 +329,11 @@ In this step, you will link your creator's video to your ad.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNDE4ODQ5MSwtMTc5NDM2NTg0MiwtOT
-g3NTAwMjg1LC0xMTI0MDg4NDQ4LDQ4NzQ0NjgyNywtNDc5MTU0
-NzIzLDEzNTk4NjA3OTAsLTExNDk1MTg1ODIsLTEzNjYzNzU1Mj
-QsMjAxMDY4OTcxMywtMTQwMjUyNjg1MiwtMzE1NDk2NDg2LDMy
-Nzg4NTM0NiwtNDY5NTE3NjQwLC0xODI2OTg3MTQ5LDIwNTc4MD
-I2MzQsLTIxMzQyNTc0NTUsMTU4NTA5MjA2NywtNzAzNzA4Nzks
-LTE4MzEyMDU2NzNdfQ==
+eyJoaXN0b3J5IjpbLTE2MDc2ODU1MzIsLTE3OTQzNjU4NDIsLT
+k4NzUwMDI4NSwtMTEyNDA4ODQ0OCw0ODc0NDY4MjcsLTQ3OTE1
+NDcyMywxMzU5ODYwNzkwLC0xMTQ5NTE4NTgyLC0xMzY2Mzc1NT
+I0LDIwMTA2ODk3MTMsLTE0MDI1MjY4NTIsLTMxNTQ5NjQ4Niwz
+Mjc4ODUzNDYsLTQ2OTUxNzY0MCwtMTgyNjk4NzE0OSwyMDU3OD
+AyNjM0LC0yMTM0MjU3NDU1LDE1ODUwOTIwNjcsLTcwMzcwODc5
+LC0xODMxMjA1NjczXX0=
 -->
