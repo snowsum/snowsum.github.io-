@@ -258,9 +258,11 @@ To get started with a creator campaign on TikTok using the Spark Ads feature, th
 This can be done by reviewing the creator's content and selecting a video that will work well as an ad. 
 
 Some factors to consider when making this decision include
-- Recent organic content that has received strong engagement
-- Videos that have gone viral
-- Videos that showcase the brand's latest products or promotions.Brands can also consider the number of views a video has received as an indicator of its potential strength as an ad. Alternatively, they can reach out to the creator to ask which of their branded posts have performed well in the past. It is important to note that, unlike on Instagram, TikTok's whitelisting feature does not grant access to all of a creator's account assets. Instead, the brand must specify a specific video to promote before proceeding.
+- Recent organic content that has received strong engagement, videos that have gone viral, and videos that showcase the brand's latest products or promotions. 
+- The number of views a video has received as an indicator of its potential strength as an ad. 
+- Reach out to the creator to ask which of their branded posts have performed well in the past. 
+
+It is important to note that, unlike on Instagram, TikTok's whitelisting feature does not grant access to all of a creator's account assets. Instead, the brand must specify a specific video to promote before proceeding.
 
 ## Influencer whitelisting: A marketer’s secret weapon
 
@@ -274,11 +276,11 @@ Some factors to consider when making this decision include
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTk1MTQ2MDIsLTExMjQwODg0NDgsND
-g3NDQ2ODI3LC00NzkxNTQ3MjMsMTM1OTg2MDc5MCwtMTE0OTUx
-ODU4MiwtMTM2NjM3NTUyNCwyMDEwNjg5NzEzLC0xNDAyNTI2OD
-UyLC0zMTU0OTY0ODYsMzI3ODg1MzQ2LC00Njk1MTc2NDAsLTE4
-MjY5ODcxNDksMjA1NzgwMjYzNCwtMjEzNDI1NzQ1NSwxNTg1MD
-kyMDY3LC03MDM3MDg3OSwtMTgzMTIwNTY3Myw0NzU4ODk0MTEs
-MTg4NTQ5NjIwN119
+eyJoaXN0b3J5IjpbNTYyNDY4MTA1LC0xMTI0MDg4NDQ4LDQ4Nz
+Q0NjgyNywtNDc5MTU0NzIzLDEzNTk4NjA3OTAsLTExNDk1MTg1
+ODIsLTEzNjYzNzU1MjQsMjAxMDY4OTcxMywtMTQwMjUyNjg1Mi
+wtMzE1NDk2NDg2LDMyNzg4NTM0NiwtNDY5NTE3NjQwLC0xODI2
+OTg3MTQ5LDIwNTc4MDI2MzQsLTIxMzQyNTc0NTUsMTU4NTA5Mj
+A2NywtNzAzNzA4NzksLTE4MzEyMDU2NzMsNDc1ODg5NDExLDE4
+ODU0OTYyMDddfQ==
 -->
