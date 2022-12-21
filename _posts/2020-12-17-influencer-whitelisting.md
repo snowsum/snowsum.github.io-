@@ -207,7 +207,7 @@ Once these steps are completed, the influencer's Instagram account and Facebook 
 ## What Are the Requirements for Whitelisting on TikTok?
 ## How to do Influencer Whitelisting on TikTok
 
-## Influencer whitelisting: A marketer’s secret weapon?
+## Influencer whitelisting: A marketer’s secret weapon
 
 
 
@@ -219,11 +219,11 @@ Once these steps are completed, the influencer's Instagram account and Facebook 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDI1MjY4NTIsLTMxNTQ5NjQ4NiwzMj
-c4ODUzNDYsLTQ2OTUxNzY0MCwtMTgyNjk4NzE0OSwyMDU3ODAy
-NjM0LC0yMTM0MjU3NDU1LDE1ODUwOTIwNjcsLTcwMzcwODc5LC
-0xODMxMjA1NjczLDQ3NTg4OTQxMSwxODg1NDk2MjA3LC0xNTU5
-MzY2NTc3LC0yNTA4MDU2OTYsMjQ2NjY5NjUzLC0xNjcwNTM1MD
-QwLC0xMTI2NTQ0ODI3LC0xNDUwOTY4NTE4LC04MzExNDA1ODIs
-LTkxNTAzODY2Ml19
+eyJoaXN0b3J5IjpbMjAxMDY4OTcxMywtMTQwMjUyNjg1MiwtMz
+E1NDk2NDg2LDMyNzg4NTM0NiwtNDY5NTE3NjQwLC0xODI2OTg3
+MTQ5LDIwNTc4MDI2MzQsLTIxMzQyNTc0NTUsMTU4NTA5MjA2Ny
+wtNzAzNzA4NzksLTE4MzEyMDU2NzMsNDc1ODg5NDExLDE4ODU0
+OTYyMDcsLTE1NTkzNjY1NzcsLTI1MDgwNTY5NiwyNDY2Njk2NT
+MsLTE2NzA1MzUwNDAsLTExMjY1NDQ4MjcsLTE0NTA5Njg1MTgs
+LTgzMTE0MDU4Ml19
 -->
