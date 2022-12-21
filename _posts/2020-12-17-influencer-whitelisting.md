@@ -201,9 +201,7 @@ To give brands access to content within Facebook Business Manager, influencers c
 For more detailed setup guide, Please check another post - [Influencer Marketing-Step by step setup guide for influencer](#)
 
 Once these steps are completed, the influencer's Instagram account and Facebook page will be ready for whitelisting. As a top tip, brands can request access to pixels to help build custom audiences that match their target customer demographics for even better targeting.
-## What Does Influencer Whitelisting on Instagram Look Like?
 
-## How to do Influencer Whitelisting on Instagram and Facebook
 ## How can brands get access to an influencer's TikTok profile for whitelisting?
 ## What Does Influencer Whitelisting on TikTok Look Like?
 ## How to do Influencer Whitelisting on TikTok
@@ -220,11 +218,11 @@ Once these steps are completed, the influencer's Instagram account and Facebook 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NzgwMjYzNCwtMjEzNDI1NzQ1NSwxNT
-g1MDkyMDY3LC03MDM3MDg3OSwtMTgzMTIwNTY3Myw0NzU4ODk0
-MTEsMTg4NTQ5NjIwNywtMTU1OTM2NjU3NywtMjUwODA1Njk2LD
-I0NjY2OTY1MywtMTY3MDUzNTA0MCwtMTEyNjU0NDgyNywtMTQ1
-MDk2ODUxOCwtODMxMTQwNTgyLC05MTUwMzg2NjIsOTgyNDg3Mz
-Y5LC0zMzc5NjA4MzAsLTEwNDc1NjU5MTIsLTEzMjA0MTk4ODYs
-LTE1OTUzOTQ1NzFdfQ==
+eyJoaXN0b3J5IjpbLTE4MjY5ODcxNDksMjA1NzgwMjYzNCwtMj
+EzNDI1NzQ1NSwxNTg1MDkyMDY3LC03MDM3MDg3OSwtMTgzMTIw
+NTY3Myw0NzU4ODk0MTEsMTg4NTQ5NjIwNywtMTU1OTM2NjU3Ny
+wtMjUwODA1Njk2LDI0NjY2OTY1MywtMTY3MDUzNTA0MCwtMTEy
+NjU0NDgyNywtMTQ1MDk2ODUxOCwtODMxMTQwNTgyLC05MTUwMz
+g2NjIsOTgyNDg3MzY5LC0zMzc5NjA4MzAsLTEwNDc1NjU5MTIs
+LTEzMjA0MTk4ODZdfQ==
 -->
