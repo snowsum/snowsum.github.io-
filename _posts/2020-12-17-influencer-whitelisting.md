@@ -2,7 +2,7 @@
 layout: post
 title:  "The Insider's Guide to Influencer Whitelisting: Tips and Strategies for Success"
 categories: [ shopify, dropshipping agent, influencer marketing ]
-image:https://i.imgur.com/xNtkeJv.png
+image: https://i.imgur.com/xNtkeJv.png
 ---
 Influencer whitelisting is a marketing strategy that involves partnering with influencers, or individuals with a large following on social media or other platforms, to promote your product or service. By building relationships with influencers and inviting them to join a whitelist, you can leverage their credibility and reach to boost your sales and increase brand awareness.
 
@@ -338,11 +338,11 @@ Overall, influencer whitelisting is a powerful tool for marketers looking to aut
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjg4MzI0OTgsLTE1NjI1NTE3MzEsLT
-E3OTQzNjU4NDIsLTk4NzUwMDI4NSwtMTEyNDA4ODQ0OCw0ODc0
-NDY4MjcsLTQ3OTE1NDcyMywxMzU5ODYwNzkwLC0xMTQ5NTE4NT
-gyLC0xMzY2Mzc1NTI0LDIwMTA2ODk3MTMsLTE0MDI1MjY4NTIs
-LTMxNTQ5NjQ4NiwzMjc4ODUzNDYsLTQ2OTUxNzY0MCwtMTgyNj
-k4NzE0OSwyMDU3ODAyNjM0LC0yMTM0MjU3NDU1LDE1ODUwOTIw
-NjcsLTcwMzcwODc5XX0=
+eyJoaXN0b3J5IjpbLTc4OTk1ODk5NiwtMTI2ODgzMjQ5OCwtMT
+U2MjU1MTczMSwtMTc5NDM2NTg0MiwtOTg3NTAwMjg1LC0xMTI0
+MDg4NDQ4LDQ4NzQ0NjgyNywtNDc5MTU0NzIzLDEzNTk4NjA3OT
+AsLTExNDk1MTg1ODIsLTEzNjYzNzU1MjQsMjAxMDY4OTcxMywt
+MTQwMjUyNjg1MiwtMzE1NDk2NDg2LDMyNzg4NTM0NiwtNDY5NT
+E3NjQwLC0xODI2OTg3MTQ5LDIwNTc4MDI2MzQsLTIxMzQyNTc0
+NTUsMTU4NTA5MjA2N119
 -->
