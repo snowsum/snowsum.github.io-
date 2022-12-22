@@ -198,7 +198,7 @@ To give brands access to content within Facebook Business Manager, influencers c
 ![enter image description here](https://www.upfluence.com/wp-content/uploads/2021/05/Screen-Shot-2021-05-07-at-1.00.21-PM-min.jpg)
 7.  Save changes.
 
-You can share the step be step setup guide for influencers: [Influencer Marketing-Step by step setup guide for influencer](#)
+You can share the step be step setup guide for influencers: [Influencer Marketing-Step by step setup guide for influencer](/Influencer-whitelisting-Step-by-step-setup-guide-for-influencer/)
 
 Once these steps are completed, the influencer's Instagram account and Facebook page will be ready for whitelisting. As a top tip, brands can request access to pixels to help build custom audiences that match their target customer demographics for even better targeting.
 
@@ -338,11 +338,11 @@ Overall, influencer whitelisting is a powerful tool for marketers looking to aut
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4OTk1ODk5NiwtMTI2ODgzMjQ5OCwtMT
-U2MjU1MTczMSwtMTc5NDM2NTg0MiwtOTg3NTAwMjg1LC0xMTI0
-MDg4NDQ4LDQ4NzQ0NjgyNywtNDc5MTU0NzIzLDEzNTk4NjA3OT
-AsLTExNDk1MTg1ODIsLTEzNjYzNzU1MjQsMjAxMDY4OTcxMywt
-MTQwMjUyNjg1MiwtMzE1NDk2NDg2LDMyNzg4NTM0NiwtNDY5NT
-E3NjQwLC0xODI2OTg3MTQ5LDIwNTc4MDI2MzQsLTIxMzQyNTc0
-NTUsMTU4NTA5MjA2N119
+eyJoaXN0b3J5IjpbNzUxNTk0NTI1LC03ODk5NTg5OTYsLTEyNj
+g4MzI0OTgsLTE1NjI1NTE3MzEsLTE3OTQzNjU4NDIsLTk4NzUw
+MDI4NSwtMTEyNDA4ODQ0OCw0ODc0NDY4MjcsLTQ3OTE1NDcyMy
+wxMzU5ODYwNzkwLC0xMTQ5NTE4NTgyLC0xMzY2Mzc1NTI0LDIw
+MTA2ODk3MTMsLTE0MDI1MjY4NTIsLTMxNTQ5NjQ4NiwzMjc4OD
+UzNDYsLTQ2OTUxNzY0MCwtMTgyNjk4NzE0OSwyMDU3ODAyNjM0
+LC0yMTM0MjU3NDU1XX0=
 -->
