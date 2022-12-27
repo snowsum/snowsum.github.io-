@@ -2,7 +2,8 @@
 layout: post
 title:  "Influencer Marketing-Step by step setup guide for influencer"
 categories: [ shopify, dropshipping agent ]
-image: /assets/images/Influencer_Marketing-Step_by_step_setup_guide_for_influencer_0.png
+image:   
+https://i.imgur.com/5mo9xts.png
 ---
 
 How to set up an Influencer’s Business Manager for Whitelisting access:
@@ -67,5 +68,5 @@ Once your influencers complete the setup, their Facebook Page and Instagram acco
 
 Then, you’ll need to assign the proper users access to the influencer channels to create Facebook and Instagram dark posts from the whitelisted content.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNjE4NDIwOV19
+eyJoaXN0b3J5IjpbLTEzNTY2MTY5MjcsLTMxNjE4NDIwOV19
 -->
