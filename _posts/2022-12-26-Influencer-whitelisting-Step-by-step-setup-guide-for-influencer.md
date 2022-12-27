@@ -2,7 +2,7 @@
 layout: post
 title:  "Influencer Marketing-Step by step setup guide for influencer"
 categories: [ shopify, dropshipping agent ]
-image: https://i.imgur.com/5mo9xts.png
+image: /assets/images/Influencer_Marketing-Step_by_step_setup_guide_for_influencer_0.png
 ---
 
 How to set up an Influencer’s Business Manager for Whitelisting access:
