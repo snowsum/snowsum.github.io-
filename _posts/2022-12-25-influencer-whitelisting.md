@@ -2,7 +2,7 @@
 layout: post
 title:  "The Insider's Guide to Influencer Whitelisting: Tips and Strategies for Success"
 categories: [ shopify, dropshipping agent, influencer marketing ]
-image: https://i.imgur.com/xNtkeJv.png
+image: /assets/images/The_Insider's_Guide_to_Influencer_Whitelisting:_Tips_and_Strategies_for_Success_0.png
 tags: [featured]
 ---
 Influencer whitelisting is a marketing strategy that involves partnering with influencers, or individuals with a large following on social media or other platforms, to promote your product or service. By building relationships with influencers and inviting them to join a whitelist, you can leverage their credibility and reach to boost your sales and increase brand awareness.
@@ -28,14 +28,14 @@ Influencers typically collaborate with brands through paid partnerships and spon
 It is often required by law for influencers to disclose any paid content by using hashtags such as #sponsored or #gifted or by explicitly stating the partnership at the beginning of the post. You can find more information about branded content policies on Facebook and Instagram. 
 
 In most cases, sponsored influencer content will include a declaration of the partnership at the top of the post.
-![This ISN'T Whitelisting](https://uploads-ssl.webflow.com/60c334e72012f37063378d4b/62c2ea87d24e7b417fd945e2_IDt8odJFQH6UFJ8o0xSu9O8XMUq4I7SoUOJg7kGEf8QLQ8-tvq3TB4H1Qp2Fm0zflzOw7-Fywlj6FGzogUipGGFujlIiqrDPgtrO3vFVRlv_MTKVmPc8ax5-54milUmpK7mVfN6F147PTuSaIg.jpeg)
+![This ISN'T Whitelisting](/assets/images/The_Insider's_Guide_to_Influencer_Whitelisting:_Tips_and_Strategies_for_Success_1.jpeg)
 Influencer whitelisting is not the same as running a paid partnership or using influencer-generated content for branded ads. 
 Here is an example of a brand using an influencer for their sponsored content, which is not whitelisting:
-![This ISN'T whitelisting!](https://uploads-ssl.webflow.com/60c334e72012f37063378d4b/62c2ea871fcf416b2f8ba54e_8Ex0_ANCXd7XgN1inV537gWt4CzdIaZeZJfiAd0KTjMHRSfiDLf8GweSrHOSyV8q4CnA8EzO1lEY0CpOCbIUhlDq7-8vsUferTouyHiBlj6Lffz6-Tvw0NbHOcpM56d17Z04XPlbGzh8r6Gfmw.jpeg)
+![This ISN'T whitelisting!](/assets/images/The_Insider's_Guide_to_Influencer_Whitelisting:_Tips_and_Strategies_for_Success_2.jpeg)
 When it comes to whitelisting, the brand posts as the influencer, and the post appears as follows:
-![This IS whitelisting!](https://uploads-ssl.webflow.com/60c334e72012f37063378d4b/62c2ea873500c64946684e07_0xPxRs2ufXNObUQTBe6qL0BgAe6p_rdgaUWUE1Jd7iIozgY95Qfs70SForC5UHpY7dhxySTu7SojaYHn9DbkKuSPh4x4ANFTyFle5X4w6IioTZEVbgS1W4eoAaiO6OGqS2iWV7fe-FBqCBRfOw.jpeg)
+![This IS whitelisting!](/assets/images/The_Insider's_Guide_to_Influencer_Whitelisting:_Tips_and_Strategies_for_Success_3.jpeg)
 In this scenario, the brand is sponsoring a post about a tablet on the influencer's Instagram account, but it only appears on the user's timeline and not on the influencer's profile. This is an example of whitelisting.
-![enter image description here](https://uploads-ssl.webflow.com/60c334e72012f37063378d4b/62c2ea874d0a535b51a54a38_WHSqrTKEefdketD41RZ23MOUUDxbrBxvmkbPo_NkuM5ro7XjCn1qC95QCKz9vmmVjP437T0p__eBPRlaTGs1yUfuj_oX9HqUYnKnaok99Mr3KMb4izTPKGSHCSyIUJbd4wuuDlHZAf10UUb2yg.jpeg)
+![enter image description here](/assets/images/The_Insider's_Guide_to_Influencer_Whitelisting:_Tips_and_Strategies_for_Success_4.jpeg)
 Which brings us to our next question…
 ## What is dark posting?
 Dark posting involves a brand running ads using an influencer's handle, but these posts do not appear on the influencer's feed. Instead, they are only visible to a specific target audience. This means that not all of the influencer's followers will see a dark post, only those who are part of the targeted group. 
@@ -123,7 +123,7 @@ When selecting influencer partners for whitelisted campaigns, it can be helpful 
 -   Reliability: their communication style, turnaround times, etc.
 
 For example, cosmetics brand Jones Road Beauty collaborated with micro-influencer Carolyn Gray, whose content includes honest reviews of cosmetics and beauty products. This partnership was a good fit for Jones Road because it aligned with their values and helped them reach their target audience.
-![micro-influencer who posts honest reviews](https://cdn.shopify.com/s/files/1/1246/6441/files/image3_5dd116e8-0bbc-4b0c-add2-490ccebd7ed0.png?format=webp&v=1654627066)
+![micro-influencer who posts honest reviews](/assets/images/The_Insider's_Guide_to_Influencer_Whitelisting:_Tips_and_Strategies_for_Success_5.png?format=webp&v=1654627066)
 
 Once you have a shortlist of potential partners, it is important to brief them about whitelisting and how it will benefit them. Be sure they understand what the relationship will look like and what both parties will gain from it. Essentially, whitelisting can help both parties get more visibility for their content, resulting in increased sales for the brand and more followers/engagement for the influencer.
 
@@ -155,7 +155,7 @@ Your ads can also reach a larger audience of interested prospects beyond those y
 One of the main advantages of influencer whitelisting over traditional marketing is the ability to edit a post and test the impact of your ads through A/B testing. 
 
 This allows you to make data-informed decisions and achieve better targeting, leading to increased revenue.
-![enter image description here](https://cdn.shopify.com/s/files/1/1246/6441/files/image1_101099ae-8f46-463c-9715-799577eee107.png?format=webp&v=1654627091)
+![enter image description here](/assets/images/The_Insider's_Guide_to_Influencer_Whitelisting:_Tips_and_Strategies_for_Success_6.png?format=webp&v=1654627091)
 
 To optimize the content of your creator ads, it is important to have a solid testing strategy in place. A three-month framework for testing whitelisted ads, optimized for one parameter per month, might include the following:
 
@@ -182,21 +182,21 @@ Tracking your ad performance and regularly reviewing your whitelisting strategy 
 ## How to set up influencer whitelisting on Instagram (and Facebook)
 ### For brands and influencers: Setting up Facebook Business Manager
 To run ads on Facebook or Instagram, both the brand and the influencer will need to have a Facebook page and a Facebook Business Manager account. Even if you typically run influencer campaigns on TikTok or YouTube, your influencers will still need to set up a Facebook account if they don't already have one. It is a quick process that can be done by following these simple steps.
-![BM manager](https://www.upfluence.com/wp-content/uploads/2021/05/Screen-Shot-2021-05-07-at-11.38.24-AM-min.jpg)
+![BM manager](/assets/images/The_Insider's_Guide_to_Influencer_Whitelisting:_Tips_and_Strategies_for_Success_7.jpg)
 ### For influencers: Sharing assets with your brand partner
 To give brands access to content within Facebook Business Manager, influencers can follow these steps:
 
 1.  Open Facebook Business Manager > Business Settings > Users > tap Partners.
-![enter image description here](https://www.upfluence.com/wp-content/uploads/2021/05/Screen-Shot-2021-05-07-at-11.37.50-AM-min-e1621410022718-499x1024.jpg)
+![enter image description here](/assets/images/The_Insider's_Guide_to_Influencer_Whitelisting:_Tips_and_Strategies_for_Success_8.jpg)
 2.  Tap the Add dropdown > select Give a partner access to your assets.
-![enter image description here](https://www.upfluence.com/wp-content/uploads/2021/05/Screen-Shot-2021-05-07-at-12.34.21-PM-min.jpg)
+![enter image description here](/assets/images/The_Insider's_Guide_to_Influencer_Whitelisting:_Tips_and_Strategies_for_Success_9.jpg)
 3.  Enter the brand's Facebook Business Manager ID > tap Next.
-![enter image description here](https://www.upfluence.com/wp-content/uploads/2021/05/Screen-Shot-2021-05-07-at-12.39.18-PM-min.jpg)
+![enter image description here](/assets/images/The_Insider's_Guide_to_Influencer_Whitelisting:_Tips_and_Strategies_for_Success_10.jpg)
 4.  Select the assets and permissions that the brand partner should have access to.
 5.  Choose the Facebook Page and Instagram Account assets that the brand will use for whitelisting.
-![enter image description here](https://www.upfluence.com/wp-content/uploads/2021/05/Screen-Shot-2021-05-07-at-1.03.13-PM-min.jpg)
+![enter image description here](/assets/images/The_Insider's_Guide_to_Influencer_Whitelisting:_Tips_and_Strategies_for_Success_11.jpg)
 6.  Set the permissions level to Create Ads.
-![enter image description here](https://www.upfluence.com/wp-content/uploads/2021/05/Screen-Shot-2021-05-07-at-1.00.21-PM-min.jpg)
+![enter image description here](/assets/images/The_Insider's_Guide_to_Influencer_Whitelisting:_Tips_and_Strategies_for_Success_12.jpg)
 7.  Save changes.
 
 You can share the step be step setup guide for influencers: [Influencer Marketing-Step by step setup guide for influencer](/Influencer-whitelisting-Step-by-step-setup-guide-for-influencer/)
@@ -211,7 +211,7 @@ This means that brands can promote their products or services using authentic, o
 When you publish these creator licensed ads or Spark Ads, users can interact with the content by commenting, sharing, and liking, which can increase the reach of the brand. 
 
 An example of a brand using Spark Ads might look like a post from a creator or influencer promoting a product or service, with a disclaimer indicating that it is a sponsored ad.
-![Spark ads](https://assets-global.website-files.com/63343441a1da9b07cf060122/639b9f782d3d573715fe41aa_1.jpeg)
+![Spark ads](/assets/images/The_Insider's_Guide_to_Influencer_Whitelisting:_Tips_and_Strategies_for_Success_13.jpeg)
 Isle of Paradise, a company looking to boost product sales, partnered with creators to create organic content. 
 
 They then launched a Spark Ads campaign using this content and saw impressive results, including a 500% return on investment (ROI), a 68% increase in weekly revenue, and 48 million video views. 
@@ -225,7 +225,7 @@ You may have come across several Spark Ads while using the app.
 As an example, BlendJet, a portable blender company, ran a Spark Ad campaign in 2021 featuring lifestyle influencers, foodies, and fitness creators using the product in a variety of how-to videos and mixing hacks. 
 
 These types of ads can be effective in showcasing the capabilities and uses of a product to a TikTok audience.
-![enter image description here](https://brands.joinstatus.com/hs-fs/hubfs/June%202022%20Blogs/tiktok%20whitelisting/tiktok%20whitelisting%202.gif?width=700&name=tiktok%20whitelisting%202.gif)
+![enter image description here](/assets/images/The_Insider's_Guide_to_Influencer_Whitelisting:_Tips_and_Strategies_for_Success_14.gif?width=700&name=tiktok%20whitelisting%202.gif)
 The authentic, hashtag-driven content of BlendJet's Spark Ad campaign was very successful, resulting in 28 million impressions, 407,000 clicks, and 12,000 conversions. 
 
 Another example of a successful creator ad campaign is Little Moons' promotion of their mochi desserts on TikTok. 
@@ -233,7 +233,7 @@ Another example of a successful creator ad campaign is Little Moons' promotion o
 When demand for the product was high and they were difficult to find in stores, Little Moons ran a Spark Ad campaign announcing that the desserts would be available at UK's Tesco chain for one day only. 
 
 This approach capitalized on the buzz surrounding the product and was likely effective in driving sales.
-![enter image description here](https://brands.joinstatus.com/hs-fs/hubfs/June%202022%20Blogs/tiktok%20whitelisting/tiktok%20whitelisting%203.gif?width=670&name=tiktok%20whitelisting%203.gif)
+![enter image description here](/assets/images/The_Insider's_Guide_to_Influencer_Whitelisting:_Tips_and_Strategies_for_Success_15.gif?width=670&name=tiktok%20whitelisting%203.gif)
 Little Moons' creator campaign was highly successful, resulting in a 1,300% increase in in-store sales, 6.7 million campaign impressions, and a 4.54% engagement rate. 
 
 These examples demonstrate the effectiveness of using creators as the focus of advertising campaigns on TikTok. 
@@ -276,8 +276,8 @@ If the creator has worked with brands before, they will likely know what to do. 
 1.  Select "Creator tools" and turn on "Ad Settings".
 2.  Enable "Ad authorization" (this will prompt the creator to authorize their content for promotion).
 3.  After choosing a time frame, tap "Authorize".
-![enter image description here](https://brands.joinstatus.com/hs-fs/hubfs/June%202022%20Blogs/tiktok%20whitelisting/tiktok%20whitelisting%205.jpg?width=774&name=tiktok%20whitelisting%205.jpg)
-![enter image description here](https://brands.joinstatus.com/hs-fs/hubfs/June%202022%20Blogs/tiktok%20whitelisting/tiktok%20whitelisting%206.jpg?width=700&name=tiktok%20whitelisting%206.jpg)
+![enter image description here](/assets/images/The_Insider's_Guide_to_Influencer_Whitelisting:_Tips_and_Strategies_for_Success_16.jpg?width=774&name=tiktok%20whitelisting%205.jpg)
+![enter image description here](/assets/images/The_Insider's_Guide_to_Influencer_Whitelisting:_Tips_and_Strategies_for_Success_17.jpg?width=700&name=tiktok%20whitelisting%206.jpg)
 On this screen, creators will also be given a video code that they need to share with the brand. The brand will need to coordinate with the creator to get this code, which can be done through a direct message or email.
 
 The video code should appear as a random combination of numbers, letters, and special characters.
@@ -290,20 +290,20 @@ At this point, the brand takes over the process. Here's what needs to be done no
 1.  Log in to the TikTok Ads Manager.
 2.  Click on "Assets" at the top of the page and then select "Spark Ad posts" on the left side.
 3.  Click the "Apply for Authorization" button in the center of the screen.
-![enter image description here](https://brands.joinstatus.com/hs-fs/hubfs/June%202022%20Blogs/tiktok%20whitelisting/tiktok%20whitelisting%207.jpg?width=1520&name=tiktok%20whitelisting%207.jpg)
+![enter image description here](/assets/images/The_Insider's_Guide_to_Influencer_Whitelisting:_Tips_and_Strategies_for_Success_18.jpg?width=1520&name=tiktok%20whitelisting%207.jpg)
 In this step, you will enter the video code provided by the creator. Simply paste the code into the search bar and proceed with the process.
-![enter image description here](https://brands.joinstatus.com/hs-fs/hubfs/June%202022%20Blogs/tiktok%20whitelisting/tiktok%20whitelisting%208.gif?width=1200&name=tiktok%20whitelisting%208.gif)
+![enter image description here](/assets/images/The_Insider's_Guide_to_Influencer_Whitelisting:_Tips_and_Strategies_for_Success_19.gif?width=1200&name=tiktok%20whitelisting%208.gif)
 If the code is correct and the video meets the requirements, a preview of the video will appear. You will also see some information about the approved video, such as its length and resolution. To continue, click "confirm."
-![enter image description here](https://brands.joinstatus.com/hs-fs/hubfs/June%202022%20Blogs/tiktok%20whitelisting/tiktok%20whitelisting%209.jpg?width=1200&name=tiktok%20whitelisting%209.jpg)
+![enter image description here](/assets/images/The_Insider's_Guide_to_Influencer_Whitelisting:_Tips_and_Strategies_for_Success_20.jpg?width=1200&name=tiktok%20whitelisting%209.jpg)
 Once your authorization is confirmed, you will be directed to create your Spark Ad.
-![enter image description here](https://brands.joinstatus.com/hs-fs/hubfs/June%202022%20Blogs/tiktok%20whitelisting/tiktok%20whitelisting%2010.jpg?width=1200&name=tiktok%20whitelisting%2010.jpg)
+![enter image description here](/assets/images/The_Insider's_Guide_to_Influencer_Whitelisting:_Tips_and_Strategies_for_Success_21.jpg?width=1200&name=tiktok%20whitelisting%2010.jpg)
 ## Step 4 (Brand): Specify the Target Audience, Budget, and Goals of  Your Ad 
 Now you will need to specify the details of your ad campaign, including the target audience, budget, and objectives.
 
 The specifics of these details will depend on your business, so we won't go into too much detail here.
 
 If you are new to TikTok, you can use the "Simplified Mode" to quickly create your ad. Alternatively, the "Custom Mode" allows for a more detailed and customized ad creation process.
-![enter image description here](https://brands.joinstatus.com/hs-fs/hubfs/June%202022%20Blogs/tiktok%20whitelisting/tiktok%20whitelisting%2011.jpg?width=1520&name=tiktok%20whitelisting%2011.jpg)
+![enter image description here](/assets/images/The_Insider's_Guide_to_Influencer_Whitelisting:_Tips_and_Strategies_for_Success_22.jpg?width=1520&name=tiktok%20whitelisting%2011.jpg)
 When you reach the "Identity" and "Ad Details" sections of the ad creation process, you are almost done!
 ## Step 5 (Brand): Choose Your Creator's Video and Submit the Ad 
 In this step, you will link your creator's video to your ad.
@@ -313,11 +313,11 @@ In this step, you will link your creator's video to your ad.
 3.  Select "Use other authorized account or post".
 4.  You should see your creator's account listed - click on their name.
 5.  Select "TikTok Post".
-![enter image description here](https://brands.joinstatus.com/hs-fs/hubfs/June%202022%20Blogs/tiktok%20whitelisting/tiktok%20whitelisting%2012.gif?width=700&name=tiktok%20whitelisting%2012.gif)
+![enter image description here](/assets/images/The_Insider's_Guide_to_Influencer_Whitelisting:_Tips_and_Strategies_for_Success_23.gif?width=700&name=tiktok%20whitelisting%2012.gif)
 You will then be prompted to browse through the creator's authorized content. Locate the approved video and select it, then click "Confirm".
-![enter image description here](https://brands.joinstatus.com/hs-fs/hubfs/June%202022%20Blogs/tiktok%20whitelisting/tiktok%20whitelisting%2013.gif?width=564&name=tiktok%20whitelisting%2013.gif)
+![enter image description here](/assets/images/The_Insider's_Guide_to_Influencer_Whitelisting:_Tips_and_Strategies_for_Success_24.gif?width=564&name=tiktok%20whitelisting%2013.gif)
 You will see a preview of your Spark Ad. At this point, you can make any necessary adjustments to the details of your creatives, captions, and targeting based on your campaign goals. When you are satisfied with your ad, click "Submit".
-![enter image description here](https://brands.joinstatus.com/hs-fs/hubfs/June%202022%20Blogs/tiktok%20whitelisting/tiktok%20whitelisting%2014.jpg?width=1520&name=tiktok%20whitelisting%2014.jpg)
+![enter image description here](/assets/images/The_Insider's_Guide_to_Influencer_Whitelisting:_Tips_and_Strategies_for_Success_25.jpg?width=1520&name=tiktok%20whitelisting%2014.jpg)
 That wasn't too difficult, was it?
 ## Influencer whitelisting: A marketer’s secret weapon
 Influencer whitelisting is a process that allows brands to advertise on Social platforms using content created by popular creators on the platform. It's a win-win situation: the brand gets to tap into the creator's audience and the creator gets paid for their content. But influencer whitelisting is much more than just a way to advertise - it's a marketer's secret weapon.
